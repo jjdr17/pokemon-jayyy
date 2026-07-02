@@ -1,7 +1,9 @@
 name: Pokemon Monitor
 on:
   schedule:
-    - cron: '*/5 * * * *'   # ogni 5 minuti (minimo consentito da GitHub, orario UTC)
+    # ogni 5 minuti su minuti sfalsati (2,7,12...) — i minuti "tondi" sono congestionati
+    # sui server GitHub e i run rischiano ritardi o salti
+    - cron: '2-57/5 * * * *'
   workflow_dispatch: {}    # permette di lanciarlo a mano dal tab Actions
 
 permissions:
