@@ -18,9 +18,9 @@
    "Chaos Rising (ME04)": "non listato",
    "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "non listato",
-   "Prismatic Evolutions": "non listato",
-   "Crown Zenith": "non listato",
-   "Destined Rivals": "non listato"
+   "Prismatic Evolutions": "listato",
+   "Crown Zenith": "listato",
+   "Destined Rivals": "listato"
   },
   "Cardmarket": {
    "Pitch Black (ME05)": "irraggiungibile",
@@ -133,11 +133,11 @@
    "Destined Rivals": "irraggiungibile"
   },
   "CardZone": {
-   "Pitch Black (ME05)": "disponibile",
+   "Pitch Black (ME05)": "listato",
    "30th Celebration": "listato",
    "Storm Emerald (ME06)": "disponibile",
-   "Chaos Rising (ME04)": "listato",
-   "Phantasmal Flames (ME02)": "listato",
+   "Chaos Rising (ME04)": "disponibile",
+   "Phantasmal Flames (ME02)": "disponibile",
    "Pokémon 151": "esaurito",
    "Prismatic Evolutions": "irraggiungibile",
    "Crown Zenith": "irraggiungibile",
@@ -180,7 +180,7 @@
    "Pitch Black (ME05)": "listato",
    "30th Celebration": "listato",
    "Storm Emerald (ME06)": "listato",
-   "Chaos Rising (ME04)": "irraggiungibile",
+   "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "irraggiungibile",
    "Pokémon 151": "irraggiungibile",
    "Prismatic Evolutions": "irraggiungibile",
@@ -277,7 +277,7 @@
   },
   "Deckshop": {
    "Pitch Black (ME05)": "irraggiungibile",
-   "30th Celebration": "irraggiungibile",
+   "30th Celebration": "non listato",
    "Storm Emerald (ME06)": "non listato",
    "Chaos Rising (ME04)": "non listato",
    "Phantasmal Flames (ME02)": "non listato",
@@ -941,7 +941,8 @@
   "CardZone|Storm Emerald (ME06)": 1783024364.2345915,
   "PokeCardShop|Chaos Rising (ME04)": 1783027262.2730978,
   "MagicBazar|Prismatic Evolutions": 1783027887.2810962,
-  "PokeCardShop|Phantasmal Flames (ME02)": 1783028458.9307673
+  "PokeCardShop|Phantasmal Flames (ME02)": 1783028458.9307673,
+  "CardZone|Phantasmal Flames (ME02)": 1783032930.12267
  },
  "prices": {
   "SunnyStore|Pokémon 151": "€26,90",
@@ -978,7 +979,8 @@
   "CardZone|Storm Emerald (ME06)": "https://cardzone.es/search?q=storm+emerald",
   "PokeCardShop|Chaos Rising (ME04)": "https://www.pokecardshop.be/search?q=chaos+rising",
   "PokeCardShop|Phantasmal Flames (ME02)": "https://www.pokecardshop.be/search?q=phantasmal+flames",
-  "God of Cards|Pokémon 151": "https://godofcards.com/search?q=pokemon+151"
+  "God of Cards|Pokémon 151": "https://godofcards.com/search?q=pokemon+151",
+  "CardZone|Phantasmal Flames (ME02)": "https://cardzone.es/search?q=phantasmal+flames"
  },
  "log": [
   {
@@ -1080,6 +1082,11 @@
    "ts": "02/07 23:40",
    "title": "🚨 Phantasmal Flames (ME02) — PokeCardShop",
    "url": "https://www.pokecardshop.be/search?q=phantasmal+flames"
+  },
+  {
+   "ts": "03/07 00:55",
+   "title": "🚨 Phantasmal Flames (ME02) — CardZone",
+   "url": "https://cardzone.es/search?q=phantasmal+flames"
   }
  ],
  "digest_slot": "2026-07-02-22"
