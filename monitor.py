@@ -218,7 +218,7 @@ def main():
 
     if first_run:
         notify("Monitor Pokémon attivo ✅",
-               "Il monitor cloud è partito. Controllerò i negozi ogni ora e ti avviserò qui per preordini e restock.",
+               "Il monitor cloud è partito. Controllerò i negozi ogni 5 minuti e ti avviserò qui per preordini e restock.",
                priority="default")
 
     alerts = []
