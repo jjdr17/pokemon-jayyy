@@ -13,11 +13,11 @@
   },
   "Amazon.it": {
    "Pitch Black (ME05)": "non listato",
-   "30th Celebration": "non listato",
-   "Storm Emerald (ME06)": "non listato",
-   "Chaos Rising (ME04)": "non listato",
-   "Phantasmal Flames (ME02)": "non listato",
-   "Pokémon 151": "non listato",
+   "30th Celebration": "listato",
+   "Storm Emerald (ME06)": "listato",
+   "Chaos Rising (ME04)": "listato",
+   "Phantasmal Flames (ME02)": "listato",
+   "Pokémon 151": "listato",
    "Prismatic Evolutions": "listato",
    "Crown Zenith": "listato",
    "Destined Rivals": "listato"
@@ -134,9 +134,9 @@
   },
   "CardZone": {
    "Pitch Black (ME05)": "listato",
-   "30th Celebration": "disponibile",
+   "30th Celebration": "listato",
    "Storm Emerald (ME06)": "listato",
-   "Chaos Rising (ME04)": "listato",
+   "Chaos Rising (ME04)": "disponibile",
    "Phantasmal Flames (ME02)": "irraggiungibile",
    "Pokémon 151": "irraggiungibile",
    "Prismatic Evolutions": "irraggiungibile",
@@ -243,7 +243,7 @@
    "Destined Rivals": "irraggiungibile"
   },
   "PokeCardShop": {
-   "Pitch Black (ME05)": "esaurito",
+   "Pitch Black (ME05)": "disponibile",
    "30th Celebration": "listato",
    "Storm Emerald (ME06)": "listato",
    "Chaos Rising (ME04)": "esaurito",
@@ -695,7 +695,7 @@
   },
   "LetsGoTry": {
    "Pitch Black (ME05)": "listato",
-   "30th Celebration": "listato",
+   "30th Celebration": "non listato",
    "Storm Emerald (ME06)": "non listato",
    "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "non listato",
@@ -917,7 +917,14 @@
   "Amazon.it|Prismatic Evolutions": 1783020930.789727,
   "Amazon.it|Crown Zenith": 1783020930.789727,
   "Amazon.it|Destined Rivals": 1783020930.789727,
-  "CardZone|30th Celebration": 1783020931.731188
+  "CardZone|30th Celebration": 1783020931.731188,
+  "CardZone|Chaos Rising (ME04)": 1783021242.0829554,
+  "Amazon.it|30th Celebration": 1783021246.4570694,
+  "Amazon.it|Storm Emerald (ME06)": 1783021246.4570694,
+  "Amazon.it|Chaos Rising (ME04)": 1783021246.4570694,
+  "Amazon.it|Phantasmal Flames (ME02)": 1783021246.4570694,
+  "Amazon.it|Pokémon 151": 1783021246.4570694,
+  "PokeCardShop|Pitch Black (ME05)": 1783021262.714947
  },
  "prices": {
   "SunnyStore|Pokémon 151": "€26,90",
@@ -948,7 +955,9 @@
   "Pokecollect|Chaos Rising (ME04)": "https://pokecollect.pl/?s=chaos+rising&post_type=product",
   "CardZone|Pitch Black (ME05)": "https://cardzone.es/search?q=pitch+black",
   "Sapphire-Cards|Pitch Black (ME05)": "https://sapphire-cards.de/?s=pitch+black&post_type=product",
-  "CardZone|30th Celebration": "https://cardzone.es/search?q=30th+celebration"
+  "CardZone|30th Celebration": "https://cardzone.es/search?q=30th+celebration",
+  "CardZone|Chaos Rising (ME04)": "https://cardzone.es/search?q=chaos+rising",
+  "PokeCardShop|Pitch Black (ME05)": "https://www.pokecardshop.be/product-page/pokémon-pitch-black-booster-box"
  },
  "log": [
   {
@@ -985,6 +994,41 @@
    "ts": "02/07 21:35",
    "title": "🚨 30th Celebration — CardZone",
    "url": "https://cardzone.es/search?q=30th+celebration"
+  },
+  {
+   "ts": "02/07 21:40",
+   "title": "🚨 Chaos Rising (ME04) — CardZone",
+   "url": "https://cardzone.es/search?q=chaos+rising"
+  },
+  {
+   "ts": "02/07 21:40",
+   "title": "🚨 30th Celebration — Amazon.it",
+   "url": "https://www.amazon.it/s?k=pokemon+tcg+30th+celebration"
+  },
+  {
+   "ts": "02/07 21:40",
+   "title": "🚨 Storm Emerald (ME06) — Amazon.it",
+   "url": "https://www.amazon.it/s?k=pokemon+tcg+storm+emerald"
+  },
+  {
+   "ts": "02/07 21:40",
+   "title": "🚨 Chaos Rising (ME04) — Amazon.it",
+   "url": "https://www.amazon.it/s?k=pokemon+tcg+chaos+rising"
+  },
+  {
+   "ts": "02/07 21:40",
+   "title": "🚨 Phantasmal Flames (ME02) — Amazon.it",
+   "url": "https://www.amazon.it/s?k=pokemon+tcg+phantasmal+flames"
+  },
+  {
+   "ts": "02/07 21:40",
+   "title": "🚨 Pokémon 151 — Amazon.it",
+   "url": "https://www.amazon.it/s?k=pokemon+tcg+pokemon+151"
+  },
+  {
+   "ts": "02/07 21:41",
+   "title": "🚨 Pitch Black (ME05) — PokeCardShop",
+   "url": "https://www.pokecardshop.be/product-page/pokémon-pitch-black-booster-box"
   }
  ]
 }
