@@ -9,8 +9,14 @@ import requests
 
 NTFY_TOPIC = os.environ.get("NTFY_TOPIC", "").strip()
 STATE_FILE = "state.json"
+import random
+USER_AGENTS = [
+    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36",
+    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) Version/17.4 Safari/605.1.15 AppleWebKit/605.1.15 (KHTML, like Gecko)",
+]
 HEADERS = {
-    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",
+    "User-Agent": random.choice(USER_AGENTS),
     "Accept-Language": "en-US,en;q=0.9,it;q=0.8",
 }
 TIMEOUT = 12
@@ -43,6 +49,19 @@ PRODUCTS = [
     {"name": "Crown Zenith",            "q": "crown zenith",      "match": ["crown zenith"]},
     {"name": "Destined Rivals",         "q": "destined rivals",   "match": ["destined rivals"]},
 ]
+
+# Prezzi di listino USA di riferimento (per giudicare le offerte in dashboard)
+MSRP = {
+    "Pitch Black (ME05)": "BB ~$162 · ETB ~$54",
+    "30th Celebration": "TBA — preordina appena possibile",
+    "Storm Emerald (ME06)": "TBA",
+    "Chaos Rising (ME04)": "BB ~$162 · ETB ~$54 (mercato ~$230)",
+    "Phantasmal Flames (ME02)": "BB $144 (mercato ~$450 ⚠️)",
+    "Pokémon 151": "ETB ~$55 · UPC ~$120",
+    "Prismatic Evolutions": "ETB ~$55 (mercato molto sopra)",
+    "Crown Zenith": "ETB ~$50",
+    "Destined Rivals": "BB ~$162 · ETB ~$54",
+}
 
 # La pagina deve riguardare Pokémon, altrimenti il prodotto viene ignorato
 # (evita omonimi di altri giochi/TCG con nomi simili)
@@ -466,6 +485,7 @@ def build_dashboard(state):
     from datetime import datetime
     from zoneinfo import ZoneInfo
     now_it = datetime.now(ZoneInfo("Europe/Rome")).strftime("%d/%m/%Y %H:%M")
+    group_of = {s[0]: s[3] for s in SHOPS}
     rows = []
     for prod in PRODUCTS:
         n = prod["name"]
@@ -478,14 +498,17 @@ def build_dashboard(state):
             if st == "disponibile":
                 p = state["prices"].get(f"{shop_name}|{n}", "")
                 u = state.get("urls", {}).get(f"{shop_name}|{n}", "#")
-                avail.append((price_value(p) or 9e9, shop_name, p, u))
+                warn = " ⚠️" if group_of.get(shop_name) == "C" else ""
+                avail.append((price_value(p) or 9e9, shop_name + warn, p, u))
         avail.sort()
         shops_html = " ".join(
             f'<a class="shop" href="{u}" target="_blank">{s}{(" · " + p) if p else ""}</a>'
             for _, s, p, u in avail[:12]) or '<span class="none">nessuno</span>'
         badge = f'<span class="ok">{counts["disponibile"]} disponibili</span>' if counts["disponibile"] else '<span class="ko">0 disponibili</span>'
+        msrp = MSRP.get(n, "")
+        msrp_html = f' · <b>MSRP:</b> {msrp}' if msrp else ''
         rows.append(f'<div class="card"><h2>{n} {badge}</h2>'
-                    f'<div class="meta">{counts["esaurito"]} esauriti · {counts["listato"]} listati</div>'
+                    f'<div class="meta">{counts["esaurito"]} esauriti · {counts["listato"]} listati{msrp_html}</div>'
                     f'<div class="shops">{shops_html}</div></div>')
     log_entries = state.get("log", [])[::-1]
     if log_entries:
