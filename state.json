@@ -12,7 +12,7 @@
    "Destined Rivals": "irraggiungibile"
   },
   "Amazon.it": {
-   "Pitch Black (ME05)": "non listato",
+   "Pitch Black (ME05)": "listato",
    "30th Celebration": "listato",
    "Storm Emerald (ME06)": "listato",
    "Chaos Rising (ME04)": "listato",
@@ -177,7 +177,7 @@
    "Destined Rivals": "irraggiungibile"
   },
   "Total Cards (UK)": {
-   "Pitch Black (ME05)": "irraggiungibile",
+   "Pitch Black (ME05)": "listato",
    "30th Celebration": "irraggiungibile",
    "Storm Emerald (ME06)": "irraggiungibile",
    "Chaos Rising (ME04)": "irraggiungibile",
@@ -243,7 +243,7 @@
    "Destined Rivals": "irraggiungibile"
   },
   "PokeCardShop": {
-   "Pitch Black (ME05)": "disponibile",
+   "Pitch Black (ME05)": "esaurito",
    "30th Celebration": "listato",
    "Storm Emerald (ME06)": "listato",
    "Chaos Rising (ME04)": "esaurito",
@@ -924,7 +924,8 @@
   "Amazon.it|Chaos Rising (ME04)": 1783021246.4570694,
   "Amazon.it|Phantasmal Flames (ME02)": 1783021246.4570694,
   "Amazon.it|Pokémon 151": 1783021246.4570694,
-  "PokeCardShop|Pitch Black (ME05)": 1783021262.714947
+  "PokeCardShop|Pitch Black (ME05)": 1783021262.714947,
+  "Amazon.it|Pitch Black (ME05)": 1783021541.8085651
  },
  "prices": {
   "SunnyStore|Pokémon 151": "€26,90",
@@ -1029,6 +1030,12 @@
    "ts": "02/07 21:41",
    "title": "🚨 Pitch Black (ME05) — PokeCardShop",
    "url": "https://www.pokecardshop.be/product-page/pokémon-pitch-black-booster-box"
+  },
+  {
+   "ts": "02/07 21:45",
+   "title": "🚨 Pitch Black (ME05) — Amazon.it",
+   "url": "https://www.amazon.it/s?k=pokemon+tcg+pitch+black"
   }
- ]
+ ],
+ "digest_slot": "2026-07-02-22"
 }
