@@ -246,7 +246,7 @@
    "Pitch Black (ME05)": "esaurito",
    "30th Celebration": "listato",
    "Storm Emerald (ME06)": "listato",
-   "Chaos Rising (ME04)": "esaurito",
+   "Chaos Rising (ME04)": "disponibile",
    "Phantasmal Flames (ME02)": "esaurito",
    "Pokémon 151": "listato",
    "Prismatic Evolutions": "listato",
@@ -695,7 +695,7 @@
   },
   "LetsGoTry": {
    "Pitch Black (ME05)": "listato",
-   "30th Celebration": "listato",
+   "30th Celebration": "non listato",
    "Storm Emerald (ME06)": "non listato",
    "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "non listato",
@@ -932,7 +932,8 @@
   "PokeCardShop|Pitch Black (ME05)": 1783021262.714947,
   "Amazon.it|Pitch Black (ME05)": 1783021541.8085651,
   "CardZone|Pitch Black (ME05)": 1783023294.3864837,
-  "CardZone|Storm Emerald (ME06)": 1783024364.2345915
+  "CardZone|Storm Emerald (ME06)": 1783024364.2345915,
+  "PokeCardShop|Chaos Rising (ME04)": 1783027262.2730978
  },
  "prices": {
   "SunnyStore|Pokémon 151": "€26,90",
@@ -966,7 +967,8 @@
   "CardZone|30th Celebration": "https://cardzone.es/search?q=30th+celebration",
   "CardZone|Chaos Rising (ME04)": "https://cardzone.es/search?q=chaos+rising",
   "PokeCardShop|Pitch Black (ME05)": "https://www.pokecardshop.be/product-page/pokémon-pitch-black-booster-box",
-  "CardZone|Storm Emerald (ME06)": "https://cardzone.es/search?q=storm+emerald"
+  "CardZone|Storm Emerald (ME06)": "https://cardzone.es/search?q=storm+emerald",
+  "PokeCardShop|Chaos Rising (ME04)": "https://www.pokecardshop.be/search?q=chaos+rising"
  },
  "log": [
   {
@@ -1053,6 +1055,11 @@
    "ts": "02/07 22:32",
    "title": "🚨 Storm Emerald (ME06) — CardZone",
    "url": "https://cardzone.es/search?q=storm+emerald"
+  },
+  {
+   "ts": "02/07 23:21",
+   "title": "🚨 Chaos Rising (ME04) — PokeCardShop",
+   "url": "https://www.pokecardshop.be/search?q=chaos+rising"
   }
  ],
  "digest_slot": "2026-07-02-22"
