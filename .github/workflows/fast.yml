@@ -1,36 +1,36 @@
-name: Pokemon Monitor
+name: Pokemon Fast Lane
+# Corsia preferenziale: solo negozi caldi (GameLife, Pokémon Center, TCGplayer,
+# GameStop, Amazon) sui 3 set caldi. Attivata da cron-job.org ogni minuto.
 on:
-  schedule:
-    # backup: il trigger principale è cron-job.org ogni 5 minuti
-    - cron: '2-57/5 * * * *'
-  workflow_dispatch: {}    # attivato da cron-job.org
+  workflow_dispatch: {}
 
 permissions:
   contents: write
 
 concurrency:
-  group: monitor
+  group: fast
   cancel-in-progress: false
 
 jobs:
-  monitor:
+  fast:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 5
     steps:
       - uses: actions/checkout@v4
 
-      - name: Esegui monitor
+      - name: Scansione veloce
         env:
           NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          MODE: fast
         run: |
           python3 -c "import requests" 2>/dev/null || pip install requests --quiet
           python3 monitor.py
 
-      - name: Salva stato
+      - name: Salva stato veloce
         run: |
           git config user.name "monitor-bot"
           git config user.email "bot@users.noreply.github.com"
           git pull --rebase || true
-          git add state.json docs/index.html
-          git diff --cached --quiet || git commit -m "aggiorna stato e dashboard [skip ci]"
+          git add state-fast.json
+          git diff --cached --quiet || git commit -m "fast [skip ci]"
           git push || (git pull --rebase && git push) || true
