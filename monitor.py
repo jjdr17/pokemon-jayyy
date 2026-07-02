@@ -206,13 +206,39 @@ def notify(title, message, url=None, priority="high"):
         print(f"ntfy error: {e}")
 
 
-def fetch(url):
+def fetch(url, raw=False):
     try:
         r = SESSION.get(url, timeout=TIMEOUT, allow_redirects=True)
         if r.status_code == 200 and len(r.text) > 500:
-            return r.text.lower()
+            return r.text if raw else r.text.lower()
     except Exception:
         pass
+    return None
+
+
+HREF_RE = re.compile(r'href="([^"#]+)"', re.IGNORECASE)
+
+
+def extract_product_link(raw, low, pos, domain):
+    """Cerca il link del prodotto più vicino alla posizione del match nella pagina."""
+    if raw is None or len(raw) != len(low):
+        return None
+    start = max(0, pos - 1500)
+    window = raw[start:pos + 300]
+    best = None
+    for m in HREF_RE.finditer(window):
+        u = m.group(1)
+        if any(x in u.lower() for x in ("cart", "login", "account", "javascript:", "mailto:", ".css", ".js", ".png", ".jpg", ".svg", ".ico")):
+            continue
+        best = u  # l'ultimo href prima del match è di solito il link del prodotto
+    if not best:
+        return None
+    if best.startswith("//"):
+        return "https:" + best
+    if best.startswith("/"):
+        return f"https://{domain}{best}"
+    if best.startswith("http"):
+        return best
     return None
 
 
@@ -265,7 +291,8 @@ def check_shop(state, shop):
         if not url:
             results.append((prod["name"], "irraggiungibile", None, None))
             continue
-        html = fetch(url)
+        raw = fetch(url, raw=True)
+        html = raw.lower() if raw else None
         if html is None:
             results.append((prod["name"], "irraggiungibile", url, None))
             continue
@@ -280,16 +307,22 @@ def check_shop(state, shop):
             # per evitare falsi positivi da altri articoli sulla stessa pagina
             pos = neg = False
             pos_windows = []
+            first_pos = None
             for key in variants_found:
                 for m in re.finditer(re.escape(key), html):
                     window = html[max(0, m.start() - PROXIMITY): m.end() + PROXIMITY]
                     if any(k in window for k in POSITIVE):
                         pos = True
                         pos_windows.append(window)
+                        if first_pos is None:
+                            first_pos = m.start()
                     neg = neg or any(k in window for k in NEGATIVE)
             if pos and not neg:
                 status = "disponibile"
                 price = extract_price(pos_windows)
+                link = extract_product_link(raw, html, first_pos, domain)
+                if link:
+                    url = link  # link diretto al prodotto invece della pagina di ricerca
             elif neg:
                 status = "esaurito"
             else:
@@ -364,6 +397,15 @@ def main():
         alerts = alerts[:MAX_ALERTS_PER_RUN]
         alerts.append(("🚨 Altre novità Pokémon",
                        f"E altri {extra} aggiornamenti in questo giro — controlla i negozi.", None, "high"))
+    # storico avvisi (per la dashboard)
+    if alerts:
+        from datetime import datetime as _dt
+        from zoneinfo import ZoneInfo as _ZI
+        ts = _dt.now(_ZI("Europe/Rome")).strftime("%d/%m %H:%M")
+        log = state.setdefault("log", [])
+        for title, msg, url, prio in alerts:
+            log.append({"ts": ts, "title": title, "url": url or ""})
+        state["log"] = log[-30:]
     for title, msg, url, prio in alerts:
         notify(title, msg, url, priority=prio)
         time.sleep(0.5)
@@ -445,6 +487,15 @@ def build_dashboard(state):
         rows.append(f'<div class="card"><h2>{n} {badge}</h2>'
                     f'<div class="meta">{counts["esaurito"]} esauriti · {counts["listato"]} listati</div>'
                     f'<div class="shops">{shops_html}</div></div>')
+    log_entries = state.get("log", [])[::-1]
+    if log_entries:
+        items = "".join(
+            f'<div class="logrow"><span class="ts">{e["ts"]}</span> '
+            + (f'<a href="{e["url"]}" target="_blank">{e["title"]}</a>' if e["url"] else e["title"])
+            + '</div>' for e in log_entries[:15])
+        log_html = f'<div class="card"><h2>🔔 Ultimi avvisi</h2>{items}</div>'
+    else:
+        log_html = '<div class="card"><h2>🔔 Ultimi avvisi</h2><span class="none">nessun avviso finora</span></div>'
     html = f"""<!DOCTYPE html><html lang="it"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="refresh" content="300">
@@ -457,9 +508,13 @@ h1{{font-size:1.2rem}} h2{{font-size:1rem;margin:0 0 4px}}
 .meta{{color:#9aa3c7;font-size:.78rem;margin-bottom:8px}}
 .shop{{display:inline-block;background:#222846;color:#7dd3fc;text-decoration:none;border-radius:99px;padding:4px 10px;font-size:.8rem;margin:2px}}
 .none{{color:#9aa3c7;font-style:italic;font-size:.85rem}}
+.logrow{{font-size:.82rem;padding:4px 0;border-bottom:1px solid #262d4f}}
+.logrow a{{color:#7dd3fc;text-decoration:none}}
+.ts{{color:#9aa3c7;font-size:.72rem;margin-right:6px}}
 footer{{color:#9aa3c7;font-size:.75rem;margin-top:14px}}</style></head><body>
 <h1>⚡ Pokémon TCG Monitor</h1>
 {''.join(rows)}
+{log_html}
 <footer>Aggiornato: {now_it} (ora italiana) · si aggiorna ogni 5 minuti · ⚠️ verifica sempre prezzo e spedizione sul negozio</footer>
 </body></html>"""
     os.makedirs("docs", exist_ok=True)
