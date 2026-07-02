@@ -86,7 +86,7 @@
    "Pokémon 151": "listato",
    "Prismatic Evolutions": "listato",
    "Crown Zenith": "listato",
-   "Destined Rivals": "irraggiungibile"
+   "Destined Rivals": "listato"
   },
   "EuroTCG": {
    "Pitch Black (ME05)": "listato",
@@ -127,15 +127,15 @@
    "Storm Emerald (ME06)": "listato",
    "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "esaurito",
-   "Pokémon 151": "irraggiungibile",
-   "Prismatic Evolutions": "irraggiungibile",
+   "Pokémon 151": "esaurito",
+   "Prismatic Evolutions": "esaurito",
    "Crown Zenith": "irraggiungibile",
    "Destined Rivals": "irraggiungibile"
   },
   "CardZone": {
-   "Pitch Black (ME05)": "listato",
+   "Pitch Black (ME05)": "disponibile",
    "30th Celebration": "listato",
-   "Storm Emerald (ME06)": "disponibile",
+   "Storm Emerald (ME06)": "listato",
    "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "listato",
    "Pokémon 151": "esaurito",
@@ -149,7 +149,7 @@
    "Storm Emerald (ME06)": "listato",
    "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "listato",
-   "Pokémon 151": "irraggiungibile",
+   "Pokémon 151": "disponibile",
    "Prismatic Evolutions": "irraggiungibile",
    "Crown Zenith": "irraggiungibile",
    "Destined Rivals": "irraggiungibile"
@@ -171,9 +171,9 @@
    "Storm Emerald (ME06)": "listato",
    "Chaos Rising (ME04)": "esaurito",
    "Phantasmal Flames (ME02)": "esaurito",
-   "Pokémon 151": "irraggiungibile",
-   "Prismatic Evolutions": "irraggiungibile",
-   "Crown Zenith": "irraggiungibile",
+   "Pokémon 151": "esaurito",
+   "Prismatic Evolutions": "esaurito",
+   "Crown Zenith": "esaurito",
    "Destined Rivals": "irraggiungibile"
   },
   "Total Cards (UK)": {
@@ -235,7 +235,7 @@
    "Pitch Black (ME05)": "irraggiungibile",
    "30th Celebration": "listato",
    "Storm Emerald (ME06)": "irraggiungibile",
-   "Chaos Rising (ME04)": "irraggiungibile",
+   "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "irraggiungibile",
    "Pokémon 151": "irraggiungibile",
    "Prismatic Evolutions": "irraggiungibile",
@@ -976,7 +976,8 @@
   "PokeCardShop|Pitch Black (ME05)": "https://www.pokecardshop.be/product-page/pokémon-pitch-black-booster-box",
   "CardZone|Storm Emerald (ME06)": "https://cardzone.es/search?q=storm+emerald",
   "PokeCardShop|Chaos Rising (ME04)": "https://www.pokecardshop.be/search?q=chaos+rising",
-  "PokeCardShop|Phantasmal Flames (ME02)": "https://www.pokecardshop.be/search?q=phantasmal+flames"
+  "PokeCardShop|Phantasmal Flames (ME02)": "https://www.pokecardshop.be/search?q=phantasmal+flames",
+  "God of Cards|Pokémon 151": "https://godofcards.com/search?q=pokemon+151"
  },
  "log": [
   {
