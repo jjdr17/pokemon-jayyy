@@ -111,15 +111,15 @@
    "Destined Rivals": "non listato"
   },
   "Blackfire": {
-   "Pitch Black (ME05)": "irraggiungibile",
-   "30th Celebration": "irraggiungibile",
-   "Storm Emerald (ME06)": "irraggiungibile",
-   "Chaos Rising (ME04)": "irraggiungibile",
-   "Phantasmal Flames (ME02)": "irraggiungibile",
-   "Pokémon 151": "irraggiungibile",
-   "Prismatic Evolutions": "irraggiungibile",
-   "Crown Zenith": "irraggiungibile",
-   "Destined Rivals": "irraggiungibile"
+   "Pitch Black (ME05)": "non listato",
+   "30th Celebration": "non listato",
+   "Storm Emerald (ME06)": "non listato",
+   "Chaos Rising (ME04)": "non listato",
+   "Phantasmal Flames (ME02)": "non listato",
+   "Pokémon 151": "non listato",
+   "Prismatic Evolutions": "non listato",
+   "Crown Zenith": "non listato",
+   "Destined Rivals": "non listato"
   },
   "AllDayTCG": {
    "Pitch Black (ME05)": "listato",
@@ -695,7 +695,7 @@
   },
   "LetsGoTry": {
    "Pitch Black (ME05)": "listato",
-   "30th Celebration": "non listato",
+   "30th Celebration": "listato",
    "Storm Emerald (ME06)": "non listato",
    "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "non listato",
@@ -907,7 +907,8 @@
   "alldaytcg.com": "https://alldaytcg.com/search?q={q}",
   "godofcards.com": "https://godofcards.com/search?q={q}",
   "www.pokemillon.com": "https://www.pokemillon.com/?s={q}&post_type=product",
-  "pokebank.es": "https://pokebank.es/?s={q}&post_type=product"
+  "pokebank.es": "https://pokebank.es/?s={q}&post_type=product",
+  "www.blackfire.eu": "https://www.blackfire.eu/search?q={q}"
  },
  "alerts": {
   "Cardstore.cz|30th Celebration": 1783014113.9441674,
