@@ -141,6 +141,10 @@ SEARCH_PATTERNS = [
 ALERT_COOLDOWN_H = 6      # max 1 notifica per prodotto/negozio ogni N ore
 MAX_ALERTS_PER_RUN = 8    # tetto anti-spam per singolo run
 PROXIMITY = 400           # le parole chiave valgono solo entro N caratteri dal nome prodotto
+DIGEST_HOUR_UTC = 7       # riepilogo giornaliero (7 UTC = 9:00 in Italia d'estate)
+# prodotti "caldi": notifica con priorità urgente (suona anche in non disturbare, se configurato)
+URGENT_PRODUCTS = {"Pitch Black (ME05)", "30th Celebration", "Storm Emerald (ME06)"}
+PRICE_RE = re.compile(r'(?:€|\$|£)\s?\d{1,4}(?:[.,]\d{1,2})?')
 
 
 def load_state():
@@ -184,20 +188,43 @@ def fetch(url):
 
 
 def get_search_url(state, name, domain, template, q):
-    """Trova (e memorizza) il pattern di ricerca che funziona per il negozio."""
+    """Trova (e memorizza) il pattern di ricerca che funziona per il negozio.
+    Se il negozio risponde ma nessun pattern funziona, lo marca '-' (incompatibile)
+    per non sprecare richieste a ogni run."""
     qq = q.replace(" ", "+")
     if template:
         return template.format(q=qq)
     cached = state["search_url"].get(domain)
+    if cached == "-":
+        return None
     if cached:
         return cached.format(q=qq)
+    responded = False
     for pat in SEARCH_PATTERNS:
         url = pat.format(d=domain, q=qq)
         html = fetch(url)
-        if html and any(m in html for m in q.split()):
-            state["search_url"][domain] = pat.format(d=domain, q="{q}")
-            return url
+        if html:
+            responded = True
+            if any(m in html for m in q.split()):
+                state["search_url"][domain] = pat.format(d=domain, q="{q}")
+                return url
+    if responded:
+        state["search_url"][domain] = "-"   # sito ok ma ricerca incompatibile: skip in futuro
     return None
+
+
+def extract_price(windows):
+    """Prende il prezzo più basso trovato vicino al nome del prodotto."""
+    prices = []
+    for w in windows:
+        for m in PRICE_RE.findall(w):
+            try:
+                val = float(m.lstrip("€$£ ").replace(",", "."))
+                if 3 <= val <= 2000:
+                    prices.append((val, m.strip()))
+            except ValueError:
+                pass
+    return min(prices)[1] if prices else None
 
 
 def check_shop(state, shop):
@@ -207,33 +234,38 @@ def check_shop(state, shop):
     for prod in PRODUCTS:
         url = get_search_url(state, name, domain, template, prod["q"])
         if not url:
-            results.append((prod["name"], "irraggiungibile", None))
+            results.append((prod["name"], "irraggiungibile", None, None))
             continue
         html = fetch(url)
         if html is None:
-            results.append((prod["name"], "irraggiungibile", url))
+            results.append((prod["name"], "irraggiungibile", url, None))
             continue
         # SOLO prodotti Pokémon: la pagina deve contenere un riferimento a Pokémon
         is_pokemon_page = any(mk in html for mk in POKEMON_MARKERS)
         variants_found = [v for v in prod["match"] if v in html]
+        price = None
         if not variants_found or not is_pokemon_page:
             status = "non listato"
         else:
             # le parole chiave contano solo se VICINE al nome del prodotto,
             # per evitare falsi positivi da altri articoli sulla stessa pagina
             pos = neg = False
+            pos_windows = []
             for key in variants_found:
                 for m in re.finditer(re.escape(key), html):
                     window = html[max(0, m.start() - PROXIMITY): m.end() + PROXIMITY]
-                    pos = pos or any(k in window for k in POSITIVE)
+                    if any(k in window for k in POSITIVE):
+                        pos = True
+                        pos_windows.append(window)
                     neg = neg or any(k in window for k in NEGATIVE)
             if pos and not neg:
                 status = "disponibile"
+                price = extract_price(pos_windows)
             elif neg:
                 status = "esaurito"
             else:
                 status = "listato"
-        results.append((prod["name"], status, url))
+        results.append((prod["name"], status, url, price))
         time.sleep(0.3)
     return name, group, results
 
@@ -258,7 +290,7 @@ def main():
                 continue
             prev_shop = state["shops"].setdefault(shop_name, {})
             now = time.time()
-            for prod_name, status, url in results:
+            for prod_name, status, url, price in results:
                 prev = prev_shop.get(prod_name, "sconosciuto")
                 if status == "irraggiungibile" and prev not in ("sconosciuto", "irraggiungibile"):
                     # sito momentaneamente giù: non perdere lo stato precedente
@@ -276,18 +308,36 @@ def main():
                         state["alerts"][akey] = now
                         tag = " ⚠️ spedizione Italia da verificare" if group == "C" else ""
                         verb = "DISPONIBILE/PREORDER" if interesting else "ora listato"
+                        ptxt = f" a {price}" if price else ""
+                        prio = "urgent" if prod_name in URGENT_PRODUCTS and interesting else "high"
                         alerts.append((f"🚨 {prod_name} — {shop_name}",
-                                       f"{prod_name} {verb} su {shop_name}{tag}\n{url or ''}", url))
-                print(f"{shop_name:22s} | {prod_name:26s} | {prev} -> {status}")
+                                       f"{prod_name} {verb}{ptxt} su {shop_name}{tag}\n{url or ''}", url, prio))
+                print(f"{shop_name:22s} | {prod_name:26s} | {prev} -> {status}" + (f" ({price})" if price else ""))
 
     if len(alerts) > MAX_ALERTS_PER_RUN:
         extra = len(alerts) - MAX_ALERTS_PER_RUN
         alerts = alerts[:MAX_ALERTS_PER_RUN]
         alerts.append(("🚨 Altre novità Pokémon",
-                       f"E altri {extra} aggiornamenti in questo giro — controlla i negozi.", None))
-    for title, msg, url in alerts:
-        notify(title, msg, url)
+                       f"E altri {extra} aggiornamenti in questo giro — controlla i negozi.", None, "high"))
+    for title, msg, url, prio in alerts:
+        notify(title, msg, url, priority=prio)
         time.sleep(0.5)
+
+    # ---- riepilogo giornaliero ----
+    from datetime import datetime, timezone
+    now_utc = datetime.now(timezone.utc)
+    today = now_utc.strftime("%Y-%m-%d")
+    if not first_run and now_utc.hour == DIGEST_HOUR_UTC and state.get("digest_date") != today:
+        state["digest_date"] = today
+        lines = []
+        for prod in PRODUCTS:
+            n = prod["name"]
+            disp = [s for s, prods in state["shops"].items() if prods.get(n) == "disponibile"]
+            if disp:
+                lines.append(f"✅ {n}: {len(disp)} negozi ({', '.join(disp[:4])}{'…' if len(disp) > 4 else ''})")
+            else:
+                lines.append(f"— {n}: nessuna disponibilità rilevata")
+        notify("📋 Riepilogo Pokémon del giorno", "\n".join(lines), priority="default")
 
     save_state(state)
     print(f"\nFatto. Alert inviati: {len(alerts)}")
