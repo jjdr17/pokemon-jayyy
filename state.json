@@ -135,7 +135,7 @@
   "CardZone": {
    "Pitch Black (ME05)": "disponibile",
    "30th Celebration": "listato",
-   "Storm Emerald (ME06)": "listato",
+   "Storm Emerald (ME06)": "disponibile",
    "Chaos Rising (ME04)": "disponibile",
    "Phantasmal Flames (ME02)": "irraggiungibile",
    "Pokémon 151": "irraggiungibile",
@@ -178,7 +178,7 @@
   },
   "Total Cards (UK)": {
    "Pitch Black (ME05)": "listato",
-   "30th Celebration": "irraggiungibile",
+   "30th Celebration": "listato",
    "Storm Emerald (ME06)": "irraggiungibile",
    "Chaos Rising (ME04)": "irraggiungibile",
    "Phantasmal Flames (ME02)": "irraggiungibile",
@@ -909,7 +909,8 @@
   "www.pokemillon.com": "https://www.pokemillon.com/?s={q}&post_type=product",
   "pokebank.es": "https://pokebank.es/?s={q}&post_type=product",
   "www.blackfire.eu": "https://www.blackfire.eu/search?q={q}",
-  "hobbykort.se": "https://hobbykort.se/search?q={q}"
+  "hobbykort.se": "https://hobbykort.se/search?q={q}",
+  "pokechest.at": "https://pokechest.at/search?controller=search&s={q}"
  },
  "alerts": {
   "Cardstore.cz|30th Celebration": 1783014113.9441674,
@@ -928,7 +929,8 @@
   "Amazon.it|Pokémon 151": 1783021246.4570694,
   "PokeCardShop|Pitch Black (ME05)": 1783021262.714947,
   "Amazon.it|Pitch Black (ME05)": 1783021541.8085651,
-  "CardZone|Pitch Black (ME05)": 1783023294.3864837
+  "CardZone|Pitch Black (ME05)": 1783023294.3864837,
+  "CardZone|Storm Emerald (ME06)": 1783024364.2345915
  },
  "prices": {
   "SunnyStore|Pokémon 151": "€26,90",
@@ -961,7 +963,8 @@
   "Sapphire-Cards|Pitch Black (ME05)": "https://sapphire-cards.de/?s=pitch+black&post_type=product",
   "CardZone|30th Celebration": "https://cardzone.es/search?q=30th+celebration",
   "CardZone|Chaos Rising (ME04)": "https://cardzone.es/search?q=chaos+rising",
-  "PokeCardShop|Pitch Black (ME05)": "https://www.pokecardshop.be/product-page/pokémon-pitch-black-booster-box"
+  "PokeCardShop|Pitch Black (ME05)": "https://www.pokecardshop.be/product-page/pokémon-pitch-black-booster-box",
+  "CardZone|Storm Emerald (ME06)": "https://cardzone.es/search?q=storm+emerald"
  },
  "log": [
   {
@@ -1043,6 +1046,11 @@
    "ts": "02/07 22:14",
    "title": "🚨 Pitch Black (ME05) — CardZone",
    "url": "https://cardzone.es/search?q=pitch+black"
+  },
+  {
+   "ts": "02/07 22:32",
+   "title": "🚨 Storm Emerald (ME06) — CardZone",
+   "url": "https://cardzone.es/search?q=storm+emerald"
   }
  ],
  "digest_slot": "2026-07-02-22"
