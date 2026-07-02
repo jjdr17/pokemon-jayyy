@@ -17,7 +17,7 @@
    "Storm Emerald (ME06)": "irraggiungibile",
    "Chaos Rising (ME04)": "irraggiungibile",
    "Phantasmal Flames (ME02)": "irraggiungibile",
-   "Pokémon 151": "irraggiungibile",
+   "Pokémon 151": "non listato",
    "Prismatic Evolutions": "irraggiungibile",
    "Crown Zenith": "irraggiungibile",
    "Destined Rivals": "irraggiungibile"
@@ -122,8 +122,8 @@
    "Destined Rivals": "irraggiungibile"
   },
   "AllDayTCG": {
-   "Pitch Black (ME05)": "irraggiungibile",
-   "30th Celebration": "irraggiungibile",
+   "Pitch Black (ME05)": "listato",
+   "30th Celebration": "listato",
    "Storm Emerald (ME06)": "irraggiungibile",
    "Chaos Rising (ME04)": "irraggiungibile",
    "Phantasmal Flames (ME02)": "irraggiungibile",
@@ -133,7 +133,7 @@
    "Destined Rivals": "irraggiungibile"
   },
   "CardZone": {
-   "Pitch Black (ME05)": "irraggiungibile",
+   "Pitch Black (ME05)": "disponibile",
    "30th Celebration": "irraggiungibile",
    "Storm Emerald (ME06)": "irraggiungibile",
    "Chaos Rising (ME04)": "irraggiungibile",
@@ -144,7 +144,7 @@
    "Destined Rivals": "irraggiungibile"
   },
   "God of Cards": {
-   "Pitch Black (ME05)": "irraggiungibile",
+   "Pitch Black (ME05)": "listato",
    "30th Celebration": "irraggiungibile",
    "Storm Emerald (ME06)": "irraggiungibile",
    "Chaos Rising (ME04)": "irraggiungibile",
@@ -166,8 +166,8 @@
    "Destined Rivals": "irraggiungibile"
   },
   "OutpostBrussels": {
-   "Pitch Black (ME05)": "irraggiungibile",
-   "30th Celebration": "irraggiungibile",
+   "Pitch Black (ME05)": "esaurito",
+   "30th Celebration": "listato",
    "Storm Emerald (ME06)": "irraggiungibile",
    "Chaos Rising (ME04)": "irraggiungibile",
    "Phantasmal Flames (ME02)": "irraggiungibile",
@@ -353,7 +353,7 @@
    "Destined Rivals": "irraggiungibile"
   },
   "Sapphire-Cards": {
-   "Pitch Black (ME05)": "listato",
+   "Pitch Black (ME05)": "disponibile",
    "30th Celebration": "listato",
    "Storm Emerald (ME06)": "listato",
    "Chaos Rising (ME04)": "disponibile",
@@ -539,17 +539,6 @@
    "Crown Zenith": "irraggiungibile",
    "Destined Rivals": "irraggiungibile"
   },
-  "Cardstore.cz": {
-   "Pitch Black (ME05)": "non listato",
-   "30th Celebration": "listato",
-   "Storm Emerald (ME06)": "non listato",
-   "Chaos Rising (ME04)": "listato",
-   "Phantasmal Flames (ME02)": "non listato",
-   "Pokémon 151": "listato",
-   "Prismatic Evolutions": "listato",
-   "Crown Zenith": "non listato",
-   "Destined Rivals": "listato"
-  },
   "Pokemillon": {
    "Pitch Black (ME05)": "irraggiungibile",
    "30th Celebration": "irraggiungibile",
@@ -706,7 +695,7 @@
   },
   "LetsGoTry": {
    "Pitch Black (ME05)": "listato",
-   "30th Celebration": "listato",
+   "30th Celebration": "non listato",
    "Storm Emerald (ME06)": "non listato",
    "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "non listato",
@@ -762,13 +751,13 @@
   "Pokemania.ro": {
    "Pitch Black (ME05)": "disponibile",
    "30th Celebration": "non listato",
-   "Storm Emerald (ME06)": "irraggiungibile",
-   "Chaos Rising (ME04)": "irraggiungibile",
+   "Storm Emerald (ME06)": "non listato",
+   "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "listato",
    "Pokémon 151": "listato",
-   "Prismatic Evolutions": "irraggiungibile",
-   "Crown Zenith": "irraggiungibile",
-   "Destined Rivals": "irraggiungibile"
+   "Prismatic Evolutions": "listato",
+   "Crown Zenith": "listato",
+   "Destined Rivals": "listato"
   },
   "PokeBros": {
    "Pitch Black (ME05)": "non listato",
@@ -912,16 +901,22 @@
   "extremepokecorner.com": "https://extremepokecorner.com/?s={q}&post_type=product",
   "pikashop.pl": "https://pikashop.pl/?s={q}&post_type=product",
   "tcgpikas.lt": "https://tcgpikas.lt/?s={q}&post_type=product",
-  "pokemonworld.lt": "https://pokemonworld.lt/?s={q}&post_type=product"
+  "pokemonworld.lt": "https://pokemonworld.lt/?s={q}&post_type=product",
+  "cardzone.es": "https://cardzone.es/search?q={q}",
+  "outpostbrussels.be": "https://outpostbrussels.be/search?q={q}",
+  "alldaytcg.com": "https://alldaytcg.com/search?q={q}",
+  "godofcards.com": "https://godofcards.com/search?q={q}"
  },
  "alerts": {
-  "Cardstore.cz|30th Celebration": 1783014113.9441674
+  "Cardstore.cz|30th Celebration": 1783014113.9441674,
+  "Sapphire-Cards|Pitch Black (ME05)": 1783017425.191381,
+  "drop|MagicBazar|Pitch Black (ME05)": 1783017432.2682624
  },
  "prices": {
   "SunnyStore|Pokémon 151": "€26,90",
   "Packratt (UK)|Chaos Rising (ME04)": "£10.01",
   "Packratt (UK)|Pokémon 151": "£29.99",
-  "MagicBazar|Pitch Black (ME05)": "$110"
+  "MagicBazar|Pitch Black (ME05)": "$10"
  },
  "urls": {
   "SunnyStore|Pokémon 151": "https://sunnystore.es/search?q=pokemon+151",
@@ -934,15 +929,29 @@
   "Sapphire-Cards|Crown Zenith": "https://sapphire-cards.de/?s=crown+zenith&post_type=product",
   "Sapphire-Cards|Destined Rivals": "https://sapphire-cards.de/?s=destined+rivals&post_type=product",
   "Pokipair|Prismatic Evolutions": "https://www.pokipair.com/?s=prismatic+evolutions&post_type=product",
-  "Pokebox|Pitch Black (ME05)": "https://pokeboxstore.pt/?s=pitch+black&post_type=product",
-  "MagicBazar|Pitch Black (ME05)": "https://www.magicbazar.fr/?s=pitch+black&post_type=product",
-  "Pokekarty|Chaos Rising (ME04)": "https://www.pokekarty.pl/?s=chaos+rising&post_type=product",
-  "Pokekarty|Phantasmal Flames (ME02)": "https://www.pokekarty.pl/?s=phantasmal+flames&post_type=product",
-  "Pokekarty|Crown Zenith": "https://www.pokekarty.pl/?s=crown+zenith&post_type=product",
-  "Pokekarty|Destined Rivals": "https://www.pokekarty.pl/?s=destined+rivals&post_type=product",
+  "Pokebox|Pitch Black (ME05)": "https://pokeboxstore.pt/produto/premium-checklane-blister-gengar-pitch-black/",
+  "MagicBazar|Pitch Black (ME05)": "https://www.magicbazar.fr/en/produit/647190/deck-commander-marvel-super-heroes-avengers-assemble-magic-en",
+  "Pokekarty|Chaos Rising (ME04)": "https://www.pokekarty.pl/product/karta-pokemon-chaos-rising-003-086-beedrill-ex",
+  "Pokekarty|Phantasmal Flames (ME02)": "https://www.pokekarty.pl/product/karta-pokemon-phantasmal-flames-004-094-mega-heracross-ex",
+  "Pokekarty|Crown Zenith": "https://www.pokekarty.pl/product/karta-pokemon-crown-zenith-046-159-rotom-vstar",
+  "Pokekarty|Destined Rivals": "https://www.pokekarty.pl/product/pokemon-tcg-destined-rivals-booster",
   "Pikashop|Chaos Rising (ME04)": "https://pikashop.pl/?s=chaos+rising&post_type=product",
-  "Pokemania.ro|Pitch Black (ME05)": "https://pokemania.ro/?s=pitch+black&post_type=product",
+  "Pokemania.ro|Pitch Black (ME05)": "https://pokemania.ro/pitch-black/pokemon-tcg-mega-evolution-pitch-black-sleeved-booster",
   "Pokecollect|Pitch Black (ME05)": "https://pokecollect.pl/?s=pitch+black&post_type=product",
-  "Pokecollect|Chaos Rising (ME04)": "https://pokecollect.pl/?s=chaos+rising&post_type=product"
- }
+  "Pokecollect|Chaos Rising (ME04)": "https://pokecollect.pl/?s=chaos+rising&post_type=product",
+  "CardZone|Pitch Black (ME05)": "https://cardzone.es/search?q=pitch+black",
+  "Sapphire-Cards|Pitch Black (ME05)": "https://sapphire-cards.de/?s=pitch+black&post_type=product"
+ },
+ "log": [
+  {
+   "ts": "02/07 20:40",
+   "title": "🚨 Pitch Black (ME05) — Sapphire-Cards",
+   "url": "https://sapphire-cards.de/?s=pitch+black&post_type=product"
+  },
+  {
+   "ts": "02/07 20:40",
+   "title": "📉 Prezzo giù: Pitch Black (ME05) — MagicBazar",
+   "url": "https://www.magicbazar.fr/en/produit/647190/deck-commander-marvel-super-heroes-avengers-assemble-magic-en"
+  }
+ ]
 }
