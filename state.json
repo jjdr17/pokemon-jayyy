@@ -18,9 +18,9 @@
    "Chaos Rising (ME04)": "non listato",
    "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "non listato",
-   "Prismatic Evolutions": "non listato",
-   "Crown Zenith": "non listato",
-   "Destined Rivals": "non listato"
+   "Prismatic Evolutions": "listato",
+   "Crown Zenith": "listato",
+   "Destined Rivals": "listato"
   },
   "Cardmarket": {
    "Pitch Black (ME05)": "irraggiungibile",
@@ -125,7 +125,7 @@
    "Pitch Black (ME05)": "listato",
    "30th Celebration": "listato",
    "Storm Emerald (ME06)": "listato",
-   "Chaos Rising (ME04)": "irraggiungibile",
+   "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "irraggiungibile",
    "Pokémon 151": "irraggiungibile",
    "Prismatic Evolutions": "irraggiungibile",
@@ -134,9 +134,9 @@
   },
   "CardZone": {
    "Pitch Black (ME05)": "listato",
-   "30th Celebration": "listato",
-   "Storm Emerald (ME06)": "irraggiungibile",
-   "Chaos Rising (ME04)": "irraggiungibile",
+   "30th Celebration": "disponibile",
+   "Storm Emerald (ME06)": "listato",
+   "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "irraggiungibile",
    "Pokémon 151": "irraggiungibile",
    "Prismatic Evolutions": "irraggiungibile",
@@ -913,7 +913,11 @@
   "Cardstore.cz|30th Celebration": 1783014113.9441674,
   "Sapphire-Cards|Pitch Black (ME05)": 1783017425.191381,
   "drop|MagicBazar|Pitch Black (ME05)": 1783017432.2682624,
-  "LetsGoTry|30th Celebration": 1783019777.9271853
+  "LetsGoTry|30th Celebration": 1783019777.9271853,
+  "Amazon.it|Prismatic Evolutions": 1783020930.789727,
+  "Amazon.it|Crown Zenith": 1783020930.789727,
+  "Amazon.it|Destined Rivals": 1783020930.789727,
+  "CardZone|30th Celebration": 1783020931.731188
  },
  "prices": {
   "SunnyStore|Pokémon 151": "€26,90",
@@ -961,6 +965,26 @@
    "ts": "02/07 21:19",
    "title": "🚨 30th Celebration — LetsGoTry",
    "url": "https://letsgotry.pl/?s=30th+celebration&post_type=product"
+  },
+  {
+   "ts": "02/07 21:35",
+   "title": "🚨 Prismatic Evolutions — Amazon.it",
+   "url": "https://www.amazon.it/s?k=pokemon+tcg+prismatic+evolutions"
+  },
+  {
+   "ts": "02/07 21:35",
+   "title": "🚨 Crown Zenith — Amazon.it",
+   "url": "https://www.amazon.it/s?k=pokemon+tcg+crown+zenith"
+  },
+  {
+   "ts": "02/07 21:35",
+   "title": "🚨 Destined Rivals — Amazon.it",
+   "url": "https://www.amazon.it/s?k=pokemon+tcg+destined+rivals"
+  },
+  {
+   "ts": "02/07 21:35",
+   "title": "🚨 30th Celebration — CardZone",
+   "url": "https://cardzone.es/search?q=30th+celebration"
   }
  ]
 }
