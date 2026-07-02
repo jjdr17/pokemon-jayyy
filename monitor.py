@@ -8,7 +8,19 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 import requests
 
 NTFY_TOPIC = os.environ.get("NTFY_TOPIC", "").strip()
-STATE_FILE = "state.json"
+
+# MODE=fast: corsia preferenziale — solo negozi e set caldi, stato separato, nessuna dashboard
+MODE = os.environ.get("MODE", "full")
+if MODE == "fast":
+    STATE_FILE = "state-fast.json"
+    OTHER_STATE_FILE = "state.json"
+else:
+    STATE_FILE = "state.json"
+    OTHER_STATE_FILE = "state-fast.json"
+
+HOT_SHOP_NAMES = {"TCGplayer", "Pokemon Center", "Amazon.it", "GameStop US",
+                  "GameLife (IT)", "GameStop Italia"}
+HOT_PRODUCT_NAMES = {"Pitch Black (ME05)", "30th Celebration", "Storm Emerald (ME06)"}
 import random
 USER_AGENTS = [
     "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",
@@ -162,6 +174,11 @@ SHOPS = [
     ("Stoyanov Games", "stoyanov-gamesbg.com", None, "C"),
     ("iTCG.bg", "itcg.bg", None, "C"),
 ]
+
+# In modalità fast si controllano solo negozi e prodotti caldi
+if MODE == "fast":
+    SHOPS = [s for s in SHOPS if s[0] in HOT_SHOP_NAMES]
+    PRODUCTS = [p for p in PRODUCTS if p["name"] in HOT_PRODUCT_NAMES]
 
 # Pattern di ricerca comuni (Shopify, WooCommerce, PrestaShop, ...)
 SEARCH_PATTERNS = [
@@ -351,16 +368,43 @@ def check_shop(state, shop):
     return name, group, results
 
 
+def load_other_alerts():
+    """Cooldown condiviso tra corsia veloce e scansione completa (evita avvisi doppi)."""
+    try:
+        with open(OTHER_STATE_FILE) as f:
+            return json.load(f).get("alerts", {})
+    except Exception:
+        return {}
+
+
 def main():
     state = load_state()
     first_run = state.get("first_run", False)
+    other_alerts = load_other_alerts()
 
-    if first_run:
+    if first_run and MODE == "full":
         notify("Monitor Pokémon attivo ✅",
                "Il monitor cloud è partito. Controllerò i negozi ogni 5 minuti e ti avviserò qui per preordini e restock.",
                priority="default")
 
-    alerts = []
+    from datetime import datetime as _dt
+    from zoneinfo import ZoneInfo as _ZI
+    sent = {"n": 0}
+
+    def send_alert(title, msg, url, prio):
+        """Invio IMMEDIATO: la notifica parte appena rilevata, non a fine scansione."""
+        sent["n"] += 1
+        if sent["n"] == MAX_ALERTS_PER_RUN + 1:
+            notify("🚨 Altre novità Pokémon", "Troppi aggiornamenti in questo giro — guarda la dashboard.",
+                   DASHBOARD_URL, "high")
+            return
+        if sent["n"] > MAX_ALERTS_PER_RUN:
+            return
+        ts = _dt.now(_ZI("Europe/Rome")).strftime("%d/%m %H:%M")
+        log = state.setdefault("log", [])
+        log.append({"ts": ts, "title": title, "url": url or ""})
+        state["log"] = log[-30:]
+        notify(title, msg, url, priority=prio)
     with ThreadPoolExecutor(max_workers=MAX_WORKERS) as ex:
         futures = {ex.submit(check_shop, state, s): s for s in SHOPS}
         for fut in as_completed(futures):
@@ -384,15 +428,15 @@ def main():
                 newly_listed = status == "listato" and prev == "non listato"
                 if not first_run and prev != "sconosciuto" and (interesting or newly_listed):
                     akey = f"{shop_name}|{prod_name}"
-                    last = state["alerts"].get(akey, 0)
+                    last = max(state["alerts"].get(akey, 0), other_alerts.get(akey, 0))
                     if now - last >= ALERT_COOLDOWN_H * 3600:
                         state["alerts"][akey] = now
                         tag = " ⚠️ spedizione Italia da verificare" if group == "C" else ""
                         verb = "DISPONIBILE/PREORDER" if interesting else "ora listato"
                         ptxt = f" a {price}" if price else ""
                         prio = "urgent" if prod_name in URGENT_PRODUCTS and interesting else "high"
-                        alerts.append((f"🚨 {prod_name} — {shop_name}",
-                                       f"{prod_name} {verb}{ptxt} su {shop_name}{tag}\n{url or ''}", url, prio))
+                        send_alert(f"🚨 {prod_name} — {shop_name}",
+                                   f"{prod_name} {verb}{ptxt} su {shop_name}{tag}\n{url or ''}", url, prio)
                 # ---- memoria prezzi + avviso calo prezzo ----
                 pkey = f"{shop_name}|{prod_name}"
                 if status == "disponibile" and url:
@@ -402,39 +446,22 @@ def main():
                     new = price_value(price)
                     if (not first_run and old and new and new <= old * PRICE_DROP_RATIO):
                         dkey = f"drop|{pkey}"
-                        if now - state["alerts"].get(dkey, 0) >= ALERT_COOLDOWN_H * 3600:
+                        last_d = max(state["alerts"].get(dkey, 0), other_alerts.get(dkey, 0))
+                        if now - last_d >= ALERT_COOLDOWN_H * 3600:
                             state["alerts"][dkey] = now
                             tag = " ⚠️ spedizione Italia da verificare" if group == "C" else ""
-                            alerts.append((f"📉 Prezzo giù: {prod_name} — {shop_name}",
-                                           f"{prod_name} sceso a {price} (era {state['prices'][pkey]}) su {shop_name}{tag}\n{url or ''}",
-                                           url, "high"))
+                            send_alert(f"📉 Prezzo giù: {prod_name} — {shop_name}",
+                                       f"{prod_name} sceso a {price} (era {state['prices'][pkey]}) su {shop_name}{tag}\n{url or ''}",
+                                       url, "high")
                     state["prices"][pkey] = price
                 print(f"{shop_name:22s} | {prod_name:26s} | {prev} -> {status}" + (f" ({price})" if price else ""))
 
-    if len(alerts) > MAX_ALERTS_PER_RUN:
-        extra = len(alerts) - MAX_ALERTS_PER_RUN
-        alerts = alerts[:MAX_ALERTS_PER_RUN]
-        alerts.append(("🚨 Altre novità Pokémon",
-                       f"E altri {extra} aggiornamenti in questo giro — controlla i negozi.", None, "high"))
-    # storico avvisi (per la dashboard)
-    if alerts:
-        from datetime import datetime as _dt
-        from zoneinfo import ZoneInfo as _ZI
-        ts = _dt.now(_ZI("Europe/Rome")).strftime("%d/%m %H:%M")
-        log = state.setdefault("log", [])
-        for title, msg, url, prio in alerts:
-            log.append({"ts": ts, "title": title, "url": url or ""})
-        state["log"] = log[-30:]
-    for title, msg, url, prio in alerts:
-        notify(title, msg, url, priority=prio)
-        time.sleep(0.5)
-
-    # ---- riepiloghi giornalieri (10, 15, 18, 22 ora italiana) ----
+    # ---- riepiloghi giornalieri (10, 15, 18, 22 ora italiana) — solo scansione completa ----
     from datetime import datetime
     from zoneinfo import ZoneInfo
     now_it = datetime.now(ZoneInfo("Europe/Rome"))
     slot = f"{now_it.strftime('%Y-%m-%d')}-{now_it.hour}"
-    if not first_run and now_it.hour in DIGEST_HOURS and state.get("digest_slot") != slot:
+    if MODE == "full" and not first_run and now_it.hour in DIGEST_HOURS and state.get("digest_slot") != slot:
         state["digest_slot"] = slot
         lines = []
         for prod in PRODUCTS:
@@ -459,7 +486,7 @@ def main():
     today_it = now_it.strftime("%Y-%m-%d")
     tot = sum(1 for prods in state["shops"].values() for v in prods.values())
     down = sum(1 for prods in state["shops"].values() for v in prods.values() if v == "irraggiungibile")
-    if (not first_run and tot > 20 and down / tot > 0.7 and state.get("watchdog_date") != today_it):
+    if (MODE == "full" and not first_run and tot > 20 and down / tot > 0.7 and state.get("watchdog_date") != today_it):
         state["watchdog_date"] = today_it
         notify("⚠️ Monitor Pokémon: problema",
                f"{down}/{tot} controlli irraggiungibili — possibile blocco IP o problema di rete. "
@@ -475,9 +502,10 @@ def main():
     for key in ("prices", "urls"):
         state[key] = {k: v for k, v in state.get(key, {}).items() if k.split("|")[0] in valid}
 
-    build_dashboard(state)
+    if MODE == "full":
+        build_dashboard(state)
     save_state(state)
-    print(f"\nFatto. Alert inviati: {len(alerts)}")
+    print(f"\nFatto ({MODE}). Alert inviati: {sent['n']}")
 
 
 def build_dashboard(state):
