@@ -21,7 +21,7 @@ TIMEOUT = 20
 PRODUCTS = [
     # Nuove uscite / preordini
     {"name": "Pitch Black (ME05)",      "q": "pitch black",       "match": ["pitch black"]},
-    {"name": "30th Celebration",        "q": "30th celebration",  "match": ["30th celebration", "30th anniversary"]},
+    {"name": "30th Celebration",        "q": "30th celebration",  "match": ["30th celebration", "30th anniversary", "30° anniversario", "30 anniversario"]},
     {"name": "Storm Emerald (ME06)",    "q": "storm emerald",     "match": ["storm emerald"]},
     {"name": "Chaos Rising (ME04)",     "q": "chaos rising",      "match": ["chaos rising"]},
     {"name": "Phantasmal Flames (ME02)","q": "phantasmal flames", "match": ["phantasmal flames"]},
@@ -40,9 +40,11 @@ POKEMON_MARKERS = ["pokemon", "pokémon"]
 POSITIVE = ["pre-order", "preorder", "pre order", "add to cart", "add to basket",
             "in stock", "buy now", "in den warenkorb", "vorbestellen", "disponibile",
             "aggiungi al carrello", "ajouter au panier", "précommande", "añadir al carrito",
-            "do koszyka", "in winkelwagen", "læg i kurv", "lisää koriin", "købe"]
+            "do koszyka", "in winkelwagen", "læg i kurv", "lisää koriin", "købe",
+            "preordina", "preordine", "preordini", "prenota", "acquista"]
 NEGATIVE = ["sold out", "out of stock", "esaurito", "ausverkauft", "épuisé", "agotado",
-            "not available", "unavailable", "wyprzedane", "uitverkocht"]
+            "not available", "unavailable", "wyprzedane", "uitverkocht", "non disponibile",
+            "coda al completo"]
 
 # ---------------- NEGOZI ----------------
 # (nome, dominio, template ricerca o None per autodetect, gruppo)
@@ -53,6 +55,8 @@ SHOPS = [
     ("Amazon.it", "www.amazon.it", "https://www.amazon.it/s?k=pokemon+tcg+{q}", "A"),
     ("GameStop US", "www.gamestop.com", "https://www.gamestop.com/search/?q=pokemon+{q}", "A"),
     ("Cardmarket", "www.cardmarket.com", None, "A"),
+    ("GameLife (IT)", "www.gamelife.it", "https://www.gamelife.it/ricerca?controller=search&s={q}", "A"),
+    ("GameStop Italia", "www.gamestop.it", "https://www.gamestop.it/SearchResult/QuickSearch?q={q}", "A"),
     # --- Gruppo B: confermati, spediscono in Italia ---
     ("eFantasy", "www.efantasy.gr", None, "B"),
     ("EuroTCG", "eurotcg.com", None, "B"),
