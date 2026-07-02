@@ -13,7 +13,19 @@ HEADERS = {
     "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",
     "Accept-Language": "en-US,en;q=0.9,it;q=0.8",
 }
-TIMEOUT = 20
+TIMEOUT = 12
+MAX_WORKERS = 16
+
+# sessione condivisa: riusa le connessioni (molto più veloce) e ritenta 1 volta da sola
+SESSION = requests.Session()
+SESSION.headers.update(HEADERS)
+try:
+    from requests.adapters import HTTPAdapter
+    _ad = HTTPAdapter(pool_connections=MAX_WORKERS * 2, pool_maxsize=MAX_WORKERS * 2, max_retries=1)
+    SESSION.mount("https://", _ad)
+    SESSION.mount("http://", _ad)
+except Exception:
+    pass
 
 # ---------------- PRODOTTI DA CERCARE ----------------
 # name: etichetta notifica | q: query di ricerca | match: il prodotto è "trovato"
@@ -105,7 +117,6 @@ SHOPS = [
     ("Poketalk", "www.poketalk.se", None, "C"),
     ("Pokemons.dk", "www.pokemons.dk", None, "C"),
     ("PokecTCG", "pokectcg.cz", None, "C"),
-    ("Cardstore.cz", "www.cardstore.cz", None, "C"),
     ("WakuWaku", "www.wakuwaku.cz", None, "C"),
     ("Nerdom", "www.nerdom.gr", None, "C"),
     ("ExtremePokeCorner", "extremepokecorner.com", None, "C"),
@@ -197,7 +208,7 @@ def notify(title, message, url=None, priority="high"):
 
 def fetch(url):
     try:
-        r = requests.get(url, headers=HEADERS, timeout=TIMEOUT, allow_redirects=True)
+        r = SESSION.get(url, timeout=TIMEOUT, allow_redirects=True)
         if r.status_code == 200 and len(r.text) > 500:
             return r.text.lower()
     except Exception:
@@ -284,7 +295,7 @@ def check_shop(state, shop):
             else:
                 status = "listato"
         results.append((prod["name"], status, url, price))
-        time.sleep(0.3)
+        time.sleep(0.1)
     return name, group, results
 
 
@@ -298,7 +309,7 @@ def main():
                priority="default")
 
     alerts = []
-    with ThreadPoolExecutor(max_workers=8) as ex:
+    with ThreadPoolExecutor(max_workers=MAX_WORKERS) as ex:
         futures = {ex.submit(check_shop, state, s): s for s in SHOPS}
         for fut in as_completed(futures):
             try:
@@ -396,6 +407,12 @@ def main():
     # ---- pulizia: elimina cooldown più vecchi di 7 giorni per tenere lo stato leggero ----
     cutoff = time.time() - 7 * 86400
     state["alerts"] = {k: v for k, v in state["alerts"].items() if v > cutoff}
+
+    # ---- pulizia: rimuovi dallo stato i negozi non più monitorati ----
+    valid = {s[0] for s in SHOPS}
+    state["shops"] = {k: v for k, v in state["shops"].items() if k in valid}
+    for key in ("prices", "urls"):
+        state[key] = {k: v for k, v in state.get(key, {}).items() if k.split("|")[0] in valid}
 
     build_dashboard(state)
     save_state(state)
