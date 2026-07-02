@@ -133,8 +133,8 @@
    "Destined Rivals": "irraggiungibile"
   },
   "CardZone": {
-   "Pitch Black (ME05)": "disponibile",
-   "30th Celebration": "disponibile",
+   "Pitch Black (ME05)": "listato",
+   "30th Celebration": "listato",
    "Storm Emerald (ME06)": "disponibile",
    "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "disponibile",
@@ -918,7 +918,8 @@
   "pokeka.hu": "https://pokeka.hu/search?controller=search&s={q}",
   "www.deckshop.de": "https://www.deckshop.de/search?controller=search&s={q}",
   "fabscards.at": "https://fabscards.at/search?q={q}",
-  "rarecards.nl": "https://rarecards.nl/?s={q}&post_type=product"
+  "rarecards.nl": "https://rarecards.nl/?s={q}&post_type=product",
+  "www.poketalk.se": "https://www.poketalk.se/?s={q}&post_type=product"
  },
  "alerts": {
   "Cardstore.cz|30th Celebration": 1783014113.9441674,
