@@ -16,14 +16,25 @@ HEADERS = {
 TIMEOUT = 20
 
 # ---------------- PRODOTTI DA CERCARE ----------------
-# name: etichetta notifica | q: query di ricerca | match: parole che devono comparire nella pagina
+# name: etichetta notifica | q: query di ricerca | match: il prodotto è "trovato"
+# se ALMENO UNA delle varianti compare nella pagina (e la pagina parla di Pokémon)
 PRODUCTS = [
+    # Nuove uscite / preordini
     {"name": "Pitch Black (ME05)",      "q": "pitch black",       "match": ["pitch black"]},
-    {"name": "30th Celebration",        "q": "30th celebration",  "match": ["30th"]},
+    {"name": "30th Celebration",        "q": "30th celebration",  "match": ["30th celebration", "30th anniversary"]},
     {"name": "Storm Emerald (ME06)",    "q": "storm emerald",     "match": ["storm emerald"]},
     {"name": "Chaos Rising (ME04)",     "q": "chaos rising",      "match": ["chaos rising"]},
     {"name": "Phantasmal Flames (ME02)","q": "phantasmal flames", "match": ["phantasmal flames"]},
+    # Set storici caldi — restock a buon prezzo
+    {"name": "Pokémon 151",             "q": "pokemon 151",       "match": ["pokemon 151", "pokémon 151", "151 booster", "151 elite trainer", "151 ultra premium"]},
+    {"name": "Prismatic Evolutions",    "q": "prismatic evolutions", "match": ["prismatic evolutions"]},
+    {"name": "Crown Zenith",            "q": "crown zenith",      "match": ["crown zenith"]},
+    {"name": "Destined Rivals",         "q": "destined rivals",   "match": ["destined rivals"]},
 ]
+
+# La pagina deve riguardare Pokémon, altrimenti il prodotto viene ignorato
+# (evita omonimi di altri giochi/TCG con nomi simili)
+POKEMON_MARKERS = ["pokemon", "pokémon"]
 
 # Parole che indicano disponibilità / preordine
 POSITIVE = ["pre-order", "preorder", "pre order", "add to cart", "add to basket",
@@ -127,12 +138,19 @@ SEARCH_PATTERNS = [
 ]
 
 
+ALERT_COOLDOWN_H = 6      # max 1 notifica per prodotto/negozio ogni N ore
+MAX_ALERTS_PER_RUN = 8    # tetto anti-spam per singolo run
+PROXIMITY = 400           # le parole chiave valgono solo entro N caratteri dal nome prodotto
+
+
 def load_state():
     try:
         with open(STATE_FILE) as f:
-            return json.load(f)
+            s = json.load(f)
+            s.setdefault("alerts", {})
+            return s
     except Exception:
-        return {"shops": {}, "search_url": {}, "first_run": True}
+        return {"shops": {}, "search_url": {}, "alerts": {}, "first_run": True}
 
 
 def save_state(state):
@@ -195,13 +213,21 @@ def check_shop(state, shop):
         if html is None:
             results.append((prod["name"], "irraggiungibile", url))
             continue
-        found = all(m in html for m in prod["match"])
-        if not found:
+        # SOLO prodotti Pokémon: la pagina deve contenere un riferimento a Pokémon
+        is_pokemon_page = any(mk in html for mk in POKEMON_MARKERS)
+        variants_found = [v for v in prod["match"] if v in html]
+        if not variants_found or not is_pokemon_page:
             status = "non listato"
         else:
-            pos = any(k in html for k in POSITIVE)
-            neg = any(k in html for k in NEGATIVE)
-            if pos:
+            # le parole chiave contano solo se VICINE al nome del prodotto,
+            # per evitare falsi positivi da altri articoli sulla stessa pagina
+            pos = neg = False
+            for key in variants_found:
+                for m in re.finditer(re.escape(key), html):
+                    window = html[max(0, m.start() - PROXIMITY): m.end() + PROXIMITY]
+                    pos = pos or any(k in window for k in POSITIVE)
+                    neg = neg or any(k in window for k in NEGATIVE)
+            if pos and not neg:
                 status = "disponibile"
             elif neg:
                 status = "esaurito"
@@ -231,19 +257,34 @@ def main():
                 print(f"errore {futures[fut][0]}: {e}")
                 continue
             prev_shop = state["shops"].setdefault(shop_name, {})
+            now = time.time()
             for prod_name, status, url in results:
                 prev = prev_shop.get(prod_name, "sconosciuto")
+                if status == "irraggiungibile" and prev not in ("sconosciuto", "irraggiungibile"):
+                    # sito momentaneamente giù: non perdere lo stato precedente
+                    print(f"{shop_name:22s} | {prod_name:26s} | {prev} (sito giù, stato conservato)")
+                    continue
                 prev_shop[prod_name] = status
-                # Avvisa solo su transizioni interessanti (non al primo giro)
-                interesting = status == "disponibile" and prev in ("esaurito", "non listato", "listato", "irraggiungibile")
+                # Avvisa solo su transizioni interessanti (non al primo giro,
+                # e non quando un sito torna semplicemente raggiungibile)
+                interesting = status == "disponibile" and prev in ("esaurito", "non listato", "listato")
                 newly_listed = status == "listato" and prev == "non listato"
                 if not first_run and prev != "sconosciuto" and (interesting or newly_listed):
-                    tag = " ⚠️ spedizione Italia da verificare" if group == "C" else ""
-                    verb = "DISPONIBILE/PREORDER" if interesting else "ora listato"
-                    alerts.append((f"🚨 {prod_name} — {shop_name}",
-                                   f"{prod_name} {verb} su {shop_name}{tag}\n{url or ''}", url))
+                    akey = f"{shop_name}|{prod_name}"
+                    last = state["alerts"].get(akey, 0)
+                    if now - last >= ALERT_COOLDOWN_H * 3600:
+                        state["alerts"][akey] = now
+                        tag = " ⚠️ spedizione Italia da verificare" if group == "C" else ""
+                        verb = "DISPONIBILE/PREORDER" if interesting else "ora listato"
+                        alerts.append((f"🚨 {prod_name} — {shop_name}",
+                                       f"{prod_name} {verb} su {shop_name}{tag}\n{url or ''}", url))
                 print(f"{shop_name:22s} | {prod_name:26s} | {prev} -> {status}")
 
+    if len(alerts) > MAX_ALERTS_PER_RUN:
+        extra = len(alerts) - MAX_ALERTS_PER_RUN
+        alerts = alerts[:MAX_ALERTS_PER_RUN]
+        alerts.append(("🚨 Altre novità Pokémon",
+                       f"E altri {extra} aggiornamenti in questo giro — controlla i negozi.", None))
     for title, msg, url in alerts:
         notify(title, msg, url)
         time.sleep(0.5)
