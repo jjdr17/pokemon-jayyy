@@ -141,10 +141,20 @@ SEARCH_PATTERNS = [
 ALERT_COOLDOWN_H = 6      # max 1 notifica per prodotto/negozio ogni N ore
 MAX_ALERTS_PER_RUN = 8    # tetto anti-spam per singolo run
 PROXIMITY = 400           # le parole chiave valgono solo entro N caratteri dal nome prodotto
-DIGEST_HOUR_UTC = 7       # riepilogo giornaliero (7 UTC = 9:00 in Italia d'estate)
+DIGEST_HOURS = [10, 15, 18, 22]   # riepiloghi giornalieri, ora italiana (Europe/Rome)
+DASHBOARD_URL = "https://jjdr17.github.io/pokemon-jayyy/"
+PRICE_DROP_RATIO = 0.85           # avvisa se il prezzo scende di almeno il 15% nello stesso negozio
 # prodotti "caldi": notifica con priorità urgente (suona anche in non disturbare, se configurato)
 URGENT_PRODUCTS = {"Pitch Black (ME05)", "30th Celebration", "Storm Emerald (ME06)"}
 PRICE_RE = re.compile(r'(?:€|\$|£)\s?\d{1,4}(?:[.,]\d{1,2})?')
+
+
+def price_value(p):
+    """'€54,99' -> 54.99 (solo per confronti nello stesso negozio/valuta)."""
+    try:
+        return float(p.lstrip("€$£ ").replace(",", "."))
+    except (ValueError, AttributeError):
+        return None
 
 
 def load_state():
@@ -152,9 +162,10 @@ def load_state():
         with open(STATE_FILE) as f:
             s = json.load(f)
             s.setdefault("alerts", {})
+            s.setdefault("prices", {})
             return s
     except Exception:
-        return {"shops": {}, "search_url": {}, "alerts": {}, "first_run": True}
+        return {"shops": {}, "search_url": {}, "alerts": {}, "prices": {}, "first_run": True}
 
 
 def save_state(state):
@@ -163,16 +174,19 @@ def save_state(state):
         json.dump(state, f, indent=1, ensure_ascii=False)
 
 
+PRIO_MAP = {"urgent": 5, "high": 4, "default": 3}
+
+
 def notify(title, message, url=None, priority="high"):
     if not NTFY_TOPIC:
         print(f"[NO TOPIC] {title}: {message}")
         return
-    headers = {"Title": title.encode("utf-8"), "Priority": priority, "Tags": "rotating_light,zap"}
+    payload = {"topic": NTFY_TOPIC, "title": title, "message": message,
+               "priority": PRIO_MAP.get(priority, 4), "tags": ["zap"]}
     if url:
-        headers["Click"] = url
+        payload["click"] = url
     try:
-        requests.post(f"https://ntfy.sh/{NTFY_TOPIC}", data=message.encode("utf-8"),
-                      headers=headers, timeout=15)
+        requests.post("https://ntfy.sh", json=payload, timeout=15)
     except Exception as e:
         print(f"ntfy error: {e}")
 
@@ -312,6 +326,22 @@ def main():
                         prio = "urgent" if prod_name in URGENT_PRODUCTS and interesting else "high"
                         alerts.append((f"🚨 {prod_name} — {shop_name}",
                                        f"{prod_name} {verb}{ptxt} su {shop_name}{tag}\n{url or ''}", url, prio))
+                # ---- memoria prezzi + avviso calo prezzo ----
+                pkey = f"{shop_name}|{prod_name}"
+                if status == "disponibile" and url:
+                    state.setdefault("urls", {})[pkey] = url
+                if status == "disponibile" and price:
+                    old = price_value(state["prices"].get(pkey))
+                    new = price_value(price)
+                    if (not first_run and old and new and new <= old * PRICE_DROP_RATIO):
+                        dkey = f"drop|{pkey}"
+                        if now - state["alerts"].get(dkey, 0) >= ALERT_COOLDOWN_H * 3600:
+                            state["alerts"][dkey] = now
+                            tag = " ⚠️ spedizione Italia da verificare" if group == "C" else ""
+                            alerts.append((f"📉 Prezzo giù: {prod_name} — {shop_name}",
+                                           f"{prod_name} sceso a {price} (era {state['prices'][pkey]}) su {shop_name}{tag}\n{url or ''}",
+                                           url, "high"))
+                    state["prices"][pkey] = price
                 print(f"{shop_name:22s} | {prod_name:26s} | {prev} -> {status}" + (f" ({price})" if price else ""))
 
     if len(alerts) > MAX_ALERTS_PER_RUN:
@@ -323,24 +353,97 @@ def main():
         notify(title, msg, url, priority=prio)
         time.sleep(0.5)
 
-    # ---- riepilogo giornaliero ----
-    from datetime import datetime, timezone
-    now_utc = datetime.now(timezone.utc)
-    today = now_utc.strftime("%Y-%m-%d")
-    if not first_run and now_utc.hour == DIGEST_HOUR_UTC and state.get("digest_date") != today:
-        state["digest_date"] = today
+    # ---- riepiloghi giornalieri (10, 15, 18, 22 ora italiana) ----
+    from datetime import datetime
+    from zoneinfo import ZoneInfo
+    now_it = datetime.now(ZoneInfo("Europe/Rome"))
+    slot = f"{now_it.strftime('%Y-%m-%d')}-{now_it.hour}"
+    if not first_run and now_it.hour in DIGEST_HOURS and state.get("digest_slot") != slot:
+        state["digest_slot"] = slot
         lines = []
         for prod in PRODUCTS:
             n = prod["name"]
             disp = [s for s, prods in state["shops"].items() if prods.get(n) == "disponibile"]
             if disp:
-                lines.append(f"✅ {n}: {len(disp)} negozi ({', '.join(disp[:4])}{'…' if len(disp) > 4 else ''})")
+                # prezzo più basso registrato tra i negozi disponibili
+                best = None
+                for s_name in disp:
+                    p = state["prices"].get(f"{s_name}|{n}")
+                    v = price_value(p)
+                    if v and (best is None or v < best[0]):
+                        best = (v, p, s_name)
+                ptxt = f", da {best[1]} ({best[2]})" if best else ""
+                lines.append(f"✅ {n}: {len(disp)} negozi{ptxt}")
             else:
-                lines.append(f"— {n}: nessuna disponibilità rilevata")
-        notify("📋 Riepilogo Pokémon del giorno", "\n".join(lines), priority="default")
+                lines.append(f"— {n}: nessuna disponibilità")
+        notify(f"📋 Riepilogo Pokémon — ore {now_it.hour}", "\n".join(lines),
+               url=DASHBOARD_URL, priority="default")
 
+    # ---- watchdog: se quasi tutti i negozi risultano irraggiungibili, avvisa (1 volta al giorno) ----
+    today_it = now_it.strftime("%Y-%m-%d")
+    tot = sum(1 for prods in state["shops"].values() for v in prods.values())
+    down = sum(1 for prods in state["shops"].values() for v in prods.values() if v == "irraggiungibile")
+    if (not first_run and tot > 20 and down / tot > 0.7 and state.get("watchdog_date") != today_it):
+        state["watchdog_date"] = today_it
+        notify("⚠️ Monitor Pokémon: problema",
+               f"{down}/{tot} controlli irraggiungibili — possibile blocco IP o problema di rete. "
+               "Controlla i log su GitHub Actions.", priority="high")
+
+    # ---- pulizia: elimina cooldown più vecchi di 7 giorni per tenere lo stato leggero ----
+    cutoff = time.time() - 7 * 86400
+    state["alerts"] = {k: v for k, v in state["alerts"].items() if v > cutoff}
+
+    build_dashboard(state)
     save_state(state)
     print(f"\nFatto. Alert inviati: {len(alerts)}")
+
+
+def build_dashboard(state):
+    """Genera docs/index.html: dashboard con stato e prezzi, pubblicata su GitHub Pages."""
+    from datetime import datetime
+    from zoneinfo import ZoneInfo
+    now_it = datetime.now(ZoneInfo("Europe/Rome")).strftime("%d/%m/%Y %H:%M")
+    rows = []
+    for prod in PRODUCTS:
+        n = prod["name"]
+        avail = []
+        counts = {"disponibile": 0, "esaurito": 0, "listato": 0}
+        for shop_name, prods in state["shops"].items():
+            st = prods.get(n)
+            if st in counts:
+                counts[st] += 1
+            if st == "disponibile":
+                p = state["prices"].get(f"{shop_name}|{n}", "")
+                u = state.get("urls", {}).get(f"{shop_name}|{n}", "#")
+                avail.append((price_value(p) or 9e9, shop_name, p, u))
+        avail.sort()
+        shops_html = " ".join(
+            f'<a class="shop" href="{u}" target="_blank">{s}{(" · " + p) if p else ""}</a>'
+            for _, s, p, u in avail[:12]) or '<span class="none">nessuno</span>'
+        badge = f'<span class="ok">{counts["disponibile"]} disponibili</span>' if counts["disponibile"] else '<span class="ko">0 disponibili</span>'
+        rows.append(f'<div class="card"><h2>{n} {badge}</h2>'
+                    f'<div class="meta">{counts["esaurito"]} esauriti · {counts["listato"]} listati</div>'
+                    f'<div class="shops">{shops_html}</div></div>')
+    html = f"""<!DOCTYPE html><html lang="it"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="refresh" content="300">
+<title>Pokémon TCG Monitor</title><style>
+body{{font-family:-apple-system,sans-serif;background:#0f1220;color:#eef1ff;margin:0;padding:16px}}
+h1{{font-size:1.2rem}} h2{{font-size:1rem;margin:0 0 4px}}
+.card{{background:#1a1f35;border-radius:12px;padding:14px;margin-bottom:10px}}
+.ok{{background:#14532d;color:#4ade80;border-radius:99px;padding:2px 10px;font-size:.75rem}}
+.ko{{background:#3f1d1d;color:#f87171;border-radius:99px;padding:2px 10px;font-size:.75rem}}
+.meta{{color:#9aa3c7;font-size:.78rem;margin-bottom:8px}}
+.shop{{display:inline-block;background:#222846;color:#7dd3fc;text-decoration:none;border-radius:99px;padding:4px 10px;font-size:.8rem;margin:2px}}
+.none{{color:#9aa3c7;font-style:italic;font-size:.85rem}}
+footer{{color:#9aa3c7;font-size:.75rem;margin-top:14px}}</style></head><body>
+<h1>⚡ Pokémon TCG Monitor</h1>
+{''.join(rows)}
+<footer>Aggiornato: {now_it} (ora italiana) · si aggiorna ogni 5 minuti · ⚠️ verifica sempre prezzo e spedizione sul negozio</footer>
+</body></html>"""
+    os.makedirs("docs", exist_ok=True)
+    with open("docs/index.html", "w") as f:
+        f.write(html)
 
 
 if __name__ == "__main__":
