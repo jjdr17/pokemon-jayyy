@@ -135,7 +135,7 @@
   "CardZone": {
    "Pitch Black (ME05)": "disponibile",
    "30th Celebration": "listato",
-   "Storm Emerald (ME06)": "disponibile",
+   "Storm Emerald (ME06)": "listato",
    "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "irraggiungibile",
    "Pokémon 151": "irraggiungibile",
@@ -349,8 +349,8 @@
    "Phantasmal Flames (ME02)": "irraggiungibile",
    "Pokémon 151": "irraggiungibile",
    "Prismatic Evolutions": "irraggiungibile",
-   "Crown Zenith": "irraggiungibile",
-   "Destined Rivals": "irraggiungibile"
+   "Crown Zenith": "listato",
+   "Destined Rivals": "listato"
   },
   "Sapphire-Cards": {
    "Pitch Black (ME05)": "disponibile",
@@ -773,12 +773,12 @@
   "iTCG.bg": {
    "Pitch Black (ME05)": "irraggiungibile",
    "30th Celebration": "irraggiungibile",
-   "Storm Emerald (ME06)": "irraggiungibile",
-   "Chaos Rising (ME04)": "irraggiungibile",
-   "Phantasmal Flames (ME02)": "irraggiungibile",
-   "Pokémon 151": "irraggiungibile",
-   "Prismatic Evolutions": "irraggiungibile",
-   "Crown Zenith": "irraggiungibile",
+   "Storm Emerald (ME06)": "non listato",
+   "Chaos Rising (ME04)": "non listato",
+   "Phantasmal Flames (ME02)": "non listato",
+   "Pokémon 151": "non listato",
+   "Prismatic Evolutions": "non listato",
+   "Crown Zenith": "non listato",
    "Destined Rivals": "irraggiungibile"
   },
   "Stoyanov Games": {
@@ -910,7 +910,9 @@
   "pokebank.es": "https://pokebank.es/?s={q}&post_type=product",
   "www.blackfire.eu": "https://www.blackfire.eu/search?q={q}",
   "hobbykort.se": "https://hobbykort.se/search?q={q}",
-  "pokechest.at": "https://pokechest.at/search?controller=search&s={q}"
+  "pokechest.at": "https://pokechest.at/search?controller=search&s={q}",
+  "cardcorner.at": "https://cardcorner.at/search?q={q}",
+  "itcg.bg": "https://itcg.bg/?s={q}&post_type=product"
  },
  "alerts": {
   "Cardstore.cz|30th Celebration": 1783014113.9441674,
