@@ -101,7 +101,7 @@
    "Pokémon 151": "irraggiungibile",
    "Prismatic Evolutions": "irraggiungibile",
    "Crown Zenith": "esaurito",
-   "Destined Rivals": "irraggiungibile"
+   "Destined Rivals": "esaurito"
   },
   "SunnyStore": {
    "Pitch Black (ME05)": "listato",
@@ -111,8 +111,8 @@
    "Phantasmal Flames (ME02)": "esaurito",
    "Pokémon 151": "disponibile",
    "Prismatic Evolutions": "irraggiungibile",
-   "Crown Zenith": "irraggiungibile",
-   "Destined Rivals": "irraggiungibile"
+   "Crown Zenith": "listato",
+   "Destined Rivals": "esaurito"
   },
   "Poke-Power": {
    "Pitch Black (ME05)": "listato",
@@ -121,8 +121,8 @@
    "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "listato",
    "Pokémon 151": "listato",
-   "Prismatic Evolutions": "irraggiungibile",
-   "Crown Zenith": "irraggiungibile",
+   "Prismatic Evolutions": "listato",
+   "Crown Zenith": "listato",
    "Destined Rivals": "irraggiungibile"
   },
   "AllDayTCG": {
@@ -132,9 +132,9 @@
    "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "irraggiungibile",
    "Pokémon 151": "irraggiungibile",
-   "Prismatic Evolutions": "irraggiungibile",
-   "Crown Zenith": "irraggiungibile",
-   "Destined Rivals": "irraggiungibile"
+   "Prismatic Evolutions": "esaurito",
+   "Crown Zenith": "listato",
+   "Destined Rivals": "listato"
   },
   "Pokeseller14": {
    "Pitch Black (ME05)": "irraggiungibile",
@@ -151,9 +151,9 @@
    "Pitch Black (ME05)": "listato",
    "30th Celebration": "listato",
    "Storm Emerald (ME06)": "listato",
-   "Chaos Rising (ME04)": "irraggiungibile",
-   "Phantasmal Flames (ME02)": "irraggiungibile",
-   "Pokémon 151": "irraggiungibile",
+   "Chaos Rising (ME04)": "listato",
+   "Phantasmal Flames (ME02)": "listato",
+   "Pokémon 151": "disponibile",
    "Prismatic Evolutions": "irraggiungibile",
    "Crown Zenith": "irraggiungibile",
    "Destined Rivals": "irraggiungibile"
@@ -172,10 +172,10 @@
   "CardZone": {
    "Pitch Black (ME05)": "listato",
    "30th Celebration": "listato",
-   "Storm Emerald (ME06)": "listato",
+   "Storm Emerald (ME06)": "disponibile",
    "Chaos Rising (ME04)": "listato",
-   "Phantasmal Flames (ME02)": "irraggiungibile",
-   "Pokémon 151": "irraggiungibile",
+   "Phantasmal Flames (ME02)": "listato",
+   "Pokémon 151": "listato",
    "Prismatic Evolutions": "irraggiungibile",
    "Crown Zenith": "irraggiungibile",
    "Destined Rivals": "irraggiungibile"
@@ -186,8 +186,8 @@
    "Storm Emerald (ME06)": "listato",
    "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "irraggiungibile",
-   "Pokémon 151": "irraggiungibile",
-   "Prismatic Evolutions": "irraggiungibile",
+   "Pokémon 151": "listato",
+   "Prismatic Evolutions": "listato",
    "Crown Zenith": "irraggiungibile",
    "Destined Rivals": "irraggiungibile"
   },
@@ -933,8 +933,9 @@
   "Pikashop|Chaos Rising (ME04)": "https://pikashop.pl/?s=chaos+rising&post_type=product",
   "Pokemania.ro|Pitch Black (ME05)": "https://pokemania.ro/vstar-universe/pokemon-tcg-vstar-universes-s12a-jp-booster-bundle-display-box-10-pachete-booster-jp",
   "CardZone|Pitch Black (ME05)": "https://cardzone.es/search?q=pitch+black",
-  "Total Cards (UK)|Pitch Black (ME05)": "https://totalcards.net/products/ultra-pro-pokemon-mega-evolution-pitch-black-9-pocket-portfolio?_pos=3&_sid=430abc46d&_ss=r",
-  "SunnyStore|Pokémon 151": "https://sunnystore.es/search?q=pokemon+151"
+  "Total Cards (UK)|Pitch Black (ME05)": "https://totalcards.net/products/ultra-pro-pokemon-mega-evolution-pitch-black-9-pocket-portfolio?_pos=3&_sid=9eb335de2&_ss=r",
+  "SunnyStore|Pokémon 151": "https://sunnystore.es/search?q=pokemon+151",
+  "God of Cards|Pokémon 151": "https://godofcards.com/search?q=pokemon+151"
  },
  "log": [
   {
