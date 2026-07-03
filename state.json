@@ -35,7 +35,7 @@
   },
   "Amazon.it": {
    "30th Celebration": "non listato",
-   "Storm Emerald (ME06)": "non listato"
+   "Storm Emerald (ME06)": "listato"
   },
   "TCGplayer": {
    "Pitch Black (ME05)": "non listato",
@@ -170,7 +170,7 @@
    "Destined Rivals": "irraggiungibile"
   },
   "CardZone": {
-   "Pitch Black (ME05)": "listato",
+   "Pitch Black (ME05)": "disponibile",
    "30th Celebration": "listato",
    "Storm Emerald (ME06)": "disponibile",
    "Chaos Rising (ME04)": "listato",
@@ -588,7 +588,7 @@
    "Destined Rivals": "non listato"
   },
   "PokeCardShop": {
-   "Pitch Black (ME05)": "esaurito",
+   "Pitch Black (ME05)": "disponibile",
    "30th Celebration": "listato",
    "Storm Emerald (ME06)": "listato",
    "Chaos Rising (ME04)": "disponibile",
@@ -689,7 +689,7 @@
   "Pokeka.hu": {
    "Pitch Black (ME05)": "irraggiungibile",
    "30th Celebration": "irraggiungibile",
-   "Storm Emerald (ME06)": "irraggiungibile",
+   "Storm Emerald (ME06)": "non listato",
    "Chaos Rising (ME04)": "irraggiungibile",
    "Phantasmal Flames (ME02)": "irraggiungibile",
    "Pokémon 151": "irraggiungibile",
@@ -900,7 +900,8 @@
   "www.blackfire.eu": "https://www.blackfire.eu/search?q={q}",
   "crispycards.de": "https://crispycards.de/?s={q}&post_type=product",
   "pokechest.at": "https://pokechest.at/search?controller=search&s={q}",
-  "www.pokemillon.com": "https://www.pokemillon.com/search?q={q}"
+  "www.pokemillon.com": "https://www.pokemillon.com/search?q={q}",
+  "pokeka.hu": "https://pokeka.hu/?s={q}&post_type=product"
  },
  "alerts": {
   "CardZone|Pitch Black (ME05)": 1783074708.1611075,
