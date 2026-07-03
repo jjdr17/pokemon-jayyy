@@ -170,7 +170,7 @@
    "Destined Rivals": "irraggiungibile"
   },
   "CardZone": {
-   "Pitch Black (ME05)": "listato",
+   "Pitch Black (ME05)": "disponibile",
    "30th Celebration": "listato",
    "Storm Emerald (ME06)": "listato",
    "Chaos Rising (ME04)": "listato",
@@ -913,7 +913,7 @@
   "www.poketalk.se": "https://www.poketalk.se/search?controller=search&s={q}"
  },
  "alerts": {
-  "CardZone|Pitch Black (ME05)": 1783097442.4874465,
+  "CardZone|Pitch Black (ME05)": 1783119046.1420548,
   "CardZone|Storm Emerald (ME06)": 1783098327.1809683,
   "CardZone|30th Celebration": 1783098327.1809683,
   "PokeCardShop|Pitch Black (ME05)": 1783080962.4063685,
@@ -1061,6 +1061,11 @@
    "ts": "03/07 23:40",
    "title": "🚨 DISPONIBILE/PREORDER: Chaos Rising (ME04) — CardZone",
    "url": "https://cardzone.es/search?q=chaos+rising"
+  },
+  {
+   "ts": "04/07 00:50",
+   "title": "🚨 DISPONIBILE/PREORDER: Pitch Black (ME05) — CardZone",
+   "url": "https://cardzone.es/search?q=pitch+black"
   }
  ],
  "digest_slot": "2026-07-03-22"
