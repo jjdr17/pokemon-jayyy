@@ -439,10 +439,11 @@ def main():
                     if now - last >= ALERT_COOLDOWN_H * 3600:
                         state["alerts"][akey] = now
                         tag = " ⚠️ spedizione Italia da verificare" if group == "C" else ""
-                        ptxt = f" a {price}" if price else ""
+                        ptxt = f" a {price}" if price else " (prezzo non rilevato, verifica sul link)"
                         prio = "urgent" if prod_name in URGENT_PRODUCTS else "high"
-                        send_alert(f"🚨 {prod_name} — {shop_name}",
-                                   f"{prod_name} DISPONIBILE/PREORDER{ptxt} su {shop_name}{tag}\n{url or ''}", url, prio)
+                        kind = "RESTOCK" if prev == "esaurito" else "DISPONIBILE/PREORDER"
+                        send_alert(f"🚨 {kind}: {prod_name} — {shop_name}",
+                                   f"{prod_name} {kind.lower()}{ptxt} su {shop_name}{tag}\n{url or ''}", url, prio)
                 # ---- memoria prezzi + avviso calo prezzo ----
                 pkey = f"{shop_name}|{prod_name}"
                 if status == "disponibile" and url:
