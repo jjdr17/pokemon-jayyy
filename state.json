@@ -170,10 +170,10 @@
    "Destined Rivals": "irraggiungibile"
   },
   "CardZone": {
-   "Pitch Black (ME05)": "disponibile",
+   "Pitch Black (ME05)": "listato",
    "30th Celebration": "disponibile",
-   "Storm Emerald (ME06)": "disponibile",
-   "Chaos Rising (ME04)": "listato",
+   "Storm Emerald (ME06)": "listato",
+   "Chaos Rising (ME04)": "disponibile",
    "Phantasmal Flames (ME02)": "listato",
    "Pokémon 151": "listato",
    "Prismatic Evolutions": "irraggiungibile",
@@ -589,9 +589,9 @@
   },
   "PokeCardShop": {
    "Pitch Black (ME05)": "esaurito",
-   "30th Celebration": "listato",
+   "30th Celebration": "non listato",
    "Storm Emerald (ME06)": "listato",
-   "Chaos Rising (ME04)": "disponibile",
+   "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "esaurito",
    "Pokémon 151": "listato",
    "Prismatic Evolutions": "disponibile",
@@ -910,7 +910,8 @@
   "PokeCardShop|Pitch Black (ME05)": 1783080962.4063685,
   "drop|MagicBazar|Pitch Black (ME05)": 1783082763.179081,
   "PokeCardShop|Destined Rivals": 1783084867.546246,
-  "Rogerz|Pitch Black (ME05)": 1783087262.8826923
+  "Rogerz|Pitch Black (ME05)": 1783087262.8826923,
+  "CardZone|Chaos Rising (ME04)": 1783091447.6658096
  },
  "prices": {
   "Packratt (UK)|Chaos Rising (ME04)": "£10.01",
@@ -947,7 +948,8 @@
   "God of Cards|Pokémon 151": "https://godofcards.com/search?q=pokemon+151",
   "PokeCardShop|Pitch Black (ME05)": "https://www.pokecardshop.be/search?q=pitch+black",
   "PokeCardShop|Destined Rivals": "https://www.pokecardshop.be/search?q=destined+rivals",
-  "Rogerz|Pitch Black (ME05)": "https://rogerz.dk/search?q=pitch+black"
+  "Rogerz|Pitch Black (ME05)": "https://rogerz.dk/search?q=pitch+black",
+  "CardZone|Chaos Rising (ME04)": "https://cardzone.es/search?q=chaos+rising"
  },
  "log": [
   {
@@ -984,6 +986,11 @@
    "ts": "03/07 16:01",
    "title": "🚨 DISPONIBILE/PREORDER: Pitch Black (ME05) — Rogerz",
    "url": "https://rogerz.dk/search?q=pitch+black"
+  },
+  {
+   "ts": "03/07 17:10",
+   "title": "🚨 DISPONIBILE/PREORDER: Chaos Rising (ME04) — CardZone",
+   "url": "https://cardzone.es/search?q=chaos+rising"
   }
  ],
  "digest_slot": "2026-07-03-15"
