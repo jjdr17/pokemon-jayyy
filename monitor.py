@@ -21,6 +21,11 @@ else:
 HOT_SHOP_NAMES = {"TCGplayer", "Pokemon Center", "Amazon.it", "GameStop US",
                   "GameLife (IT)", "GameStop Italia"}
 HOT_PRODUCT_NAMES = {"Pitch Black (ME05)", "30th Celebration", "Storm Emerald (ME06)"}
+
+# Filtri per negozio: controlla SOLO questi prodotti (per ridurre notifiche inutili)
+SHOP_PRODUCT_FILTER = {
+    "Amazon.it": {"30th Celebration", "Storm Emerald (ME06)"},
+}
 import random
 USER_AGENTS = [
     "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",
@@ -322,7 +327,10 @@ def check_shop(state, shop):
     """Ritorna lista di (product_name, status, url) per un negozio."""
     name, domain, template, group = shop
     results = []
+    allowed = SHOP_PRODUCT_FILTER.get(name)
     for prod in PRODUCTS:
+        if allowed is not None and prod["name"] not in allowed:
+            continue
         url = get_search_url(state, name, domain, template, prod["q"])
         if not url:
             results.append((prod["name"], "irraggiungibile", None, None))
@@ -422,21 +430,19 @@ def main():
                     print(f"{shop_name:22s} | {prod_name:26s} | {prev} (sito giù, stato conservato)")
                     continue
                 prev_shop[prod_name] = status
-                # Avvisa solo su transizioni interessanti (non al primo giro,
-                # e non quando un sito torna semplicemente raggiungibile)
+                # Avvisa SOLO quando un prodotto diventa DISPONIBILE (non al primo giro,
+                # non per semplici comparse a listino, non quando un sito torna raggiungibile)
                 interesting = status == "disponibile" and prev in ("esaurito", "non listato", "listato")
-                newly_listed = status == "listato" and prev == "non listato"
-                if not first_run and prev != "sconosciuto" and (interesting or newly_listed):
+                if not first_run and prev != "sconosciuto" and interesting:
                     akey = f"{shop_name}|{prod_name}"
                     last = max(state["alerts"].get(akey, 0), other_alerts.get(akey, 0))
                     if now - last >= ALERT_COOLDOWN_H * 3600:
                         state["alerts"][akey] = now
                         tag = " ⚠️ spedizione Italia da verificare" if group == "C" else ""
-                        verb = "DISPONIBILE/PREORDER" if interesting else "ora listato"
                         ptxt = f" a {price}" if price else ""
-                        prio = "urgent" if prod_name in URGENT_PRODUCTS and interesting else "high"
+                        prio = "urgent" if prod_name in URGENT_PRODUCTS else "high"
                         send_alert(f"🚨 {prod_name} — {shop_name}",
-                                   f"{prod_name} {verb}{ptxt} su {shop_name}{tag}\n{url or ''}", url, prio)
+                                   f"{prod_name} DISPONIBILE/PREORDER{ptxt} su {shop_name}{tag}\n{url or ''}", url, prio)
                 # ---- memoria prezzi + avviso calo prezzo ----
                 pkey = f"{shop_name}|{prod_name}"
                 if status == "disponibile" and url:
@@ -499,6 +505,10 @@ def main():
     # ---- pulizia: rimuovi dallo stato i negozi non più monitorati ----
     valid = {s[0] for s in SHOPS}
     state["shops"] = {k: v for k, v in state["shops"].items() if k in valid}
+    # e i prodotti esclusi dai filtri per negozio
+    for shop_name, allowed in SHOP_PRODUCT_FILTER.items():
+        if shop_name in state["shops"]:
+            state["shops"][shop_name] = {k: v for k, v in state["shops"][shop_name].items() if k in allowed}
     for key in ("prices", "urls"):
         state[key] = {k: v for k, v in state.get(key, {}).items() if k.split("|")[0] in valid}
 
