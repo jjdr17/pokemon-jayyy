@@ -133,9 +133,9 @@
    "Destined Rivals": "listato"
   },
   "CardZone": {
-   "Pitch Black (ME05)": "listato",
+   "Pitch Black (ME05)": "disponibile",
    "30th Celebration": "listato",
-   "Storm Emerald (ME06)": "disponibile",
+   "Storm Emerald (ME06)": "listato",
    "Chaos Rising (ME04)": "disponibile",
    "Phantasmal Flames (ME02)": "disponibile",
    "Pokémon 151": "disponibile",
@@ -939,7 +939,7 @@
   "Amazon.it|Pokémon 151": 1783045533.536075,
   "PokeCardShop|Pitch Black (ME05)": 1783066273.5000396,
   "Amazon.it|Pitch Black (ME05)": 1783065054.4439752,
-  "CardZone|Pitch Black (ME05)": 1783046127.4060724,
+  "CardZone|Pitch Black (ME05)": 1783067729.8545783,
   "CardZone|Storm Emerald (ME06)": 1783046444.6166468,
   "PokeCardShop|Chaos Rising (ME04)": 1783059663.500404,
   "MagicBazar|Prismatic Evolutions": 1783027887.2810962,
@@ -996,11 +996,6 @@
   "CardZone|Pokémon 151": "https://cardzone.es/search?q=pokemon+151"
  },
  "log": [
-  {
-   "ts": "02/07 23:31",
-   "title": "🚨 Prismatic Evolutions — MagicBazar",
-   "url": "https://www.magicbazar.fr/?s=prismatic+evolutions&post_type=product"
-  },
   {
    "ts": "02/07 23:40",
    "title": "🚨 Phantasmal Flames (ME02) — PokeCardShop",
@@ -1145,6 +1140,11 @@
    "ts": "03/07 10:30",
    "title": "🚨 Pokémon 151 — CardZone",
    "url": "https://cardzone.es/search?q=pokemon+151"
+  },
+  {
+   "ts": "03/07 10:35",
+   "title": "🚨 Pitch Black (ME05) — CardZone",
+   "url": "https://cardzone.es/search?q=pitch+black"
   }
  ],
  "digest_slot": "2026-07-03-10"
