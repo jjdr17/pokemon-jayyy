@@ -171,11 +171,11 @@
   },
   "CardZone": {
    "Pitch Black (ME05)": "disponibile",
-   "30th Celebration": "disponibile",
+   "30th Celebration": "listato",
    "Storm Emerald (ME06)": "disponibile",
    "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "listato",
-   "Pokémon 151": "listato",
+   "Pokémon 151": "disponibile",
    "Prismatic Evolutions": "esaurito",
    "Crown Zenith": "irraggiungibile",
    "Destined Rivals": "irraggiungibile"
@@ -923,7 +923,8 @@
   "CardZone|Chaos Rising (ME04)": 1783091447.6658096,
   "PokeCardShop|Chaos Rising (ME04)": 1783091751.63305,
   "Total Cards (UK)|Pitch Black (ME05)": 1783103456.411434,
-  "PokeCardShop|Phantasmal Flames (ME02)": 1783108546.5039468
+  "PokeCardShop|Phantasmal Flames (ME02)": 1783108546.5039468,
+  "CardZone|Pokémon 151": 1783109447.9759972
  },
  "prices": {
   "Packratt (UK)|Chaos Rising (ME04)": "£10.01",
@@ -956,7 +957,7 @@
   "Pikashop|Chaos Rising (ME04)": "https://pikashop.pl/?s=chaos+rising&post_type=product",
   "Pokemania.ro|Pitch Black (ME05)": "https://pokemania.ro/vstar-universe/pokemon-tcg-vstar-universes-s12a-jp-booster-bundle-display-box-10-pachete-booster-jp",
   "CardZone|Pitch Black (ME05)": "https://cardzone.es/search?q=pitch+black",
-  "Total Cards (UK)|Pitch Black (ME05)": "https://totalcards.net/products/ultra-pro-pokemon-mega-evolution-pitch-black-9-pocket-portfolio?_pos=3&_sid=b1e5a53b9&_ss=r",
+  "Total Cards (UK)|Pitch Black (ME05)": "https://totalcards.net/products/ultra-pro-pokemon-mega-evolution-pitch-black-9-pocket-portfolio?_pos=3&_sid=75dc5cc3b&_ss=r",
   "SunnyStore|Pokémon 151": "https://sunnystore.es/search?q=pokemon+151",
   "God of Cards|Pokémon 151": "https://godofcards.com/search?q=pokemon+151",
   "PokeCardShop|Pitch Black (ME05)": "https://www.pokecardshop.be/search?q=pitch+black",
@@ -965,7 +966,8 @@
   "CardZone|Chaos Rising (ME04)": "https://cardzone.es/search?q=chaos+rising",
   "Total Cards (UK)|30th Celebration": "https://totalcards.net/products/pokemon-30th-celebration-booster-pack?_pos=1&_sid=2de81951b&_ss=r",
   "God of Cards|Prismatic Evolutions": "https://godofcards.com/search?q=prismatic+evolutions",
-  "PokeCardShop|Phantasmal Flames (ME02)": "https://www.pokecardshop.be/search?q=phantasmal+flames"
+  "PokeCardShop|Phantasmal Flames (ME02)": "https://www.pokecardshop.be/search?q=phantasmal+flames",
+  "CardZone|Pokémon 151": "https://cardzone.es/search?q=pokemon+151"
  },
  "log": [
   {
@@ -1042,6 +1044,11 @@
    "ts": "03/07 21:55",
    "title": "🚨 RESTOCK: Phantasmal Flames (ME02) — PokeCardShop",
    "url": "https://www.pokecardshop.be/search?q=phantasmal+flames"
+  },
+  {
+   "ts": "03/07 22:10",
+   "title": "🚨 DISPONIBILE/PREORDER: Pokémon 151 — CardZone",
+   "url": "https://cardzone.es/search?q=pokemon+151"
   }
  ],
  "digest_slot": "2026-07-03-22"
