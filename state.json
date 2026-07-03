@@ -171,7 +171,7 @@
   },
   "CardZone": {
    "Pitch Black (ME05)": "listato",
-   "30th Celebration": "disponibile",
+   "30th Celebration": "listato",
    "Storm Emerald (ME06)": "listato",
    "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "listato",
@@ -592,7 +592,7 @@
    "30th Celebration": "listato",
    "Storm Emerald (ME06)": "listato",
    "Chaos Rising (ME04)": "disponibile",
-   "Phantasmal Flames (ME02)": "esaurito",
+   "Phantasmal Flames (ME02)": "disponibile",
    "Pokémon 151": "listato",
    "Prismatic Evolutions": "disponibile",
    "Crown Zenith": "esaurito",
@@ -922,13 +922,14 @@
   "Rogerz|Pitch Black (ME05)": 1783087262.8826923,
   "CardZone|Chaos Rising (ME04)": 1783091447.6658096,
   "PokeCardShop|Chaos Rising (ME04)": 1783091751.63305,
-  "Total Cards (UK)|Pitch Black (ME05)": 1783103456.411434
+  "Total Cards (UK)|Pitch Black (ME05)": 1783103456.411434,
+  "PokeCardShop|Phantasmal Flames (ME02)": 1783108546.5039468
  },
  "prices": {
   "Packratt (UK)|Chaos Rising (ME04)": "£10.01",
   "Packratt (UK)|Pokémon 151": "£29.99",
   "PokeCardShop|Chaos Rising (ME04)": "€6.95",
-  "MagicBazar|Pitch Black (ME05)": "$84",
+  "MagicBazar|Pitch Black (ME05)": "$85",
   "Total Cards (UK)|Pitch Black (ME05)": "£4.79",
   "SunnyStore|Pokémon 151": "€26,90",
   "Total Cards (UK)|30th Celebration": "£9.13"
@@ -963,7 +964,8 @@
   "Rogerz|Pitch Black (ME05)": "https://rogerz.dk/search?q=pitch+black",
   "CardZone|Chaos Rising (ME04)": "https://cardzone.es/search?q=chaos+rising",
   "Total Cards (UK)|30th Celebration": "https://totalcards.net/products/pokemon-30th-celebration-booster-pack?_pos=1&_sid=2de81951b&_ss=r",
-  "God of Cards|Prismatic Evolutions": "https://godofcards.com/search?q=prismatic+evolutions"
+  "God of Cards|Prismatic Evolutions": "https://godofcards.com/search?q=prismatic+evolutions",
+  "PokeCardShop|Phantasmal Flames (ME02)": "https://www.pokecardshop.be/search?q=phantasmal+flames"
  },
  "log": [
   {
@@ -1035,6 +1037,11 @@
    "ts": "03/07 21:01",
    "title": "📉 Prezzo giù: Pitch Black (ME05) — MagicBazar",
    "url": "https://www.magicbazar.fr/en/produit/647162/gift-bundle-marvel-super-heroes-magic-en"
+  },
+  {
+   "ts": "03/07 21:55",
+   "title": "🚨 RESTOCK: Phantasmal Flames (ME02) — PokeCardShop",
+   "url": "https://www.pokecardshop.be/search?q=phantasmal+flames"
   }
  ],
  "digest_slot": "2026-07-03-18"
