@@ -35,7 +35,7 @@
   },
   "Amazon.it": {
    "30th Celebration": "non listato",
-   "Storm Emerald (ME06)": "listato"
+   "Storm Emerald (ME06)": "non listato"
   },
   "TCGplayer": {
    "Pitch Black (ME05)": "non listato",
@@ -170,9 +170,9 @@
    "Destined Rivals": "irraggiungibile"
   },
   "CardZone": {
-   "Pitch Black (ME05)": "disponibile",
-   "30th Celebration": "disponibile",
-   "Storm Emerald (ME06)": "listato",
+   "Pitch Black (ME05)": "listato",
+   "30th Celebration": "listato",
+   "Storm Emerald (ME06)": "disponibile",
    "Chaos Rising (ME04)": "disponibile",
    "Phantasmal Flames (ME02)": "listato",
    "Pokémon 151": "listato",
@@ -274,21 +274,21 @@
    "Storm Emerald (ME06)": "irraggiungibile",
    "Chaos Rising (ME04)": "irraggiungibile",
    "Phantasmal Flames (ME02)": "irraggiungibile",
-   "Pokémon 151": "irraggiungibile",
-   "Prismatic Evolutions": "irraggiungibile",
-   "Crown Zenith": "irraggiungibile",
-   "Destined Rivals": "irraggiungibile"
+   "Pokémon 151": "listato",
+   "Prismatic Evolutions": "non listato",
+   "Crown Zenith": "non listato",
+   "Destined Rivals": "non listato"
   },
   "MistiCards": {
    "Pitch Black (ME05)": "irraggiungibile",
    "30th Celebration": "irraggiungibile",
    "Storm Emerald (ME06)": "irraggiungibile",
    "Chaos Rising (ME04)": "irraggiungibile",
-   "Phantasmal Flames (ME02)": "irraggiungibile",
-   "Pokémon 151": "irraggiungibile",
-   "Prismatic Evolutions": "irraggiungibile",
-   "Crown Zenith": "irraggiungibile",
-   "Destined Rivals": "irraggiungibile"
+   "Phantasmal Flames (ME02)": "listato",
+   "Pokémon 151": "listato",
+   "Prismatic Evolutions": "listato",
+   "Crown Zenith": "listato",
+   "Destined Rivals": "listato"
   },
   "Packratt (UK)": {
    "Pitch Black (ME05)": "listato",
@@ -317,11 +317,11 @@
    "30th Celebration": "irraggiungibile",
    "Storm Emerald (ME06)": "irraggiungibile",
    "Chaos Rising (ME04)": "irraggiungibile",
-   "Phantasmal Flames (ME02)": "irraggiungibile",
-   "Pokémon 151": "irraggiungibile",
-   "Prismatic Evolutions": "irraggiungibile",
-   "Crown Zenith": "irraggiungibile",
-   "Destined Rivals": "irraggiungibile"
+   "Phantasmal Flames (ME02)": "non listato",
+   "Pokémon 151": "non listato",
+   "Prismatic Evolutions": "non listato",
+   "Crown Zenith": "non listato",
+   "Destined Rivals": "non listato"
   },
   "Butticards": {
    "Pitch Black (ME05)": "non listato",
@@ -335,14 +335,14 @@
    "Destined Rivals": "non listato"
   },
   "CardCorner.at": {
-   "Pitch Black (ME05)": "irraggiungibile",
-   "30th Celebration": "irraggiungibile",
-   "Storm Emerald (ME06)": "irraggiungibile",
-   "Chaos Rising (ME04)": "irraggiungibile",
-   "Phantasmal Flames (ME02)": "irraggiungibile",
-   "Pokémon 151": "irraggiungibile",
-   "Prismatic Evolutions": "irraggiungibile",
-   "Crown Zenith": "irraggiungibile",
+   "Pitch Black (ME05)": "listato",
+   "30th Celebration": "listato",
+   "Storm Emerald (ME06)": "listato",
+   "Chaos Rising (ME04)": "listato",
+   "Phantasmal Flames (ME02)": "listato",
+   "Pokémon 151": "listato",
+   "Prismatic Evolutions": "listato",
+   "Crown Zenith": "listato",
    "Destined Rivals": "irraggiungibile"
   },
   "BESCARDS": {
@@ -357,9 +357,9 @@
    "Destined Rivals": "irraggiungibile"
   },
   "RareCards.nl": {
-   "Pitch Black (ME05)": "irraggiungibile",
-   "30th Celebration": "irraggiungibile",
-   "Storm Emerald (ME06)": "irraggiungibile",
+   "Pitch Black (ME05)": "listato",
+   "30th Celebration": "listato",
+   "Storm Emerald (ME06)": "listato",
    "Chaos Rising (ME04)": "irraggiungibile",
    "Phantasmal Flames (ME02)": "irraggiungibile",
    "Pokémon 151": "irraggiungibile",
@@ -368,11 +368,11 @@
    "Destined Rivals": "irraggiungibile"
   },
   "Pokevend": {
-   "Pitch Black (ME05)": "irraggiungibile",
-   "30th Celebration": "irraggiungibile",
-   "Storm Emerald (ME06)": "irraggiungibile",
-   "Chaos Rising (ME04)": "irraggiungibile",
-   "Phantasmal Flames (ME02)": "irraggiungibile",
+   "Pitch Black (ME05)": "listato",
+   "30th Celebration": "listato",
+   "Storm Emerald (ME06)": "listato",
+   "Chaos Rising (ME04)": "listato",
+   "Phantasmal Flames (ME02)": "listato",
    "Pokémon 151": "irraggiungibile",
    "Prismatic Evolutions": "irraggiungibile",
    "Crown Zenith": "irraggiungibile",
@@ -903,7 +903,13 @@
   "www.pokemillon.com": "https://www.pokemillon.com/search?q={q}",
   "pokeka.hu": "https://pokeka.hu/?s={q}&post_type=product",
   "hobbykort.se": "https://hobbykort.se/search?controller=search&s={q}",
-  "itcg.bg": "https://itcg.bg/search?q={q}"
+  "itcg.bg": "https://itcg.bg/search?q={q}",
+  "cardcorner.at": "https://cardcorner.at/search?q={q}",
+  "www.deckshop.de": "https://www.deckshop.de/?s={q}&post_type=product",
+  "fabscards.at": "https://fabscards.at/search?controller=search&s={q}",
+  "misticards.com": "https://misticards.com/search?q={q}",
+  "pokevend.at": "https://pokevend.at/search?q={q}",
+  "rarecards.nl": "https://rarecards.nl/search?q={q}"
  },
  "alerts": {
   "CardZone|Pitch Black (ME05)": 1783074708.1611075,
@@ -920,7 +926,7 @@
   "Packratt (UK)|Chaos Rising (ME04)": "£10.01",
   "Packratt (UK)|Pokémon 151": "£29.99",
   "PokeCardShop|Chaos Rising (ME04)": "€6.95",
-  "MagicBazar|Pitch Black (ME05)": "$10",
+  "MagicBazar|Pitch Black (ME05)": "$84",
   "Total Cards (UK)|Pitch Black (ME05)": "£4.79",
   "SunnyStore|Pokémon 151": "€26,90"
  },
