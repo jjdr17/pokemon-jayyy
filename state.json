@@ -129,16 +129,16 @@
    "Phantasmal Flames (ME02)": "esaurito",
    "Pokémon 151": "esaurito",
    "Prismatic Evolutions": "esaurito",
-   "Crown Zenith": "irraggiungibile",
-   "Destined Rivals": "irraggiungibile"
+   "Crown Zenith": "listato",
+   "Destined Rivals": "listato"
   },
   "CardZone": {
    "Pitch Black (ME05)": "listato",
-   "30th Celebration": "disponibile",
+   "30th Celebration": "listato",
    "Storm Emerald (ME06)": "disponibile",
    "Chaos Rising (ME04)": "disponibile",
    "Phantasmal Flames (ME02)": "disponibile",
-   "Pokémon 151": "listato",
+   "Pokémon 151": "disponibile",
    "Prismatic Evolutions": "esaurito",
    "Crown Zenith": "disponibile",
    "Destined Rivals": "irraggiungibile"
@@ -244,7 +244,7 @@
   },
   "PokeCardShop": {
    "Pitch Black (ME05)": "esaurito",
-   "30th Celebration": "non listato",
+   "30th Celebration": "listato",
    "Storm Emerald (ME06)": "listato",
    "Chaos Rising (ME04)": "disponibile",
    "Phantasmal Flames (ME02)": "esaurito",
@@ -948,7 +948,8 @@
   "PokeCardShop|30th Celebration": 1783049147.3515093,
   "PokeCardShop|Prismatic Evolutions": 1783059663.500404,
   "PokeCardShop|Destined Rivals": 1783059955.1057081,
-  "PokeCardShop|Storm Emerald (ME06)": 1783061611.960732
+  "PokeCardShop|Storm Emerald (ME06)": 1783061611.960732,
+  "CardZone|Pokémon 151": 1783067459.916477
  },
  "prices": {
   "SunnyStore|Pokémon 151": "€26,90",
@@ -991,14 +992,10 @@
   "CardZone|Crown Zenith": "https://cardzone.es/search?q=crown+zenith",
   "God of Cards|Prismatic Evolutions": "https://godofcards.com/search?q=prismatic+evolutions",
   "PokeCardShop|Prismatic Evolutions": "https://www.pokecardshop.be/search?q=prismatic+evolutions",
-  "PokeCardShop|Destined Rivals": "https://www.pokecardshop.be/search?q=destined+rivals"
+  "PokeCardShop|Destined Rivals": "https://www.pokecardshop.be/search?q=destined+rivals",
+  "CardZone|Pokémon 151": "https://cardzone.es/search?q=pokemon+151"
  },
  "log": [
-  {
-   "ts": "02/07 23:21",
-   "title": "🚨 Chaos Rising (ME04) — PokeCardShop",
-   "url": "https://www.pokecardshop.be/search?q=chaos+rising"
-  },
   {
    "ts": "02/07 23:31",
    "title": "🚨 Prismatic Evolutions — MagicBazar",
@@ -1143,6 +1140,11 @@
    "ts": "03/07 10:20",
    "title": "🚨 Chaos Rising (ME04) — CardZone",
    "url": "https://cardzone.es/search?q=chaos+rising"
+  },
+  {
+   "ts": "03/07 10:30",
+   "title": "🚨 Pokémon 151 — CardZone",
+   "url": "https://cardzone.es/search?q=pokemon+151"
   }
  ],
  "digest_slot": "2026-07-03-10"
