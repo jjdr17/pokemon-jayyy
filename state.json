@@ -96,7 +96,7 @@
    "Pitch Black (ME05)": "esaurito",
    "30th Celebration": "listato",
    "Storm Emerald (ME06)": "listato",
-   "Chaos Rising (ME04)": "irraggiungibile",
+   "Chaos Rising (ME04)": "esaurito",
    "Phantasmal Flames (ME02)": "irraggiungibile",
    "Pokémon 151": "irraggiungibile",
    "Prismatic Evolutions": "irraggiungibile",
@@ -129,7 +129,7 @@
    "Pitch Black (ME05)": "listato",
    "30th Celebration": "listato",
    "Storm Emerald (ME06)": "listato",
-   "Chaos Rising (ME04)": "irraggiungibile",
+   "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "irraggiungibile",
    "Pokémon 151": "irraggiungibile",
    "Prismatic Evolutions": "irraggiungibile",
@@ -172,8 +172,8 @@
   "CardZone": {
    "Pitch Black (ME05)": "disponibile",
    "30th Celebration": "listato",
-   "Storm Emerald (ME06)": "listato",
-   "Chaos Rising (ME04)": "irraggiungibile",
+   "Storm Emerald (ME06)": "disponibile",
+   "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "irraggiungibile",
    "Pokémon 151": "irraggiungibile",
    "Prismatic Evolutions": "irraggiungibile",
@@ -184,7 +184,7 @@
    "Pitch Black (ME05)": "listato",
    "30th Celebration": "listato",
    "Storm Emerald (ME06)": "listato",
-   "Chaos Rising (ME04)": "irraggiungibile",
+   "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "irraggiungibile",
    "Pokémon 151": "irraggiungibile",
    "Prismatic Evolutions": "irraggiungibile",
@@ -214,7 +214,7 @@
    "Destined Rivals": "esaurito"
   },
   "Total Cards (UK)": {
-   "Pitch Black (ME05)": "irraggiungibile",
+   "Pitch Black (ME05)": "disponibile",
    "30th Celebration": "irraggiungibile",
    "Storm Emerald (ME06)": "irraggiungibile",
    "Chaos Rising (ME04)": "irraggiungibile",
@@ -899,13 +899,15 @@
   "lorenzone.fr": "https://lorenzone.fr/search?controller=search&s={q}"
  },
  "alerts": {
-  "CardZone|Pitch Black (ME05)": 1783074708.1611075
+  "CardZone|Pitch Black (ME05)": 1783074708.1611075,
+  "CardZone|Storm Emerald (ME06)": 1783076130.9457996
  },
  "prices": {
   "Packratt (UK)|Chaos Rising (ME04)": "£10.01",
   "Packratt (UK)|Pokémon 151": "£29.99",
   "PokeCardShop|Chaos Rising (ME04)": "€6.95",
-  "MagicBazar|Pitch Black (ME05)": "$85"
+  "MagicBazar|Pitch Black (ME05)": "$84",
+  "Total Cards (UK)|Pitch Black (ME05)": "£4.79"
  },
  "urls": {
   "CardZone|30th Celebration": "https://cardzone.es/search?q=30th+celebration",
@@ -928,13 +930,19 @@
   "Pokecollect|Chaos Rising (ME04)": "https://pokecollect.pl/?s=chaos+rising&post_type=product",
   "Pikashop|Chaos Rising (ME04)": "https://pikashop.pl/?s=chaos+rising&post_type=product",
   "Pokemania.ro|Pitch Black (ME05)": "https://pokemania.ro/vstar-universe/pokemon-tcg-vstar-universes-s12a-jp-booster-bundle-display-box-10-pachete-booster-jp",
-  "CardZone|Pitch Black (ME05)": "https://cardzone.es/search?q=pitch+black"
+  "CardZone|Pitch Black (ME05)": "https://cardzone.es/search?q=pitch+black",
+  "Total Cards (UK)|Pitch Black (ME05)": "https://totalcards.net/products/ultra-pro-pokemon-mega-evolution-pitch-black-9-pocket-portfolio?_pos=3&_sid=dcb9708e3&_ss=r"
  },
  "log": [
   {
    "ts": "03/07 12:31",
    "title": "🚨 DISPONIBILE/PREORDER: Pitch Black (ME05) — CardZone",
    "url": "https://cardzone.es/search?q=pitch+black"
+  },
+  {
+   "ts": "03/07 12:55",
+   "title": "🚨 DISPONIBILE/PREORDER: Storm Emerald (ME06) — CardZone",
+   "url": "https://cardzone.es/search?q=storm+emerald"
   }
  ]
 }
