@@ -71,15 +71,15 @@
    "Destined Rivals": "non listato"
   },
   "Blackfire": {
-   "Pitch Black (ME05)": "irraggiungibile",
-   "30th Celebration": "irraggiungibile",
-   "Storm Emerald (ME06)": "irraggiungibile",
-   "Chaos Rising (ME04)": "irraggiungibile",
-   "Phantasmal Flames (ME02)": "irraggiungibile",
-   "Pokémon 151": "irraggiungibile",
-   "Prismatic Evolutions": "irraggiungibile",
-   "Crown Zenith": "irraggiungibile",
-   "Destined Rivals": "irraggiungibile"
+   "Pitch Black (ME05)": "non listato",
+   "30th Celebration": "non listato",
+   "Storm Emerald (ME06)": "non listato",
+   "Chaos Rising (ME04)": "non listato",
+   "Phantasmal Flames (ME02)": "non listato",
+   "Pokémon 151": "non listato",
+   "Prismatic Evolutions": "non listato",
+   "Crown Zenith": "non listato",
+   "Destined Rivals": "non listato"
   },
   "LottiCards": {
    "Pitch Black (ME05)": "non listato",
@@ -170,8 +170,8 @@
    "Destined Rivals": "irraggiungibile"
   },
   "CardZone": {
-   "Pitch Black (ME05)": "listato",
-   "30th Celebration": "listato",
+   "Pitch Black (ME05)": "disponibile",
+   "30th Celebration": "disponibile",
    "Storm Emerald (ME06)": "disponibile",
    "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "listato",
@@ -896,7 +896,8 @@
   "pokemonworld.lt": "https://pokemonworld.lt/?s={q}&post_type=product",
   "stoyanov-gamesbg.com": "https://stoyanov-gamesbg.com/search?q={q}",
   "cardmex-shop.de": "https://cardmex-shop.de/?s={q}&post_type=product",
-  "lorenzone.fr": "https://lorenzone.fr/search?controller=search&s={q}"
+  "lorenzone.fr": "https://lorenzone.fr/search?controller=search&s={q}",
+  "www.blackfire.eu": "https://www.blackfire.eu/search?q={q}"
  },
  "alerts": {
   "CardZone|Pitch Black (ME05)": 1783074708.1611075,
