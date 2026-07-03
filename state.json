@@ -591,7 +591,7 @@
    "Pitch Black (ME05)": "esaurito",
    "30th Celebration": "non listato",
    "Storm Emerald (ME06)": "listato",
-   "Chaos Rising (ME04)": "listato",
+   "Chaos Rising (ME04)": "disponibile",
    "Phantasmal Flames (ME02)": "esaurito",
    "Pokémon 151": "listato",
    "Prismatic Evolutions": "disponibile",
@@ -911,7 +911,8 @@
   "drop|MagicBazar|Pitch Black (ME05)": 1783082763.179081,
   "PokeCardShop|Destined Rivals": 1783084867.546246,
   "Rogerz|Pitch Black (ME05)": 1783087262.8826923,
-  "CardZone|Chaos Rising (ME04)": 1783091447.6658096
+  "CardZone|Chaos Rising (ME04)": 1783091447.6658096,
+  "PokeCardShop|Chaos Rising (ME04)": 1783091751.63305
  },
  "prices": {
   "Packratt (UK)|Chaos Rising (ME04)": "£10.01",
@@ -991,6 +992,11 @@
    "ts": "03/07 17:10",
    "title": "🚨 DISPONIBILE/PREORDER: Chaos Rising (ME04) — CardZone",
    "url": "https://cardzone.es/search?q=chaos+rising"
+  },
+  {
+   "ts": "03/07 17:15",
+   "title": "🚨 DISPONIBILE/PREORDER: Chaos Rising (ME04) — PokeCardShop",
+   "url": "https://www.pokecardshop.be/search?q=chaos+rising"
   }
  ],
  "digest_slot": "2026-07-03-15"
