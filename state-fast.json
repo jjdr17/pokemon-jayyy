@@ -16,14 +16,14 @@
    "Storm Emerald (ME06)": "non listato"
   },
   "Pokemon Center": {
-   "Pitch Black (ME05)": "irraggiungibile",
-   "30th Celebration": "listato",
+   "Pitch Black (ME05)": "non listato",
+   "30th Celebration": "non listato",
    "Storm Emerald (ME06)": "non listato"
   },
   "Amazon.it": {
    "Pitch Black (ME05)": "non listato",
-   "30th Celebration": "non listato",
-   "Storm Emerald (ME06)": "non listato"
+   "30th Celebration": "listato",
+   "Storm Emerald (ME06)": "listato"
   },
   "GameStop Italia": {
    "Pitch Black (ME05)": "irraggiungibile",
@@ -33,7 +33,7 @@
  },
  "search_url": {},
  "alerts": {
-  "Amazon.it|30th Celebration": 1783043836.22378,
+  "Amazon.it|30th Celebration": 1783065745.202015,
   "Amazon.it|Storm Emerald (ME06)": 1783044501.7279084
  },
  "prices": {},
@@ -48,6 +48,11 @@
    "ts": "03/07 04:08",
    "title": "🚨 Storm Emerald (ME06) — Amazon.it",
    "url": "https://www.amazon.it/s?k=pokemon+tcg+storm+emerald"
+  },
+  {
+   "ts": "03/07 10:02",
+   "title": "🚨 30th Celebration — Amazon.it",
+   "url": "https://www.amazon.it/s?k=pokemon+tcg+30th+celebration"
   }
  ]
 }
