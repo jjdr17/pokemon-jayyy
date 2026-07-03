@@ -15,11 +15,11 @@
    "Pitch Black (ME05)": "listato",
    "30th Celebration": "listato",
    "Storm Emerald (ME06)": "non listato",
-   "Chaos Rising (ME04)": "non listato",
+   "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "listato",
-   "Pokémon 151": "non listato",
-   "Prismatic Evolutions": "non listato",
-   "Crown Zenith": "non listato",
+   "Pokémon 151": "listato",
+   "Prismatic Evolutions": "listato",
+   "Crown Zenith": "listato",
    "Destined Rivals": "listato"
   },
   "Cardmarket": {
@@ -134,7 +134,7 @@
   },
   "CardZone": {
    "Pitch Black (ME05)": "disponibile",
-   "30th Celebration": "listato",
+   "30th Celebration": "disponibile",
    "Storm Emerald (ME06)": "listato",
    "Chaos Rising (ME04)": "disponibile",
    "Phantasmal Flames (ME02)": "listato",
@@ -926,16 +926,16 @@
   "Sapphire-Cards|Pitch Black (ME05)": 1783017425.191381,
   "drop|MagicBazar|Pitch Black (ME05)": 1783017432.2682624,
   "LetsGoTry|30th Celebration": 1783019777.9271853,
-  "Amazon.it|Prismatic Evolutions": 1783020930.789727,
-  "Amazon.it|Crown Zenith": 1783020930.789727,
+  "Amazon.it|Prismatic Evolutions": 1783045533.536075,
+  "Amazon.it|Crown Zenith": 1783045533.536075,
   "Amazon.it|Destined Rivals": 1783044060.0334783,
   "CardZone|30th Celebration": 1783044643.570895,
   "CardZone|Chaos Rising (ME04)": 1783042842.9346313,
   "Amazon.it|30th Celebration": 1783021246.4570694,
   "Amazon.it|Storm Emerald (ME06)": 1783021246.4570694,
-  "Amazon.it|Chaos Rising (ME04)": 1783021246.4570694,
+  "Amazon.it|Chaos Rising (ME04)": 1783045533.536075,
   "Amazon.it|Phantasmal Flames (ME02)": 1783044642.043092,
-  "Amazon.it|Pokémon 151": 1783021246.4570694,
+  "Amazon.it|Pokémon 151": 1783045533.536075,
   "PokeCardShop|Pitch Black (ME05)": 1783021262.714947,
   "Amazon.it|Pitch Black (ME05)": 1783043441.3616652,
   "CardZone|Pitch Black (ME05)": 1783023294.3864837,
@@ -1113,6 +1113,26 @@
    "ts": "03/07 04:10",
    "title": "🚨 30th Celebration — CardZone",
    "url": "https://cardzone.es/search?q=30th+celebration"
+  },
+  {
+   "ts": "03/07 04:25",
+   "title": "🚨 Chaos Rising (ME04) — Amazon.it",
+   "url": "https://www.amazon.it/s?k=pokemon+tcg+chaos+rising"
+  },
+  {
+   "ts": "03/07 04:25",
+   "title": "🚨 Pokémon 151 — Amazon.it",
+   "url": "https://www.amazon.it/s?k=pokemon+tcg+pokemon+151"
+  },
+  {
+   "ts": "03/07 04:25",
+   "title": "🚨 Prismatic Evolutions — Amazon.it",
+   "url": "https://www.amazon.it/s?k=pokemon+tcg+prismatic+evolutions"
+  },
+  {
+   "ts": "03/07 04:25",
+   "title": "🚨 Crown Zenith — Amazon.it",
+   "url": "https://www.amazon.it/s?k=pokemon+tcg+crown+zenith"
   }
  ],
  "digest_slot": "2026-07-02-22"
