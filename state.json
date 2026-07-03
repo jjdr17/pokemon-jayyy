@@ -94,7 +94,7 @@
   },
   "OutpostBrussels": {
    "Pitch Black (ME05)": "esaurito",
-   "30th Celebration": "listato",
+   "30th Celebration": "esaurito",
    "Storm Emerald (ME06)": "listato",
    "Chaos Rising (ME04)": "esaurito",
    "Phantasmal Flames (ME02)": "esaurito",
@@ -172,7 +172,7 @@
   "CardZone": {
    "Pitch Black (ME05)": "disponibile",
    "30th Celebration": "disponibile",
-   "Storm Emerald (ME06)": "disponibile",
+   "Storm Emerald (ME06)": "listato",
    "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "listato",
    "Pokémon 151": "listato",
@@ -181,7 +181,7 @@
    "Destined Rivals": "irraggiungibile"
   },
   "Rogerz": {
-   "Pitch Black (ME05)": "listato",
+   "Pitch Black (ME05)": "disponibile",
    "30th Celebration": "listato",
    "Storm Emerald (ME06)": "listato",
    "Chaos Rising (ME04)": "listato",
@@ -898,7 +898,9 @@
   "cardmex-shop.de": "https://cardmex-shop.de/?s={q}&post_type=product",
   "lorenzone.fr": "https://lorenzone.fr/search?controller=search&s={q}",
   "www.blackfire.eu": "https://www.blackfire.eu/search?q={q}",
-  "crispycards.de": "https://crispycards.de/?s={q}&post_type=product"
+  "crispycards.de": "https://crispycards.de/?s={q}&post_type=product",
+  "pokechest.at": "https://pokechest.at/search?controller=search&s={q}",
+  "www.pokemillon.com": "https://www.pokemillon.com/search?q={q}"
  },
  "alerts": {
   "CardZone|Pitch Black (ME05)": 1783074708.1611075,
@@ -906,13 +908,14 @@
   "CardZone|30th Celebration": 1783076461.3200438,
   "PokeCardShop|Pitch Black (ME05)": 1783080962.4063685,
   "drop|MagicBazar|Pitch Black (ME05)": 1783082763.179081,
-  "PokeCardShop|Destined Rivals": 1783084867.546246
+  "PokeCardShop|Destined Rivals": 1783084867.546246,
+  "Rogerz|Pitch Black (ME05)": 1783087262.8826923
  },
  "prices": {
   "Packratt (UK)|Chaos Rising (ME04)": "£10.01",
   "Packratt (UK)|Pokémon 151": "£29.99",
   "PokeCardShop|Chaos Rising (ME04)": "€6.95",
-  "MagicBazar|Pitch Black (ME05)": "$85",
+  "MagicBazar|Pitch Black (ME05)": "$84",
   "Total Cards (UK)|Pitch Black (ME05)": "£4.79",
   "SunnyStore|Pokémon 151": "€26,90"
  },
@@ -942,7 +945,8 @@
   "SunnyStore|Pokémon 151": "https://sunnystore.es/search?q=pokemon+151",
   "God of Cards|Pokémon 151": "https://godofcards.com/search?q=pokemon+151",
   "PokeCardShop|Pitch Black (ME05)": "https://www.pokecardshop.be/search?q=pitch+black",
-  "PokeCardShop|Destined Rivals": "https://www.pokecardshop.be/search?q=destined+rivals"
+  "PokeCardShop|Destined Rivals": "https://www.pokecardshop.be/search?q=destined+rivals",
+  "Rogerz|Pitch Black (ME05)": "https://rogerz.dk/search?q=pitch+black"
  },
  "log": [
   {
@@ -974,6 +978,11 @@
    "ts": "03/07 15:21",
    "title": "🚨 RESTOCK: Destined Rivals — PokeCardShop",
    "url": "https://www.pokecardshop.be/search?q=destined+rivals"
+  },
+  {
+   "ts": "03/07 16:01",
+   "title": "🚨 DISPONIBILE/PREORDER: Pitch Black (ME05) — Rogerz",
+   "url": "https://rogerz.dk/search?q=pitch+black"
   }
  ],
  "digest_slot": "2026-07-03-15"
