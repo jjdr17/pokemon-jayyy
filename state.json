@@ -12,15 +12,15 @@
    "Destined Rivals": "irraggiungibile"
   },
   "Amazon.it": {
-   "Pitch Black (ME05)": "listato",
-   "30th Celebration": "listato",
-   "Storm Emerald (ME06)": "listato",
-   "Chaos Rising (ME04)": "listato",
-   "Phantasmal Flames (ME02)": "listato",
-   "Pokémon 151": "listato",
-   "Prismatic Evolutions": "listato",
-   "Crown Zenith": "listato",
-   "Destined Rivals": "listato"
+   "Pitch Black (ME05)": "non listato",
+   "30th Celebration": "non listato",
+   "Storm Emerald (ME06)": "non listato",
+   "Chaos Rising (ME04)": "non listato",
+   "Phantasmal Flames (ME02)": "non listato",
+   "Pokémon 151": "non listato",
+   "Prismatic Evolutions": "non listato",
+   "Crown Zenith": "non listato",
+   "Destined Rivals": "non listato"
   },
   "Cardmarket": {
    "Pitch Black (ME05)": "irraggiungibile",
@@ -133,9 +133,9 @@
    "Destined Rivals": "irraggiungibile"
   },
   "CardZone": {
-   "Pitch Black (ME05)": "disponibile",
-   "30th Celebration": "disponibile",
-   "Storm Emerald (ME06)": "disponibile",
+   "Pitch Black (ME05)": "listato",
+   "30th Celebration": "listato",
+   "Storm Emerald (ME06)": "listato",
    "Chaos Rising (ME04)": "disponibile",
    "Phantasmal Flames (ME02)": "disponibile",
    "Pokémon 151": "esaurito",
@@ -245,7 +245,7 @@
   "PokeCardShop": {
    "Pitch Black (ME05)": "esaurito",
    "30th Celebration": "listato",
-   "Storm Emerald (ME06)": "non listato",
+   "Storm Emerald (ME06)": "listato",
    "Chaos Rising (ME04)": "disponibile",
    "Phantasmal Flames (ME02)": "esaurito",
    "Pokémon 151": "listato",
@@ -695,7 +695,7 @@
   },
   "LetsGoTry": {
    "Pitch Black (ME05)": "listato",
-   "30th Celebration": "listato",
+   "30th Celebration": "non listato",
    "Storm Emerald (ME06)": "non listato",
    "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "non listato",
@@ -947,13 +947,14 @@
   "CardZone|Phantasmal Flames (ME02)": 1783054864.5105546,
   "PokeCardShop|30th Celebration": 1783049147.3515093,
   "PokeCardShop|Prismatic Evolutions": 1783059663.500404,
-  "PokeCardShop|Destined Rivals": 1783059955.1057081
+  "PokeCardShop|Destined Rivals": 1783059955.1057081,
+  "PokeCardShop|Storm Emerald (ME06)": 1783061611.960732
  },
  "prices": {
   "SunnyStore|Pokémon 151": "€26,90",
   "Packratt (UK)|Chaos Rising (ME04)": "£10.01",
   "Packratt (UK)|Pokémon 151": "£29.99",
-  "MagicBazar|Pitch Black (ME05)": "$85",
+  "MagicBazar|Pitch Black (ME05)": "$10",
   "PokeCardShop|Chaos Rising (ME04)": "€6.95"
  },
  "urls": {
@@ -993,11 +994,6 @@
   "PokeCardShop|Destined Rivals": "https://www.pokecardshop.be/search?q=destined+rivals"
  },
  "log": [
-  {
-   "ts": "02/07 21:40",
-   "title": "🚨 Chaos Rising (ME04) — Amazon.it",
-   "url": "https://www.amazon.it/s?k=pokemon+tcg+chaos+rising"
-  },
   {
    "ts": "02/07 21:40",
    "title": "🚨 Phantasmal Flames (ME02) — Amazon.it",
@@ -1142,6 +1138,11 @@
    "ts": "03/07 08:25",
    "title": "🚨 Destined Rivals — PokeCardShop",
    "url": "https://www.pokecardshop.be/search?q=destined+rivals"
+  },
+  {
+   "ts": "03/07 08:53",
+   "title": "🚨 Storm Emerald (ME06) — PokeCardShop",
+   "url": "https://www.pokecardshop.be/search?q=storm+emerald"
   }
  ],
  "digest_slot": "2026-07-02-22"
