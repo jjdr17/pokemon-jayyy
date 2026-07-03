@@ -134,9 +134,9 @@
   },
   "CardZone": {
    "Pitch Black (ME05)": "listato",
-   "30th Celebration": "listato",
-   "Storm Emerald (ME06)": "listato",
-   "Chaos Rising (ME04)": "listato",
+   "30th Celebration": "disponibile",
+   "Storm Emerald (ME06)": "disponibile",
+   "Chaos Rising (ME04)": "disponibile",
    "Phantasmal Flames (ME02)": "disponibile",
    "Pokémon 151": "listato",
    "Prismatic Evolutions": "esaurito",
@@ -930,8 +930,8 @@
   "Amazon.it|Prismatic Evolutions": 1783045533.536075,
   "Amazon.it|Crown Zenith": 1783045533.536075,
   "Amazon.it|Destined Rivals": 1783066542.2908156,
-  "CardZone|30th Celebration": 1783044643.570895,
-  "CardZone|Chaos Rising (ME04)": 1783042842.9346313,
+  "CardZone|30th Celebration": 1783066846.144576,
+  "CardZone|Chaos Rising (ME04)": 1783066846.144576,
   "Amazon.it|30th Celebration": 1783021246.4570694,
   "Amazon.it|Storm Emerald (ME06)": 1783021246.4570694,
   "Amazon.it|Chaos Rising (ME04)": 1783045533.536075,
@@ -994,16 +994,6 @@
   "PokeCardShop|Destined Rivals": "https://www.pokecardshop.be/search?q=destined+rivals"
  },
  "log": [
-  {
-   "ts": "02/07 22:14",
-   "title": "🚨 Pitch Black (ME05) — CardZone",
-   "url": "https://cardzone.es/search?q=pitch+black"
-  },
-  {
-   "ts": "02/07 22:32",
-   "title": "🚨 Storm Emerald (ME06) — CardZone",
-   "url": "https://cardzone.es/search?q=storm+emerald"
-  },
   {
    "ts": "02/07 23:21",
    "title": "🚨 Chaos Rising (ME04) — PokeCardShop",
@@ -1143,6 +1133,16 @@
    "ts": "03/07 10:15",
    "title": "🚨 Destined Rivals — Amazon.it",
    "url": "https://www.amazon.it/s?k=pokemon+tcg+destined+rivals"
+  },
+  {
+   "ts": "03/07 10:20",
+   "title": "🚨 30th Celebration — CardZone",
+   "url": "https://cardzone.es/search?q=30th+celebration"
+  },
+  {
+   "ts": "03/07 10:20",
+   "title": "🚨 Chaos Rising (ME04) — CardZone",
+   "url": "https://cardzone.es/search?q=chaos+rising"
   }
  ],
  "digest_slot": "2026-07-03-10"
