@@ -134,8 +134,8 @@
   },
   "CardZone": {
    "Pitch Black (ME05)": "disponibile",
-   "30th Celebration": "disponibile",
-   "Storm Emerald (ME06)": "listato",
+   "30th Celebration": "listato",
+   "Storm Emerald (ME06)": "disponibile",
    "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "listato",
    "Pokémon 151": "disponibile",
@@ -633,7 +633,7 @@
    "Storm Emerald (ME06)": "non listato",
    "Chaos Rising (ME04)": "non listato",
    "Phantasmal Flames (ME02)": "non listato",
-   "Pokémon 151": "non listato",
+   "Pokémon 151": "listato",
    "Prismatic Evolutions": "non listato",
    "Crown Zenith": "non listato",
    "Destined Rivals": "non listato"
@@ -695,7 +695,7 @@
   },
   "LetsGoTry": {
    "Pitch Black (ME05)": "listato",
-   "30th Celebration": "non listato",
+   "30th Celebration": "listato",
    "Storm Emerald (ME06)": "non listato",
    "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "non listato",
@@ -950,7 +950,8 @@
   "PokeCardShop|Destined Rivals": 1783059955.1057081,
   "PokeCardShop|Storm Emerald (ME06)": 1783061611.960732,
   "CardZone|Pokémon 151": 1783067459.916477,
-  "MagicBazar|30th Celebration": 1783068660.8063376
+  "MagicBazar|30th Celebration": 1783068660.8063376,
+  "MagicBazar|Pokémon 151": 1783072512.565212
  },
  "prices": {
   "SunnyStore|Pokémon 151": "€26,90",
@@ -997,11 +998,6 @@
   "CardZone|Pokémon 151": "https://cardzone.es/search?q=pokemon+151"
  },
  "log": [
-  {
-   "ts": "03/07 04:25",
-   "title": "🚨 Chaos Rising (ME04) — Amazon.it",
-   "url": "https://www.amazon.it/s?k=pokemon+tcg+chaos+rising"
-  },
   {
    "ts": "03/07 04:25",
    "title": "🚨 Pokémon 151 — Amazon.it",
@@ -1146,6 +1142,11 @@
    "ts": "03/07 10:51",
    "title": "🚨 30th Celebration — LetsGoTry",
    "url": "https://letsgotry.pl/?s=30th+celebration&post_type=product"
+  },
+  {
+   "ts": "03/07 11:55",
+   "title": "🚨 Pokémon 151 — MagicBazar",
+   "url": "https://www.magicbazar.fr/?s=pokemon+151&post_type=product"
   }
  ],
  "digest_slot": "2026-07-03-10"
