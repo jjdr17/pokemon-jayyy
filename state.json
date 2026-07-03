@@ -171,8 +171,8 @@
   },
   "CardZone": {
    "Pitch Black (ME05)": "listato",
-   "30th Celebration": "listato",
-   "Storm Emerald (ME06)": "listato",
+   "30th Celebration": "disponibile",
+   "Storm Emerald (ME06)": "disponibile",
    "Chaos Rising (ME04)": "disponibile",
    "Phantasmal Flames (ME02)": "disponibile",
    "Pokémon 151": "disponibile",
@@ -595,8 +595,8 @@
    "Phantasmal Flames (ME02)": "esaurito",
    "Pokémon 151": "listato",
    "Prismatic Evolutions": "disponibile",
-   "Crown Zenith": "listato",
-   "Destined Rivals": "disponibile"
+   "Crown Zenith": "esaurito",
+   "Destined Rivals": "esaurito"
   },
   "Pokekarty": {
    "Pitch Black (ME05)": "irraggiungibile",
@@ -798,7 +798,7 @@
   },
   "LetsGoTry": {
    "Pitch Black (ME05)": "listato",
-   "30th Celebration": "listato",
+   "30th Celebration": "non listato",
    "Storm Emerald (ME06)": "non listato",
    "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "non listato",
@@ -915,7 +915,7 @@
  "alerts": {
   "CardZone|Pitch Black (ME05)": 1783119046.1420548,
   "CardZone|Storm Emerald (ME06)": 1783119929.9940336,
-  "CardZone|30th Celebration": 1783098327.1809683,
+  "CardZone|30th Celebration": 1783120535.9811068,
   "PokeCardShop|Pitch Black (ME05)": 1783080962.4063685,
   "drop|MagicBazar|Pitch Black (ME05)": 1783105303.1327088,
   "PokeCardShop|Destined Rivals": 1783119955.9996972,
@@ -958,7 +958,7 @@
   "Pikashop|Chaos Rising (ME04)": "https://pikashop.pl/?s=chaos+rising&post_type=product",
   "Pokemania.ro|Pitch Black (ME05)": "https://pokemania.ro/vstar-universe/pokemon-tcg-vstar-universes-s12a-jp-booster-bundle-display-box-10-pachete-booster-jp",
   "CardZone|Pitch Black (ME05)": "https://cardzone.es/search?q=pitch+black",
-  "Total Cards (UK)|Pitch Black (ME05)": "https://totalcards.net/products/ultra-pro-pokemon-mega-evolution-pitch-black-9-pocket-portfolio?_pos=3&_sid=ea399e70f&_ss=r",
+  "Total Cards (UK)|Pitch Black (ME05)": "https://totalcards.net/products/ultra-pro-pokemon-mega-evolution-pitch-black-9-pocket-portfolio?_pos=3&_sid=def8db951&_ss=r",
   "SunnyStore|Pokémon 151": "https://sunnystore.es/search?q=pokemon+151",
   "God of Cards|Pokémon 151": "https://godofcards.com/search?q=pokemon+151",
   "PokeCardShop|Pitch Black (ME05)": "https://www.pokecardshop.be/search?q=pitch+black",
@@ -1076,6 +1076,11 @@
    "ts": "04/07 01:05",
    "title": "🚨 RESTOCK: Destined Rivals — PokeCardShop",
    "url": "https://www.pokecardshop.be/search?q=destined+rivals"
+  },
+  {
+   "ts": "04/07 01:15",
+   "title": "🚨 DISPONIBILE/PREORDER: 30th Celebration — CardZone",
+   "url": "https://cardzone.es/search?q=30th+celebration"
   }
  ],
  "digest_slot": "2026-07-03-22"
