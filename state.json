@@ -95,7 +95,7 @@
   "OutpostBrussels": {
    "Pitch Black (ME05)": "esaurito",
    "30th Celebration": "listato",
-   "Storm Emerald (ME06)": "irraggiungibile",
+   "Storm Emerald (ME06)": "listato",
    "Chaos Rising (ME04)": "irraggiungibile",
    "Phantasmal Flames (ME02)": "irraggiungibile",
    "Pokémon 151": "irraggiungibile",
@@ -170,7 +170,7 @@
    "Destined Rivals": "irraggiungibile"
   },
   "CardZone": {
-   "Pitch Black (ME05)": "listato",
+   "Pitch Black (ME05)": "disponibile",
    "30th Celebration": "disponibile",
    "Storm Emerald (ME06)": "disponibile",
    "Chaos Rising (ME04)": "irraggiungibile",
@@ -897,12 +897,14 @@
   "stoyanov-gamesbg.com": "https://stoyanov-gamesbg.com/search?q={q}",
   "cardmex-shop.de": "https://cardmex-shop.de/?s={q}&post_type=product"
  },
- "alerts": {},
+ "alerts": {
+  "CardZone|Pitch Black (ME05)": 1783074708.1611075
+ },
  "prices": {
   "Packratt (UK)|Chaos Rising (ME04)": "£10.01",
   "Packratt (UK)|Pokémon 151": "£29.99",
   "PokeCardShop|Chaos Rising (ME04)": "€6.95",
-  "MagicBazar|Pitch Black (ME05)": "$84"
+  "MagicBazar|Pitch Black (ME05)": "$85"
  },
  "urls": {
   "CardZone|30th Celebration": "https://cardzone.es/search?q=30th+celebration",
@@ -924,6 +926,14 @@
   "Pokecollect|Pitch Black (ME05)": "https://pokecollect.pl/?s=pitch+black&post_type=product",
   "Pokecollect|Chaos Rising (ME04)": "https://pokecollect.pl/?s=chaos+rising&post_type=product",
   "Pikashop|Chaos Rising (ME04)": "https://pikashop.pl/?s=chaos+rising&post_type=product",
-  "Pokemania.ro|Pitch Black (ME05)": "https://pokemania.ro/vstar-universe/pokemon-tcg-vstar-universes-s12a-jp-booster-bundle-display-box-10-pachete-booster-jp"
- }
+  "Pokemania.ro|Pitch Black (ME05)": "https://pokemania.ro/vstar-universe/pokemon-tcg-vstar-universes-s12a-jp-booster-bundle-display-box-10-pachete-booster-jp",
+  "CardZone|Pitch Black (ME05)": "https://cardzone.es/search?q=pitch+black"
+ },
+ "log": [
+  {
+   "ts": "03/07 12:31",
+   "title": "🚨 DISPONIBILE/PREORDER: Pitch Black (ME05) — CardZone",
+   "url": "https://cardzone.es/search?q=pitch+black"
+  }
+ ]
 }
