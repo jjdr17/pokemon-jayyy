@@ -170,9 +170,9 @@
    "Destined Rivals": "irraggiungibile"
   },
   "CardZone": {
-   "Pitch Black (ME05)": "disponibile",
-   "30th Celebration": "listato",
-   "Storm Emerald (ME06)": "disponibile",
+   "Pitch Black (ME05)": "listato",
+   "30th Celebration": "disponibile",
+   "Storm Emerald (ME06)": "listato",
    "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "irraggiungibile",
    "Pokémon 151": "irraggiungibile",
@@ -798,7 +798,7 @@
   },
   "LetsGoTry": {
    "Pitch Black (ME05)": "listato",
-   "30th Celebration": "non listato",
+   "30th Celebration": "listato",
    "Storm Emerald (ME06)": "non listato",
    "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "non listato",
@@ -900,7 +900,8 @@
  },
  "alerts": {
   "CardZone|Pitch Black (ME05)": 1783074708.1611075,
-  "CardZone|Storm Emerald (ME06)": 1783076130.9457996
+  "CardZone|Storm Emerald (ME06)": 1783076130.9457996,
+  "CardZone|30th Celebration": 1783076461.3200438
  },
  "prices": {
   "Packratt (UK)|Chaos Rising (ME04)": "£10.01",
@@ -943,6 +944,11 @@
    "ts": "03/07 12:55",
    "title": "🚨 DISPONIBILE/PREORDER: Storm Emerald (ME06) — CardZone",
    "url": "https://cardzone.es/search?q=storm+emerald"
+  },
+  {
+   "ts": "03/07 13:01",
+   "title": "🚨 DISPONIBILE/PREORDER: 30th Celebration — CardZone",
+   "url": "https://cardzone.es/search?q=30th+celebration"
   }
  ]
 }
