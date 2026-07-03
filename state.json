@@ -172,7 +172,7 @@
   "CardZone": {
    "Pitch Black (ME05)": "listato",
    "30th Celebration": "disponibile",
-   "Storm Emerald (ME06)": "disponibile",
+   "Storm Emerald (ME06)": "listato",
    "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "listato",
    "Pokémon 151": "listato",
@@ -215,7 +215,7 @@
   },
   "Total Cards (UK)": {
    "Pitch Black (ME05)": "esaurito",
-   "30th Celebration": "irraggiungibile",
+   "30th Celebration": "disponibile",
    "Storm Emerald (ME06)": "listato",
    "Chaos Rising (ME04)": "esaurito",
    "Phantasmal Flames (ME02)": "irraggiungibile",
@@ -928,7 +928,8 @@
   "PokeCardShop|Chaos Rising (ME04)": "€6.95",
   "MagicBazar|Pitch Black (ME05)": "$85",
   "Total Cards (UK)|Pitch Black (ME05)": "£4.79",
-  "SunnyStore|Pokémon 151": "€26,90"
+  "SunnyStore|Pokémon 151": "€26,90",
+  "Total Cards (UK)|30th Celebration": "£9.13"
  },
  "urls": {
   "CardZone|30th Celebration": "https://cardzone.es/search?q=30th+celebration",
@@ -958,7 +959,8 @@
   "PokeCardShop|Pitch Black (ME05)": "https://www.pokecardshop.be/search?q=pitch+black",
   "PokeCardShop|Destined Rivals": "https://www.pokecardshop.be/search?q=destined+rivals",
   "Rogerz|Pitch Black (ME05)": "https://rogerz.dk/search?q=pitch+black",
-  "CardZone|Chaos Rising (ME04)": "https://cardzone.es/search?q=chaos+rising"
+  "CardZone|Chaos Rising (ME04)": "https://cardzone.es/search?q=chaos+rising",
+  "Total Cards (UK)|30th Celebration": "https://totalcards.net/products/pokemon-30th-celebration-booster-pack?_pos=1&_sid=2de81951b&_ss=r"
  },
  "log": [
   {
