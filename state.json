@@ -243,8 +243,8 @@
    "Destined Rivals": "irraggiungibile"
   },
   "PokeCardShop": {
-   "Pitch Black (ME05)": "esaurito",
-   "30th Celebration": "listato",
+   "Pitch Black (ME05)": "disponibile",
+   "30th Celebration": "non listato",
    "Storm Emerald (ME06)": "listato",
    "Chaos Rising (ME04)": "disponibile",
    "Phantasmal Flames (ME02)": "esaurito",
@@ -937,7 +937,7 @@
   "Amazon.it|Chaos Rising (ME04)": 1783045533.536075,
   "Amazon.it|Phantasmal Flames (ME02)": 1783044642.043092,
   "Amazon.it|Pokémon 151": 1783045533.536075,
-  "PokeCardShop|Pitch Black (ME05)": 1783021262.714947,
+  "PokeCardShop|Pitch Black (ME05)": 1783066273.5000396,
   "Amazon.it|Pitch Black (ME05)": 1783065054.4439752,
   "CardZone|Pitch Black (ME05)": 1783046127.4060724,
   "CardZone|Storm Emerald (ME06)": 1783046444.6166468,
@@ -994,11 +994,6 @@
   "PokeCardShop|Destined Rivals": "https://www.pokecardshop.be/search?q=destined+rivals"
  },
  "log": [
-  {
-   "ts": "02/07 21:40",
-   "title": "🚨 Pokémon 151 — Amazon.it",
-   "url": "https://www.amazon.it/s?k=pokemon+tcg+pokemon+151"
-  },
   {
    "ts": "02/07 21:41",
    "title": "🚨 Pitch Black (ME05) — PokeCardShop",
@@ -1143,6 +1138,11 @@
    "ts": "03/07 09:50",
    "title": "🚨 Pitch Black (ME05) — Amazon.it",
    "url": "https://www.amazon.it/s?k=pokemon+tcg+pitch+black"
+  },
+  {
+   "ts": "03/07 10:11",
+   "title": "🚨 Pitch Black (ME05) — PokeCardShop",
+   "url": "https://www.pokecardshop.be/product-page/pokémon-pitch-black-booster-box"
   }
  ],
  "digest_slot": "2026-07-03-10"
