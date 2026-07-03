@@ -22,7 +22,7 @@
   },
   "Amazon.it": {
    "Pitch Black (ME05)": "listato",
-   "30th Celebration": "non listato",
+   "30th Celebration": "listato",
    "Storm Emerald (ME06)": "non listato"
   },
   "GameStop Italia": {
@@ -32,7 +32,16 @@
   }
  },
  "search_url": {},
- "alerts": {},
+ "alerts": {
+  "Amazon.it|30th Celebration": 1783043836.22378
+ },
  "prices": {},
- "urls": {}
+ "urls": {},
+ "log": [
+  {
+   "ts": "03/07 03:57",
+   "title": "🚨 30th Celebration — Amazon.it",
+   "url": "https://www.amazon.it/s?k=pokemon+tcg+30th+celebration"
+  }
+ ]
 }
