@@ -136,11 +136,11 @@
    "Pitch Black (ME05)": "listato",
    "30th Celebration": "disponibile",
    "Storm Emerald (ME06)": "listato",
-   "Chaos Rising (ME04)": "disponibile",
-   "Phantasmal Flames (ME02)": "listato",
+   "Chaos Rising (ME04)": "listato",
+   "Phantasmal Flames (ME02)": "disponibile",
    "Pokémon 151": "esaurito",
    "Prismatic Evolutions": "esaurito",
-   "Crown Zenith": "irraggiungibile",
+   "Crown Zenith": "disponibile",
    "Destined Rivals": "irraggiungibile"
   },
   "God of Cards": {
@@ -150,7 +150,7 @@
    "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "listato",
    "Pokémon 151": "disponibile",
-   "Prismatic Evolutions": "irraggiungibile",
+   "Prismatic Evolutions": "disponibile",
    "Crown Zenith": "irraggiungibile",
    "Destined Rivals": "irraggiungibile"
   },
@@ -174,14 +174,14 @@
    "Pokémon 151": "esaurito",
    "Prismatic Evolutions": "esaurito",
    "Crown Zenith": "esaurito",
-   "Destined Rivals": "irraggiungibile"
+   "Destined Rivals": "esaurito"
   },
   "Total Cards (UK)": {
    "Pitch Black (ME05)": "listato",
    "30th Celebration": "listato",
    "Storm Emerald (ME06)": "listato",
    "Chaos Rising (ME04)": "listato",
-   "Phantasmal Flames (ME02)": "irraggiungibile",
+   "Phantasmal Flames (ME02)": "listato",
    "Pokémon 151": "irraggiungibile",
    "Prismatic Evolutions": "irraggiungibile",
    "Crown Zenith": "irraggiungibile",
@@ -232,7 +232,7 @@
    "Destined Rivals": "esaurito"
   },
   "CrispyCards": {
-   "Pitch Black (ME05)": "irraggiungibile",
+   "Pitch Black (ME05)": "listato",
    "30th Celebration": "listato",
    "Storm Emerald (ME06)": "listato",
    "Chaos Rising (ME04)": "listato",
@@ -944,7 +944,7 @@
   "PokeCardShop|Chaos Rising (ME04)": 1783027262.2730978,
   "MagicBazar|Prismatic Evolutions": 1783027887.2810962,
   "PokeCardShop|Phantasmal Flames (ME02)": 1783028458.9307673,
-  "CardZone|Phantasmal Flames (ME02)": 1783032930.12267,
+  "CardZone|Phantasmal Flames (ME02)": 1783054864.5105546,
   "PokeCardShop|30th Celebration": 1783049147.3515093
  },
  "prices": {
@@ -983,14 +983,11 @@
   "PokeCardShop|Chaos Rising (ME04)": "https://www.pokecardshop.be/search?q=chaos+rising",
   "PokeCardShop|Phantasmal Flames (ME02)": "https://www.pokecardshop.be/search?q=phantasmal+flames",
   "God of Cards|Pokémon 151": "https://godofcards.com/search?q=pokemon+151",
-  "CardZone|Phantasmal Flames (ME02)": "https://cardzone.es/search?q=phantasmal+flames"
+  "CardZone|Phantasmal Flames (ME02)": "https://cardzone.es/search?q=phantasmal+flames",
+  "CardZone|Crown Zenith": "https://cardzone.es/search?q=crown+zenith",
+  "God of Cards|Prismatic Evolutions": "https://godofcards.com/search?q=prismatic+evolutions"
  },
  "log": [
-  {
-   "ts": "02/07 21:35",
-   "title": "🚨 Destined Rivals — Amazon.it",
-   "url": "https://www.amazon.it/s?k=pokemon+tcg+destined+rivals"
-  },
   {
    "ts": "02/07 21:35",
    "title": "🚨 30th Celebration — CardZone",
@@ -1135,6 +1132,11 @@
    "ts": "03/07 05:25",
    "title": "🚨 30th Celebration — PokeCardShop",
    "url": "https://www.pokecardshop.be/search?q=30th+celebration"
+  },
+  {
+   "ts": "03/07 07:01",
+   "title": "🚨 Phantasmal Flames (ME02) — CardZone",
+   "url": "https://cardzone.es/search?q=phantasmal+flames"
   }
  ],
  "digest_slot": "2026-07-02-22"
