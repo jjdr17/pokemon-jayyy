@@ -13,7 +13,7 @@
   },
   "Amazon.it": {
    "Pitch Black (ME05)": "non listato",
-   "30th Celebration": "non listato",
+   "30th Celebration": "listato",
    "Storm Emerald (ME06)": "non listato",
    "Chaos Rising (ME04)": "non listato",
    "Phantasmal Flames (ME02)": "non listato",
@@ -133,7 +133,7 @@
    "Destined Rivals": "irraggiungibile"
   },
   "CardZone": {
-   "Pitch Black (ME05)": "listato",
+   "Pitch Black (ME05)": "disponibile",
    "30th Celebration": "disponibile",
    "Storm Emerald (ME06)": "listato",
    "Chaos Rising (ME04)": "listato",
@@ -244,7 +244,7 @@
   },
   "PokeCardShop": {
    "Pitch Black (ME05)": "esaurito",
-   "30th Celebration": "listato",
+   "30th Celebration": "non listato",
    "Storm Emerald (ME06)": "listato",
    "Chaos Rising (ME04)": "esaurito",
    "Phantasmal Flames (ME02)": "esaurito",
@@ -600,10 +600,10 @@
    "Storm Emerald (ME06)": "irraggiungibile",
    "Chaos Rising (ME04)": "irraggiungibile",
    "Phantasmal Flames (ME02)": "irraggiungibile",
-   "Pokémon 151": "irraggiungibile",
-   "Prismatic Evolutions": "irraggiungibile",
-   "Crown Zenith": "irraggiungibile",
-   "Destined Rivals": "irraggiungibile"
+   "Pokémon 151": "listato",
+   "Prismatic Evolutions": "listato",
+   "Crown Zenith": "listato",
+   "Destined Rivals": "listato"
   },
   "Vinticards": {
    "Pitch Black (ME05)": "listato",
@@ -919,7 +919,8 @@
   "www.deckshop.de": "https://www.deckshop.de/search?controller=search&s={q}",
   "fabscards.at": "https://fabscards.at/search?q={q}",
   "rarecards.nl": "https://rarecards.nl/?s={q}&post_type=product",
-  "www.poketalk.se": "https://www.poketalk.se/?s={q}&post_type=product"
+  "www.poketalk.se": "https://www.poketalk.se/?s={q}&post_type=product",
+  "lorenzone.fr": "https://lorenzone.fr/search?q={q}"
  },
  "alerts": {
   "Cardstore.cz|30th Celebration": 1783014113.9441674,
