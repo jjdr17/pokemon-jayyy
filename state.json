@@ -150,7 +150,7 @@
   "God of Cards": {
    "Pitch Black (ME05)": "listato",
    "30th Celebration": "listato",
-   "Storm Emerald (ME06)": "irraggiungibile",
+   "Storm Emerald (ME06)": "listato",
    "Chaos Rising (ME04)": "irraggiungibile",
    "Phantasmal Flames (ME02)": "irraggiungibile",
    "Pokémon 151": "irraggiungibile",
@@ -171,8 +171,8 @@
   },
   "CardZone": {
    "Pitch Black (ME05)": "disponibile",
-   "30th Celebration": "disponibile",
-   "Storm Emerald (ME06)": "disponibile",
+   "30th Celebration": "listato",
+   "Storm Emerald (ME06)": "listato",
    "Chaos Rising (ME04)": "irraggiungibile",
    "Phantasmal Flames (ME02)": "irraggiungibile",
    "Pokémon 151": "irraggiungibile",
@@ -548,11 +548,11 @@
    "30th Celebration": "irraggiungibile",
    "Storm Emerald (ME06)": "irraggiungibile",
    "Chaos Rising (ME04)": "irraggiungibile",
-   "Phantasmal Flames (ME02)": "irraggiungibile",
-   "Pokémon 151": "irraggiungibile",
-   "Prismatic Evolutions": "irraggiungibile",
-   "Crown Zenith": "irraggiungibile",
-   "Destined Rivals": "irraggiungibile"
+   "Phantasmal Flames (ME02)": "non listato",
+   "Pokémon 151": "non listato",
+   "Prismatic Evolutions": "non listato",
+   "Crown Zenith": "non listato",
+   "Destined Rivals": "non listato"
   },
   "Vinticards": {
    "Pitch Black (ME05)": "listato",
@@ -798,7 +798,7 @@
   },
   "LetsGoTry": {
    "Pitch Black (ME05)": "listato",
-   "30th Celebration": "listato",
+   "30th Celebration": "non listato",
    "Storm Emerald (ME06)": "non listato",
    "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "non listato",
@@ -895,7 +895,8 @@
   "pokemania.ro": "https://pokemania.ro/?s={q}&post_type=product",
   "pokemonworld.lt": "https://pokemonworld.lt/?s={q}&post_type=product",
   "stoyanov-gamesbg.com": "https://stoyanov-gamesbg.com/search?q={q}",
-  "cardmex-shop.de": "https://cardmex-shop.de/?s={q}&post_type=product"
+  "cardmex-shop.de": "https://cardmex-shop.de/?s={q}&post_type=product",
+  "lorenzone.fr": "https://lorenzone.fr/search?controller=search&s={q}"
  },
  "alerts": {
   "CardZone|Pitch Black (ME05)": 1783074708.1611075
