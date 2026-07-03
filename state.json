@@ -171,9 +171,9 @@
   },
   "CardZone": {
    "Pitch Black (ME05)": "listato",
-   "30th Celebration": "disponibile",
+   "30th Celebration": "listato",
    "Storm Emerald (ME06)": "disponibile",
-   "Chaos Rising (ME04)": "disponibile",
+   "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "disponibile",
    "Pokémon 151": "disponibile",
    "Prismatic Evolutions": "esaurito",
@@ -588,7 +588,7 @@
    "Destined Rivals": "non listato"
   },
   "PokeCardShop": {
-   "Pitch Black (ME05)": "esaurito",
+   "Pitch Black (ME05)": "disponibile",
    "30th Celebration": "listato",
    "Storm Emerald (ME06)": "listato",
    "Chaos Rising (ME04)": "disponibile",
@@ -798,7 +798,7 @@
   },
   "LetsGoTry": {
    "Pitch Black (ME05)": "listato",
-   "30th Celebration": "non listato",
+   "30th Celebration": "listato",
    "Storm Emerald (ME06)": "non listato",
    "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "non listato",
@@ -916,7 +916,7 @@
   "CardZone|Pitch Black (ME05)": 1783119046.1420548,
   "CardZone|Storm Emerald (ME06)": 1783119929.9940336,
   "CardZone|30th Celebration": 1783120535.9811068,
-  "PokeCardShop|Pitch Black (ME05)": 1783080962.4063685,
+  "PokeCardShop|Pitch Black (ME05)": 1783120865.9527476,
   "drop|MagicBazar|Pitch Black (ME05)": 1783105303.1327088,
   "PokeCardShop|Destined Rivals": 1783119955.9996972,
   "Rogerz|Pitch Black (ME05)": 1783087262.8826923,
@@ -931,7 +931,7 @@
   "Packratt (UK)|Chaos Rising (ME04)": "£10.01",
   "Packratt (UK)|Pokémon 151": "£29.99",
   "PokeCardShop|Chaos Rising (ME04)": "€6.95",
-  "MagicBazar|Pitch Black (ME05)": "$84",
+  "MagicBazar|Pitch Black (ME05)": "$85",
   "Total Cards (UK)|Pitch Black (ME05)": "£4.79",
   "SunnyStore|Pokémon 151": "€26,90",
   "Total Cards (UK)|30th Celebration": "£9.13"
@@ -1081,6 +1081,11 @@
    "ts": "04/07 01:15",
    "title": "🚨 DISPONIBILE/PREORDER: 30th Celebration — CardZone",
    "url": "https://cardzone.es/search?q=30th+celebration"
+  },
+  {
+   "ts": "04/07 01:21",
+   "title": "🚨 RESTOCK: Pitch Black (ME05) — PokeCardShop",
+   "url": "https://www.pokecardshop.be/search?q=pitch+black"
   }
  ],
  "digest_slot": "2026-07-03-22"
