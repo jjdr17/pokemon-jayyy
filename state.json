@@ -136,7 +136,7 @@
    "Pitch Black (ME05)": "listato",
    "30th Celebration": "disponibile",
    "Storm Emerald (ME06)": "disponibile",
-   "Chaos Rising (ME04)": "listato",
+   "Chaos Rising (ME04)": "disponibile",
    "Phantasmal Flames (ME02)": "listato",
    "Pokémon 151": "esaurito",
    "Prismatic Evolutions": "esaurito",
@@ -687,7 +687,7 @@
    "30th Celebration": "irraggiungibile",
    "Storm Emerald (ME06)": "irraggiungibile",
    "Chaos Rising (ME04)": "irraggiungibile",
-   "Phantasmal Flames (ME02)": "irraggiungibile",
+   "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "irraggiungibile",
    "Prismatic Evolutions": "irraggiungibile",
    "Crown Zenith": "irraggiungibile",
@@ -930,7 +930,7 @@
   "Amazon.it|Crown Zenith": 1783020930.789727,
   "Amazon.it|Destined Rivals": 1783020930.789727,
   "CardZone|30th Celebration": 1783020931.731188,
-  "CardZone|Chaos Rising (ME04)": 1783021242.0829554,
+  "CardZone|Chaos Rising (ME04)": 1783042842.9346313,
   "Amazon.it|30th Celebration": 1783021246.4570694,
   "Amazon.it|Storm Emerald (ME06)": 1783021246.4570694,
   "Amazon.it|Chaos Rising (ME04)": 1783021246.4570694,
@@ -1088,6 +1088,11 @@
    "ts": "03/07 00:55",
    "title": "🚨 Phantasmal Flames (ME02) — CardZone",
    "url": "https://cardzone.es/search?q=phantasmal+flames"
+  },
+  {
+   "ts": "03/07 03:40",
+   "title": "🚨 Chaos Rising (ME04) — CardZone",
+   "url": "https://cardzone.es/search?q=chaos+rising"
   }
  ],
  "digest_slot": "2026-07-02-22"
