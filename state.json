@@ -12,7 +12,7 @@
    "Destined Rivals": "irraggiungibile"
   },
   "Amazon.it": {
-   "Pitch Black (ME05)": "non listato",
+   "Pitch Black (ME05)": "listato",
    "30th Celebration": "non listato",
    "Storm Emerald (ME06)": "non listato",
    "Chaos Rising (ME04)": "non listato",
@@ -135,7 +135,7 @@
   "CardZone": {
    "Pitch Black (ME05)": "listato",
    "30th Celebration": "disponibile",
-   "Storm Emerald (ME06)": "listato",
+   "Storm Emerald (ME06)": "disponibile",
    "Chaos Rising (ME04)": "disponibile",
    "Phantasmal Flames (ME02)": "listato",
    "Pokémon 151": "esaurito",
@@ -246,7 +246,7 @@
    "Pitch Black (ME05)": "esaurito",
    "30th Celebration": "listato",
    "Storm Emerald (ME06)": "listato",
-   "Chaos Rising (ME04)": "disponibile",
+   "Chaos Rising (ME04)": "esaurito",
    "Phantasmal Flames (ME02)": "esaurito",
    "Pokémon 151": "listato",
    "Prismatic Evolutions": "listato",
@@ -689,7 +689,7 @@
    "Chaos Rising (ME04)": "irraggiungibile",
    "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "irraggiungibile",
-   "Prismatic Evolutions": "irraggiungibile",
+   "Prismatic Evolutions": "non listato",
    "Crown Zenith": "irraggiungibile",
    "Destined Rivals": "irraggiungibile"
   },
@@ -937,7 +937,7 @@
   "Amazon.it|Phantasmal Flames (ME02)": 1783021246.4570694,
   "Amazon.it|Pokémon 151": 1783021246.4570694,
   "PokeCardShop|Pitch Black (ME05)": 1783021262.714947,
-  "Amazon.it|Pitch Black (ME05)": 1783021541.8085651,
+  "Amazon.it|Pitch Black (ME05)": 1783043441.3616652,
   "CardZone|Pitch Black (ME05)": 1783023294.3864837,
   "CardZone|Storm Emerald (ME06)": 1783024364.2345915,
   "PokeCardShop|Chaos Rising (ME04)": 1783027262.2730978,
@@ -1093,6 +1093,11 @@
    "ts": "03/07 03:40",
    "title": "🚨 Chaos Rising (ME04) — CardZone",
    "url": "https://cardzone.es/search?q=chaos+rising"
+  },
+  {
+   "ts": "03/07 03:50",
+   "title": "🚨 Pitch Black (ME05) — Amazon.it",
+   "url": "https://www.amazon.it/s?k=pokemon+tcg+pitch+black"
   }
  ],
  "digest_slot": "2026-07-02-22"
