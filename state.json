@@ -12,15 +12,15 @@
    "Destined Rivals": "irraggiungibile"
   },
   "Amazon.it": {
-   "Pitch Black (ME05)": "listato",
-   "30th Celebration": "listato",
+   "Pitch Black (ME05)": "non listato",
+   "30th Celebration": "non listato",
    "Storm Emerald (ME06)": "non listato",
-   "Chaos Rising (ME04)": "listato",
-   "Phantasmal Flames (ME02)": "listato",
-   "Pokémon 151": "listato",
-   "Prismatic Evolutions": "listato",
-   "Crown Zenith": "listato",
-   "Destined Rivals": "listato"
+   "Chaos Rising (ME04)": "non listato",
+   "Phantasmal Flames (ME02)": "non listato",
+   "Pokémon 151": "non listato",
+   "Prismatic Evolutions": "non listato",
+   "Crown Zenith": "non listato",
+   "Destined Rivals": "non listato"
   },
   "Cardmarket": {
    "Pitch Black (ME05)": "irraggiungibile",
@@ -133,9 +133,9 @@
    "Destined Rivals": "irraggiungibile"
   },
   "CardZone": {
-   "Pitch Black (ME05)": "disponibile",
-   "30th Celebration": "disponibile",
-   "Storm Emerald (ME06)": "listato",
+   "Pitch Black (ME05)": "listato",
+   "30th Celebration": "listato",
+   "Storm Emerald (ME06)": "disponibile",
    "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "listato",
    "Pokémon 151": "esaurito",
@@ -939,7 +939,7 @@
   "PokeCardShop|Pitch Black (ME05)": 1783021262.714947,
   "Amazon.it|Pitch Black (ME05)": 1783043441.3616652,
   "CardZone|Pitch Black (ME05)": 1783046127.4060724,
-  "CardZone|Storm Emerald (ME06)": 1783024364.2345915,
+  "CardZone|Storm Emerald (ME06)": 1783046444.6166468,
   "PokeCardShop|Chaos Rising (ME04)": 1783027262.2730978,
   "MagicBazar|Prismatic Evolutions": 1783027887.2810962,
   "PokeCardShop|Phantasmal Flames (ME02)": 1783028458.9307673,
@@ -984,11 +984,6 @@
   "CardZone|Phantasmal Flames (ME02)": "https://cardzone.es/search?q=phantasmal+flames"
  },
  "log": [
-  {
-   "ts": "02/07 21:19",
-   "title": "🚨 30th Celebration — LetsGoTry",
-   "url": "https://letsgotry.pl/?s=30th+celebration&post_type=product"
-  },
   {
    "ts": "02/07 21:35",
    "title": "🚨 Prismatic Evolutions — Amazon.it",
@@ -1133,6 +1128,11 @@
    "ts": "03/07 04:35",
    "title": "🚨 30th Celebration — LetsGoTry",
    "url": "https://letsgotry.pl/?s=30th+celebration&post_type=product"
+  },
+  {
+   "ts": "03/07 04:40",
+   "title": "🚨 Storm Emerald (ME06) — CardZone",
+   "url": "https://cardzone.es/search?q=storm+emerald"
   }
  ],
  "digest_slot": "2026-07-02-22"
