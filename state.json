@@ -16,7 +16,7 @@
    "30th Celebration": "listato",
    "Storm Emerald (ME06)": "listato",
    "Chaos Rising (ME04)": "listato",
-   "Phantasmal Flames (ME02)": "listato",
+   "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "listato",
    "Prismatic Evolutions": "listato",
    "Crown Zenith": "listato",
@@ -133,10 +133,10 @@
    "Destined Rivals": "irraggiungibile"
   },
   "CardZone": {
-   "Pitch Black (ME05)": "disponibile",
-   "30th Celebration": "disponibile",
+   "Pitch Black (ME05)": "listato",
+   "30th Celebration": "listato",
    "Storm Emerald (ME06)": "disponibile",
-   "Chaos Rising (ME04)": "listato",
+   "Chaos Rising (ME04)": "disponibile",
    "Phantasmal Flames (ME02)": "disponibile",
    "Pokémon 151": "esaurito",
    "Prismatic Evolutions": "esaurito",
@@ -246,10 +246,10 @@
    "Pitch Black (ME05)": "esaurito",
    "30th Celebration": "listato",
    "Storm Emerald (ME06)": "listato",
-   "Chaos Rising (ME04)": "esaurito",
+   "Chaos Rising (ME04)": "disponibile",
    "Phantasmal Flames (ME02)": "esaurito",
    "Pokémon 151": "listato",
-   "Prismatic Evolutions": "listato",
+   "Prismatic Evolutions": "disponibile",
    "Crown Zenith": "esaurito",
    "Destined Rivals": "esaurito"
   },
@@ -695,7 +695,7 @@
   },
   "LetsGoTry": {
    "Pitch Black (ME05)": "listato",
-   "30th Celebration": "listato",
+   "30th Celebration": "non listato",
    "Storm Emerald (ME06)": "non listato",
    "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "non listato",
@@ -941,17 +941,19 @@
   "Amazon.it|Pitch Black (ME05)": 1783043441.3616652,
   "CardZone|Pitch Black (ME05)": 1783046127.4060724,
   "CardZone|Storm Emerald (ME06)": 1783046444.6166468,
-  "PokeCardShop|Chaos Rising (ME04)": 1783027262.2730978,
+  "PokeCardShop|Chaos Rising (ME04)": 1783059663.500404,
   "MagicBazar|Prismatic Evolutions": 1783027887.2810962,
   "PokeCardShop|Phantasmal Flames (ME02)": 1783055754.9456644,
   "CardZone|Phantasmal Flames (ME02)": 1783054864.5105546,
-  "PokeCardShop|30th Celebration": 1783049147.3515093
+  "PokeCardShop|30th Celebration": 1783049147.3515093,
+  "PokeCardShop|Prismatic Evolutions": 1783059663.500404
  },
  "prices": {
   "SunnyStore|Pokémon 151": "€26,90",
   "Packratt (UK)|Chaos Rising (ME04)": "£10.01",
   "Packratt (UK)|Pokémon 151": "£29.99",
-  "MagicBazar|Pitch Black (ME05)": "$85"
+  "MagicBazar|Pitch Black (ME05)": "$85",
+  "PokeCardShop|Chaos Rising (ME04)": "€6.95"
  },
  "urls": {
   "SunnyStore|Pokémon 151": "https://sunnystore.es/search?q=pokemon+151",
@@ -985,19 +987,10 @@
   "God of Cards|Pokémon 151": "https://godofcards.com/search?q=pokemon+151",
   "CardZone|Phantasmal Flames (ME02)": "https://cardzone.es/search?q=phantasmal+flames",
   "CardZone|Crown Zenith": "https://cardzone.es/search?q=crown+zenith",
-  "God of Cards|Prismatic Evolutions": "https://godofcards.com/search?q=prismatic+evolutions"
+  "God of Cards|Prismatic Evolutions": "https://godofcards.com/search?q=prismatic+evolutions",
+  "PokeCardShop|Prismatic Evolutions": "https://www.pokecardshop.be/search?q=prismatic+evolutions"
  },
  "log": [
-  {
-   "ts": "02/07 21:40",
-   "title": "🚨 Chaos Rising (ME04) — CardZone",
-   "url": "https://cardzone.es/search?q=chaos+rising"
-  },
-  {
-   "ts": "02/07 21:40",
-   "title": "🚨 30th Celebration — Amazon.it",
-   "url": "https://www.amazon.it/s?k=pokemon+tcg+30th+celebration"
-  },
   {
    "ts": "02/07 21:40",
    "title": "🚨 Storm Emerald (ME06) — Amazon.it",
@@ -1137,6 +1130,16 @@
    "ts": "03/07 07:15",
    "title": "🚨 Phantasmal Flames (ME02) — PokeCardShop",
    "url": "https://www.pokecardshop.be/search?q=phantasmal+flames"
+  },
+  {
+   "ts": "03/07 08:21",
+   "title": "🚨 Chaos Rising (ME04) — PokeCardShop",
+   "url": "https://www.pokecardshop.be/search?q=chaos+rising"
+  },
+  {
+   "ts": "03/07 08:21",
+   "title": "🚨 Prismatic Evolutions — PokeCardShop",
+   "url": "https://www.pokecardshop.be/search?q=prismatic+evolutions"
   }
  ],
  "digest_slot": "2026-07-02-22"
