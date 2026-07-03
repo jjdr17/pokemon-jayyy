@@ -170,8 +170,8 @@
    "Destined Rivals": "irraggiungibile"
   },
   "CardZone": {
-   "Pitch Black (ME05)": "disponibile",
-   "30th Celebration": "disponibile",
+   "Pitch Black (ME05)": "listato",
+   "30th Celebration": "listato",
    "Storm Emerald (ME06)": "listato",
    "Chaos Rising (ME04)": "disponibile",
    "Phantasmal Flames (ME02)": "listato",
@@ -589,7 +589,7 @@
   },
   "PokeCardShop": {
    "Pitch Black (ME05)": "esaurito",
-   "30th Celebration": "non listato",
+   "30th Celebration": "listato",
    "Storm Emerald (ME06)": "listato",
    "Chaos Rising (ME04)": "disponibile",
    "Phantasmal Flames (ME02)": "esaurito",
@@ -909,7 +909,8 @@
   "fabscards.at": "https://fabscards.at/search?controller=search&s={q}",
   "misticards.com": "https://misticards.com/search?q={q}",
   "pokevend.at": "https://pokevend.at/search?q={q}",
-  "rarecards.nl": "https://rarecards.nl/search?q={q}"
+  "rarecards.nl": "https://rarecards.nl/search?q={q}",
+  "www.poketalk.se": "https://www.poketalk.se/search?controller=search&s={q}"
  },
  "alerts": {
   "CardZone|Pitch Black (ME05)": 1783097442.4874465,
