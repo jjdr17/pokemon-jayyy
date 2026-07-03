@@ -170,10 +170,10 @@
    "Destined Rivals": "irraggiungibile"
   },
   "CardZone": {
-   "Pitch Black (ME05)": "disponibile",
+   "Pitch Black (ME05)": "listato",
    "30th Celebration": "listato",
-   "Storm Emerald (ME06)": "listato",
-   "Chaos Rising (ME04)": "listato",
+   "Storm Emerald (ME06)": "disponibile",
+   "Chaos Rising (ME04)": "disponibile",
    "Phantasmal Flames (ME02)": "disponibile",
    "Pokémon 151": "disponibile",
    "Prismatic Evolutions": "esaurito",
@@ -595,8 +595,8 @@
    "Phantasmal Flames (ME02)": "esaurito",
    "Pokémon 151": "listato",
    "Prismatic Evolutions": "disponibile",
-   "Crown Zenith": "esaurito",
-   "Destined Rivals": "esaurito"
+   "Crown Zenith": "listato",
+   "Destined Rivals": "disponibile"
   },
   "Pokekarty": {
    "Pitch Black (ME05)": "irraggiungibile",
@@ -914,11 +914,11 @@
  },
  "alerts": {
   "CardZone|Pitch Black (ME05)": 1783119046.1420548,
-  "CardZone|Storm Emerald (ME06)": 1783098327.1809683,
+  "CardZone|Storm Emerald (ME06)": 1783119929.9940336,
   "CardZone|30th Celebration": 1783098327.1809683,
   "PokeCardShop|Pitch Black (ME05)": 1783080962.4063685,
   "drop|MagicBazar|Pitch Black (ME05)": 1783105303.1327088,
-  "PokeCardShop|Destined Rivals": 1783084867.546246,
+  "PokeCardShop|Destined Rivals": 1783119955.9996972,
   "Rogerz|Pitch Black (ME05)": 1783087262.8826923,
   "CardZone|Chaos Rising (ME04)": 1783114847.8219182,
   "PokeCardShop|Chaos Rising (ME04)": 1783091751.63305,
@@ -1066,6 +1066,16 @@
    "ts": "04/07 00:50",
    "title": "🚨 DISPONIBILE/PREORDER: Pitch Black (ME05) — CardZone",
    "url": "https://cardzone.es/search?q=pitch+black"
+  },
+  {
+   "ts": "04/07 01:05",
+   "title": "🚨 DISPONIBILE/PREORDER: Storm Emerald (ME06) — CardZone",
+   "url": "https://cardzone.es/search?q=storm+emerald"
+  },
+  {
+   "ts": "04/07 01:05",
+   "title": "🚨 RESTOCK: Destined Rivals — PokeCardShop",
+   "url": "https://www.pokecardshop.be/search?q=destined+rivals"
   }
  ],
  "digest_slot": "2026-07-03-22"
