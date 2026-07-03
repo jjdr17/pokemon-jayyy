@@ -12,15 +12,15 @@
    "Destined Rivals": "irraggiungibile"
   },
   "Amazon.it": {
-   "Pitch Black (ME05)": "listato",
-   "30th Celebration": "listato",
-   "Storm Emerald (ME06)": "listato",
-   "Chaos Rising (ME04)": "listato",
-   "Phantasmal Flames (ME02)": "listato",
-   "Pokémon 151": "listato",
-   "Prismatic Evolutions": "listato",
-   "Crown Zenith": "listato",
-   "Destined Rivals": "listato"
+   "Pitch Black (ME05)": "non listato",
+   "30th Celebration": "non listato",
+   "Storm Emerald (ME06)": "non listato",
+   "Chaos Rising (ME04)": "non listato",
+   "Phantasmal Flames (ME02)": "non listato",
+   "Pokémon 151": "non listato",
+   "Prismatic Evolutions": "non listato",
+   "Crown Zenith": "non listato",
+   "Destined Rivals": "non listato"
   },
   "Cardmarket": {
    "Pitch Black (ME05)": "irraggiungibile",
@@ -133,12 +133,12 @@
    "Destined Rivals": "irraggiungibile"
   },
   "CardZone": {
-   "Pitch Black (ME05)": "disponibile",
-   "30th Celebration": "disponibile",
+   "Pitch Black (ME05)": "listato",
+   "30th Celebration": "listato",
    "Storm Emerald (ME06)": "disponibile",
    "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "disponibile",
-   "Pokémon 151": "esaurito",
+   "Pokémon 151": "listato",
    "Prismatic Evolutions": "esaurito",
    "Crown Zenith": "disponibile",
    "Destined Rivals": "irraggiungibile"
@@ -1145,5 +1145,5 @@
    "url": "https://www.amazon.it/s?k=pokemon+tcg+pitch+black"
   }
  ],
- "digest_slot": "2026-07-02-22"
+ "digest_slot": "2026-07-03-10"
 }
