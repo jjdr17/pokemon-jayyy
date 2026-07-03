@@ -133,9 +133,9 @@
    "Destined Rivals": "irraggiungibile"
   },
   "CardZone": {
-   "Pitch Black (ME05)": "disponibile",
-   "30th Celebration": "disponibile",
-   "Storm Emerald (ME06)": "disponibile",
+   "Pitch Black (ME05)": "listato",
+   "30th Celebration": "listato",
+   "Storm Emerald (ME06)": "listato",
    "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "disponibile",
    "Pokémon 151": "esaurito",
@@ -247,7 +247,7 @@
    "30th Celebration": "listato",
    "Storm Emerald (ME06)": "listato",
    "Chaos Rising (ME04)": "esaurito",
-   "Phantasmal Flames (ME02)": "esaurito",
+   "Phantasmal Flames (ME02)": "disponibile",
    "Pokémon 151": "listato",
    "Prismatic Evolutions": "listato",
    "Crown Zenith": "esaurito",
@@ -695,7 +695,7 @@
   },
   "LetsGoTry": {
    "Pitch Black (ME05)": "listato",
-   "30th Celebration": "non listato",
+   "30th Celebration": "listato",
    "Storm Emerald (ME06)": "non listato",
    "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "non listato",
@@ -943,7 +943,7 @@
   "CardZone|Storm Emerald (ME06)": 1783046444.6166468,
   "PokeCardShop|Chaos Rising (ME04)": 1783027262.2730978,
   "MagicBazar|Prismatic Evolutions": 1783027887.2810962,
-  "PokeCardShop|Phantasmal Flames (ME02)": 1783028458.9307673,
+  "PokeCardShop|Phantasmal Flames (ME02)": 1783055754.9456644,
   "CardZone|Phantasmal Flames (ME02)": 1783054864.5105546,
   "PokeCardShop|30th Celebration": 1783049147.3515093
  },
@@ -988,11 +988,6 @@
   "God of Cards|Prismatic Evolutions": "https://godofcards.com/search?q=prismatic+evolutions"
  },
  "log": [
-  {
-   "ts": "02/07 21:35",
-   "title": "🚨 30th Celebration — CardZone",
-   "url": "https://cardzone.es/search?q=30th+celebration"
-  },
   {
    "ts": "02/07 21:40",
    "title": "🚨 Chaos Rising (ME04) — CardZone",
@@ -1137,6 +1132,11 @@
    "ts": "03/07 07:01",
    "title": "🚨 Phantasmal Flames (ME02) — CardZone",
    "url": "https://cardzone.es/search?q=phantasmal+flames"
+  },
+  {
+   "ts": "03/07 07:15",
+   "title": "🚨 Phantasmal Flames (ME02) — PokeCardShop",
+   "url": "https://www.pokecardshop.be/search?q=phantasmal+flames"
   }
  ],
  "digest_slot": "2026-07-02-22"
