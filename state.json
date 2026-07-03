@@ -133,9 +133,9 @@
    "Destined Rivals": "irraggiungibile"
   },
   "CardZone": {
-   "Pitch Black (ME05)": "listato",
+   "Pitch Black (ME05)": "disponibile",
    "30th Celebration": "listato",
-   "Storm Emerald (ME06)": "listato",
+   "Storm Emerald (ME06)": "disponibile",
    "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "listato",
    "Pokémon 151": "esaurito",
@@ -695,7 +695,7 @@
   },
   "LetsGoTry": {
    "Pitch Black (ME05)": "listato",
-   "30th Celebration": "non listato",
+   "30th Celebration": "listato",
    "Storm Emerald (ME06)": "non listato",
    "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "non listato",
@@ -924,7 +924,7 @@
  "alerts": {
   "Cardstore.cz|30th Celebration": 1783014113.9441674,
   "Sapphire-Cards|Pitch Black (ME05)": 1783017425.191381,
-  "drop|MagicBazar|Pitch Black (ME05)": 1783017432.2682624,
+  "drop|MagicBazar|Pitch Black (ME05)": 1783047065.5997376,
   "LetsGoTry|30th Celebration": 1783046156.5635478,
   "Amazon.it|Prismatic Evolutions": 1783045533.536075,
   "Amazon.it|Crown Zenith": 1783045533.536075,
@@ -949,7 +949,7 @@
   "SunnyStore|Pokémon 151": "€26,90",
   "Packratt (UK)|Chaos Rising (ME04)": "£10.01",
   "Packratt (UK)|Pokémon 151": "£29.99",
-  "MagicBazar|Pitch Black (ME05)": "$110"
+  "MagicBazar|Pitch Black (ME05)": "$11"
  },
  "urls": {
   "SunnyStore|Pokémon 151": "https://sunnystore.es/search?q=pokemon+151",
@@ -963,7 +963,7 @@
   "Sapphire-Cards|Destined Rivals": "https://sapphire-cards.de/?s=destined+rivals&post_type=product",
   "Pokipair|Prismatic Evolutions": "https://www.pokipair.com/?s=prismatic+evolutions&post_type=product",
   "Pokebox|Pitch Black (ME05)": "https://pokeboxstore.pt/produto/premium-checklane-blister-gengar-pitch-black/",
-  "MagicBazar|Pitch Black (ME05)": "https://www.magicbazar.fr/en/produit/647190/deck-commander-marvel-super-heroes-avengers-assemble-magic-en",
+  "MagicBazar|Pitch Black (ME05)": "https://www.magicbazar.fr/en/produit/647162/gift-bundle-marvel-super-heroes-magic-en",
   "Pokekarty|Chaos Rising (ME04)": "https://www.pokekarty.pl/product/karta-pokemon-chaos-rising-003-086-beedrill-ex",
   "Pokekarty|Phantasmal Flames (ME02)": "https://www.pokekarty.pl/product/karta-pokemon-phantasmal-flames-004-094-mega-heracross-ex",
   "Pokekarty|Crown Zenith": "https://www.pokekarty.pl/product/karta-pokemon-crown-zenith-046-159-rotom-vstar",
@@ -984,11 +984,6 @@
   "CardZone|Phantasmal Flames (ME02)": "https://cardzone.es/search?q=phantasmal+flames"
  },
  "log": [
-  {
-   "ts": "02/07 21:35",
-   "title": "🚨 Prismatic Evolutions — Amazon.it",
-   "url": "https://www.amazon.it/s?k=pokemon+tcg+prismatic+evolutions"
-  },
   {
    "ts": "02/07 21:35",
    "title": "🚨 Crown Zenith — Amazon.it",
@@ -1133,6 +1128,11 @@
    "ts": "03/07 04:40",
    "title": "🚨 Storm Emerald (ME06) — CardZone",
    "url": "https://cardzone.es/search?q=storm+emerald"
+  },
+  {
+   "ts": "03/07 04:51",
+   "title": "📉 Prezzo giù: Pitch Black (ME05) — MagicBazar",
+   "url": "https://www.magicbazar.fr/en/produit/647162/gift-bundle-marvel-super-heroes-magic-en"
   }
  ],
  "digest_slot": "2026-07-02-22"
