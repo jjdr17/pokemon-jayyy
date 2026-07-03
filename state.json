@@ -133,9 +133,9 @@
    "Destined Rivals": "irraggiungibile"
   },
   "CardZone": {
-   "Pitch Black (ME05)": "disponibile",
-   "30th Celebration": "disponibile",
-   "Storm Emerald (ME06)": "listato",
+   "Pitch Black (ME05)": "listato",
+   "30th Celebration": "listato",
+   "Storm Emerald (ME06)": "disponibile",
    "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "listato",
    "Pokémon 151": "esaurito",
@@ -244,7 +244,7 @@
   },
   "PokeCardShop": {
    "Pitch Black (ME05)": "esaurito",
-   "30th Celebration": "non listato",
+   "30th Celebration": "listato",
    "Storm Emerald (ME06)": "listato",
    "Chaos Rising (ME04)": "esaurito",
    "Phantasmal Flames (ME02)": "esaurito",
@@ -944,7 +944,8 @@
   "PokeCardShop|Chaos Rising (ME04)": 1783027262.2730978,
   "MagicBazar|Prismatic Evolutions": 1783027887.2810962,
   "PokeCardShop|Phantasmal Flames (ME02)": 1783028458.9307673,
-  "CardZone|Phantasmal Flames (ME02)": 1783032930.12267
+  "CardZone|Phantasmal Flames (ME02)": 1783032930.12267,
+  "PokeCardShop|30th Celebration": 1783049147.3515093
  },
  "prices": {
   "SunnyStore|Pokémon 151": "€26,90",
@@ -985,11 +986,6 @@
   "CardZone|Phantasmal Flames (ME02)": "https://cardzone.es/search?q=phantasmal+flames"
  },
  "log": [
-  {
-   "ts": "02/07 21:35",
-   "title": "🚨 Crown Zenith — Amazon.it",
-   "url": "https://www.amazon.it/s?k=pokemon+tcg+crown+zenith"
-  },
   {
    "ts": "02/07 21:35",
    "title": "🚨 Destined Rivals — Amazon.it",
@@ -1134,6 +1130,11 @@
    "ts": "03/07 04:51",
    "title": "📉 Prezzo giù: Pitch Black (ME05) — MagicBazar",
    "url": "https://www.magicbazar.fr/en/produit/647162/gift-bundle-marvel-super-heroes-magic-en"
+  },
+  {
+   "ts": "03/07 05:25",
+   "title": "🚨 30th Celebration — PokeCardShop",
+   "url": "https://www.pokecardshop.be/search?q=30th+celebration"
   }
  ],
  "digest_slot": "2026-07-02-22"
