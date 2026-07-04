@@ -170,9 +170,9 @@
    "Destined Rivals": "irraggiungibile"
   },
   "CardZone": {
-   "Pitch Black (ME05)": "listato",
-   "30th Celebration": "listato",
-   "Storm Emerald (ME06)": "disponibile",
+   "Pitch Black (ME05)": "disponibile",
+   "30th Celebration": "disponibile",
+   "Storm Emerald (ME06)": "listato",
    "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "disponibile",
    "Pokémon 151": "esaurito",
@@ -798,7 +798,7 @@
   },
   "LetsGoTry": {
    "Pitch Black (ME05)": "listato",
-   "30th Celebration": "disponibile",
+   "30th Celebration": "non listato",
    "Storm Emerald (ME06)": "non listato",
    "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "non listato",
@@ -917,7 +917,7 @@
  "alerts": {
   "CardZone|Pitch Black (ME05)": 1783187449.4299276,
   "CardZone|Storm Emerald (ME06)": 1783166344.9771214,
-  "CardZone|30th Celebration": 1783167361.8787887,
+  "CardZone|30th Celebration": 1783189857.139046,
   "PokeCardShop|Pitch Black (ME05)": 1783170411.7980342,
   "drop|MagicBazar|Pitch Black (ME05)": 1783127753.0918038,
   "PokeCardShop|Destined Rivals": 1783156262.5181,
@@ -963,7 +963,7 @@
   "Pikashop|Chaos Rising (ME04)": "https://pikashop.pl/?s=chaos+rising&post_type=product",
   "Pokemania.ro|Pitch Black (ME05)": "https://pokemania.ro/vstar-universe/pokemon-tcg-vstar-universes-s12a-jp-booster-bundle-display-box-10-pachete-booster-jp",
   "CardZone|Pitch Black (ME05)": "https://cardzone.es/search?q=pitch+black",
-  "Total Cards (UK)|Pitch Black (ME05)": "https://totalcards.net/products/pokemon-mega-evolution-pitch-black-booster-pack?_pos=1&_sid=a927f58f5&_ss=r",
+  "Total Cards (UK)|Pitch Black (ME05)": "https://totalcards.net/products/pokemon-mega-evolution-pitch-black-booster-pack?_pos=1&_sid=58d5af75a&_ss=r",
   "SunnyStore|Pokémon 151": "https://sunnystore.es/search?q=pokemon+151",
   "God of Cards|Pokémon 151": "https://godofcards.com/search?q=pokemon+151",
   "PokeCardShop|Pitch Black (ME05)": "https://www.pokecardshop.be/search?q=pitch+black",
@@ -979,11 +979,6 @@
   "LetsGoTry|30th Celebration": "https://letsgotry.pl/zestawy-eng/15896--preorder-pokemon-tcg-30th-celebration-2-pack.html"
  },
  "log": [
-  {
-   "ts": "03/07 21:55",
-   "title": "🚨 RESTOCK: Phantasmal Flames (ME02) — PokeCardShop",
-   "url": "https://www.pokecardshop.be/search?q=phantasmal+flames"
-  },
   {
    "ts": "03/07 22:10",
    "title": "🚨 DISPONIBILE/PREORDER: Pokémon 151 — CardZone",
@@ -1128,6 +1123,11 @@
    "ts": "04/07 19:50",
    "title": "🚨 DISPONIBILE/PREORDER: Phantasmal Flames (ME02) — CardZone",
    "url": "https://cardzone.es/search?q=phantasmal+flames"
+  },
+  {
+   "ts": "04/07 20:30",
+   "title": "🚨 DISPONIBILE/PREORDER: 30th Celebration — CardZone",
+   "url": "https://cardzone.es/search?q=30th+celebration"
   }
  ],
  "digest_slot": "2026-07-04-18"
