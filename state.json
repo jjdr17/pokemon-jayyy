@@ -171,9 +171,9 @@
   },
   "CardZone": {
    "Pitch Black (ME05)": "listato",
-   "30th Celebration": "listato",
-   "Storm Emerald (ME06)": "listato",
-   "Chaos Rising (ME04)": "disponibile",
+   "30th Celebration": "disponibile",
+   "Storm Emerald (ME06)": "disponibile",
+   "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "disponibile",
    "Pokémon 151": "esaurito",
    "Prismatic Evolutions": "esaurito",
@@ -916,7 +916,7 @@
  },
  "alerts": {
   "CardZone|Pitch Black (ME05)": 1783140831.6746352,
-  "CardZone|Storm Emerald (ME06)": 1783119929.9940336,
+  "CardZone|Storm Emerald (ME06)": 1783144271.7448807,
   "CardZone|30th Celebration": 1783142603.0861018,
   "PokeCardShop|Pitch Black (ME05)": 1783120865.9527476,
   "drop|MagicBazar|Pitch Black (ME05)": 1783127753.0918038,
@@ -961,7 +961,7 @@
   "Pikashop|Chaos Rising (ME04)": "https://pikashop.pl/?s=chaos+rising&post_type=product",
   "Pokemania.ro|Pitch Black (ME05)": "https://pokemania.ro/vstar-universe/pokemon-tcg-vstar-universes-s12a-jp-booster-bundle-display-box-10-pachete-booster-jp",
   "CardZone|Pitch Black (ME05)": "https://cardzone.es/search?q=pitch+black",
-  "Total Cards (UK)|Pitch Black (ME05)": "https://totalcards.net/products/pokemon-mega-evolution-pitch-black-booster-pack?_pos=1&_sid=b366a5cd7&_ss=r",
+  "Total Cards (UK)|Pitch Black (ME05)": "https://totalcards.net/products/ultra-pro-pokemon-mega-evolution-pitch-black-9-pocket-portfolio?_pos=3&_sid=822815f3a&_ss=r",
   "SunnyStore|Pokémon 151": "https://sunnystore.es/search?q=pokemon+151",
   "God of Cards|Pokémon 151": "https://godofcards.com/search?q=pokemon+151",
   "PokeCardShop|Pitch Black (ME05)": "https://www.pokecardshop.be/search?q=pitch+black",
@@ -976,11 +976,6 @@
   "Stoyanov Games|Pitch Black (ME05)": "https://stoyanov-gamesbg.com/pre-order-pokemon-tcg-mega-evolution-pitch-black-elite-trainer-box-френски-език/"
  },
  "log": [
-  {
-   "ts": "03/07 12:31",
-   "title": "🚨 DISPONIBILE/PREORDER: Pitch Black (ME05) — CardZone",
-   "url": "https://cardzone.es/search?q=pitch+black"
-  },
   {
    "ts": "03/07 12:55",
    "title": "🚨 DISPONIBILE/PREORDER: Storm Emerald (ME06) — CardZone",
@@ -1125,6 +1120,11 @@
    "ts": "04/07 07:23",
    "title": "🚨 DISPONIBILE/PREORDER: 30th Celebration — CardZone",
    "url": "https://cardzone.es/search?q=30th+celebration"
+  },
+  {
+   "ts": "04/07 07:51",
+   "title": "🚨 DISPONIBILE/PREORDER: Storm Emerald (ME06) — CardZone",
+   "url": "https://cardzone.es/search?q=storm+emerald"
   }
  ],
  "digest_slot": "2026-07-03-22"
