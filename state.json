@@ -214,7 +214,7 @@
    "Destined Rivals": "esaurito"
   },
   "Total Cards (UK)": {
-   "Pitch Black (ME05)": "esaurito",
+   "Pitch Black (ME05)": "disponibile",
    "30th Celebration": "disponibile",
    "Storm Emerald (ME06)": "listato",
    "Chaos Rising (ME04)": "esaurito",
@@ -924,7 +924,7 @@
   "Rogerz|Pitch Black (ME05)": 1783087262.8826923,
   "CardZone|Chaos Rising (ME04)": 1783138536.7040613,
   "PokeCardShop|Chaos Rising (ME04)": 1783166361.3349023,
-  "Total Cards (UK)|Pitch Black (ME05)": 1783103456.411434,
+  "Total Cards (UK)|Pitch Black (ME05)": 1783176309.9397047,
   "PokeCardShop|Phantasmal Flames (ME02)": 1783158940.68386,
   "CardZone|Pokémon 151": 1783109447.9759972,
   "CardZone|Phantasmal Flames (ME02)": 1783138845.9759347,
@@ -961,7 +961,7 @@
   "Pikashop|Chaos Rising (ME04)": "https://pikashop.pl/?s=chaos+rising&post_type=product",
   "Pokemania.ro|Pitch Black (ME05)": "https://pokemania.ro/vstar-universe/pokemon-tcg-vstar-universes-s12a-jp-booster-bundle-display-box-10-pachete-booster-jp",
   "CardZone|Pitch Black (ME05)": "https://cardzone.es/search?q=pitch+black",
-  "Total Cards (UK)|Pitch Black (ME05)": "https://totalcards.net/products/pokemon-mega-evolution-pitch-black-booster-pack?_pos=1&_sid=2922989a5&_ss=r",
+  "Total Cards (UK)|Pitch Black (ME05)": "https://totalcards.net/products/pokemon-mega-evolution-pitch-black-booster-pack?_pos=1&_sid=caf777172&_ss=r",
   "SunnyStore|Pokémon 151": "https://sunnystore.es/search?q=pokemon+151",
   "God of Cards|Pokémon 151": "https://godofcards.com/search?q=pokemon+151",
   "PokeCardShop|Pitch Black (ME05)": "https://www.pokecardshop.be/search?q=pitch+black",
@@ -976,11 +976,6 @@
   "Stoyanov Games|Pitch Black (ME05)": "https://stoyanov-gamesbg.com/pre-order-pokemon-tcg-mega-evolution-pitch-black-elite-trainer-box-френски-език/"
  },
  "log": [
-  {
-   "ts": "03/07 17:15",
-   "title": "🚨 DISPONIBILE/PREORDER: Chaos Rising (ME04) — PokeCardShop",
-   "url": "https://www.pokecardshop.be/search?q=chaos+rising"
-  },
   {
    "ts": "03/07 18:50",
    "title": "🚨 DISPONIBILE/PREORDER: Pitch Black (ME05) — CardZone",
@@ -1125,6 +1120,11 @@
    "ts": "04/07 15:06",
    "title": "🚨 RESTOCK: Pitch Black (ME05) — PokeCardShop",
    "url": "https://www.pokecardshop.be/search?q=pitch+black"
+  },
+  {
+   "ts": "04/07 16:45",
+   "title": "🚨 RESTOCK: Pitch Black (ME05) — Total Cards (UK)",
+   "url": "https://totalcards.net/products/pokemon-mega-evolution-pitch-black-booster-pack?_pos=1&_sid=caf777172&_ss=r"
   }
  ],
  "digest_slot": "2026-07-04-15"
