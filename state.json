@@ -172,7 +172,7 @@
   "CardZone": {
    "Pitch Black (ME05)": "listato",
    "30th Celebration": "listato",
-   "Storm Emerald (ME06)": "disponibile",
+   "Storm Emerald (ME06)": "listato",
    "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "listato",
    "Pokémon 151": "esaurito",
@@ -595,8 +595,8 @@
    "Phantasmal Flames (ME02)": "esaurito",
    "Pokémon 151": "listato",
    "Prismatic Evolutions": "disponibile",
-   "Crown Zenith": "esaurito",
-   "Destined Rivals": "esaurito"
+   "Crown Zenith": "listato",
+   "Destined Rivals": "disponibile"
   },
   "Pokekarty": {
    "Pitch Black (ME05)": "irraggiungibile",
@@ -920,7 +920,7 @@
   "CardZone|30th Celebration": 1783142603.0861018,
   "PokeCardShop|Pitch Black (ME05)": 1783120865.9527476,
   "drop|MagicBazar|Pitch Black (ME05)": 1783127753.0918038,
-  "PokeCardShop|Destined Rivals": 1783119955.9996972,
+  "PokeCardShop|Destined Rivals": 1783156262.5181,
   "Rogerz|Pitch Black (ME05)": 1783087262.8826923,
   "CardZone|Chaos Rising (ME04)": 1783138536.7040613,
   "PokeCardShop|Chaos Rising (ME04)": 1783128060.046652,
@@ -976,11 +976,6 @@
   "Stoyanov Games|Pitch Black (ME05)": "https://stoyanov-gamesbg.com/pre-order-pokemon-tcg-mega-evolution-pitch-black-elite-trainer-box-френски-език/"
  },
  "log": [
-  {
-   "ts": "03/07 12:55",
-   "title": "🚨 DISPONIBILE/PREORDER: Storm Emerald (ME06) — CardZone",
-   "url": "https://cardzone.es/search?q=storm+emerald"
-  },
   {
    "ts": "03/07 13:01",
    "title": "🚨 DISPONIBILE/PREORDER: 30th Celebration — CardZone",
@@ -1125,6 +1120,11 @@
    "ts": "04/07 07:51",
    "title": "🚨 DISPONIBILE/PREORDER: Storm Emerald (ME06) — CardZone",
    "url": "https://cardzone.es/search?q=storm+emerald"
+  },
+  {
+   "ts": "04/07 11:11",
+   "title": "🚨 RESTOCK: Destined Rivals — PokeCardShop",
+   "url": "https://www.pokecardshop.be/search?q=destined+rivals"
   }
  ],
  "digest_slot": "2026-07-04-10"
