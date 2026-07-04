@@ -170,8 +170,8 @@
    "Destined Rivals": "irraggiungibile"
   },
   "CardZone": {
-   "Pitch Black (ME05)": "listato",
-   "30th Celebration": "disponibile",
+   "Pitch Black (ME05)": "disponibile",
+   "30th Celebration": "listato",
    "Storm Emerald (ME06)": "listato",
    "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "disponibile",
@@ -593,10 +593,10 @@
    "Storm Emerald (ME06)": "listato",
    "Chaos Rising (ME04)": "disponibile",
    "Phantasmal Flames (ME02)": "esaurito",
-   "Pokémon 151": "non listato",
+   "Pokémon 151": "listato",
    "Prismatic Evolutions": "disponibile",
    "Crown Zenith": "esaurito",
-   "Destined Rivals": "esaurito"
+   "Destined Rivals": "disponibile"
   },
   "Pokekarty": {
    "Pitch Black (ME05)": "irraggiungibile",
@@ -920,7 +920,7 @@
   "CardZone|30th Celebration": 1783189857.139046,
   "PokeCardShop|Pitch Black (ME05)": 1783170411.7980342,
   "drop|MagicBazar|Pitch Black (ME05)": 1783195279.1522343,
-  "PokeCardShop|Destined Rivals": 1783156262.5181,
+  "PokeCardShop|Destined Rivals": 1783208467.7273407,
   "Rogerz|Pitch Black (ME05)": 1783087262.8826923,
   "CardZone|Chaos Rising (ME04)": 1783180835.9500926,
   "PokeCardShop|Chaos Rising (ME04)": 1783166361.3349023,
@@ -936,7 +936,7 @@
   "Packratt (UK)|Chaos Rising (ME04)": "£10.01",
   "Packratt (UK)|Pokémon 151": "£29.99",
   "PokeCardShop|Chaos Rising (ME04)": "€6.95",
-  "MagicBazar|Pitch Black (ME05)": "$84",
+  "MagicBazar|Pitch Black (ME05)": "$85",
   "Total Cards (UK)|Pitch Black (ME05)": "£4.79",
   "SunnyStore|Pokémon 151": "€26,90",
   "Total Cards (UK)|30th Celebration": "£9.13"
@@ -979,11 +979,6 @@
   "LetsGoTry|30th Celebration": "https://letsgotry.pl/zestawy-eng/15892--preorder-pokemon-tcg-30th-celebration-elite-trainer-box.html"
  },
  "log": [
-  {
-   "ts": "04/07 00:50",
-   "title": "🚨 DISPONIBILE/PREORDER: Pitch Black (ME05) — CardZone",
-   "url": "https://cardzone.es/search?q=pitch+black"
-  },
   {
    "ts": "04/07 01:05",
    "title": "🚨 DISPONIBILE/PREORDER: Storm Emerald (ME06) — CardZone",
@@ -1128,6 +1123,11 @@
    "ts": "04/07 23:11",
    "title": "🚨 DISPONIBILE/PREORDER: 30th Celebration — LetsGoTry",
    "url": "https://letsgotry.pl/zestawy-eng/15895--preorder-pokemon-tcg-30th-celebration-binder-collection.html"
+  },
+  {
+   "ts": "05/07 01:41",
+   "title": "🚨 RESTOCK: Destined Rivals — PokeCardShop",
+   "url": "https://www.pokecardshop.be/search?q=destined+rivals"
   }
  ],
  "digest_slot": "2026-07-04-22"
