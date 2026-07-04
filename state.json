@@ -170,10 +170,10 @@
    "Destined Rivals": "irraggiungibile"
   },
   "CardZone": {
-   "Pitch Black (ME05)": "listato",
+   "Pitch Black (ME05)": "disponibile",
    "30th Celebration": "listato",
    "Storm Emerald (ME06)": "listato",
-   "Chaos Rising (ME04)": "listato",
+   "Chaos Rising (ME04)": "disponibile",
    "Phantasmal Flames (ME02)": "listato",
    "Pokémon 151": "esaurito",
    "Prismatic Evolutions": "esaurito",
@@ -592,7 +592,7 @@
    "30th Celebration": "listato",
    "Storm Emerald (ME06)": "listato",
    "Chaos Rising (ME04)": "disponibile",
-   "Phantasmal Flames (ME02)": "esaurito",
+   "Phantasmal Flames (ME02)": "disponibile",
    "Pokémon 151": "listato",
    "Prismatic Evolutions": "disponibile",
    "Crown Zenith": "esaurito",
@@ -925,7 +925,7 @@
   "CardZone|Chaos Rising (ME04)": 1783138536.7040613,
   "PokeCardShop|Chaos Rising (ME04)": 1783128060.046652,
   "Total Cards (UK)|Pitch Black (ME05)": 1783103456.411434,
-  "PokeCardShop|Phantasmal Flames (ME02)": 1783108546.5039468,
+  "PokeCardShop|Phantasmal Flames (ME02)": 1783158940.68386,
   "CardZone|Pokémon 151": 1783109447.9759972,
   "CardZone|Phantasmal Flames (ME02)": 1783138845.9759347,
   "Stoyanov Games|Pitch Black (ME05)": 1783137719.5913703
@@ -976,11 +976,6 @@
   "Stoyanov Games|Pitch Black (ME05)": "https://stoyanov-gamesbg.com/pre-order-pokemon-tcg-mega-evolution-pitch-black-elite-trainer-box-френски-език/"
  },
  "log": [
-  {
-   "ts": "03/07 13:01",
-   "title": "🚨 DISPONIBILE/PREORDER: 30th Celebration — CardZone",
-   "url": "https://cardzone.es/search?q=30th+celebration"
-  },
   {
    "ts": "03/07 14:16",
    "title": "🚨 RESTOCK: Pitch Black (ME05) — PokeCardShop",
@@ -1125,6 +1120,11 @@
    "ts": "04/07 11:11",
    "title": "🚨 RESTOCK: Destined Rivals — PokeCardShop",
    "url": "https://www.pokecardshop.be/search?q=destined+rivals"
+  },
+  {
+   "ts": "04/07 11:55",
+   "title": "🚨 RESTOCK: Phantasmal Flames (ME02) — PokeCardShop",
+   "url": "https://www.pokecardshop.be/search?q=phantasmal+flames"
   }
  ],
  "digest_slot": "2026-07-04-10"
