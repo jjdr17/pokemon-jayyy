@@ -170,11 +170,11 @@
    "Destined Rivals": "irraggiungibile"
   },
   "CardZone": {
-   "Pitch Black (ME05)": "listato",
-   "30th Celebration": "disponibile",
+   "Pitch Black (ME05)": "disponibile",
+   "30th Celebration": "listato",
    "Storm Emerald (ME06)": "disponibile",
-   "Chaos Rising (ME04)": "disponibile",
-   "Phantasmal Flames (ME02)": "listato",
+   "Chaos Rising (ME04)": "listato",
+   "Phantasmal Flames (ME02)": "disponibile",
    "Pokémon 151": "esaurito",
    "Prismatic Evolutions": "esaurito",
    "Crown Zenith": "listato",
@@ -915,7 +915,7 @@
   "bescards.com": "https://bescards.com/search?q={q}"
  },
  "alerts": {
-  "CardZone|Pitch Black (ME05)": 1783163628.6065714,
+  "CardZone|Pitch Black (ME05)": 1783187449.4299276,
   "CardZone|Storm Emerald (ME06)": 1783166344.9771214,
   "CardZone|30th Celebration": 1783167361.8787887,
   "PokeCardShop|Pitch Black (ME05)": 1783170411.7980342,
@@ -927,7 +927,7 @@
   "Total Cards (UK)|Pitch Black (ME05)": 1783176309.9397047,
   "PokeCardShop|Phantasmal Flames (ME02)": 1783158940.68386,
   "CardZone|Pokémon 151": 1783109447.9759972,
-  "CardZone|Phantasmal Flames (ME02)": 1783138845.9759347,
+  "CardZone|Phantasmal Flames (ME02)": 1783187449.4299276,
   "Stoyanov Games|Pitch Black (ME05)": 1783137719.5913703,
   "LetsGoTry|30th Celebration": 1783176904.2352998,
   "Packratt (UK)|Chaos Rising (ME04)": 1783181842.700236
@@ -979,16 +979,6 @@
   "LetsGoTry|30th Celebration": "https://letsgotry.pl/zestawy-eng/15892--preorder-pokemon-tcg-30th-celebration-elite-trainer-box.html"
  },
  "log": [
-  {
-   "ts": "03/07 20:30",
-   "title": "🚨 RESTOCK: Pitch Black (ME05) — Total Cards (UK)",
-   "url": "https://totalcards.net/products/ultra-pro-pokemon-mega-evolution-pitch-black-9-pocket-portfolio?_pos=3&_sid=ccf8d9bf8&_ss=r"
-  },
-  {
-   "ts": "03/07 21:01",
-   "title": "📉 Prezzo giù: Pitch Black (ME05) — MagicBazar",
-   "url": "https://www.magicbazar.fr/en/produit/647162/gift-bundle-marvel-super-heroes-magic-en"
-  },
   {
    "ts": "03/07 21:55",
    "title": "🚨 RESTOCK: Phantasmal Flames (ME02) — PokeCardShop",
@@ -1128,6 +1118,16 @@
    "ts": "04/07 18:17",
    "title": "🚨 DISPONIBILE/PREORDER: Chaos Rising (ME04) — Packratt (UK)",
    "url": "https://packratt.co.uk/search?q=chaos+rising"
+  },
+  {
+   "ts": "04/07 19:50",
+   "title": "🚨 DISPONIBILE/PREORDER: Pitch Black (ME05) — CardZone",
+   "url": "https://cardzone.es/search?q=pitch+black"
+  },
+  {
+   "ts": "04/07 19:50",
+   "title": "🚨 DISPONIBILE/PREORDER: Phantasmal Flames (ME02) — CardZone",
+   "url": "https://cardzone.es/search?q=phantasmal+flames"
   }
  ],
  "digest_slot": "2026-07-04-18"
