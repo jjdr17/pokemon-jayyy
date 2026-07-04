@@ -272,8 +272,8 @@
    "Pitch Black (ME05)": "irraggiungibile",
    "30th Celebration": "irraggiungibile",
    "Storm Emerald (ME06)": "irraggiungibile",
-   "Chaos Rising (ME04)": "irraggiungibile",
-   "Phantasmal Flames (ME02)": "irraggiungibile",
+   "Chaos Rising (ME04)": "non listato",
+   "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "listato",
    "Prismatic Evolutions": "non listato",
    "Crown Zenith": "non listato",
@@ -281,9 +281,9 @@
   },
   "MistiCards": {
    "Pitch Black (ME05)": "irraggiungibile",
-   "30th Celebration": "irraggiungibile",
-   "Storm Emerald (ME06)": "irraggiungibile",
-   "Chaos Rising (ME04)": "irraggiungibile",
+   "30th Celebration": "listato",
+   "Storm Emerald (ME06)": "listato",
+   "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "listato",
    "Pokémon 151": "listato",
    "Prismatic Evolutions": "listato",
@@ -303,20 +303,20 @@
   },
   "Pokechest": {
    "Pitch Black (ME05)": "non listato",
-   "30th Celebration": "irraggiungibile",
-   "Storm Emerald (ME06)": "irraggiungibile",
-   "Chaos Rising (ME04)": "irraggiungibile",
-   "Phantasmal Flames (ME02)": "irraggiungibile",
-   "Pokémon 151": "irraggiungibile",
-   "Prismatic Evolutions": "irraggiungibile",
-   "Crown Zenith": "irraggiungibile",
-   "Destined Rivals": "irraggiungibile"
+   "30th Celebration": "non listato",
+   "Storm Emerald (ME06)": "non listato",
+   "Chaos Rising (ME04)": "non listato",
+   "Phantasmal Flames (ME02)": "non listato",
+   "Pokémon 151": "non listato",
+   "Prismatic Evolutions": "non listato",
+   "Crown Zenith": "non listato",
+   "Destined Rivals": "non listato"
   },
   "Fabscards": {
    "Pitch Black (ME05)": "irraggiungibile",
    "30th Celebration": "irraggiungibile",
-   "Storm Emerald (ME06)": "irraggiungibile",
-   "Chaos Rising (ME04)": "irraggiungibile",
+   "Storm Emerald (ME06)": "non listato",
+   "Chaos Rising (ME04)": "non listato",
    "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "non listato",
    "Prismatic Evolutions": "non listato",
@@ -343,7 +343,7 @@
    "Pokémon 151": "listato",
    "Prismatic Evolutions": "listato",
    "Crown Zenith": "listato",
-   "Destined Rivals": "irraggiungibile"
+   "Destined Rivals": "listato"
   },
   "BESCARDS": {
    "Pitch Black (ME05)": "irraggiungibile",
@@ -373,8 +373,8 @@
    "Storm Emerald (ME06)": "listato",
    "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "listato",
-   "Pokémon 151": "irraggiungibile",
-   "Prismatic Evolutions": "irraggiungibile",
+   "Pokémon 151": "esaurito",
+   "Prismatic Evolutions": "esaurito",
    "Crown Zenith": "irraggiungibile",
    "Destined Rivals": "irraggiungibile"
   },
@@ -412,9 +412,9 @@
    "Destined Rivals": "non listato"
   },
   "Poketalk": {
-   "Pitch Black (ME05)": "irraggiungibile",
-   "30th Celebration": "irraggiungibile",
-   "Storm Emerald (ME06)": "irraggiungibile",
+   "Pitch Black (ME05)": "non listato",
+   "30th Celebration": "non listato",
+   "Storm Emerald (ME06)": "non listato",
    "Chaos Rising (ME04)": "irraggiungibile",
    "Phantasmal Flames (ME02)": "irraggiungibile",
    "Pokémon 151": "irraggiungibile",
@@ -424,7 +424,7 @@
   },
   "TCGStore.se": {
    "Pitch Black (ME05)": "irraggiungibile",
-   "30th Celebration": "irraggiungibile",
+   "30th Celebration": "non listato",
    "Storm Emerald (ME06)": "irraggiungibile",
    "Chaos Rising (ME04)": "irraggiungibile",
    "Phantasmal Flames (ME02)": "irraggiungibile",
@@ -456,7 +456,7 @@
    "Destined Rivals": "irraggiungibile"
   },
   "Hobbykort": {
-   "Pitch Black (ME05)": "irraggiungibile",
+   "Pitch Black (ME05)": "non listato",
    "30th Celebration": "irraggiungibile",
    "Storm Emerald (ME06)": "irraggiungibile",
    "Chaos Rising (ME04)": "irraggiungibile",
@@ -731,7 +731,7 @@
    "Destined Rivals": "irraggiungibile"
   },
   "Stoyanov Games": {
-   "Pitch Black (ME05)": "non listato",
+   "Pitch Black (ME05)": "disponibile",
    "30th Celebration": "non listato",
    "Storm Emerald (ME06)": "non listato",
    "Chaos Rising (ME04)": "non listato",
@@ -911,7 +911,8 @@
   "pokevend.at": "https://pokevend.at/search?q={q}",
   "rarecards.nl": "https://rarecards.nl/search?q={q}",
   "www.poketalk.se": "https://www.poketalk.se/search?controller=search&s={q}",
-  "tcgfanshop.nl": "https://tcgfanshop.nl/search?q={q}"
+  "tcgfanshop.nl": "https://tcgfanshop.nl/search?q={q}",
+  "bescards.com": "https://bescards.com/search?q={q}"
  },
  "alerts": {
   "CardZone|Pitch Black (ME05)": 1783119046.1420548,
@@ -926,7 +927,8 @@
   "Total Cards (UK)|Pitch Black (ME05)": 1783103456.411434,
   "PokeCardShop|Phantasmal Flames (ME02)": 1783108546.5039468,
   "CardZone|Pokémon 151": 1783109447.9759972,
-  "CardZone|Phantasmal Flames (ME02)": 1783109737.8838093
+  "CardZone|Phantasmal Flames (ME02)": 1783109737.8838093,
+  "Stoyanov Games|Pitch Black (ME05)": 1783137719.5913703
  },
  "prices": {
   "Packratt (UK)|Chaos Rising (ME04)": "£10.01",
@@ -959,7 +961,7 @@
   "Pikashop|Chaos Rising (ME04)": "https://pikashop.pl/?s=chaos+rising&post_type=product",
   "Pokemania.ro|Pitch Black (ME05)": "https://pokemania.ro/vstar-universe/pokemon-tcg-vstar-universes-s12a-jp-booster-bundle-display-box-10-pachete-booster-jp",
   "CardZone|Pitch Black (ME05)": "https://cardzone.es/search?q=pitch+black",
-  "Total Cards (UK)|Pitch Black (ME05)": "https://totalcards.net/products/pokemon-mega-evolution-pitch-black-booster-pack?_pos=1&_sid=5726780cd&_ss=r",
+  "Total Cards (UK)|Pitch Black (ME05)": "https://totalcards.net/products/pokemon-mega-evolution-pitch-black-booster-pack?_pos=1&_sid=dbf3b12f1&_ss=r",
   "SunnyStore|Pokémon 151": "https://sunnystore.es/search?q=pokemon+151",
   "God of Cards|Pokémon 151": "https://godofcards.com/search?q=pokemon+151",
   "PokeCardShop|Pitch Black (ME05)": "https://www.pokecardshop.be/search?q=pitch+black",
@@ -970,7 +972,8 @@
   "God of Cards|Prismatic Evolutions": "https://godofcards.com/search?q=prismatic+evolutions",
   "PokeCardShop|Phantasmal Flames (ME02)": "https://www.pokecardshop.be/search?q=phantasmal+flames",
   "CardZone|Pokémon 151": "https://cardzone.es/search?q=pokemon+151",
-  "CardZone|Phantasmal Flames (ME02)": "https://cardzone.es/search?q=phantasmal+flames"
+  "CardZone|Phantasmal Flames (ME02)": "https://cardzone.es/search?q=phantasmal+flames",
+  "Stoyanov Games|Pitch Black (ME05)": "https://stoyanov-gamesbg.com/pre-order-pokemon-tcg-mega-evolution-pitch-black-бустер-10-карти/"
  },
  "log": [
   {
@@ -1097,6 +1100,11 @@
    "ts": "04/07 03:21",
    "title": "🚨 DISPONIBILE/PREORDER: Chaos Rising (ME04) — PokeCardShop",
    "url": "https://www.pokecardshop.be/search?q=chaos+rising"
+  },
+  {
+   "ts": "04/07 06:01",
+   "title": "🚨 DISPONIBILE/PREORDER: Pitch Black (ME05) — Stoyanov Games",
+   "url": "https://stoyanov-gamesbg.com/pre-order-pokemon-tcg-mega-evolution-pitch-black-бустер-10-карти/"
   }
  ],
  "digest_slot": "2026-07-03-22"
