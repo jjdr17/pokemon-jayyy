@@ -588,7 +588,7 @@
    "Destined Rivals": "non listato"
   },
   "PokeCardShop": {
-   "Pitch Black (ME05)": "esaurito",
+   "Pitch Black (ME05)": "disponibile",
    "30th Celebration": "listato",
    "Storm Emerald (ME06)": "listato",
    "Chaos Rising (ME04)": "disponibile",
@@ -918,7 +918,7 @@
   "CardZone|Pitch Black (ME05)": 1783163628.6065714,
   "CardZone|Storm Emerald (ME06)": 1783166344.9771214,
   "CardZone|30th Celebration": 1783167361.8787887,
-  "PokeCardShop|Pitch Black (ME05)": 1783120865.9527476,
+  "PokeCardShop|Pitch Black (ME05)": 1783170411.7980342,
   "drop|MagicBazar|Pitch Black (ME05)": 1783127753.0918038,
   "PokeCardShop|Destined Rivals": 1783156262.5181,
   "Rogerz|Pitch Black (ME05)": 1783087262.8826923,
@@ -976,11 +976,6 @@
   "Stoyanov Games|Pitch Black (ME05)": "https://stoyanov-gamesbg.com/pre-order-pokemon-tcg-mega-evolution-pitch-black-elite-trainer-box-френски-език/"
  },
  "log": [
-  {
-   "ts": "03/07 17:10",
-   "title": "🚨 DISPONIBILE/PREORDER: Chaos Rising (ME04) — CardZone",
-   "url": "https://cardzone.es/search?q=chaos+rising"
-  },
   {
    "ts": "03/07 17:15",
    "title": "🚨 DISPONIBILE/PREORDER: Chaos Rising (ME04) — PokeCardShop",
@@ -1125,6 +1120,11 @@
    "ts": "04/07 14:16",
    "title": "🚨 DISPONIBILE/PREORDER: 30th Celebration — CardZone",
    "url": "https://cardzone.es/search?q=30th+celebration"
+  },
+  {
+   "ts": "04/07 15:06",
+   "title": "🚨 RESTOCK: Pitch Black (ME05) — PokeCardShop",
+   "url": "https://www.pokecardshop.be/search?q=pitch+black"
   }
  ],
  "digest_slot": "2026-07-04-15"
