@@ -170,8 +170,8 @@
    "Destined Rivals": "irraggiungibile"
   },
   "CardZone": {
-   "Pitch Black (ME05)": "listato",
-   "30th Celebration": "disponibile",
+   "Pitch Black (ME05)": "disponibile",
+   "30th Celebration": "listato",
    "Storm Emerald (ME06)": "listato",
    "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "disponibile",
@@ -591,7 +591,7 @@
    "Pitch Black (ME05)": "esaurito",
    "30th Celebration": "listato",
    "Storm Emerald (ME06)": "listato",
-   "Chaos Rising (ME04)": "disponibile",
+   "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "esaurito",
    "Pokémon 151": "listato",
    "Prismatic Evolutions": "disponibile",
@@ -798,7 +798,7 @@
   },
   "LetsGoTry": {
    "Pitch Black (ME05)": "listato",
-   "30th Celebration": "non listato",
+   "30th Celebration": "listato",
    "Storm Emerald (ME06)": "non listato",
    "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "non listato",
@@ -918,7 +918,7 @@
   "CardZone|Storm Emerald (ME06)": 1783119929.9940336,
   "CardZone|30th Celebration": 1783120535.9811068,
   "PokeCardShop|Pitch Black (ME05)": 1783120865.9527476,
-  "drop|MagicBazar|Pitch Black (ME05)": 1783105303.1327088,
+  "drop|MagicBazar|Pitch Black (ME05)": 1783127753.0918038,
   "PokeCardShop|Destined Rivals": 1783119955.9996972,
   "Rogerz|Pitch Black (ME05)": 1783087262.8826923,
   "CardZone|Chaos Rising (ME04)": 1783114847.8219182,
@@ -932,7 +932,7 @@
   "Packratt (UK)|Chaos Rising (ME04)": "£10.01",
   "Packratt (UK)|Pokémon 151": "£29.99",
   "PokeCardShop|Chaos Rising (ME04)": "€6.95",
-  "MagicBazar|Pitch Black (ME05)": "$85",
+  "MagicBazar|Pitch Black (ME05)": "$10",
   "Total Cards (UK)|Pitch Black (ME05)": "£4.79",
   "SunnyStore|Pokémon 151": "€26,90",
   "Total Cards (UK)|30th Celebration": "£9.13"
@@ -1087,6 +1087,11 @@
    "ts": "04/07 01:21",
    "title": "🚨 RESTOCK: Pitch Black (ME05) — PokeCardShop",
    "url": "https://www.pokecardshop.be/search?q=pitch+black"
+  },
+  {
+   "ts": "04/07 03:15",
+   "title": "📉 Prezzo giù: Pitch Black (ME05) — MagicBazar",
+   "url": "https://www.magicbazar.fr/en/produit/647162/gift-bundle-marvel-super-heroes-magic-en"
   }
  ],
  "digest_slot": "2026-07-03-22"
