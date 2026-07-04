@@ -171,9 +171,9 @@
   },
   "CardZone": {
    "Pitch Black (ME05)": "disponibile",
-   "30th Celebration": "disponibile",
+   "30th Celebration": "listato",
    "Storm Emerald (ME06)": "disponibile",
-   "Chaos Rising (ME04)": "listato",
+   "Chaos Rising (ME04)": "disponibile",
    "Phantasmal Flames (ME02)": "listato",
    "Pokémon 151": "esaurito",
    "Prismatic Evolutions": "esaurito",
@@ -294,7 +294,7 @@
    "Pitch Black (ME05)": "listato",
    "30th Celebration": "listato",
    "Storm Emerald (ME06)": "listato",
-   "Chaos Rising (ME04)": "disponibile",
+   "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "esaurito",
    "Pokémon 151": "disponibile",
    "Prismatic Evolutions": "listato",
@@ -922,7 +922,7 @@
   "drop|MagicBazar|Pitch Black (ME05)": 1783127753.0918038,
   "PokeCardShop|Destined Rivals": 1783156262.5181,
   "Rogerz|Pitch Black (ME05)": 1783087262.8826923,
-  "CardZone|Chaos Rising (ME04)": 1783138536.7040613,
+  "CardZone|Chaos Rising (ME04)": 1783180835.9500926,
   "PokeCardShop|Chaos Rising (ME04)": 1783166361.3349023,
   "Total Cards (UK)|Pitch Black (ME05)": 1783176309.9397047,
   "PokeCardShop|Phantasmal Flames (ME02)": 1783158940.68386,
@@ -962,27 +962,22 @@
   "Pikashop|Chaos Rising (ME04)": "https://pikashop.pl/?s=chaos+rising&post_type=product",
   "Pokemania.ro|Pitch Black (ME05)": "https://pokemania.ro/vstar-universe/pokemon-tcg-vstar-universes-s12a-jp-booster-bundle-display-box-10-pachete-booster-jp",
   "CardZone|Pitch Black (ME05)": "https://cardzone.es/search?q=pitch+black",
-  "Total Cards (UK)|Pitch Black (ME05)": "https://totalcards.net/products/pokemon-mega-evolution-pitch-black-booster-pack?_pos=1&_sid=72f384cc0&_ss=r",
+  "Total Cards (UK)|Pitch Black (ME05)": "https://totalcards.net/products/pokemon-mega-evolution-pitch-black-booster-pack?_pos=1&_sid=c729a9e95&_ss=r",
   "SunnyStore|Pokémon 151": "https://sunnystore.es/search?q=pokemon+151",
   "God of Cards|Pokémon 151": "https://godofcards.com/search?q=pokemon+151",
   "PokeCardShop|Pitch Black (ME05)": "https://www.pokecardshop.be/search?q=pitch+black",
   "PokeCardShop|Destined Rivals": "https://www.pokecardshop.be/search?q=destined+rivals",
   "Rogerz|Pitch Black (ME05)": "https://rogerz.dk/search?q=pitch+black",
   "CardZone|Chaos Rising (ME04)": "https://cardzone.es/search?q=chaos+rising",
-  "Total Cards (UK)|30th Celebration": "https://totalcards.net/products/pokemon-30th-celebration-booster-pack?_pos=1&_sid=0b1e46dc5&_ss=r",
+  "Total Cards (UK)|30th Celebration": "https://totalcards.net/products/pokemon-30th-celebration-booster-pack?_pos=1&_sid=7195fc3fe&_ss=r",
   "God of Cards|Prismatic Evolutions": "https://godofcards.com/search?q=prismatic+evolutions",
   "PokeCardShop|Phantasmal Flames (ME02)": "https://www.pokecardshop.be/search?q=phantasmal+flames",
   "CardZone|Pokémon 151": "https://cardzone.es/search?q=pokemon+151",
   "CardZone|Phantasmal Flames (ME02)": "https://cardzone.es/search?q=phantasmal+flames",
   "Stoyanov Games|Pitch Black (ME05)": "https://stoyanov-gamesbg.com/pre-order-pokemon-tcg-mega-evolution-pitch-black-elite-trainer-box-френски-език/",
-  "LetsGoTry|30th Celebration": "https://letsgotry.pl/zestawy-eng/15894--preorder-pokemon-tcg-30th-celebration-tin-greninja-ex.html"
+  "LetsGoTry|30th Celebration": "https://letsgotry.pl/zestawy-eng/15896--preorder-pokemon-tcg-30th-celebration-2-pack.html"
  },
  "log": [
-  {
-   "ts": "03/07 19:05",
-   "title": "🚨 DISPONIBILE/PREORDER: 30th Celebration — CardZone",
-   "url": "https://cardzone.es/search?q=30th+celebration"
-  },
   {
    "ts": "03/07 19:05",
    "title": "🚨 DISPONIBILE/PREORDER: Storm Emerald (ME06) — CardZone",
@@ -1127,7 +1122,12 @@
    "ts": "04/07 16:55",
    "title": "🚨 DISPONIBILE/PREORDER: 30th Celebration — LetsGoTry",
    "url": "https://letsgotry.pl/zestawy-eng/15896--preorder-pokemon-tcg-30th-celebration-2-pack.html"
+  },
+  {
+   "ts": "04/07 18:00",
+   "title": "🚨 DISPONIBILE/PREORDER: Chaos Rising (ME04) — CardZone",
+   "url": "https://cardzone.es/search?q=chaos+rising"
   }
  ],
- "digest_slot": "2026-07-04-15"
+ "digest_slot": "2026-07-04-18"
 }
