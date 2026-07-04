@@ -170,10 +170,10 @@
    "Destined Rivals": "irraggiungibile"
   },
   "CardZone": {
-   "Pitch Black (ME05)": "disponibile",
+   "Pitch Black (ME05)": "listato",
    "30th Celebration": "listato",
-   "Storm Emerald (ME06)": "listato",
-   "Chaos Rising (ME04)": "disponibile",
+   "Storm Emerald (ME06)": "disponibile",
+   "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "listato",
    "Pokémon 151": "esaurito",
    "Prismatic Evolutions": "esaurito",
@@ -591,8 +591,8 @@
    "Pitch Black (ME05)": "esaurito",
    "30th Celebration": "listato",
    "Storm Emerald (ME06)": "listato",
-   "Chaos Rising (ME04)": "listato",
-   "Phantasmal Flames (ME02)": "disponibile",
+   "Chaos Rising (ME04)": "disponibile",
+   "Phantasmal Flames (ME02)": "esaurito",
    "Pokémon 151": "listato",
    "Prismatic Evolutions": "disponibile",
    "Crown Zenith": "esaurito",
@@ -916,14 +916,14 @@
  },
  "alerts": {
   "CardZone|Pitch Black (ME05)": 1783163628.6065714,
-  "CardZone|Storm Emerald (ME06)": 1783144271.7448807,
+  "CardZone|Storm Emerald (ME06)": 1783166344.9771214,
   "CardZone|30th Celebration": 1783142603.0861018,
   "PokeCardShop|Pitch Black (ME05)": 1783120865.9527476,
   "drop|MagicBazar|Pitch Black (ME05)": 1783127753.0918038,
   "PokeCardShop|Destined Rivals": 1783156262.5181,
   "Rogerz|Pitch Black (ME05)": 1783087262.8826923,
   "CardZone|Chaos Rising (ME04)": 1783138536.7040613,
-  "PokeCardShop|Chaos Rising (ME04)": 1783128060.046652,
+  "PokeCardShop|Chaos Rising (ME04)": 1783166361.3349023,
   "Total Cards (UK)|Pitch Black (ME05)": 1783103456.411434,
   "PokeCardShop|Phantasmal Flames (ME02)": 1783158940.68386,
   "CardZone|Pokémon 151": 1783109447.9759972,
@@ -976,16 +976,6 @@
   "Stoyanov Games|Pitch Black (ME05)": "https://stoyanov-gamesbg.com/pre-order-pokemon-tcg-mega-evolution-pitch-black-elite-trainer-box-френски-език/"
  },
  "log": [
-  {
-   "ts": "03/07 14:46",
-   "title": "📉 Prezzo giù: Pitch Black (ME05) — MagicBazar",
-   "url": "https://www.magicbazar.fr/en/produit/647162/gift-bundle-marvel-super-heroes-magic-en"
-  },
-  {
-   "ts": "03/07 15:21",
-   "title": "🚨 RESTOCK: Destined Rivals — PokeCardShop",
-   "url": "https://www.pokecardshop.be/search?q=destined+rivals"
-  },
   {
    "ts": "03/07 16:01",
    "title": "🚨 DISPONIBILE/PREORDER: Pitch Black (ME05) — Rogerz",
@@ -1125,6 +1115,16 @@
    "ts": "04/07 13:13",
    "title": "🚨 DISPONIBILE/PREORDER: Pitch Black (ME05) — CardZone",
    "url": "https://cardzone.es/search?q=pitch+black"
+  },
+  {
+   "ts": "04/07 13:59",
+   "title": "🚨 DISPONIBILE/PREORDER: Storm Emerald (ME06) — CardZone",
+   "url": "https://cardzone.es/search?q=storm+emerald"
+  },
+  {
+   "ts": "04/07 13:59",
+   "title": "🚨 DISPONIBILE/PREORDER: Chaos Rising (ME04) — PokeCardShop",
+   "url": "https://www.pokecardshop.be/search?q=chaos+rising"
   }
  ],
  "digest_slot": "2026-07-04-10"
