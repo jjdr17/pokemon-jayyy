@@ -172,7 +172,7 @@
   "CardZone": {
    "Pitch Black (ME05)": "listato",
    "30th Celebration": "listato",
-   "Storm Emerald (ME06)": "disponibile",
+   "Storm Emerald (ME06)": "listato",
    "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "listato",
    "Pokémon 151": "esaurito",
@@ -798,9 +798,9 @@
   },
   "LetsGoTry": {
    "Pitch Black (ME05)": "listato",
-   "30th Celebration": "listato",
+   "30th Celebration": "disponibile",
    "Storm Emerald (ME06)": "listato",
-   "Chaos Rising (ME04)": "non listato",
+   "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "non listato",
    "Prismatic Evolutions": "non listato",
@@ -929,14 +929,14 @@
   "CardZone|Pokémon 151": 1783109447.9759972,
   "CardZone|Phantasmal Flames (ME02)": 1783187449.4299276,
   "Stoyanov Games|Pitch Black (ME05)": 1783137719.5913703,
-  "LetsGoTry|30th Celebration": 1783221948.2871413,
+  "LetsGoTry|30th Celebration": 1783244715.3933902,
   "Packratt (UK)|Chaos Rising (ME04)": 1783181842.700236
  },
  "prices": {
   "Packratt (UK)|Chaos Rising (ME04)": "£10.01",
   "Packratt (UK)|Pokémon 151": "£29.99",
   "PokeCardShop|Chaos Rising (ME04)": "€6.95",
-  "MagicBazar|Pitch Black (ME05)": "$84",
+  "MagicBazar|Pitch Black (ME05)": "$85",
   "Total Cards (UK)|Pitch Black (ME05)": "£4.79",
   "SunnyStore|Pokémon 151": "€26,90",
   "Total Cards (UK)|30th Celebration": "£9.13",
@@ -985,11 +985,6 @@
   "BESCARDS|Crown Zenith": "https://bescards.com/products/pokemon-crown-zenith-elite-trainer-box?_pos=1&_sid=4b6d35358&_ss=r"
  },
  "log": [
-  {
-   "ts": "04/07 11:55",
-   "title": "🚨 RESTOCK: Phantasmal Flames (ME02) — PokeCardShop",
-   "url": "https://www.pokecardshop.be/search?q=phantasmal+flames"
-  },
   {
    "ts": "04/07 13:13",
    "title": "🚨 DISPONIBILE/PREORDER: Pitch Black (ME05) — CardZone",
@@ -1134,6 +1129,11 @@
    "ts": "05/07 10:40",
    "title": "🚨 DISPONIBILE/PREORDER: Storm Emerald (ME06) — CardZone",
    "url": "https://cardzone.es/search?q=storm+emerald"
+  },
+  {
+   "ts": "05/07 11:45",
+   "title": "🚨 DISPONIBILE/PREORDER: 30th Celebration — LetsGoTry",
+   "url": "https://letsgotry.pl/zestawy-eng/15895--preorder-pokemon-tcg-30th-celebration-binder-collection.html"
   }
  ],
  "digest_slot": "2026-07-05-10"
