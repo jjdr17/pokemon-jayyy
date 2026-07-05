@@ -983,7 +983,20 @@
   "Total Cards (UK)|Pitch Black (ME05)": "£4.79",
   "Stoyanov Games|Pitch Black (ME05)": "8.00€"
  },
- "pending": {},
+ "pending": {
+  "PokeCardShop|30th Celebration": [
+   "non listato",
+   1
+  ],
+  "LetsGoTry|30th Celebration": [
+   "listato",
+   1
+  ],
+  "LetsGoTry|Chaos Rising (ME04)": [
+   "non listato",
+   1
+  ]
+ },
  "urls": {
   "Rogerz|Pitch Black (ME05)": "https://rogerz.dk/search?q=pitch+black",
   "Packratt (UK)|Chaos Rising (ME04)": "https://packratt.co.uk/search?q=chaos+rising",
@@ -1004,7 +1017,7 @@
   "Pikashop|Chaos Rising (ME04)": "https://pikashop.pl/?s=chaos+rising&post_type=product",
   "Pokemania.ro|Pitch Black (ME05)": "https://pokemania.ro/?s=pitch+black&post_type=product",
   "SunnyStore|Pokémon 151": "https://sunnystore.es/search?q=pokemon+151",
-  "Total Cards (UK)|Pitch Black (ME05)": "https://totalcards.net/products/pokemon-mega-evolution-pitch-black-booster-pack?_pos=1&_sid=2e2db7156&_ss=r"
+  "Total Cards (UK)|Pitch Black (ME05)": "https://totalcards.net/products/pokemon-mega-evolution-pitch-black-booster-pack?_pos=1&_sid=282c5a456&_ss=r"
  },
  "digest_slot": "2026-07-05-22",
  "log": [
@@ -1021,25 +1034,25 @@
  ],
  "down": {
   "www.cardmarket.com": 4,
-  "www.gamestop.com": 3,
+  "www.gamestop.com": 4,
   "www.gamelife.it": 4,
   "www.amazon.it": 4,
   "pokeseller14.com": 4,
   "geco-shop.de": 4,
-  "www.chaoscards.co.uk": 3,
+  "www.chaoscards.co.uk": 4,
   "fabscards.at": 4,
   "www.deckshop.de": 4,
   "www.waylandgames.co.uk": 4,
   "www.firestormgames.co.uk": 4,
   "crispycards.de": 4,
-  "misticards.com": 3,
+  "misticards.com": 4,
   "cardcorner.at": 4,
   "pokechest.at": 3,
   "bescards.com": 4,
   "hobbykort.se": 4,
   "rarecards.nl": 3,
   "pokevend.at": 3,
-  "www.poketalk.se": 3,
+  "www.poketalk.se": 4,
   "tcgcompany.nl": 4,
   "tcgfanshop.nl": 3,
   "www.nerdom.gr": 3,
@@ -1054,9 +1067,11 @@
   "www.pokemonia.ro": 4,
   "en.tcg-shop.at": 3,
   "www.blackfire.eu": 3,
-  "www.efantasy.gr": 2,
-  "pokewoke.store": 2,
-  "www.lotticards.de": 1
+  "www.efantasy.gr": 3,
+  "pokewoke.store": 3,
+  "www.lotticards.de": 2,
+  "pokeboxstore.pt": 1,
+  "tcgdistribution.fr": 1
  },
- "runno": 11
+ "runno": 12
 }
