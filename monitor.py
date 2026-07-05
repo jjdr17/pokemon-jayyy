@@ -231,9 +231,15 @@ def load_state():
             s.setdefault("alerts", {})
             s.setdefault("prices", {})
             s.setdefault("pending", {})
+            s.setdefault("down", {})
             return s
     except Exception:
-        return {"shops": {}, "search_url": {}, "alerts": {}, "prices": {}, "pending": {}, "first_run": True}
+        return {"shops": {}, "search_url": {}, "alerts": {}, "prices": {}, "pending": {}, "down": {}, "first_run": True}
+
+
+# dopo N giri a vuoto un negozio bloccato viene riprovato solo ogni SKIP_EVERY giri
+DOWN_AFTER = 3
+SKIP_EVERY = 5 if MODE == "fast" else 12
 
 
 def save_state(state):
@@ -353,6 +359,14 @@ def check_shop(state, shop):
     name, domain, template, group = shop
     results = []
     allowed = SHOP_PRODUCT_FILTER.get(name)
+    # riposo intelligente: negozio bloccato da tempo -> riprova solo periodicamente
+    fails = state.get("down", {}).get(domain, 0)
+    if fails >= DOWN_AFTER and (state.get("runno", 0) % SKIP_EVERY) != (sum(map(ord, domain)) % SKIP_EVERY):
+        for prod in PRODUCTS:
+            if allowed is not None and prod["name"] not in allowed:
+                continue
+            results.append((prod["name"], "irraggiungibile", None, None))
+        return name, group, results
     for prod in PRODUCTS:
         if allowed is not None and prod["name"] not in allowed:
             continue
@@ -406,6 +420,11 @@ def check_shop(state, shop):
                 status = "listato"
         results.append((prod["name"], status, url, price))
         time.sleep(0.1)
+    # aggiorna il contatore di giri a vuoto del negozio
+    if results and all(r[1] == "irraggiungibile" for r in results):
+        state.setdefault("down", {})[domain] = fails + 1
+    else:
+        state.setdefault("down", {}).pop(domain, None)
     return name, group, results
 
 
@@ -425,6 +444,7 @@ def main():
         print("::error::NTFY_TOPIC mancante — controlla il secret su GitHub")
         sys.exit(1)
     state = load_state()
+    state["runno"] = state.get("runno", 0) + 1
     first_run = state.get("first_run", False)
     other_alerts, other_shops = load_other_state()
 
