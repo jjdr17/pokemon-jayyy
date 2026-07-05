@@ -249,10 +249,16 @@ def notify(title, message, url=None, priority="high"):
                "priority": PRIO_MAP.get(priority, 4), "tags": ["zap"]}
     if url:
         payload["click"] = url
-    try:
-        requests.post("https://ntfy.sh", json=payload, timeout=15)
-    except Exception as e:
-        print(f"ntfy error: {e}")
+    # la notifica È lo scopo del sistema: 3 tentativi prima di arrendersi
+    for attempt in range(3):
+        try:
+            r = requests.post("https://ntfy.sh", json=payload, timeout=15)
+            if r.status_code < 500:
+                return
+        except Exception as e:
+            print(f"ntfy tentativo {attempt + 1} fallito: {e}")
+        time.sleep(2 * (attempt + 1))
+    print(f"ntfy: notifica PERSA dopo 3 tentativi: {title}")
 
 
 def fetch(url, raw=False):
@@ -541,6 +547,10 @@ def main():
     for shop_name, allowed in SHOP_PRODUCT_FILTER.items():
         if shop_name in state["shops"]:
             state["shops"][shop_name] = {k: v for k, v in state["shops"][shop_name].items() if k in allowed}
+    # e le voci pending/alerts di negozi rimossi
+    state["pending"] = {k: v for k, v in state.get("pending", {}).items() if k.split("|")[0] in valid}
+    _shop_of = lambda k: k.split("|")[1] if k.startswith("drop|") else k.split("|")[0]
+    state["alerts"] = {k: v for k, v in state["alerts"].items() if _shop_of(k) in valid}
     for key in ("prices", "urls"):
         state[key] = {k: v for k, v in state.get(key, {}).items() if k.split("|")[0] in valid}
 
