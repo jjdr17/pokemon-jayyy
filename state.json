@@ -978,12 +978,17 @@
   "Packratt (UK)|Chaos Rising (ME04)": "£10.01",
   "Packratt (UK)|Pokémon 151": "£29.99",
   "PokeCardShop|Chaos Rising (ME04)": "€6.95",
-  "MagicBazar|Pitch Black (ME05)": "$85",
+  "MagicBazar|Pitch Black (ME05)": "$10",
   "SunnyStore|Pokémon 151": "€26,90",
   "Total Cards (UK)|Pitch Black (ME05)": "£4.79",
   "Stoyanov Games|Pitch Black (ME05)": "8.00€"
  },
- "pending": {},
+ "pending": {
+  "LetsGoTry|30th Celebration": [
+   "listato",
+   1
+  ]
+ },
  "urls": {
   "Rogerz|Pitch Black (ME05)": "https://rogerz.dk/search?q=pitch+black",
   "Packratt (UK)|Chaos Rising (ME04)": "https://packratt.co.uk/search?q=chaos+rising",
@@ -1004,7 +1009,7 @@
   "Pikashop|Chaos Rising (ME04)": "https://pikashop.pl/?s=chaos+rising&post_type=product",
   "Pokemania.ro|Pitch Black (ME05)": "https://pokemania.ro/?s=pitch+black&post_type=product",
   "SunnyStore|Pokémon 151": "https://sunnystore.es/search?q=pokemon+151",
-  "Total Cards (UK)|Pitch Black (ME05)": "https://totalcards.net/products/pokemon-mega-evolution-pitch-black-booster-pack?_pos=1&_sid=ef76b9e2b&_ss=r"
+  "Total Cards (UK)|Pitch Black (ME05)": "https://totalcards.net/products/pokemon-mega-evolution-pitch-black-booster-pack?_pos=1&_sid=3561e5b5e&_ss=r"
  },
  "digest_slot": "2026-07-05-22",
  "log": [
@@ -1039,10 +1044,10 @@
   "rarecards.nl": 4,
   "pokevend.at": 4,
   "www.poketalk.se": 4,
-  "tcgcompany.nl": 4,
+  "tcgcompany.nl": 5,
   "tcgfanshop.nl": 4,
   "www.nerdom.gr": 4,
-  "tcgstore.se": 4,
+  "tcgstore.se": 5,
   "www.pokemillon.com": 4,
   "lorenzone.fr": 4,
   "papelinho.pt": 4,
@@ -1053,8 +1058,8 @@
   "www.pokemonia.ro": 5,
   "en.tcg-shop.at": 4,
   "pokewoke.store": 4,
-  "totalcards.net": 1,
-  "www.efantasy.gr": 1
+  "www.amazon.it": 1,
+  "www.blackfire.eu": 1
  },
- "runno": 20
+ "runno": 21
 }
