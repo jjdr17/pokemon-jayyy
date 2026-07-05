@@ -563,6 +563,13 @@ def main():
                 lines.append(f"✅ {n}: {len(disp)} negozi{ptxt}")
             else:
                 lines.append(f"— {n}: nessuna disponibilità")
+        # ---- autodiagnosi: metriche di salute per scovare lacune sul campo ----
+        n_disp = sum(1 for prods in state["shops"].values() for v in prods.values() if v == "disponibile")
+        n_price = sum(1 for k in state["prices"] if state["shops"].get(k.split("|")[0], {}).get(k.split("|", 1)[1]) == "disponibile")
+        n_down = sum(1 for v in state.get("down", {}).values() if v >= 3)
+        n_ok = sum(1 for prods in state["shops"].values() if any(v != "irraggiungibile" for v in prods.values()))
+        lines.append(f"\n🩺 Salute: {n_ok} negozi attivi, {n_down} bloccati in riposo · "
+                     f"{n_disp} disponibilità, prezzo letto su {n_price}")
         notify(f"📋 Riepilogo Pokémon — ore {now_it.hour}", "\n".join(lines),
                url=DASHBOARD_URL, priority="default")
 
