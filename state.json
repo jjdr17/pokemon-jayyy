@@ -171,9 +171,9 @@
   },
   "CardZone": {
    "Pitch Black (ME05)": "disponibile",
-   "30th Celebration": "disponibile",
+   "30th Celebration": "listato",
    "Storm Emerald (ME06)": "listato",
-   "Chaos Rising (ME04)": "listato",
+   "Chaos Rising (ME04)": "disponibile",
    "Phantasmal Flames (ME02)": "listato",
    "Pokémon 151": "esaurito",
    "Prismatic Evolutions": "esaurito",
@@ -798,7 +798,7 @@
   },
   "LetsGoTry": {
    "Pitch Black (ME05)": "listato",
-   "30th Celebration": "disponibile",
+   "30th Celebration": "listato",
    "Storm Emerald (ME06)": "listato",
    "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "non listato",
@@ -922,7 +922,7 @@
   "drop|MagicBazar|Pitch Black (ME05)": 1783217354.8257976,
   "PokeCardShop|Destined Rivals": 1783208467.7273407,
   "Rogerz|Pitch Black (ME05)": 1783087262.8826923,
-  "CardZone|Chaos Rising (ME04)": 1783208734.4343088,
+  "CardZone|Chaos Rising (ME04)": 1783234434.138401,
   "PokeCardShop|Chaos Rising (ME04)": 1783166361.3349023,
   "Total Cards (UK)|Pitch Black (ME05)": 1783176309.9397047,
   "PokeCardShop|Phantasmal Flames (ME02)": 1783223108.0825505,
@@ -985,11 +985,6 @@
   "BESCARDS|Crown Zenith": "https://bescards.com/products/pokemon-crown-zenith-elite-trainer-box?_pos=1&_sid=4b6d35358&_ss=r"
  },
  "log": [
-  {
-   "ts": "04/07 06:20",
-   "title": "🚨 DISPONIBILE/PREORDER: Phantasmal Flames (ME02) — CardZone",
-   "url": "https://cardzone.es/search?q=phantasmal+flames"
-  },
   {
    "ts": "04/07 06:53",
    "title": "🚨 DISPONIBILE/PREORDER: Pitch Black (ME05) — CardZone",
@@ -1134,6 +1129,11 @@
    "ts": "05/07 05:45",
    "title": "🚨 RESTOCK: Phantasmal Flames (ME02) — PokeCardShop",
    "url": "https://www.pokecardshop.be/search?q=phantasmal+flames"
+  },
+  {
+   "ts": "05/07 08:53",
+   "title": "🚨 DISPONIBILE/PREORDER: Chaos Rising (ME04) — CardZone",
+   "url": "https://cardzone.es/search?q=chaos+rising"
   }
  ],
  "digest_slot": "2026-07-04-22"
