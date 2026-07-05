@@ -983,12 +983,7 @@
   "Total Cards (UK)|Pitch Black (ME05)": "£4.79",
   "Stoyanov Games|Pitch Black (ME05)": "8.00€"
  },
- "pending": {
-  "LetsGoTry|Chaos Rising (ME04)": [
-   "non listato",
-   1
-  ]
- },
+ "pending": {},
  "urls": {
   "Rogerz|Pitch Black (ME05)": "https://rogerz.dk/search?q=pitch+black",
   "Packratt (UK)|Chaos Rising (ME04)": "https://packratt.co.uk/search?q=chaos+rising",
@@ -1005,7 +1000,7 @@
   "Sapphire-Cards|Crown Zenith": "https://sapphire-cards.de/?s=crown+zenith&post_type=product",
   "Sapphire-Cards|Destined Rivals": "https://sapphire-cards.de/?s=destined+rivals&post_type=product",
   "Stoyanov Games|Pitch Black (ME05)": "https://stoyanov-gamesbg.com/pre-order-pokemon-tcg-mega-evolution-pitch-black-elite-trainer-box-френски-език/",
-  "LetsGoTry|30th Celebration": "https://letsgotry.pl/zestawy-eng/15894--preorder-pokemon-tcg-30th-celebration-tin-greninja-ex.html",
+  "LetsGoTry|30th Celebration": "https://letsgotry.pl/zestawy-eng/15893--preorder-pokemon-tcg-30th-celebration-tin-sylveon-ex.html",
   "Pikashop|Chaos Rising (ME04)": "https://pikashop.pl/?s=chaos+rising&post_type=product",
   "Pokemania.ro|Pitch Black (ME05)": "https://pokemania.ro/?s=pitch+black&post_type=product",
   "SunnyStore|Pokémon 151": "https://sunnystore.es/search?q=pokemon+151",
@@ -1027,12 +1022,11 @@
  "down": {
   "www.cardmarket.com": 4,
   "www.gamestop.com": 4,
-  "www.gamelife.it": 4,
-  "www.amazon.it": 4,
-  "pokeseller14.com": 4,
-  "geco-shop.de": 4,
+  "www.gamelife.it": 5,
+  "pokeseller14.com": 5,
+  "geco-shop.de": 5,
   "www.chaoscards.co.uk": 4,
-  "fabscards.at": 4,
+  "fabscards.at": 5,
   "www.deckshop.de": 4,
   "www.waylandgames.co.uk": 4,
   "www.firestormgames.co.uk": 5,
@@ -1058,11 +1052,9 @@
   "www.wakuwaku.cz": 4,
   "www.pokemonia.ro": 5,
   "en.tcg-shop.at": 4,
-  "pokewoke.store": 3,
-  "tradingcard.fi": 2,
-  "www.pokemons.dk": 2,
-  "pikashop.pl": 2,
-  "www.blackfire.eu": 1
+  "pokewoke.store": 4,
+  "totalcards.net": 1,
+  "www.efantasy.gr": 1
  },
- "runno": 19
+ "runno": 20
 }
