@@ -34,5 +34,12 @@
  "alerts": {},
  "prices": {},
  "urls": {},
- "pending": {}
+ "pending": {},
+ "down": {
+  "www.gamestop.com": 1,
+  "www.gamelife.it": 1,
+  "www.amazon.it": 1,
+  "www.pokemoncenter.com": 1
+ },
+ "runno": 1
 }
