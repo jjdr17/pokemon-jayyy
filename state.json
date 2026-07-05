@@ -117,7 +117,7 @@
   "AllDayTCG": {
    "Pitch Black (ME05)": "listato",
    "30th Celebration": "listato",
-   "Storm Emerald (ME06)": "irraggiungibile",
+   "Storm Emerald (ME06)": "listato",
    "Chaos Rising (ME04)": "irraggiungibile",
    "Phantasmal Flames (ME02)": "irraggiungibile",
    "Pokémon 151": "irraggiungibile",
@@ -893,7 +893,9 @@
   "pokemania.ro": "https://pokemania.ro/?s={q}&post_type=product",
   "pokemonworld.lt": "https://pokemonworld.lt/?s={q}&post_type=product",
   "stoyanov-gamesbg.com": "https://stoyanov-gamesbg.com/search?q={q}",
-  "cardmex-shop.de": "https://cardmex-shop.de/?s={q}&post_type=product"
+  "cardmex-shop.de": "https://cardmex-shop.de/?s={q}&post_type=product",
+  "www.blackfire.eu": "https://www.blackfire.eu/search?q={q}",
+  "www.deckshop.de": "https://www.deckshop.de/search?controller=search&s={q}"
  },
  "alerts": {},
  "prices": {
@@ -903,12 +905,56 @@
   "MagicBazar|Pitch Black (ME05)": "$85"
  },
  "pending": {
-  "AllDayTCG|Storm Emerald (ME06)": [
+  "Amazon.it|30th Celebration": [
    "listato",
    1
   ],
-  "SunnyStore|Pokémon 151": [
-   "disponibile",
+  "Poke-Power|Pokémon 151": [
+   "esaurito",
+   1
+  ],
+  "Rogerz|Phantasmal Flames (ME02)": [
+   "listato",
+   1
+  ],
+  "Blackfire|Pitch Black (ME05)": [
+   "non listato",
+   1
+  ],
+  "Blackfire|30th Celebration": [
+   "non listato",
+   1
+  ],
+  "Blackfire|Storm Emerald (ME06)": [
+   "non listato",
+   1
+  ],
+  "Blackfire|Chaos Rising (ME04)": [
+   "non listato",
+   1
+  ],
+  "Blackfire|Phantasmal Flames (ME02)": [
+   "non listato",
+   1
+  ],
+  "Blackfire|Pokémon 151": [
+   "non listato",
+   1
+  ],
+  "Blackfire|Prismatic Evolutions": [
+   "non listato",
+   1
+  ],
+  "Blackfire|Crown Zenith": [
+   "non listato",
+   1
+  ],
+  "Blackfire|Destined Rivals": [
+   "non listato",
+   1
+  ],
+  "LetsGoTry|Chaos Rising (ME04)": [
+   "listato",
    1
   ]
  },
