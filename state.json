@@ -835,7 +835,7 @@
   },
   "LetsGoTry": {
    "Pitch Black (ME05)": "listato",
-   "30th Celebration": "listato",
+   "30th Celebration": "disponibile",
    "Storm Emerald (ME06)": "listato",
    "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "non listato",
@@ -967,10 +967,12 @@
   "lorenzone.fr": "https://lorenzone.fr/search?controller=search&s={q}",
   "cardcorner.at": "https://cardcorner.at/search?controller=search&s={q}",
   "www.poketalk.se": "https://www.poketalk.se/search?q={q}",
-  "hobbykort.se": "-"
+  "hobbykort.se": "-",
+  "pokevend.at": "https://pokevend.at/search?controller=search&s={q}"
  },
  "alerts": {
-  "drop|MagicBazar|Pitch Black (ME05)": 1783274158.1076322
+  "drop|MagicBazar|Pitch Black (ME05)": 1783274158.1076322,
+  "LetsGoTry|30th Celebration": 1783276891.3316712
  },
  "prices": {
   "Packratt (UK)|Chaos Rising (ME04)": "£10.01",
@@ -981,11 +983,7 @@
   "Total Cards (UK)|Pitch Black (ME05)": "£4.79"
  },
  "pending": {
-  "LetsGoTry|30th Celebration": [
-   "disponibile",
-   1
-  ],
-  "LetsGoTry|Chaos Rising (ME04)": [
+  "Blackfire|Premium Deck Espeon & Umbreon (30th)": [
    "non listato",
    1
   ]
@@ -1006,7 +1004,7 @@
   "Sapphire-Cards|Crown Zenith": "https://sapphire-cards.de/?s=crown+zenith&post_type=product",
   "Sapphire-Cards|Destined Rivals": "https://sapphire-cards.de/?s=destined+rivals&post_type=product",
   "Stoyanov Games|Pitch Black (ME05)": "https://stoyanov-gamesbg.com/pre-order-pokemon-tcg-mega-evolution-pitch-black-elite-trainer-box-френски-език/",
-  "LetsGoTry|30th Celebration": "https://letsgotry.pl/zestawy-eng/15893--preorder-pokemon-tcg-30th-celebration-tin-sylveon-ex.html",
+  "LetsGoTry|30th Celebration": "https://letsgotry.pl/zestawy-eng/15894--preorder-pokemon-tcg-30th-celebration-tin-greninja-ex.html",
   "Pikashop|Chaos Rising (ME04)": "https://pikashop.pl/?s=chaos+rising&post_type=product",
   "Pokemania.ro|Pitch Black (ME05)": "https://pokemania.ro/?s=pitch+black&post_type=product",
   "SunnyStore|Pokémon 151": "https://sunnystore.es/search?q=pokemon+151",
@@ -1018,43 +1016,48 @@
    "ts": "05/07 19:55",
    "title": "📉 Prezzo giù: Pitch Black (ME05) — MagicBazar",
    "url": "https://www.magicbazar.fr/en/produit/647162/gift-bundle-marvel-super-heroes-magic-en"
+  },
+  {
+   "ts": "05/07 20:41",
+   "title": "🚨 DISPONIBILE/PREORDER: 30th Celebration — LetsGoTry",
+   "url": "https://letsgotry.pl/zestawy-eng/15894--preorder-pokemon-tcg-30th-celebration-tin-greninja-ex.html"
   }
  ],
  "down": {
-  "www.cardmarket.com": 1,
-  "www.gamestop.com": 1,
-  "www.gamelife.it": 1,
-  "www.amazon.it": 1,
-  "www.blackfire.eu": 1,
-  "pokeseller14.com": 1,
-  "geco-shop.de": 1,
-  "www.chaoscards.co.uk": 1,
-  "fabscards.at": 1,
-  "www.deckshop.de": 1,
-  "www.waylandgames.co.uk": 1,
-  "www.firestormgames.co.uk": 1,
-  "crispycards.de": 1,
-  "misticards.com": 1,
-  "cardcorner.at": 1,
-  "pokechest.at": 1,
-  "bescards.com": 1,
-  "hobbykort.se": 1,
-  "rarecards.nl": 1,
-  "pokevend.at": 1,
-  "www.poketalk.se": 1,
-  "tcgcompany.nl": 1,
-  "tcgfanshop.nl": 1,
-  "www.nerdom.gr": 1,
-  "tcgstore.se": 1,
-  "www.pokemillon.com": 1,
-  "lorenzone.fr": 1,
-  "papelinho.pt": 1,
-  "www.pokekarty.pl": 1,
-  "pokeka.hu": 1,
-  "itcg.bg": 1,
-  "www.wakuwaku.cz": 1,
-  "www.pokemonia.ro": 1,
-  "en.tcg-shop.at": 1
+  "www.cardmarket.com": 2,
+  "www.gamestop.com": 2,
+  "www.gamelife.it": 2,
+  "www.amazon.it": 2,
+  "pokeseller14.com": 2,
+  "geco-shop.de": 2,
+  "www.chaoscards.co.uk": 2,
+  "fabscards.at": 2,
+  "www.deckshop.de": 2,
+  "www.waylandgames.co.uk": 2,
+  "www.firestormgames.co.uk": 2,
+  "crispycards.de": 2,
+  "misticards.com": 2,
+  "cardcorner.at": 2,
+  "pokechest.at": 2,
+  "bescards.com": 2,
+  "hobbykort.se": 2,
+  "rarecards.nl": 2,
+  "pokevend.at": 2,
+  "www.poketalk.se": 2,
+  "tcgcompany.nl": 2,
+  "tcgfanshop.nl": 2,
+  "www.nerdom.gr": 2,
+  "tcgstore.se": 2,
+  "www.pokemillon.com": 2,
+  "lorenzone.fr": 2,
+  "papelinho.pt": 2,
+  "www.pokekarty.pl": 2,
+  "pokeka.hu": 2,
+  "itcg.bg": 2,
+  "www.wakuwaku.cz": 2,
+  "www.pokemonia.ro": 2,
+  "en.tcg-shop.at": 2,
+  "totalcards.net": 1
  },
- "runno": 1
+ "runno": 2
 }
