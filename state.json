@@ -58,7 +58,7 @@
    "30th Celebration": "irraggiungibile",
    "Storm Emerald (ME06)": "irraggiungibile",
    "Chaos Rising (ME04)": "irraggiungibile",
-   "Phantasmal Flames (ME02)": "irraggiungibile",
+   "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "non listato",
    "Prismatic Evolutions": "non listato",
    "Crown Zenith": "non listato",
@@ -966,7 +966,8 @@
   "fabscards.at": "https://fabscards.at/search?controller=search&s={q}",
   "lorenzone.fr": "https://lorenzone.fr/search?controller=search&s={q}",
   "cardcorner.at": "https://cardcorner.at/search?controller=search&s={q}",
-  "www.poketalk.se": "https://www.poketalk.se/search?q={q}"
+  "www.poketalk.se": "https://www.poketalk.se/search?q={q}",
+  "hobbykort.se": "-"
  },
  "alerts": {
   "drop|MagicBazar|Pitch Black (ME05)": 1783274158.1076322
@@ -979,16 +980,16 @@
   "SunnyStore|Pokémon 151": "€26,90"
  },
  "pending": {
-  "Pokemon Center|Phantasmal Flames (ME02)": [
+  "SunnyStore|Premium Deck Espeon & Umbreon (30th)": [
    "non listato",
    1
   ],
-  "Total Cards (UK)|Pitch Black (ME05)": [
-   "disponibile",
+  "CardZone|Premium Deck Espeon & Umbreon (30th)": [
+   "non listato",
    1
   ],
-  "LetsGoTry|Chaos Rising (ME04)": [
-   "non listato",
+  "LetsGoTry|30th Celebration": [
+   "listato",
    1
   ]
  },
