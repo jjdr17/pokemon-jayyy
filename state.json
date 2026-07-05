@@ -170,10 +170,10 @@
    "Destined Rivals": "irraggiungibile"
   },
   "CardZone": {
-   "Pitch Black (ME05)": "listato",
+   "Pitch Black (ME05)": "disponibile",
    "30th Celebration": "disponibile",
-   "Storm Emerald (ME06)": "disponibile",
-   "Chaos Rising (ME04)": "disponibile",
+   "Storm Emerald (ME06)": "listato",
+   "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "disponibile",
    "Pokémon 151": "esaurito",
    "Prismatic Evolutions": "esaurito",
@@ -800,7 +800,7 @@
    "Pitch Black (ME05)": "listato",
    "30th Celebration": "disponibile",
    "Storm Emerald (ME06)": "listato",
-   "Chaos Rising (ME04)": "non listato",
+   "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "non listato",
    "Prismatic Evolutions": "non listato",
@@ -915,7 +915,7 @@
   "bescards.com": "https://bescards.com/search?q={q}"
  },
  "alerts": {
-  "CardZone|Pitch Black (ME05)": 1783187449.4299276,
+  "CardZone|Pitch Black (ME05)": 1783211454.8262672,
   "CardZone|Storm Emerald (ME06)": 1783191047.4966147,
   "CardZone|30th Celebration": 1783189857.139046,
   "PokeCardShop|Pitch Black (ME05)": 1783170411.7980342,
@@ -976,14 +976,9 @@
   "CardZone|Pokémon 151": "https://cardzone.es/search?q=pokemon+151",
   "CardZone|Phantasmal Flames (ME02)": "https://cardzone.es/search?q=phantasmal+flames",
   "Stoyanov Games|Pitch Black (ME05)": "https://stoyanov-gamesbg.com/pre-order-pokemon-tcg-mega-evolution-pitch-black-elite-trainer-box-френски-език/",
-  "LetsGoTry|30th Celebration": "https://letsgotry.pl/zestawy-eng/15892--preorder-pokemon-tcg-30th-celebration-elite-trainer-box.html"
+  "LetsGoTry|30th Celebration": "https://letsgotry.pl/zestawy-eng/15894--preorder-pokemon-tcg-30th-celebration-tin-greninja-ex.html"
  },
  "log": [
-  {
-   "ts": "04/07 01:05",
-   "title": "🚨 RESTOCK: Destined Rivals — PokeCardShop",
-   "url": "https://www.pokecardshop.be/search?q=destined+rivals"
-  },
   {
    "ts": "04/07 01:15",
    "title": "🚨 DISPONIBILE/PREORDER: 30th Celebration — CardZone",
@@ -1128,6 +1123,11 @@
    "ts": "05/07 01:45",
    "title": "🚨 DISPONIBILE/PREORDER: Chaos Rising (ME04) — CardZone",
    "url": "https://cardzone.es/search?q=chaos+rising"
+  },
+  {
+   "ts": "05/07 02:30",
+   "title": "🚨 DISPONIBILE/PREORDER: Pitch Black (ME05) — CardZone",
+   "url": "https://cardzone.es/search?q=pitch+black"
   }
  ],
  "digest_slot": "2026-07-04-22"
