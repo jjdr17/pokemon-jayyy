@@ -108,7 +108,7 @@
    "30th Celebration": "listato",
    "Storm Emerald (ME06)": "listato",
    "Chaos Rising (ME04)": "listato",
-   "Phantasmal Flames (ME02)": "irraggiungibile",
+   "Phantasmal Flames (ME02)": "esaurito",
    "Pokémon 151": "irraggiungibile",
    "Prismatic Evolutions": "irraggiungibile",
    "Crown Zenith": "irraggiungibile",
@@ -116,7 +116,7 @@
   },
   "AllDayTCG": {
    "Pitch Black (ME05)": "listato",
-   "30th Celebration": "irraggiungibile",
+   "30th Celebration": "listato",
    "Storm Emerald (ME06)": "irraggiungibile",
    "Chaos Rising (ME04)": "irraggiungibile",
    "Phantasmal Flames (ME02)": "irraggiungibile",
@@ -128,7 +128,7 @@
   "OutpostBrussels": {
    "Pitch Black (ME05)": "esaurito",
    "30th Celebration": "esaurito",
-   "Storm Emerald (ME06)": "irraggiungibile",
+   "Storm Emerald (ME06)": "listato",
    "Chaos Rising (ME04)": "irraggiungibile",
    "Phantasmal Flames (ME02)": "irraggiungibile",
    "Pokémon 151": "irraggiungibile",
@@ -139,8 +139,8 @@
   "CardZone": {
    "Pitch Black (ME05)": "listato",
    "30th Celebration": "listato",
-   "Storm Emerald (ME06)": "irraggiungibile",
-   "Chaos Rising (ME04)": "irraggiungibile",
+   "Storm Emerald (ME06)": "listato",
+   "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "irraggiungibile",
    "Pokémon 151": "irraggiungibile",
    "Prismatic Evolutions": "irraggiungibile",
@@ -152,7 +152,7 @@
    "30th Celebration": "listato",
    "Storm Emerald (ME06)": "listato",
    "Chaos Rising (ME04)": "esaurito",
-   "Phantasmal Flames (ME02)": "irraggiungibile",
+   "Phantasmal Flames (ME02)": "esaurito",
    "Pokémon 151": "irraggiungibile",
    "Prismatic Evolutions": "irraggiungibile",
    "Crown Zenith": "irraggiungibile",
@@ -161,8 +161,8 @@
   "Rogerz": {
    "Pitch Black (ME05)": "disponibile",
    "30th Celebration": "listato",
-   "Storm Emerald (ME06)": "irraggiungibile",
-   "Chaos Rising (ME04)": "irraggiungibile",
+   "Storm Emerald (ME06)": "listato",
+   "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "irraggiungibile",
    "Pokémon 151": "irraggiungibile",
    "Prismatic Evolutions": "irraggiungibile",
@@ -171,8 +171,8 @@
   },
   "God of Cards": {
    "Pitch Black (ME05)": "listato",
-   "30th Celebration": "irraggiungibile",
-   "Storm Emerald (ME06)": "irraggiungibile",
+   "30th Celebration": "non listato",
+   "Storm Emerald (ME06)": "non listato",
    "Chaos Rising (ME04)": "irraggiungibile",
    "Phantasmal Flames (ME02)": "irraggiungibile",
    "Pokémon 151": "irraggiungibile",
@@ -903,52 +903,12 @@
   "MagicBazar|Pitch Black (ME05)": "$85"
  },
  "pending": {
-  "Poke-Power|Phantasmal Flames (ME02)": [
-   "esaurito",
-   1
-  ],
-  "SunnyStore|Phantasmal Flames (ME02)": [
-   "esaurito",
-   1
-  ],
-  "AllDayTCG|30th Celebration": [
+  "AllDayTCG|Storm Emerald (ME06)": [
    "listato",
    1
   ],
-  "OutpostBrussels|Storm Emerald (ME06)": [
-   "listato",
-   1
-  ],
-  "Rogerz|Storm Emerald (ME06)": [
-   "listato",
-   1
-  ],
-  "Rogerz|Chaos Rising (ME04)": [
-   "listato",
-   1
-  ],
-  "God of Cards|30th Celebration": [
-   "non listato",
-   1
-  ],
-  "God of Cards|Storm Emerald (ME06)": [
-   "non listato",
-   1
-  ],
-  "CardZone|Storm Emerald (ME06)": [
-   "listato",
-   1
-  ],
-  "CardZone|Chaos Rising (ME04)": [
-   "listato",
-   1
-  ],
-  "LetsGoTry|30th Celebration": [
-   "listato",
-   1
-  ],
-  "LetsGoTry|Chaos Rising (ME04)": [
-   "listato",
+  "SunnyStore|Pokémon 151": [
+   "disponibile",
    1
   ]
  },
