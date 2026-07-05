@@ -171,8 +171,8 @@
   },
   "CardZone": {
    "Pitch Black (ME05)": "disponibile",
-   "30th Celebration": "listato",
-   "Storm Emerald (ME06)": "disponibile",
+   "30th Celebration": "disponibile",
+   "Storm Emerald (ME06)": "listato",
    "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "listato",
    "Pokémon 151": "esaurito",
@@ -800,7 +800,7 @@
    "Pitch Black (ME05)": "listato",
    "30th Celebration": "disponibile",
    "Storm Emerald (ME06)": "listato",
-   "Chaos Rising (ME04)": "non listato",
+   "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "non listato",
    "Prismatic Evolutions": "non listato",
@@ -917,7 +917,7 @@
  "alerts": {
   "CardZone|Pitch Black (ME05)": 1783238277.1123648,
   "CardZone|Storm Emerald (ME06)": 1783240846.9249215,
-  "CardZone|30th Celebration": 1783237770.499001,
+  "CardZone|30th Celebration": 1783260074.5955827,
   "PokeCardShop|Pitch Black (ME05)": 1783221062.3793678,
   "drop|MagicBazar|Pitch Black (ME05)": 1783240274.858048,
   "PokeCardShop|Destined Rivals": 1783208467.7273407,
@@ -965,7 +965,7 @@
   "Pikashop|Chaos Rising (ME04)": "https://pikashop.pl/?s=chaos+rising&post_type=product",
   "Pokemania.ro|Pitch Black (ME05)": "https://pokemania.ro/?s=pitch+black&post_type=product",
   "CardZone|Pitch Black (ME05)": "https://cardzone.es/search?q=pitch+black",
-  "Total Cards (UK)|Pitch Black (ME05)": "https://totalcards.net/products/pokemon-mega-evolution-pitch-black-booster-pack?_pos=1&_sid=3810e5a03&_ss=r",
+  "Total Cards (UK)|Pitch Black (ME05)": "https://totalcards.net/products/pokemon-mega-evolution-pitch-black-booster-pack?_pos=1&_sid=6d2fac486&_ss=r",
   "SunnyStore|Pokémon 151": "https://sunnystore.es/search?q=pokemon+151",
   "God of Cards|Pokémon 151": "https://godofcards.com/search?q=pokemon+151",
   "PokeCardShop|Pitch Black (ME05)": "https://www.pokecardshop.be/search?q=pitch+black",
@@ -978,18 +978,13 @@
   "CardZone|Pokémon 151": "https://cardzone.es/search?q=pokemon+151",
   "CardZone|Phantasmal Flames (ME02)": "https://cardzone.es/search?q=phantasmal+flames",
   "Stoyanov Games|Pitch Black (ME05)": "https://stoyanov-gamesbg.com/pre-order-pokemon-tcg-mega-evolution-pitch-black-elite-trainer-box-френски-език/",
-  "LetsGoTry|30th Celebration": "https://letsgotry.pl/zestawy-eng/15892--preorder-pokemon-tcg-30th-celebration-elite-trainer-box.html",
+  "LetsGoTry|30th Celebration": "https://letsgotry.pl/zestawy-eng/15894--preorder-pokemon-tcg-30th-celebration-tin-greninja-ex.html",
   "BESCARDS|Phantasmal Flames (ME02)": "https://bescards.com/products/mega-charizard-x-ex-mega-hyper-rare-130-094-phantasmal-flames-psa-9?_pos=3&_sid=916e4997d&_ss=r",
   "BESCARDS|Pokémon 151": "https://bescards.com/products/pokemon-151-ultra-premium-collection?_pos=1&_sid=51d49c483&_ss=r",
   "BESCARDS|Prismatic Evolutions": "https://bescards.com/products/pokemon-prismatic-evolutions-surprise-box?_pos=1&_sid=280b5afe2&_ss=r",
   "BESCARDS|Crown Zenith": "https://bescards.com/products/pokemon-crown-zenith-elite-trainer-box?_pos=1&_sid=4b6d35358&_ss=r"
  },
  "log": [
-  {
-   "ts": "04/07 13:59",
-   "title": "🚨 DISPONIBILE/PREORDER: Storm Emerald (ME06) — CardZone",
-   "url": "https://cardzone.es/search?q=storm+emerald"
-  },
   {
    "ts": "04/07 13:59",
    "title": "🚨 DISPONIBILE/PREORDER: Chaos Rising (ME04) — PokeCardShop",
@@ -1134,6 +1129,11 @@
    "ts": "05/07 15:41",
    "title": "🚨 DISPONIBILE/PREORDER: Chaos Rising (ME04) — PokeCardShop",
    "url": "https://www.pokecardshop.be/search?q=chaos+rising"
+  },
+  {
+   "ts": "05/07 16:01",
+   "title": "🚨 DISPONIBILE/PREORDER: 30th Celebration — CardZone",
+   "url": "https://cardzone.es/search?q=30th+celebration"
   }
  ],
  "digest_slot": "2026-07-05-15"
