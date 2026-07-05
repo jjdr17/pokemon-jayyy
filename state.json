@@ -109,7 +109,7 @@
    "Storm Emerald (ME06)": "listato",
    "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "esaurito",
-   "Pokémon 151": "irraggiungibile",
+   "Pokémon 151": "esaurito",
    "Prismatic Evolutions": "irraggiungibile",
    "Crown Zenith": "irraggiungibile",
    "Destined Rivals": "irraggiungibile"
@@ -896,7 +896,9 @@
   "cardmex-shop.de": "https://cardmex-shop.de/?s={q}&post_type=product",
   "www.blackfire.eu": "https://www.blackfire.eu/search?q={q}",
   "www.deckshop.de": "https://www.deckshop.de/search?controller=search&s={q}",
-  "totalcards.net": "https://totalcards.net/search?q={q}"
+  "totalcards.net": "https://totalcards.net/search?q={q}",
+  "fabscards.at": "https://fabscards.at/search?controller=search&s={q}",
+  "lorenzone.fr": "https://lorenzone.fr/search?controller=search&s={q}"
  },
  "alerts": {},
  "prices": {
@@ -910,12 +912,12 @@
    "listato",
    1
   ],
-  "Poke-Power|Pokémon 151": [
-   "esaurito",
+  "LorenZone|Destined Rivals": [
+   "non listato",
    1
   ],
-  "LetsGoTry|Chaos Rising (ME04)": [
-   "non listato",
+  "LetsGoTry|30th Celebration": [
+   "listato",
    1
   ]
  },
@@ -938,5 +940,6 @@
   "LetsGoTry|30th Celebration": "https://letsgotry.pl/zestawy-eng/15896--preorder-pokemon-tcg-30th-celebration-2-pack.html",
   "Pikashop|Chaos Rising (ME04)": "https://pikashop.pl/?s=chaos+rising&post_type=product",
   "Pokemania.ro|Pitch Black (ME05)": "https://pokemania.ro/?s=pitch+black&post_type=product"
- }
+ },
+ "digest_slot": "2026-07-05-18"
 }
