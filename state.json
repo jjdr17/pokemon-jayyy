@@ -35,7 +35,7 @@
   },
   "Amazon.it": {
    "30th Celebration": "non listato",
-   "Storm Emerald (ME06)": "non listato"
+   "Storm Emerald (ME06)": "listato"
   },
   "TCGplayer": {
    "Pitch Black (ME05)": "non listato",
@@ -171,7 +171,7 @@
   },
   "CardZone": {
    "Pitch Black (ME05)": "disponibile",
-   "30th Celebration": "listato",
+   "30th Celebration": "disponibile",
    "Storm Emerald (ME06)": "listato",
    "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "disponibile",
@@ -798,7 +798,7 @@
   },
   "LetsGoTry": {
    "Pitch Black (ME05)": "listato",
-   "30th Celebration": "disponibile",
+   "30th Celebration": "listato",
    "Storm Emerald (ME06)": "listato",
    "Chaos Rising (ME04)": "non listato",
    "Phantasmal Flames (ME02)": "non listato",
@@ -919,7 +919,7 @@
   "CardZone|Storm Emerald (ME06)": 1783215230.0299418,
   "CardZone|30th Celebration": 1783212040.142237,
   "PokeCardShop|Pitch Black (ME05)": 1783170411.7980342,
-  "drop|MagicBazar|Pitch Black (ME05)": 1783195279.1522343,
+  "drop|MagicBazar|Pitch Black (ME05)": 1783217354.8257976,
   "PokeCardShop|Destined Rivals": 1783208467.7273407,
   "Rogerz|Pitch Black (ME05)": 1783087262.8826923,
   "CardZone|Chaos Rising (ME04)": 1783208734.4343088,
@@ -936,7 +936,7 @@
   "Packratt (UK)|Chaos Rising (ME04)": "£10.01",
   "Packratt (UK)|Pokémon 151": "£29.99",
   "PokeCardShop|Chaos Rising (ME04)": "€6.95",
-  "MagicBazar|Pitch Black (ME05)": "$85",
+  "MagicBazar|Pitch Black (ME05)": "$10",
   "Total Cards (UK)|Pitch Black (ME05)": "£4.79",
   "SunnyStore|Pokémon 151": "€26,90",
   "Total Cards (UK)|30th Celebration": "£9.13"
@@ -963,7 +963,7 @@
   "Pikashop|Chaos Rising (ME04)": "https://pikashop.pl/?s=chaos+rising&post_type=product",
   "Pokemania.ro|Pitch Black (ME05)": "https://pokemania.ro/vstar-universe/pokemon-tcg-vstar-universes-s12a-jp-booster-bundle-display-box-10-pachete-booster-jp",
   "CardZone|Pitch Black (ME05)": "https://cardzone.es/search?q=pitch+black",
-  "Total Cards (UK)|Pitch Black (ME05)": "https://totalcards.net/products/pokemon-mega-evolution-pitch-black-booster-pack?_pos=1&_sid=d61c8a398&_ss=r",
+  "Total Cards (UK)|Pitch Black (ME05)": "https://totalcards.net/products/pokemon-mega-evolution-pitch-black-booster-pack?_pos=1&_sid=255396df9&_ss=r",
   "SunnyStore|Pokémon 151": "https://sunnystore.es/search?q=pokemon+151",
   "God of Cards|Pokémon 151": "https://godofcards.com/search?q=pokemon+151",
   "PokeCardShop|Pitch Black (ME05)": "https://www.pokecardshop.be/search?q=pitch+black",
@@ -979,11 +979,6 @@
   "LetsGoTry|30th Celebration": "https://letsgotry.pl/zestawy-eng/15895--preorder-pokemon-tcg-30th-celebration-binder-collection.html"
  },
  "log": [
-  {
-   "ts": "04/07 03:15",
-   "title": "📉 Prezzo giù: Pitch Black (ME05) — MagicBazar",
-   "url": "https://www.magicbazar.fr/en/produit/647162/gift-bundle-marvel-super-heroes-magic-en"
-  },
   {
    "ts": "04/07 03:21",
    "title": "🚨 DISPONIBILE/PREORDER: Chaos Rising (ME04) — PokeCardShop",
@@ -1128,6 +1123,11 @@
    "ts": "05/07 03:33",
    "title": "🚨 DISPONIBILE/PREORDER: Storm Emerald (ME06) — CardZone",
    "url": "https://cardzone.es/search?q=storm+emerald"
+  },
+  {
+   "ts": "05/07 04:09",
+   "title": "📉 Prezzo giù: Pitch Black (ME05) — MagicBazar",
+   "url": "https://www.magicbazar.fr/en/produit/647162/gift-bundle-marvel-super-heroes-magic-en"
   }
  ],
  "digest_slot": "2026-07-04-22"
