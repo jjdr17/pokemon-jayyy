@@ -30,12 +30,16 @@ jobs:
         run: |
           git config user.name "monitor-bot"
           git config user.email "bot@users.noreply.github.com"
-          git add state-fast.json
-          git diff --cached --quiet && exit 0
-          git commit -m "fast [skip ci]"
+          cp state-fast.json /tmp/ 2>/dev/null || true
           for i in 1 2 3; do
-            git pull --rebase && git push && exit 0
-            sleep $((i * 3))
+            git fetch origin main
+            git reset --hard FETCH_HEAD
+            cp /tmp/state-fast.json . 2>/dev/null || true
+            git add state-fast.json
+            git diff --cached --quiet && exit 0
+            git commit -m "fast [skip ci]"
+            git push && exit 0
+            sleep $((i * 2))
           done
           echo "::error::push fallito dopo 3 tentativi — stato non salvato"
           exit 1

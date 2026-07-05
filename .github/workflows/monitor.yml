@@ -30,12 +30,21 @@ jobs:
         run: |
           git config user.name "monitor-bot"
           git config user.email "bot@users.noreply.github.com"
-          git add state.json docs/index.html
-          git diff --cached --quiet && exit 0
-          git commit -m "aggiorna stato e dashboard [skip ci]"
+          # metti da parte i file generati: sono la verità più recente
+          mkdir -p /tmp/out
+          cp state.json /tmp/out/ 2>/dev/null || true
+          cp docs/index.html /tmp/out/ 2>/dev/null || true
           for i in 1 2 3; do
-            git pull --rebase && git push && exit 0
-            sleep $((i * 3))
+            # riallineati alla remota e riappoggia i file: zero conflitti possibili
+            git fetch origin main
+            git reset --hard FETCH_HEAD
+            cp /tmp/out/state.json . 2>/dev/null || true
+            mkdir -p docs && cp /tmp/out/index.html docs/ 2>/dev/null || true
+            git add state.json docs/index.html
+            git diff --cached --quiet && exit 0
+            git commit -m "aggiorna stato e dashboard [skip ci]"
+            git push && exit 0
+            sleep $((i * 2))
           done
           echo "::error::push fallito dopo 3 tentativi — stato non salvato"
           exit 1
