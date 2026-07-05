@@ -610,6 +610,20 @@ footer{{color:#9aa3c7;font-size:.75rem;margin-top:14px}}</style></head><body>
 {log_html}
 <footer>Aggiornato: {now_it} (ora italiana) · si aggiorna ogni 5 minuti · ⚠️ verifica sempre prezzo e spedizione sul negozio</footer>
 </body></html>"""
+    # GitHub Pages accetta ~10 pubblicazioni/ora: riscrivi la dashboard solo se
+    # i DATI sono cambiati, o comunque non più spesso di ogni 15 minuti
+    try:
+        with open("docs/index.html") as f:
+            old = f.read()
+        strip_ts = lambda h: re.sub(r"Aggiornato: [^<]+", "", h)
+        if strip_ts(old) == strip_ts(html):
+            mts = re.search(r"Aggiornato: (\d{2}/\d{2}/\d{4} \d{2}:\d{2})", old)
+            if mts:
+                old_dt = datetime.strptime(mts.group(1), "%d/%m/%Y %H:%M").replace(tzinfo=ZoneInfo("Europe/Rome"))
+                if (datetime.now(ZoneInfo("Europe/Rome")) - old_dt).total_seconds() < 900:
+                    return  # nessun cambiamento e aggiornata da poco: non toccarla
+    except Exception:
+        pass
     os.makedirs("docs", exist_ok=True)
     with open("docs/index.html", "w") as f:
         f.write(html)
