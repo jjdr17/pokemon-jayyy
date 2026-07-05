@@ -902,7 +902,56 @@
   "PokeCardShop|Chaos Rising (ME04)": "€6.95",
   "MagicBazar|Pitch Black (ME05)": "$85"
  },
- "pending": {},
+ "pending": {
+  "Poke-Power|Phantasmal Flames (ME02)": [
+   "esaurito",
+   1
+  ],
+  "SunnyStore|Phantasmal Flames (ME02)": [
+   "esaurito",
+   1
+  ],
+  "AllDayTCG|30th Celebration": [
+   "listato",
+   1
+  ],
+  "OutpostBrussels|Storm Emerald (ME06)": [
+   "listato",
+   1
+  ],
+  "Rogerz|Storm Emerald (ME06)": [
+   "listato",
+   1
+  ],
+  "Rogerz|Chaos Rising (ME04)": [
+   "listato",
+   1
+  ],
+  "God of Cards|30th Celebration": [
+   "non listato",
+   1
+  ],
+  "God of Cards|Storm Emerald (ME06)": [
+   "non listato",
+   1
+  ],
+  "CardZone|Storm Emerald (ME06)": [
+   "listato",
+   1
+  ],
+  "CardZone|Chaos Rising (ME04)": [
+   "listato",
+   1
+  ],
+  "LetsGoTry|30th Celebration": [
+   "listato",
+   1
+  ],
+  "LetsGoTry|Chaos Rising (ME04)": [
+   "listato",
+   1
+  ]
+ },
  "urls": {
   "Rogerz|Pitch Black (ME05)": "https://rogerz.dk/search?q=pitch+black",
   "Packratt (UK)|Chaos Rising (ME04)": "https://packratt.co.uk/search?q=chaos+rising",
