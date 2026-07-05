@@ -213,14 +213,17 @@ PRICE_DROP_RATIO = 0.85           # avvisa se il prezzo scende di almeno il 15% 
 # prodotti "caldi": notifica con priorità urgente (suona anche in non disturbare, se configurato)
 URGENT_PRODUCTS = {"Pitch Black (ME05)", "30th Celebration", "Storm Emerald (ME06)",
                    "Premium Deck Espeon & Umbreon (30th)"}
-PRICE_RE = re.compile(r'(?:€|\$|£)\s?\d{1,4}(?:[.,]\d{1,2})?')
+# prezzo con simbolo prima (€54.99, formato USA) O dopo (54,99 €, formato europeo)
+PRICE_RE = re.compile(r'(?:€|\$|£)\s?\d{1,4}(?:[.,]\d{1,2})?|\d{1,4}(?:[.,]\d{1,2})?\s?(?:€|\$|£|eur\b)')
+PRICE_NUM_RE = re.compile(r'\d{1,4}(?:[.,]\d{1,2})?')
 
 
 def price_value(p):
-    """'€54,99' -> 54.99 (solo per confronti nello stesso negozio/valuta)."""
+    """'€54,99' o '54,99 €' -> 54.99 (solo per confronti nello stesso negozio/valuta)."""
     try:
-        return float(p.lstrip("€$£ ").replace(",", "."))
-    except (ValueError, AttributeError):
+        m = PRICE_NUM_RE.search(p)
+        return float(m.group(0).replace(",", ".")) if m else None
+    except (ValueError, AttributeError, TypeError):
         return None
 
 
@@ -345,12 +348,9 @@ def extract_price(windows):
     prices = []
     for w in windows:
         for m in PRICE_RE.findall(w):
-            try:
-                val = float(m.lstrip("€$£ ").replace(",", "."))
-                if 3 <= val <= 2000:
-                    prices.append((val, m.strip()))
-            except ValueError:
-                pass
+            val = price_value(m)
+            if val is not None and 3 <= val <= 2000:
+                prices.append((val, m.strip()))
     return min(prices)[1] if prices else None
 
 
