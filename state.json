@@ -837,7 +837,7 @@
    "Pitch Black (ME05)": "listato",
    "30th Celebration": "listato",
    "Storm Emerald (ME06)": "listato",
-   "Chaos Rising (ME04)": "non listato",
+   "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "non listato",
    "Prismatic Evolutions": "non listato",
@@ -983,20 +983,7 @@
   "Total Cards (UK)|Pitch Black (ME05)": "£4.79",
   "Stoyanov Games|Pitch Black (ME05)": "8.00€"
  },
- "pending": {
-  "Amazon.it|Storm Emerald (ME06)": [
-   "listato",
-   1
-  ],
-  "Amazon.it|30th Celebration": [
-   "listato",
-   1
-  ],
-  "LetsGoTry|Chaos Rising (ME04)": [
-   "listato",
-   1
-  ]
- },
+ "pending": {},
  "urls": {
   "Rogerz|Pitch Black (ME05)": "https://rogerz.dk/search?q=pitch+black",
   "Packratt (UK)|Chaos Rising (ME04)": "https://packratt.co.uk/search?q=chaos+rising",
@@ -1017,7 +1004,7 @@
   "Pikashop|Chaos Rising (ME04)": "https://pikashop.pl/?s=chaos+rising&post_type=product",
   "Pokemania.ro|Pitch Black (ME05)": "https://pokemania.ro/?s=pitch+black&post_type=product",
   "SunnyStore|Pokémon 151": "https://sunnystore.es/search?q=pokemon+151",
-  "Total Cards (UK)|Pitch Black (ME05)": "https://totalcards.net/products/pokemon-mega-evolution-pitch-black-booster-pack?_pos=1&_sid=c85cca108&_ss=r"
+  "Total Cards (UK)|Pitch Black (ME05)": "https://totalcards.net/products/pokemon-mega-evolution-pitch-black-booster-pack?_pos=1&_sid=763f9d8ce&_ss=r"
  },
  "digest_slot": "2026-07-05-22",
  "log": [
@@ -1049,12 +1036,12 @@
   "pokechest.at": 5,
   "bescards.com": 5,
   "hobbykort.se": 5,
-  "rarecards.nl": 4,
-  "pokevend.at": 4,
+  "rarecards.nl": 5,
+  "pokevend.at": 5,
   "www.poketalk.se": 5,
   "tcgcompany.nl": 5,
   "tcgfanshop.nl": 5,
-  "www.nerdom.gr": 4,
+  "www.nerdom.gr": 5,
   "tcgstore.se": 5,
   "www.pokemillon.com": 5,
   "lorenzone.fr": 5,
@@ -1066,13 +1053,7 @@
   "www.pokemonia.ro": 5,
   "en.tcg-shop.at": 5,
   "pokewoke.store": 4,
-  "www.blackfire.eu": 4,
-  "pokeboxstore.pt": 2,
-  "www.amazon.it": 1,
-  "pokectcg.cz": 1,
-  "tcgpikas.lt": 1,
-  "pokemonworld.lt": 1,
-  "extremepokecorner.com": 1
+  "www.blackfire.eu": 4
  },
- "runno": 26
+ "runno": 27
 }
