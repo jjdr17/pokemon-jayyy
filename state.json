@@ -837,7 +837,7 @@
    "Pitch Black (ME05)": "listato",
    "30th Celebration": "disponibile",
    "Storm Emerald (ME06)": "listato",
-   "Chaos Rising (ME04)": "listato",
+   "Chaos Rising (ME04)": "non listato",
    "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "non listato",
    "Prismatic Evolutions": "non listato",
@@ -978,22 +978,14 @@
   "Packratt (UK)|Chaos Rising (ME04)": "£10.01",
   "Packratt (UK)|Pokémon 151": "£29.99",
   "PokeCardShop|Chaos Rising (ME04)": "€6.95",
-  "MagicBazar|Pitch Black (ME05)": "$85",
+  "MagicBazar|Pitch Black (ME05)": "$11",
   "SunnyStore|Pokémon 151": "€26,90",
   "Total Cards (UK)|Pitch Black (ME05)": "£4.79",
   "Stoyanov Games|Pitch Black (ME05)": "8.00€"
  },
  "pending": {
-  "PokeCardShop|30th Celebration": [
-   "non listato",
-   1
-  ],
-  "LetsGoTry|30th Celebration": [
-   "listato",
-   1
-  ],
-  "LetsGoTry|Chaos Rising (ME04)": [
-   "non listato",
+  "OutpostBrussels|Chaos Rising (ME04)": [
+   "esaurito",
    1
   ]
  },
@@ -1013,11 +1005,11 @@
   "Sapphire-Cards|Crown Zenith": "https://sapphire-cards.de/?s=crown+zenith&post_type=product",
   "Sapphire-Cards|Destined Rivals": "https://sapphire-cards.de/?s=destined+rivals&post_type=product",
   "Stoyanov Games|Pitch Black (ME05)": "https://stoyanov-gamesbg.com/pre-order-pokemon-tcg-mega-evolution-pitch-black-elite-trainer-box-френски-език/",
-  "LetsGoTry|30th Celebration": "https://letsgotry.pl/zestawy-eng/15893--preorder-pokemon-tcg-30th-celebration-tin-sylveon-ex.html",
+  "LetsGoTry|30th Celebration": "https://letsgotry.pl/zestawy-eng/15895--preorder-pokemon-tcg-30th-celebration-binder-collection.html",
   "Pikashop|Chaos Rising (ME04)": "https://pikashop.pl/?s=chaos+rising&post_type=product",
   "Pokemania.ro|Pitch Black (ME05)": "https://pokemania.ro/?s=pitch+black&post_type=product",
   "SunnyStore|Pokémon 151": "https://sunnystore.es/search?q=pokemon+151",
-  "Total Cards (UK)|Pitch Black (ME05)": "https://totalcards.net/products/pokemon-mega-evolution-pitch-black-booster-pack?_pos=1&_sid=282c5a456&_ss=r"
+  "Total Cards (UK)|Pitch Black (ME05)": "https://totalcards.net/products/pokemon-mega-evolution-pitch-black-booster-pack?_pos=1&_sid=2bc35c394&_ss=r"
  },
  "digest_slot": "2026-07-05-22",
  "log": [
@@ -1047,14 +1039,14 @@
   "crispycards.de": 4,
   "misticards.com": 4,
   "cardcorner.at": 4,
-  "pokechest.at": 3,
+  "pokechest.at": 4,
   "bescards.com": 4,
   "hobbykort.se": 4,
   "rarecards.nl": 3,
   "pokevend.at": 3,
   "www.poketalk.se": 4,
   "tcgcompany.nl": 4,
-  "tcgfanshop.nl": 3,
+  "tcgfanshop.nl": 4,
   "www.nerdom.gr": 3,
   "tcgstore.se": 4,
   "www.pokemillon.com": 3,
@@ -1065,13 +1057,13 @@
   "itcg.bg": 4,
   "www.wakuwaku.cz": 3,
   "www.pokemonia.ro": 4,
-  "en.tcg-shop.at": 3,
+  "en.tcg-shop.at": 4,
   "www.blackfire.eu": 3,
-  "www.efantasy.gr": 3,
   "pokewoke.store": 3,
-  "www.lotticards.de": 2,
-  "pokeboxstore.pt": 1,
-  "tcgdistribution.fr": 1
+  "pokeboxstore.pt": 2,
+  "tradingcard.fi": 1,
+  "www.pokemons.dk": 1,
+  "pikashop.pl": 1
  },
- "runno": 12
+ "runno": 13
 }
