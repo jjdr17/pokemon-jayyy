@@ -18,13 +18,13 @@ else:
     STATE_FILE = "state.json"
     OTHER_STATE_FILE = "state-fast.json"
 
-HOT_SHOP_NAMES = {"TCGplayer", "Pokemon Center", "Amazon.it", "GameStop US",
-                  "GameLife (IT)", "GameStop Italia"}
-HOT_PRODUCT_NAMES = {"Pitch Black (ME05)", "30th Celebration", "Storm Emerald (ME06)"}
+HOT_SHOP_NAMES = {"TCGplayer", "Pokemon Center", "Amazon.it", "GameStop US", "GameLife (IT)"}
+HOT_PRODUCT_NAMES = {"Pitch Black (ME05)", "30th Celebration", "Storm Emerald (ME06)",
+                     "Premium Deck Espeon & Umbreon (30th)"}
 
 # Filtri per negozio: controlla SOLO questi prodotti (per ridurre notifiche inutili)
 SHOP_PRODUCT_FILTER = {
-    "Amazon.it": {"30th Celebration", "Storm Emerald (ME06)"},
+    "Amazon.it": {"30th Celebration", "Storm Emerald (ME06)", "Premium Deck Espeon & Umbreon (30th)"},
 }
 import random
 USER_AGENTS = [
@@ -57,6 +57,8 @@ PRODUCTS = [
     # Nuove uscite / preordini
     {"name": "Pitch Black (ME05)",      "q": "pitch black",       "match": ["pitch black"]},
     {"name": "30th Celebration",        "q": "30th celebration",  "match": ["30th celebration", "30th anniversary", "30° anniversario", "30 anniversario"]},
+    {"name": "Premium Deck Espeon & Umbreon (30th)", "q": "espeon umbreon premium deck",
+     "match": ["espeon & umbreon", "espeon and umbreon", "espeon und umbreon", "espeon e umbreon"]},
     {"name": "Storm Emerald (ME06)",    "q": "storm emerald",     "match": ["storm emerald"]},
     {"name": "Chaos Rising (ME04)",     "q": "chaos rising",      "match": ["chaos rising"]},
     {"name": "Phantasmal Flames (ME02)","q": "phantasmal flames", "match": ["phantasmal flames"]},
@@ -70,7 +72,8 @@ PRODUCTS = [
 # Prezzi di listino USA di riferimento (per giudicare le offerte in dashboard)
 MSRP = {
     "Pitch Black (ME05)": "BB ~$162 · ETB ~$54",
-    "30th Celebration": "TBA — preordina appena possibile",
+    "30th Celebration": "ETB $49.99 — preordina appena possibile",
+    "Premium Deck Espeon & Umbreon (30th)": "TBA — esce col 30°, 18 settembre",
     "Storm Emerald (ME06)": "TBA",
     "Chaos Rising (ME04)": "BB ~$162 · ETB ~$54 (mercato ~$230)",
     "Phantasmal Flames (ME02)": "BB $144 (mercato ~$450 ⚠️)",
@@ -109,9 +112,9 @@ SHOPS = [
     ("Pokemon Center", "www.pokemoncenter.com", "https://www.pokemoncenter.com/search/{q}", "A"),
     ("Amazon.it", "www.amazon.it", "https://www.amazon.it/s?k=pokemon+tcg+{q}", "A"),
     ("GameStop US", "www.gamestop.com", "https://www.gamestop.com/search/?q=pokemon+{q}", "A"),
-    ("Cardmarket", "www.cardmarket.com", None, "A"),
+    ("Cardmarket", "www.cardmarket.com", "https://www.cardmarket.com/en/Pokemon/Products/Search?searchString={q}", "A"),
+    # nota: gamestop.it reindirizza a gamelife.it (stesso gruppo) — un solo ingresso per evitare doppioni
     ("GameLife (IT)", "www.gamelife.it", "https://www.gamelife.it/ricerca?controller=search&s={q}", "A"),
-    ("GameStop Italia", "www.gamestop.it", "https://www.gamestop.it/SearchResult/QuickSearch?q={q}", "A"),
     # --- Gruppo B: confermati, spediscono in Italia ---
     ("eFantasy", "www.efantasy.gr", None, "B"),
     ("EuroTCG", "eurotcg.com", None, "B"),
@@ -208,7 +211,8 @@ DIGEST_HOURS = [10, 15, 18, 22]   # riepiloghi giornalieri, ora italiana (Europe
 DASHBOARD_URL = "https://jjdr17.github.io/pokemon-jayyy/"
 PRICE_DROP_RATIO = 0.85           # avvisa se il prezzo scende di almeno il 15% nello stesso negozio
 # prodotti "caldi": notifica con priorità urgente (suona anche in non disturbare, se configurato)
-URGENT_PRODUCTS = {"Pitch Black (ME05)", "30th Celebration", "Storm Emerald (ME06)"}
+URGENT_PRODUCTS = {"Pitch Black (ME05)", "30th Celebration", "Storm Emerald (ME06)",
+                   "Premium Deck Espeon & Umbreon (30th)"}
 PRICE_RE = re.compile(r'(?:€|\$|£)\s?\d{1,4}(?:[.,]\d{1,2})?')
 
 
