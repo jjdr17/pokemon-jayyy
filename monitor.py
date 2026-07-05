@@ -281,10 +281,12 @@ def fetch(url, raw=False):
 HREF_RE = re.compile(r'href="([^"#]+)"', re.IGNORECASE)
 
 
-def extract_product_link(raw, low, pos, domain):
-    """Cerca il link del prodotto più vicino alla posizione del match nella pagina."""
+def extract_product_link(raw, low, pos, domain, query=""):
+    """Cerca il link del prodotto più vicino alla posizione del match nella pagina.
+    Il link deve contenere almeno una parola del nome del set (evita link di altri prodotti)."""
     if raw is None or len(raw) != len(low):
         return None
+    tokens = [t for t in query.lower().split() if len(t) > 3]
     start = max(0, pos - 1500)
     window = raw[start:pos + 300]
     best = None
@@ -292,7 +294,9 @@ def extract_product_link(raw, low, pos, domain):
         u = m.group(1)
         if any(x in u.lower() for x in ("cart", "login", "account", "javascript:", "mailto:", ".css", ".js", ".png", ".jpg", ".svg", ".ico")):
             continue
-        best = u  # l'ultimo href prima del match è di solito il link del prodotto
+        if tokens and not any(t in u.lower() for t in tokens):
+            continue  # il link non parla del nostro prodotto: scarta
+        best = u  # l'ultimo href valido prima del match è di solito il link del prodotto
     if not best:
         return None
     if best.startswith("//"):
@@ -393,7 +397,7 @@ def check_shop(state, shop):
             elif pos and not neg:
                 status = "disponibile"
                 price = extract_price(pos_windows)
-                link = extract_product_link(raw, html, first_pos, domain)
+                link = extract_product_link(raw, html, first_pos, domain, prod["q"])
                 if link:
                     url = link  # link diretto al prodotto invece della pagina di ricerca
             elif neg:
@@ -503,7 +507,8 @@ def main():
                 if status == "disponibile" and price:
                     old = price_value(state["prices"].get(pkey))
                     new = price_value(price)
-                    if (not first_run and old and new and new <= old * PRICE_DROP_RATIO):
+                    # avvisi di calo prezzo solo dai negozi affidabili (A/B): i non verificati fanno rumore
+                    if (not first_run and old and new and new <= old * PRICE_DROP_RATIO and group != "C"):
                         dkey = f"drop|{pkey}"
                         last_d = max(state["alerts"].get(dkey, 0), other_alerts.get(dkey, 0))
                         if now - last_d >= ALERT_COOLDOWN_H * 3600:
