@@ -170,8 +170,8 @@
    "Destined Rivals": "irraggiungibile"
   },
   "CardZone": {
-   "Pitch Black (ME05)": "listato",
-   "30th Celebration": "disponibile",
+   "Pitch Black (ME05)": "disponibile",
+   "30th Celebration": "listato",
    "Storm Emerald (ME06)": "listato",
    "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "listato",
@@ -798,7 +798,7 @@
   },
   "LetsGoTry": {
    "Pitch Black (ME05)": "listato",
-   "30th Celebration": "disponibile",
+   "30th Celebration": "listato",
    "Storm Emerald (ME06)": "listato",
    "Chaos Rising (ME04)": "non listato",
    "Phantasmal Flames (ME02)": "non listato",
@@ -915,11 +915,11 @@
   "bescards.com": "https://bescards.com/search?q={q}"
  },
  "alerts": {
-  "CardZone|Pitch Black (ME05)": 1783238277.1123648,
+  "CardZone|Pitch Black (ME05)": 1783263019.5517895,
   "CardZone|Storm Emerald (ME06)": 1783240846.9249215,
   "CardZone|30th Celebration": 1783260074.5955827,
   "PokeCardShop|Pitch Black (ME05)": 1783221062.3793678,
-  "drop|MagicBazar|Pitch Black (ME05)": 1783240274.858048,
+  "drop|MagicBazar|Pitch Black (ME05)": 1783263038.6180468,
   "PokeCardShop|Destined Rivals": 1783208467.7273407,
   "Rogerz|Pitch Black (ME05)": 1783087262.8826923,
   "CardZone|Chaos Rising (ME04)": 1783234434.138401,
@@ -936,7 +936,7 @@
   "Packratt (UK)|Chaos Rising (ME04)": "£10.01",
   "Packratt (UK)|Pokémon 151": "£29.99",
   "PokeCardShop|Chaos Rising (ME04)": "€6.95",
-  "MagicBazar|Pitch Black (ME05)": "$85",
+  "MagicBazar|Pitch Black (ME05)": "$10",
   "Total Cards (UK)|Pitch Black (ME05)": "£4.79",
   "SunnyStore|Pokémon 151": "€26,90",
   "Total Cards (UK)|30th Celebration": "£9.13",
@@ -985,16 +985,6 @@
   "BESCARDS|Crown Zenith": "https://bescards.com/products/pokemon-crown-zenith-elite-trainer-box?_pos=1&_sid=4b6d35358&_ss=r"
  },
  "log": [
-  {
-   "ts": "04/07 13:59",
-   "title": "🚨 DISPONIBILE/PREORDER: Chaos Rising (ME04) — PokeCardShop",
-   "url": "https://www.pokecardshop.be/search?q=chaos+rising"
-  },
-  {
-   "ts": "04/07 14:16",
-   "title": "🚨 DISPONIBILE/PREORDER: 30th Celebration — CardZone",
-   "url": "https://cardzone.es/search?q=30th+celebration"
-  },
   {
    "ts": "04/07 15:06",
    "title": "🚨 RESTOCK: Pitch Black (ME05) — PokeCardShop",
@@ -1134,6 +1124,16 @@
    "ts": "05/07 16:01",
    "title": "🚨 DISPONIBILE/PREORDER: 30th Celebration — CardZone",
    "url": "https://cardzone.es/search?q=30th+celebration"
+  },
+  {
+   "ts": "05/07 16:50",
+   "title": "🚨 DISPONIBILE/PREORDER: Pitch Black (ME05) — CardZone",
+   "url": "https://cardzone.es/search?q=pitch+black"
+  },
+  {
+   "ts": "05/07 16:50",
+   "title": "📉 Prezzo giù: Pitch Black (ME05) — MagicBazar",
+   "url": "https://www.magicbazar.fr/en/produit/647162/gift-bundle-marvel-super-heroes-magic-en"
   }
  ],
  "digest_slot": "2026-07-05-15"
