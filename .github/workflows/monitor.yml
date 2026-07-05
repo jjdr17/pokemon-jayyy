@@ -19,6 +19,13 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Baseline dashboard
+        run: |
+          # scarica la dashboard pubblicata come base di confronto (evita riscritture inutili)
+          git fetch origin gh-pages 2>/dev/null || true
+          mkdir -p docs
+          git show origin/gh-pages:index.html > docs/index.html 2>/dev/null || true
+
       - name: Esegui monitor
         env:
           NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
@@ -30,21 +37,31 @@ jobs:
         run: |
           git config user.name "monitor-bot"
           git config user.email "bot@users.noreply.github.com"
-          # metti da parte i file generati: sono la verità più recente
           mkdir -p /tmp/out
           cp state.json /tmp/out/ 2>/dev/null || true
-          cp docs/index.html /tmp/out/ 2>/dev/null || true
           for i in 1 2 3; do
-            # riallineati alla remota e riappoggia i file: zero conflitti possibili
             git fetch origin main
             git reset --hard FETCH_HEAD
             cp /tmp/out/state.json . 2>/dev/null || true
-            mkdir -p docs && cp /tmp/out/index.html docs/ 2>/dev/null || true
-            git add state.json docs/index.html
-            git diff --cached --quiet && exit 0
-            git commit -m "aggiorna stato e dashboard [skip ci]"
-            git push && exit 0
+            git add state.json
+            git diff --cached --quiet && break
+            git commit -m "aggiorna stato [skip ci]"
+            git push && break
             sleep $((i * 2))
+            [ $i -eq 3 ] && echo "::error::push fallito dopo 3 tentativi — stato non salvato" && exit 1
           done
-          echo "::error::push fallito dopo 3 tentativi — stato non salvato"
-          exit 1
+
+      - name: Pubblica dashboard (ramo gh-pages, solo se cambiata)
+        run: |
+          NEW=docs/index.html
+          [ -f "$NEW" ] || exit 0
+          OLD=$(git show origin/gh-pages:index.html 2>/dev/null || echo "")
+          [ "$OLD" = "$(cat $NEW)" ] && exit 0
+          D=$(mktemp -d)
+          cp "$NEW" "$D/index.html"
+          touch "$D/.nojekyll"
+          cd "$D"
+          git init -q -b gh-pages
+          git add -A
+          git -c user.name=monitor-bot -c user.email=bot@users.noreply.github.com commit -qm "dashboard"
+          git push -qf "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}" gh-pages
