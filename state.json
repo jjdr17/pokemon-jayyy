@@ -234,7 +234,7 @@
    "Premium Deck Espeon & Umbreon (30th)": "irraggiungibile"
   },
   "Total Cards (UK)": {
-   "Pitch Black (ME05)": "irraggiungibile",
+   "Pitch Black (ME05)": "disponibile",
    "30th Celebration": "irraggiungibile",
    "Storm Emerald (ME06)": "irraggiungibile",
    "Chaos Rising (ME04)": "irraggiungibile",
@@ -976,68 +976,17 @@
   "Packratt (UK)|Chaos Rising (ME04)": "£10.01",
   "Packratt (UK)|Pokémon 151": "£29.99",
   "PokeCardShop|Chaos Rising (ME04)": "€6.95",
-  "MagicBazar|Pitch Black (ME05)": "$85",
-  "SunnyStore|Pokémon 151": "€26,90"
+  "MagicBazar|Pitch Black (ME05)": "$84",
+  "SunnyStore|Pokémon 151": "€26,90",
+  "Total Cards (UK)|Pitch Black (ME05)": "£4.79"
  },
  "pending": {
-  "SunnyStore|Prismatic Evolutions": [
-   "esaurito",
+  "LetsGoTry|30th Celebration": [
+   "disponibile",
    1
   ],
-  "Poke-Power|Prismatic Evolutions": [
-   "esaurito",
-   1
-  ],
-  "OutpostBrussels|Chaos Rising (ME04)": [
-   "esaurito",
-   1
-  ],
-  "OutpostBrussels|Phantasmal Flames (ME02)": [
-   "esaurito",
-   1
-  ],
-  "OutpostBrussels|Crown Zenith": [
-   "listato",
-   1
-  ],
-  "AllDayTCG|Phantasmal Flames (ME02)": [
-   "esaurito",
-   1
-  ],
-  "AllDayTCG|Pokémon 151": [
-   "esaurito",
-   1
-  ],
-  "AllDayTCG|Crown Zenith": [
-   "listato",
-   1
-  ],
-  "Rogerz|Phantasmal Flames (ME02)": [
-   "listato",
-   1
-  ],
-  "Rogerz|Pokémon 151": [
-   "listato",
-   1
-  ],
-  "God of Cards|Chaos Rising (ME04)": [
+  "LetsGoTry|Chaos Rising (ME04)": [
    "non listato",
-   1
-  ],
-  "God of Cards|Prismatic Evolutions": [
-   "disponibile",
-   1
-  ],
-  "CardZone|Phantasmal Flames (ME02)": [
-   "listato",
-   1
-  ],
-  "Total Cards (UK)|Pitch Black (ME05)": [
-   "disponibile",
-   1
-  ],
-  "Total Cards (UK)|Chaos Rising (ME04)": [
-   "esaurito",
    1
   ]
  },
@@ -1060,7 +1009,8 @@
   "LetsGoTry|30th Celebration": "https://letsgotry.pl/zestawy-eng/15893--preorder-pokemon-tcg-30th-celebration-tin-sylveon-ex.html",
   "Pikashop|Chaos Rising (ME04)": "https://pikashop.pl/?s=chaos+rising&post_type=product",
   "Pokemania.ro|Pitch Black (ME05)": "https://pokemania.ro/?s=pitch+black&post_type=product",
-  "SunnyStore|Pokémon 151": "https://sunnystore.es/search?q=pokemon+151"
+  "SunnyStore|Pokémon 151": "https://sunnystore.es/search?q=pokemon+151",
+  "Total Cards (UK)|Pitch Black (ME05)": "https://totalcards.net/products/pokemon-mega-evolution-pitch-black-booster-pack?_pos=1&_sid=9ae506c97&_ss=r"
  },
  "digest_slot": "2026-07-05-18",
  "log": [
@@ -1069,5 +1019,42 @@
    "title": "📉 Prezzo giù: Pitch Black (ME05) — MagicBazar",
    "url": "https://www.magicbazar.fr/en/produit/647162/gift-bundle-marvel-super-heroes-magic-en"
   }
- ]
+ ],
+ "down": {
+  "www.cardmarket.com": 1,
+  "www.gamestop.com": 1,
+  "www.gamelife.it": 1,
+  "www.amazon.it": 1,
+  "www.blackfire.eu": 1,
+  "pokeseller14.com": 1,
+  "geco-shop.de": 1,
+  "www.chaoscards.co.uk": 1,
+  "fabscards.at": 1,
+  "www.deckshop.de": 1,
+  "www.waylandgames.co.uk": 1,
+  "www.firestormgames.co.uk": 1,
+  "crispycards.de": 1,
+  "misticards.com": 1,
+  "cardcorner.at": 1,
+  "pokechest.at": 1,
+  "bescards.com": 1,
+  "hobbykort.se": 1,
+  "rarecards.nl": 1,
+  "pokevend.at": 1,
+  "www.poketalk.se": 1,
+  "tcgcompany.nl": 1,
+  "tcgfanshop.nl": 1,
+  "www.nerdom.gr": 1,
+  "tcgstore.se": 1,
+  "www.pokemillon.com": 1,
+  "lorenzone.fr": 1,
+  "papelinho.pt": 1,
+  "www.pokekarty.pl": 1,
+  "pokeka.hu": 1,
+  "itcg.bg": 1,
+  "www.wakuwaku.cz": 1,
+  "www.pokemonia.ro": 1,
+  "en.tcg-shop.at": 1
+ },
+ "runno": 1
 }
