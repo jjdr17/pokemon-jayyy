@@ -898,7 +898,8 @@
   "www.deckshop.de": "https://www.deckshop.de/search?controller=search&s={q}",
   "totalcards.net": "https://totalcards.net/search?q={q}",
   "fabscards.at": "https://fabscards.at/search?controller=search&s={q}",
-  "lorenzone.fr": "https://lorenzone.fr/search?controller=search&s={q}"
+  "lorenzone.fr": "https://lorenzone.fr/search?controller=search&s={q}",
+  "cardcorner.at": "https://cardcorner.at/search?controller=search&s={q}"
  },
  "alerts": {},
  "prices": {
@@ -908,8 +909,8 @@
   "MagicBazar|Pitch Black (ME05)": "$85"
  },
  "pending": {
-  "Amazon.it|30th Celebration": [
-   "listato",
+  "LetsGoTry|Chaos Rising (ME04)": [
+   "non listato",
    1
   ]
  },
