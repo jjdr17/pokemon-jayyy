@@ -129,7 +129,7 @@
    "Pitch Black (ME05)": "esaurito",
    "30th Celebration": "esaurito",
    "Storm Emerald (ME06)": "listato",
-   "Chaos Rising (ME04)": "irraggiungibile",
+   "Chaos Rising (ME04)": "esaurito",
    "Phantasmal Flames (ME02)": "irraggiungibile",
    "Pokémon 151": "irraggiungibile",
    "Prismatic Evolutions": "irraggiungibile",
@@ -984,10 +984,6 @@
   "Stoyanov Games|Pitch Black (ME05)": "8.00€"
  },
  "pending": {
-  "Total Cards (UK)|30th Celebration": [
-   "disponibile",
-   1
-  ],
   "LetsGoTry|30th Celebration": [
    "disponibile",
    1
@@ -1013,7 +1009,7 @@
   "Pikashop|Chaos Rising (ME04)": "https://pikashop.pl/?s=chaos+rising&post_type=product",
   "Pokemania.ro|Pitch Black (ME05)": "https://pokemania.ro/?s=pitch+black&post_type=product",
   "SunnyStore|Pokémon 151": "https://sunnystore.es/search?q=pokemon+151",
-  "Total Cards (UK)|Pitch Black (ME05)": "https://totalcards.net/products/pokemon-mega-evolution-pitch-black-booster-pack?_pos=1&_sid=1f073da26&_ss=r"
+  "Total Cards (UK)|Pitch Black (ME05)": "https://totalcards.net/products/pokemon-mega-evolution-pitch-black-booster-pack?_pos=1&_sid=784aa6bdf&_ss=r"
  },
  "digest_slot": "2026-07-05-22",
  "log": [
@@ -1063,12 +1059,7 @@
   "en.tcg-shop.at": 5,
   "pokewoke.store": 4,
   "www.blackfire.eu": 4,
-  "pokeboxstore.pt": 4,
-  "www.amazon.it": 3,
-  "tradingcard.fi": 1,
-  "www.pokemons.dk": 1,
-  "pikashop.pl": 1,
-  "games-island.eu": 1
+  "www.amazon.it": 3
  },
  "runno": 31
 }
