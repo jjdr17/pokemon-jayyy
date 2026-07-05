@@ -39,7 +39,7 @@
   "Amazon.it": {
    "30th Celebration": "non listato",
    "Storm Emerald (ME06)": "non listato",
-   "Premium Deck Espeon & Umbreon (30th)": "irraggiungibile"
+   "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "TCGplayer": {
    "Pitch Black (ME05)": "non listato",
@@ -75,7 +75,7 @@
    "Prismatic Evolutions": "non listato",
    "Crown Zenith": "non listato",
    "Destined Rivals": "non listato",
-   "Premium Deck Espeon & Umbreon (30th)": "non listato"
+   "Premium Deck Espeon & Umbreon (30th)": "irraggiungibile"
   },
   "LottiCards": {
    "Pitch Black (ME05)": "non listato",
@@ -117,7 +117,7 @@
    "Pitch Black (ME05)": "listato",
    "30th Celebration": "listato",
    "Storm Emerald (ME06)": "listato",
-   "Chaos Rising (ME04)": "irraggiungibile",
+   "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "irraggiungibile",
    "Pokémon 151": "irraggiungibile",
    "Prismatic Evolutions": "irraggiungibile",
@@ -147,7 +147,7 @@
    "Prismatic Evolutions": "irraggiungibile",
    "Crown Zenith": "irraggiungibile",
    "Destined Rivals": "irraggiungibile",
-   "Premium Deck Espeon & Umbreon (30th)": "non listato"
+   "Premium Deck Espeon & Umbreon (30th)": "irraggiungibile"
   },
   "SunnyStore": {
    "Pitch Black (ME05)": "listato",
@@ -159,7 +159,7 @@
    "Prismatic Evolutions": "irraggiungibile",
    "Crown Zenith": "irraggiungibile",
    "Destined Rivals": "irraggiungibile",
-   "Premium Deck Espeon & Umbreon (30th)": "non listato"
+   "Premium Deck Espeon & Umbreon (30th)": "irraggiungibile"
   },
   "Rogerz": {
    "Pitch Black (ME05)": "disponibile",
@@ -411,7 +411,7 @@
    "Prismatic Evolutions": "non listato",
    "Crown Zenith": "non listato",
    "Destined Rivals": "non listato",
-   "Premium Deck Espeon & Umbreon (30th)": "irraggiungibile"
+   "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "Card-Corner": {
    "Pitch Black (ME05)": "non listato",
@@ -579,7 +579,7 @@
    "Prismatic Evolutions": "listato",
    "Crown Zenith": "non listato",
    "Destined Rivals": "non listato",
-   "Premium Deck Espeon & Umbreon (30th)": "irraggiungibile"
+   "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "LorenZone": {
    "Pitch Black (ME05)": "irraggiungibile",
@@ -835,7 +835,7 @@
   },
   "LetsGoTry": {
    "Pitch Black (ME05)": "listato",
-   "30th Celebration": "listato",
+   "30th Celebration": "disponibile",
    "Storm Emerald (ME06)": "listato",
    "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "non listato",
@@ -975,7 +975,7 @@
   "Packratt (UK)|Chaos Rising (ME04)": "£10.01",
   "Packratt (UK)|Pokémon 151": "£29.99",
   "PokeCardShop|Chaos Rising (ME04)": "€6.95",
-  "MagicBazar|Pitch Black (ME05)": "$10",
+  "MagicBazar|Pitch Black (ME05)": "$85",
   "SunnyStore|Pokémon 151": "€26,90"
  },
  "pending": {
@@ -983,7 +983,7 @@
    "non listato",
    1
   ],
-  "God of Cards|Pokémon 151": [
+  "Total Cards (UK)|Pitch Black (ME05)": [
    "disponibile",
    1
   ],
@@ -999,7 +999,7 @@
   "Pokebox|Pitch Black (ME05)": "https://pokeboxstore.pt/produto/premium-checklane-blister-gengar-pitch-black/",
   "PokeCardShop|Chaos Rising (ME04)": "https://www.pokecardshop.be/search?q=chaos+rising",
   "Pokecollect|Chaos Rising (ME04)": "https://pokecollect.pl/?s=chaos+rising&post_type=product",
-  "MagicBazar|Pitch Black (ME05)": "https://www.magicbazar.fr/en/produit/647162/gift-bundle-marvel-super-heroes-magic-en",
+  "MagicBazar|Pitch Black (ME05)": "https://www.magicbazar.fr/?s=pitch+black&post_type=product",
   "Sapphire-Cards|Pitch Black (ME05)": "https://sapphire-cards.de/?s=pitch+black&post_type=product",
   "Sapphire-Cards|Chaos Rising (ME04)": "https://sapphire-cards.de/?s=chaos+rising&post_type=product",
   "Sapphire-Cards|Phantasmal Flames (ME02)": "https://sapphire-cards.de/?s=phantasmal+flames&post_type=product",
