@@ -30,7 +30,12 @@ jobs:
         run: |
           git config user.name "monitor-bot"
           git config user.email "bot@users.noreply.github.com"
-          git pull --rebase || true
           git add state.json docs/index.html
-          git diff --cached --quiet || git commit -m "aggiorna stato e dashboard [skip ci]"
-          git push || (git pull --rebase && git push) || true
+          git diff --cached --quiet && exit 0
+          git commit -m "aggiorna stato e dashboard [skip ci]"
+          for i in 1 2 3; do
+            git pull --rebase && git push && exit 0
+            sleep $((i * 3))
+          done
+          echo "::error::push fallito dopo 3 tentativi — stato non salvato"
+          exit 1
