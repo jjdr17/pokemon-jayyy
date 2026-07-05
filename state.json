@@ -147,7 +147,7 @@
    "Prismatic Evolutions": "irraggiungibile",
    "Crown Zenith": "irraggiungibile",
    "Destined Rivals": "irraggiungibile",
-   "Premium Deck Espeon & Umbreon (30th)": "irraggiungibile"
+   "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "SunnyStore": {
    "Pitch Black (ME05)": "listato",
@@ -159,7 +159,7 @@
    "Prismatic Evolutions": "irraggiungibile",
    "Crown Zenith": "irraggiungibile",
    "Destined Rivals": "irraggiungibile",
-   "Premium Deck Espeon & Umbreon (30th)": "irraggiungibile"
+   "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "Rogerz": {
    "Pitch Black (ME05)": "disponibile",
@@ -835,7 +835,7 @@
   },
   "LetsGoTry": {
    "Pitch Black (ME05)": "listato",
-   "30th Celebration": "disponibile",
+   "30th Celebration": "listato",
    "Storm Emerald (ME06)": "listato",
    "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "non listato",
@@ -980,16 +980,64 @@
   "SunnyStore|Pokémon 151": "€26,90"
  },
  "pending": {
-  "SunnyStore|Premium Deck Espeon & Umbreon (30th)": [
-   "non listato",
+  "SunnyStore|Prismatic Evolutions": [
+   "esaurito",
    1
   ],
-  "CardZone|Premium Deck Espeon & Umbreon (30th)": [
-   "non listato",
+  "Poke-Power|Prismatic Evolutions": [
+   "esaurito",
    1
   ],
-  "LetsGoTry|30th Celebration": [
+  "OutpostBrussels|Chaos Rising (ME04)": [
+   "esaurito",
+   1
+  ],
+  "OutpostBrussels|Phantasmal Flames (ME02)": [
+   "esaurito",
+   1
+  ],
+  "OutpostBrussels|Crown Zenith": [
    "listato",
+   1
+  ],
+  "AllDayTCG|Phantasmal Flames (ME02)": [
+   "esaurito",
+   1
+  ],
+  "AllDayTCG|Pokémon 151": [
+   "esaurito",
+   1
+  ],
+  "AllDayTCG|Crown Zenith": [
+   "listato",
+   1
+  ],
+  "Rogerz|Phantasmal Flames (ME02)": [
+   "listato",
+   1
+  ],
+  "Rogerz|Pokémon 151": [
+   "listato",
+   1
+  ],
+  "God of Cards|Chaos Rising (ME04)": [
+   "non listato",
+   1
+  ],
+  "God of Cards|Prismatic Evolutions": [
+   "disponibile",
+   1
+  ],
+  "CardZone|Phantasmal Flames (ME02)": [
+   "listato",
+   1
+  ],
+  "Total Cards (UK)|Pitch Black (ME05)": [
+   "disponibile",
+   1
+  ],
+  "Total Cards (UK)|Chaos Rising (ME04)": [
+   "esaurito",
    1
   ]
  },
