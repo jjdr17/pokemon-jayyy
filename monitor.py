@@ -90,9 +90,16 @@ POSITIVE = ["pre-order", "preorder", "pre order", "add to cart", "add to basket"
             "aggiungi al carrello", "ajouter au panier", "précommande", "añadir al carrito",
             "do koszyka", "in winkelwagen", "læg i kurv", "lisää koriin", "købe",
             "preordina", "preordine", "preordini", "prenota", "acquista"]
-NEGATIVE = ["sold out", "out of stock", "esaurito", "ausverkauft", "épuisé", "agotado",
+NEGATIVE = ["sold out", "out of stock", "esaurito", "esaurita", "ausverkauft", "épuisé", "agotado",
             "not available", "unavailable", "wyprzedane", "uitverkocht", "non disponibile",
-            "coda al completo"]
+            "coda al completo", "avvisami", "notify me", "notify when", "email me when",
+            "email when", "waitlist", "wait list", "back in stock", "restock alert",
+            "niet leverbaar", "backorder", "sold-out"]
+
+# Se vicino al nome del prodotto compaiono questi termini, è roba di un altro gioco: scarta
+OTHER_TCG = ["magic", "mtg", "the gathering", "yu-gi-oh", "yugioh", "one piece card",
+             "lorcana", "digimon", "flesh and blood", "dragon ball", "weiss schwarz",
+             "union arena", "star wars unlimited", "altered tcg"]
 
 # ---------------- NEGOZI ----------------
 # (nome, dominio, template ricerca o None per autodetect, gruppo)
@@ -219,9 +226,10 @@ def load_state():
             s = json.load(f)
             s.setdefault("alerts", {})
             s.setdefault("prices", {})
+            s.setdefault("pending", {})
             return s
     except Exception:
-        return {"shops": {}, "search_url": {}, "alerts": {}, "prices": {}, "first_run": True}
+        return {"shops": {}, "search_url": {}, "alerts": {}, "prices": {}, "pending": {}, "first_run": True}
 
 
 def save_state(state):
@@ -348,20 +356,28 @@ def check_shop(state, shop):
             status = "non listato"
         else:
             # le parole chiave contano solo se VICINE al nome del prodotto,
-            # per evitare falsi positivi da altri articoli sulla stessa pagina
+            # e SOLO se il contesto è Pokémon (non Magic/altri giochi)
             pos = neg = False
             pos_windows = []
             first_pos = None
+            found_valid = False
             for key in variants_found:
                 for m in re.finditer(re.escape(key), html):
                     window = html[max(0, m.start() - PROXIMITY): m.end() + PROXIMITY]
+                    if not any(mk in window for mk in POKEMON_MARKERS):
+                        continue  # il nome compare ma senza contesto Pokémon vicino
+                    if any(t in window for t in OTHER_TCG):
+                        continue  # vicino c'è un altro gioco (Magic ecc.): scarta
+                    found_valid = True
                     if any(k in window for k in POSITIVE):
                         pos = True
                         pos_windows.append(window)
                         if first_pos is None:
                             first_pos = m.start()
                     neg = neg or any(k in window for k in NEGATIVE)
-            if pos and not neg:
+            if not found_valid:
+                status = "non listato"
+            elif pos and not neg:
                 status = "disponibile"
                 price = extract_price(pos_windows)
                 link = extract_product_link(raw, html, first_pos, domain)
@@ -429,6 +445,21 @@ def main():
                     # sito momentaneamente giù: non perdere lo stato precedente
                     print(f"{shop_name:22s} | {prod_name:26s} | {prev} (sito giù, stato conservato)")
                     continue
+                # ---- anti-sfarfallio: un cambio di stato vale solo se CONFERMATO
+                # da 2 letture consecutive (le pagine dei negozi variano tra una
+                # richiesta e l'altra e creano finti restock) ----
+                dkey_p = f"{shop_name}|{prod_name}"
+                if prev != "sconosciuto" and not first_run and status != prev:
+                    pend = state["pending"].get(dkey_p)
+                    if pend and pend[0] == status:
+                        pend[1] += 1
+                    else:
+                        pend = [status, 1]
+                    state["pending"][dkey_p] = pend
+                    if pend[1] < 2:
+                        print(f"{shop_name:22s} | {prod_name:26s} | {prev} -> {status}? (da confermare)")
+                        continue
+                state["pending"].pop(dkey_p, None)
                 prev_shop[prod_name] = status
                 # Avvisa SOLO quando un prodotto diventa DISPONIBILE (non al primo giro,
                 # non per semplici comparse a listino, non quando un sito torna raggiungibile)
