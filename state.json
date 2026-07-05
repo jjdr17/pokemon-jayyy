@@ -170,9 +170,9 @@
    "Destined Rivals": "irraggiungibile"
   },
   "CardZone": {
-   "Pitch Black (ME05)": "listato",
-   "30th Celebration": "listato",
-   "Storm Emerald (ME06)": "disponibile",
+   "Pitch Black (ME05)": "disponibile",
+   "30th Celebration": "disponibile",
+   "Storm Emerald (ME06)": "listato",
    "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "disponibile",
    "Pokémon 151": "esaurito",
@@ -588,7 +588,7 @@
    "Destined Rivals": "non listato"
   },
   "PokeCardShop": {
-   "Pitch Black (ME05)": "esaurito",
+   "Pitch Black (ME05)": "disponibile",
    "30th Celebration": "listato",
    "Storm Emerald (ME06)": "listato",
    "Chaos Rising (ME04)": "disponibile",
@@ -918,7 +918,7 @@
   "CardZone|Pitch Black (ME05)": 1783211454.8262672,
   "CardZone|Storm Emerald (ME06)": 1783215230.0299418,
   "CardZone|30th Celebration": 1783212040.142237,
-  "PokeCardShop|Pitch Black (ME05)": 1783170411.7980342,
+  "PokeCardShop|Pitch Black (ME05)": 1783221062.3793678,
   "drop|MagicBazar|Pitch Black (ME05)": 1783217354.8257976,
   "PokeCardShop|Destined Rivals": 1783208467.7273407,
   "Rogerz|Pitch Black (ME05)": 1783087262.8826923,
@@ -963,7 +963,7 @@
   "Pikashop|Chaos Rising (ME04)": "https://pikashop.pl/?s=chaos+rising&post_type=product",
   "Pokemania.ro|Pitch Black (ME05)": "https://pokemania.ro/vstar-universe/pokemon-tcg-vstar-universes-s12a-jp-booster-bundle-display-box-10-pachete-booster-jp",
   "CardZone|Pitch Black (ME05)": "https://cardzone.es/search?q=pitch+black",
-  "Total Cards (UK)|Pitch Black (ME05)": "https://totalcards.net/products/pokemon-mega-evolution-pitch-black-booster-pack?_pos=1&_sid=9970f2471&_ss=r",
+  "Total Cards (UK)|Pitch Black (ME05)": "https://totalcards.net/products/pokemon-mega-evolution-pitch-black-booster-pack?_pos=1&_sid=96e30a330&_ss=r",
   "SunnyStore|Pokémon 151": "https://sunnystore.es/search?q=pokemon+151",
   "God of Cards|Pokémon 151": "https://godofcards.com/search?q=pokemon+151",
   "PokeCardShop|Pitch Black (ME05)": "https://www.pokecardshop.be/search?q=pitch+black",
@@ -976,14 +976,9 @@
   "CardZone|Pokémon 151": "https://cardzone.es/search?q=pokemon+151",
   "CardZone|Phantasmal Flames (ME02)": "https://cardzone.es/search?q=phantasmal+flames",
   "Stoyanov Games|Pitch Black (ME05)": "https://stoyanov-gamesbg.com/pre-order-pokemon-tcg-mega-evolution-pitch-black-elite-trainer-box-френски-език/",
-  "LetsGoTry|30th Celebration": "https://letsgotry.pl/zestawy-eng/15895--preorder-pokemon-tcg-30th-celebration-binder-collection.html"
+  "LetsGoTry|30th Celebration": "https://letsgotry.pl/zestawy-eng/15894--preorder-pokemon-tcg-30th-celebration-tin-greninja-ex.html"
  },
  "log": [
-  {
-   "ts": "04/07 03:21",
-   "title": "🚨 DISPONIBILE/PREORDER: Chaos Rising (ME04) — PokeCardShop",
-   "url": "https://www.pokecardshop.be/search?q=chaos+rising"
-  },
   {
    "ts": "04/07 06:01",
    "title": "🚨 DISPONIBILE/PREORDER: Pitch Black (ME05) — Stoyanov Games",
@@ -1128,6 +1123,11 @@
    "ts": "05/07 04:09",
    "title": "📉 Prezzo giù: Pitch Black (ME05) — MagicBazar",
    "url": "https://www.magicbazar.fr/en/produit/647162/gift-bundle-marvel-super-heroes-magic-en"
+  },
+  {
+   "ts": "05/07 05:11",
+   "title": "🚨 RESTOCK: Pitch Black (ME05) — PokeCardShop",
+   "url": "https://www.pokecardshop.be/search?q=pitch+black"
   }
  ],
  "digest_slot": "2026-07-04-22"
