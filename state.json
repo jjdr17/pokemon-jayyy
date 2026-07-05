@@ -171,8 +171,8 @@
   },
   "CardZone": {
    "Pitch Black (ME05)": "disponibile",
-   "30th Celebration": "disponibile",
-   "Storm Emerald (ME06)": "listato",
+   "30th Celebration": "listato",
+   "Storm Emerald (ME06)": "disponibile",
    "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "listato",
    "Pokémon 151": "esaurito",
@@ -592,11 +592,11 @@
    "30th Celebration": "listato",
    "Storm Emerald (ME06)": "listato",
    "Chaos Rising (ME04)": "disponibile",
-   "Phantasmal Flames (ME02)": "esaurito",
+   "Phantasmal Flames (ME02)": "disponibile",
    "Pokémon 151": "listato",
    "Prismatic Evolutions": "disponibile",
    "Crown Zenith": "esaurito",
-   "Destined Rivals": "disponibile"
+   "Destined Rivals": "esaurito"
   },
   "Pokekarty": {
    "Pitch Black (ME05)": "irraggiungibile",
@@ -925,7 +925,7 @@
   "CardZone|Chaos Rising (ME04)": 1783208734.4343088,
   "PokeCardShop|Chaos Rising (ME04)": 1783166361.3349023,
   "Total Cards (UK)|Pitch Black (ME05)": 1783176309.9397047,
-  "PokeCardShop|Phantasmal Flames (ME02)": 1783158940.68386,
+  "PokeCardShop|Phantasmal Flames (ME02)": 1783223108.0825505,
   "CardZone|Pokémon 151": 1783109447.9759972,
   "CardZone|Phantasmal Flames (ME02)": 1783187449.4299276,
   "Stoyanov Games|Pitch Black (ME05)": 1783137719.5913703,
@@ -936,7 +936,7 @@
   "Packratt (UK)|Chaos Rising (ME04)": "£10.01",
   "Packratt (UK)|Pokémon 151": "£29.99",
   "PokeCardShop|Chaos Rising (ME04)": "€6.95",
-  "MagicBazar|Pitch Black (ME05)": "$84",
+  "MagicBazar|Pitch Black (ME05)": "$85",
   "Total Cards (UK)|Pitch Black (ME05)": "£4.79",
   "SunnyStore|Pokémon 151": "€26,90",
   "Total Cards (UK)|30th Celebration": "£9.13"
@@ -976,14 +976,9 @@
   "CardZone|Pokémon 151": "https://cardzone.es/search?q=pokemon+151",
   "CardZone|Phantasmal Flames (ME02)": "https://cardzone.es/search?q=phantasmal+flames",
   "Stoyanov Games|Pitch Black (ME05)": "https://stoyanov-gamesbg.com/pre-order-pokemon-tcg-mega-evolution-pitch-black-elite-trainer-box-френски-език/",
-  "LetsGoTry|30th Celebration": "https://letsgotry.pl/zestawy-eng/15892--preorder-pokemon-tcg-30th-celebration-elite-trainer-box.html"
+  "LetsGoTry|30th Celebration": "https://letsgotry.pl/zestawy-eng/15895--preorder-pokemon-tcg-30th-celebration-binder-collection.html"
  },
  "log": [
-  {
-   "ts": "04/07 06:15",
-   "title": "🚨 DISPONIBILE/PREORDER: Chaos Rising (ME04) — CardZone",
-   "url": "https://cardzone.es/search?q=chaos+rising"
-  },
   {
    "ts": "04/07 06:20",
    "title": "🚨 DISPONIBILE/PREORDER: Phantasmal Flames (ME02) — CardZone",
@@ -1128,6 +1123,11 @@
    "ts": "05/07 05:25",
    "title": "🚨 DISPONIBILE/PREORDER: 30th Celebration — LetsGoTry",
    "url": "https://letsgotry.pl/zestawy-eng/15892--preorder-pokemon-tcg-30th-celebration-elite-trainer-box.html"
+  },
+  {
+   "ts": "05/07 05:45",
+   "title": "🚨 RESTOCK: Phantasmal Flames (ME02) — PokeCardShop",
+   "url": "https://www.pokecardshop.be/search?q=phantasmal+flames"
   }
  ],
  "digest_slot": "2026-07-04-22"
