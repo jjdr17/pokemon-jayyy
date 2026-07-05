@@ -968,9 +968,7 @@
   "cardcorner.at": "https://cardcorner.at/search?controller=search&s={q}",
   "www.poketalk.se": "https://www.poketalk.se/search?q={q}",
   "hobbykort.se": "-",
-  "pokevend.at": "https://pokevend.at/search?controller=search&s={q}",
-  "crispycards.de": "https://crispycards.de/?s={q}&post_type=product",
-  "itcg.bg": "https://itcg.bg/search?controller=search&s={q}"
+  "pokevend.at": "https://pokevend.at/search?controller=search&s={q}"
  },
  "alerts": {
   "drop|MagicBazar|Pitch Black (ME05)": 1783274158.1076322,
@@ -986,88 +984,8 @@
   "Stoyanov Games|Pitch Black (ME05)": "8.00€"
  },
  "pending": {
-  "CardCorner.at|Premium Deck Espeon & Umbreon (30th)": [
+  "PokeCardShop|Pokémon 151": [
    "non listato",
-   1
-  ],
-  "CardCorner.at|Storm Emerald (ME06)": [
-   "non listato",
-   1
-  ],
-  "CardCorner.at|Chaos Rising (ME04)": [
-   "non listato",
-   1
-  ],
-  "CardCorner.at|Phantasmal Flames (ME02)": [
-   "non listato",
-   1
-  ],
-  "CardCorner.at|Pokémon 151": [
-   "non listato",
-   1
-  ],
-  "CardCorner.at|Prismatic Evolutions": [
-   "non listato",
-   1
-  ],
-  "CardCorner.at|Crown Zenith": [
-   "non listato",
-   1
-  ],
-  "CardCorner.at|Destined Rivals": [
-   "non listato",
-   1
-  ],
-  "CrispyCards|Chaos Rising (ME04)": [
-   "non listato",
-   1
-  ],
-  "CrispyCards|Phantasmal Flames (ME02)": [
-   "non listato",
-   1
-  ],
-  "CrispyCards|Pokémon 151": [
-   "non listato",
-   1
-  ],
-  "CrispyCards|Prismatic Evolutions": [
-   "listato",
-   1
-  ],
-  "CrispyCards|Crown Zenith": [
-   "non listato",
-   1
-  ],
-  "CrispyCards|Destined Rivals": [
-   "non listato",
-   1
-  ],
-  "iTCG.bg|Storm Emerald (ME06)": [
-   "non listato",
-   1
-  ],
-  "iTCG.bg|Chaos Rising (ME04)": [
-   "non listato",
-   1
-  ],
-  "iTCG.bg|Phantasmal Flames (ME02)": [
-   "non listato",
-   1
-  ],
-  "iTCG.bg|Pokémon 151": [
-   "non listato",
-   1
-  ],
-  "iTCG.bg|Prismatic Evolutions": [
-   "non listato",
-   1
-  ],
-  "iTCG.bg|Crown Zenith": [
-   "non listato",
-   1
-  ],
-  "iTCG.bg|Destined Rivals": [
-   "listato",
    1
   ],
   "LetsGoTry|Chaos Rising (ME04)": [
@@ -1095,7 +1013,7 @@
   "Pikashop|Chaos Rising (ME04)": "https://pikashop.pl/?s=chaos+rising&post_type=product",
   "Pokemania.ro|Pitch Black (ME05)": "https://pokemania.ro/?s=pitch+black&post_type=product",
   "SunnyStore|Pokémon 151": "https://sunnystore.es/search?q=pokemon+151",
-  "Total Cards (UK)|Pitch Black (ME05)": "https://totalcards.net/products/pokemon-mega-evolution-pitch-black-booster-pack?_pos=1&_sid=a536f6221&_ss=r"
+  "Total Cards (UK)|Pitch Black (ME05)": "https://totalcards.net/products/pokemon-mega-evolution-pitch-black-booster-pack?_pos=1&_sid=be2dd76cd&_ss=r"
  },
  "digest_slot": "2026-07-05-22",
  "log": [
@@ -1121,7 +1039,9 @@
   "www.deckshop.de": 4,
   "www.waylandgames.co.uk": 5,
   "www.firestormgames.co.uk": 5,
+  "crispycards.de": 5,
   "misticards.com": 4,
+  "cardcorner.at": 5,
   "pokechest.at": 4,
   "bescards.com": 5,
   "hobbykort.se": 5,
@@ -1137,11 +1057,15 @@
   "papelinho.pt": 5,
   "www.pokekarty.pl": 4,
   "pokeka.hu": 4,
+  "itcg.bg": 5,
   "www.wakuwaku.cz": 4,
   "www.pokemonia.ro": 5,
   "en.tcg-shop.at": 4,
   "pokewoke.store": 4,
-  "www.amazon.it": 2
+  "www.amazon.it": 2,
+  "www.blackfire.eu": 2,
+  "pokeboxstore.pt": 1,
+  "www.lotticards.de": 1
  },
  "runno": 22
 }
