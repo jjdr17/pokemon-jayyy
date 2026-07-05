@@ -171,7 +171,7 @@
   },
   "CardZone": {
    "Pitch Black (ME05)": "listato",
-   "30th Celebration": "listato",
+   "30th Celebration": "disponibile",
    "Storm Emerald (ME06)": "disponibile",
    "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "listato",
@@ -666,7 +666,7 @@
   },
   "MagicBazar": {
    "Pitch Black (ME05)": "disponibile",
-   "30th Celebration": "non listato",
+   "30th Celebration": "listato",
    "Storm Emerald (ME06)": "non listato",
    "Chaos Rising (ME04)": "non listato",
    "Phantasmal Flames (ME02)": "non listato",
@@ -800,7 +800,7 @@
    "Pitch Black (ME05)": "listato",
    "30th Celebration": "listato",
    "Storm Emerald (ME06)": "listato",
-   "Chaos Rising (ME04)": "non listato",
+   "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "non listato",
    "Prismatic Evolutions": "non listato",
@@ -917,7 +917,7 @@
  "alerts": {
   "CardZone|Pitch Black (ME05)": 1783211454.8262672,
   "CardZone|Storm Emerald (ME06)": 1783215230.0299418,
-  "CardZone|30th Celebration": 1783212040.142237,
+  "CardZone|30th Celebration": 1783237770.499001,
   "PokeCardShop|Pitch Black (ME05)": 1783221062.3793678,
   "drop|MagicBazar|Pitch Black (ME05)": 1783217354.8257976,
   "PokeCardShop|Destined Rivals": 1783208467.7273407,
@@ -985,11 +985,6 @@
   "BESCARDS|Crown Zenith": "https://bescards.com/products/pokemon-crown-zenith-elite-trainer-box?_pos=1&_sid=4b6d35358&_ss=r"
  },
  "log": [
-  {
-   "ts": "04/07 06:53",
-   "title": "🚨 DISPONIBILE/PREORDER: Pitch Black (ME05) — CardZone",
-   "url": "https://cardzone.es/search?q=pitch+black"
-  },
   {
    "ts": "04/07 07:23",
    "title": "🚨 DISPONIBILE/PREORDER: 30th Celebration — CardZone",
@@ -1134,6 +1129,11 @@
    "ts": "05/07 08:53",
    "title": "🚨 DISPONIBILE/PREORDER: Chaos Rising (ME04) — CardZone",
    "url": "https://cardzone.es/search?q=chaos+rising"
+  },
+  {
+   "ts": "05/07 09:49",
+   "title": "🚨 DISPONIBILE/PREORDER: 30th Celebration — CardZone",
+   "url": "https://cardzone.es/search?q=30th+celebration"
   }
  ],
  "digest_slot": "2026-07-04-22"
