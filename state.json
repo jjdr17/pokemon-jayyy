@@ -980,14 +980,10 @@
   "PokeCardShop|Chaos Rising (ME04)": "€6.95",
   "MagicBazar|Pitch Black (ME05)": "$85",
   "SunnyStore|Pokémon 151": "€26,90",
-  "Total Cards (UK)|Pitch Black (ME05)": "£4.79"
+  "Total Cards (UK)|Pitch Black (ME05)": "£4.79",
+  "Stoyanov Games|Pitch Black (ME05)": "8.00€"
  },
- "pending": {
-  "Blackfire|Premium Deck Espeon & Umbreon (30th)": [
-   "non listato",
-   1
-  ]
- },
+ "pending": {},
  "urls": {
   "Rogerz|Pitch Black (ME05)": "https://rogerz.dk/search?q=pitch+black",
   "Packratt (UK)|Chaos Rising (ME04)": "https://packratt.co.uk/search?q=chaos+rising",
@@ -1008,7 +1004,7 @@
   "Pikashop|Chaos Rising (ME04)": "https://pikashop.pl/?s=chaos+rising&post_type=product",
   "Pokemania.ro|Pitch Black (ME05)": "https://pokemania.ro/?s=pitch+black&post_type=product",
   "SunnyStore|Pokémon 151": "https://sunnystore.es/search?q=pokemon+151",
-  "Total Cards (UK)|Pitch Black (ME05)": "https://totalcards.net/products/pokemon-mega-evolution-pitch-black-booster-pack?_pos=1&_sid=57ff37604&_ss=r"
+  "Total Cards (UK)|Pitch Black (ME05)": "https://totalcards.net/products/pokemon-mega-evolution-pitch-black-booster-pack?_pos=1&_sid=fd4cc4d5c&_ss=r"
  },
  "digest_slot": "2026-07-05-18",
  "log": [
@@ -1040,7 +1036,7 @@
   "cardcorner.at": 3,
   "pokechest.at": 3,
   "bescards.com": 4,
-  "hobbykort.se": 3,
+  "hobbykort.se": 4,
   "rarecards.nl": 3,
   "pokevend.at": 3,
   "www.poketalk.se": 3,
@@ -1057,8 +1053,7 @@
   "www.wakuwaku.cz": 3,
   "www.pokemonia.ro": 4,
   "en.tcg-shop.at": 3,
-  "pokeboxstore.pt": 1,
-  "games-island.eu": 1
+  "www.blackfire.eu": 1
  },
- "runno": 5
+ "runno": 6
 }
