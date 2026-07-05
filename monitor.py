@@ -234,8 +234,11 @@ def load_state():
 
 def save_state(state):
     state.pop("first_run", None)
-    with open(STATE_FILE, "w") as f:
+    # scrittura atomica: se il run viene interrotto a metà, lo stato non si corrompe
+    tmp = STATE_FILE + ".tmp"
+    with open(tmp, "w") as f:
         json.dump(state, f, indent=1, ensure_ascii=False)
+    os.replace(tmp, STATE_FILE)
 
 
 PRIO_MAP = {"urgent": 5, "high": 4, "default": 3}
@@ -398,19 +401,24 @@ def check_shop(state, shop):
     return name, group, results
 
 
-def load_other_alerts():
-    """Cooldown condiviso tra corsia veloce e scansione completa (evita avvisi doppi)."""
+def load_other_state():
+    """Stato dell'altra corsia: cooldown condiviso + conoscenza già acquisita (evita doppioni)."""
     try:
         with open(OTHER_STATE_FILE) as f:
-            return json.load(f).get("alerts", {})
+            s = json.load(f)
+            return s.get("alerts", {}), s.get("shops", {})
     except Exception:
-        return {}
+        return {}, {}
 
 
 def main():
+    if not NTFY_TOPIC:
+        # senza topic il monitor sarebbe un guscio muto: meglio fallire rumorosamente
+        print("::error::NTFY_TOPIC mancante — controlla il secret su GitHub")
+        sys.exit(1)
     state = load_state()
     first_run = state.get("first_run", False)
-    other_alerts = load_other_alerts()
+    other_alerts, other_shops = load_other_state()
 
     if first_run and MODE == "full":
         notify("Monitor Pokémon attivo ✅",
@@ -470,6 +478,9 @@ def main():
                 # Avvisa SOLO quando un prodotto diventa DISPONIBILE (non al primo giro,
                 # non per semplici comparse a listino, non quando un sito torna raggiungibile)
                 interesting = status == "disponibile" and prev in ("esaurito", "non listato", "listato")
+                # anti-doppione: se l'altra corsia sa già che è disponibile, ha già avvisato lei
+                if interesting and other_shops.get(shop_name, {}).get(prod_name) == "disponibile":
+                    interesting = False
                 if not first_run and prev != "sconosciuto" and interesting:
                     akey = f"{shop_name}|{prod_name}"
                     last = max(state["alerts"].get(akey, 0), other_alerts.get(akey, 0))
