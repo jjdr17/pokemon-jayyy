@@ -837,7 +837,7 @@
    "Pitch Black (ME05)": "listato",
    "30th Celebration": "disponibile",
    "Storm Emerald (ME06)": "listato",
-   "Chaos Rising (ME04)": "listato",
+   "Chaos Rising (ME04)": "non listato",
    "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "non listato",
    "Prismatic Evolutions": "non listato",
@@ -990,8 +990,8 @@
    "listato",
    1
   ],
-  "LetsGoTry|Chaos Rising (ME04)": [
-   "non listato",
+  "LetsGoTry|30th Celebration": [
+   "listato",
    1
   ]
  },
@@ -1015,7 +1015,7 @@
   "Pikashop|Chaos Rising (ME04)": "https://pikashop.pl/?s=chaos+rising&post_type=product",
   "Pokemania.ro|Pitch Black (ME05)": "https://pokemania.ro/?s=pitch+black&post_type=product",
   "SunnyStore|Pokémon 151": "https://sunnystore.es/search?q=pokemon+151",
-  "Total Cards (UK)|Pitch Black (ME05)": "https://totalcards.net/products/pokemon-mega-evolution-pitch-black-booster-pack?_pos=2&_sid=1532c8d02&_ss=r",
+  "Total Cards (UK)|Pitch Black (ME05)": "https://totalcards.net/products/pokemon-mega-evolution-pitch-black-booster-pack?_pos=2&_sid=0098fef04&_ss=r",
   "Total Cards (UK)|30th Celebration": "https://totalcards.net/products/pokemon-30th-celebration-booster-pack?_pos=1&_sid=d46c702e1&_ss=r"
  },
  "digest_slot": "2026-07-06-22",
@@ -1060,7 +1060,7 @@
   "crispycards.de": 21,
   "misticards.com": 21,
   "pokechest.at": 21,
-  "bescards.com": 21,
+  "bescards.com": 22,
   "hobbykort.se": 21,
   "rarecards.nl": 21,
   "pokevend.at": 21,
@@ -1081,7 +1081,16 @@
   "www.blackfire.eu": 12,
   "www.pokemillon.com": 8,
   "www.amazon.it": 7,
-  "tcgdistribution.fr": 2
+  "tradingcard.fi": 1,
+  "pokectcg.cz": 1,
+  "www.pokemons.dk": 1,
+  "pokewoke.store": 1,
+  "pokeboxstore.pt": 1,
+  "pikashop.pl": 1,
+  "tcgpikas.lt": 1,
+  "pokemonworld.lt": 1,
+  "extremepokecorner.com": 1,
+  "games-island.eu": 1
  },
- "runno": 219
+ "runno": 220
 }
