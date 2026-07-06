@@ -989,34 +989,6 @@
   "Amazon.it|Storm Emerald (ME06)": [
    "listato",
    1
-  ],
-  "AllDayTCG|Prismatic Evolutions": [
-   "esaurito",
-   1
-  ],
-  "AllDayTCG|Crown Zenith": [
-   "listato",
-   1
-  ],
-  "OutpostBrussels|Phantasmal Flames (ME02)": [
-   "esaurito",
-   1
-  ],
-  "OutpostBrussels|Pokémon 151": [
-   "listato",
-   1
-  ],
-  "OutpostBrussels|Prismatic Evolutions": [
-   "esaurito",
-   1
-  ],
-  "God of Cards|Phantasmal Flames (ME02)": [
-   "listato",
-   1
-  ],
-  "SunnyStore|Prismatic Evolutions": [
-   "esaurito",
-   1
   ]
  },
  "urls": {
@@ -1039,7 +1011,7 @@
   "Pikashop|Chaos Rising (ME04)": "https://pikashop.pl/?s=chaos+rising&post_type=product",
   "Pokemania.ro|Pitch Black (ME05)": "https://pokemania.ro/?s=pitch+black&post_type=product",
   "SunnyStore|Pokémon 151": "https://sunnystore.es/search?q=pokemon+151",
-  "Total Cards (UK)|Pitch Black (ME05)": "https://totalcards.net/products/pokemon-mega-evolution-pitch-black-booster-pack?_pos=2&_sid=1ddd18ba8&_ss=r",
+  "Total Cards (UK)|Pitch Black (ME05)": "https://totalcards.net/products/pokemon-mega-evolution-pitch-black-booster-pack?_pos=2&_sid=eae389e93&_ss=r",
   "Total Cards (UK)|30th Celebration": "https://totalcards.net/products/pokemon-30th-celebration-booster-pack?_pos=1&_sid=b4d7c9b4b&_ss=r"
  },
  "digest_slot": "2026-07-06-22",
@@ -1071,7 +1043,7 @@
   }
  ],
  "down": {
-  "www.cardmarket.com": 21,
+  "www.cardmarket.com": 22,
   "www.gamestop.com": 21,
   "www.gamelife.it": 22,
   "pokeseller14.com": 22,
@@ -1079,9 +1051,9 @@
   "www.chaoscards.co.uk": 21,
   "fabscards.at": 22,
   "www.deckshop.de": 21,
-  "www.waylandgames.co.uk": 21,
+  "www.waylandgames.co.uk": 22,
   "www.firestormgames.co.uk": 22,
-  "crispycards.de": 21,
+  "crispycards.de": 22,
   "misticards.com": 21,
   "pokechest.at": 21,
   "bescards.com": 22,
@@ -1094,18 +1066,18 @@
   "www.nerdom.gr": 21,
   "tcgstore.se": 22,
   "lorenzone.fr": 21,
-  "papelinho.pt": 21,
+  "papelinho.pt": 22,
   "www.pokekarty.pl": 21,
   "pokeka.hu": 21,
-  "itcg.bg": 21,
+  "itcg.bg": 22,
   "www.wakuwaku.cz": 21,
   "www.pokemonia.ro": 22,
   "en.tcg-shop.at": 21,
-  "cardcorner.at": 14,
+  "cardcorner.at": 15,
   "www.blackfire.eu": 12,
   "www.pokemillon.com": 8,
   "www.amazon.it": 8,
   "pokeboxstore.pt": 3
  },
- "runno": 225
+ "runno": 226
 }
