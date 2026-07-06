@@ -837,7 +837,7 @@
    "Pitch Black (ME05)": "listato",
    "30th Celebration": "disponibile",
    "Storm Emerald (ME06)": "listato",
-   "Chaos Rising (ME04)": "listato",
+   "Chaos Rising (ME04)": "non listato",
    "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "non listato",
    "Prismatic Evolutions": "non listato",
@@ -984,12 +984,7 @@
   "Total Cards (UK)|Pitch Black (ME05)": "£4.79",
   "Stoyanov Games|Pitch Black (ME05)": "8.00€"
  },
- "pending": {
-  "LetsGoTry|Chaos Rising (ME04)": [
-   "non listato",
-   1
-  ]
- },
+ "pending": {},
  "urls": {
   "Rogerz|Pitch Black (ME05)": "https://rogerz.dk/search?q=pitch+black",
   "Packratt (UK)|Chaos Rising (ME04)": "https://packratt.co.uk/search?q=chaos+rising",
@@ -1010,7 +1005,7 @@
   "Pikashop|Chaos Rising (ME04)": "https://pikashop.pl/?s=chaos+rising&post_type=product",
   "Pokemania.ro|Pitch Black (ME05)": "https://pokemania.ro/?s=pitch+black&post_type=product",
   "SunnyStore|Pokémon 151": "https://sunnystore.es/search?q=pokemon+151",
-  "Total Cards (UK)|Pitch Black (ME05)": "https://totalcards.net/products/pokemon-mega-evolution-pitch-black-booster-pack?_pos=1&_sid=87ef88cf4&_ss=r",
+  "Total Cards (UK)|Pitch Black (ME05)": "https://totalcards.net/products/pokemon-mega-evolution-pitch-black-booster-pack?_pos=1&_sid=60e16a92f&_ss=r",
   "Total Cards (UK)|30th Celebration": "https://totalcards.net/products/pokemon-30th-celebration-booster-pack?_pos=1&_sid=5347f8684&_ss=r"
  },
  "digest_slot": "2026-07-05-22",
@@ -1044,14 +1039,14 @@
   "www.firestormgames.co.uk": 12,
   "crispycards.de": 12,
   "misticards.com": 12,
-  "pokechest.at": 11,
+  "pokechest.at": 12,
   "bescards.com": 12,
   "hobbykort.se": 12,
   "rarecards.nl": 11,
   "pokevend.at": 11,
   "www.poketalk.se": 12,
   "tcgcompany.nl": 12,
-  "tcgfanshop.nl": 11,
+  "tcgfanshop.nl": 12,
   "www.nerdom.gr": 11,
   "tcgstore.se": 12,
   "www.pokemillon.com": 11,
@@ -1062,11 +1057,11 @@
   "itcg.bg": 12,
   "www.wakuwaku.cz": 11,
   "www.pokemonia.ro": 12,
-  "en.tcg-shop.at": 11,
+  "en.tcg-shop.at": 12,
   "www.blackfire.eu": 10,
   "cardcorner.at": 5,
   "www.amazon.it": 4,
   "pokewoke.store": 3
  },
- "runno": 108
+ "runno": 109
 }
