@@ -990,6 +990,14 @@
   "Amazon.it|Storm Emerald (ME06)": [
    "listato",
    1
+  ],
+  "LetsGoTry|30th Celebration": [
+   "disponibile",
+   1
+  ],
+  "LetsGoTry|Chaos Rising (ME04)": [
+   "non listato",
+   1
   ]
  },
  "urls": {
@@ -1012,7 +1020,7 @@
   "Pikashop|Chaos Rising (ME04)": "https://pikashop.pl/?s=chaos+rising&post_type=product",
   "Pokemania.ro|Pitch Black (ME05)": "https://pokemania.ro/?s=pitch+black&post_type=product",
   "SunnyStore|Pokémon 151": "https://sunnystore.es/search?q=pokemon+151",
-  "Total Cards (UK)|Pitch Black (ME05)": "https://totalcards.net/products/pokemon-mega-evolution-pitch-black-booster-pack?_pos=2&_sid=144549777&_ss=r",
+  "Total Cards (UK)|Pitch Black (ME05)": "https://totalcards.net/products/pokemon-mega-evolution-pitch-black-booster-pack?_pos=2&_sid=f40865ed7&_ss=r",
   "Total Cards (UK)|30th Celebration": "https://totalcards.net/products/pokemon-30th-celebration-booster-pack?_pos=1&_sid=ce4db58ec&_ss=r"
  },
  "digest_slot": "2026-07-06-22",
@@ -1066,20 +1074,22 @@
   "tcgfanshop.nl": 23,
   "www.nerdom.gr": 22,
   "tcgstore.se": 23,
-  "lorenzone.fr": 22,
+  "lorenzone.fr": 23,
   "papelinho.pt": 23,
   "www.pokekarty.pl": 23,
-  "pokeka.hu": 22,
+  "pokeka.hu": 23,
   "itcg.bg": 23,
-  "www.wakuwaku.cz": 22,
+  "www.wakuwaku.cz": 23,
   "www.pokemonia.ro": 23,
   "en.tcg-shop.at": 23,
   "cardcorner.at": 16,
-  "www.pokemillon.com": 9,
+  "www.pokemillon.com": 10,
   "www.amazon.it": 9,
-  "www.blackfire.eu": 3,
-  "pokeboxstore.pt": 2,
-  "tcgdistribution.fr": 1
+  "www.blackfire.eu": 4,
+  "tradingcard.fi": 1,
+  "www.pokemons.dk": 1,
+  "pikashop.pl": 1,
+  "games-island.eu": 1
  },
- "runno": 241
+ "runno": 242
 }
