@@ -984,16 +984,7 @@
   "Total Cards (UK)|Pitch Black (ME05)": "£4.79",
   "Stoyanov Games|Pitch Black (ME05)": "8.00€"
  },
- "pending": {
-  "LetsGoTry|30th Celebration": [
-   "disponibile",
-   1
-  ],
-  "LetsGoTry|Chaos Rising (ME04)": [
-   "non listato",
-   1
-  ]
- },
+ "pending": {},
  "urls": {
   "Rogerz|Pitch Black (ME05)": "https://rogerz.dk/search?q=pitch+black",
   "Packratt (UK)|Chaos Rising (ME04)": "https://packratt.co.uk/search?q=chaos+rising",
@@ -1014,7 +1005,7 @@
   "Pikashop|Chaos Rising (ME04)": "https://pikashop.pl/?s=chaos+rising&post_type=product",
   "Pokemania.ro|Pitch Black (ME05)": "https://pokemania.ro/?s=pitch+black&post_type=product",
   "SunnyStore|Pokémon 151": "https://sunnystore.es/search?q=pokemon+151",
-  "Total Cards (UK)|Pitch Black (ME05)": "https://totalcards.net/products/pokemon-mega-evolution-pitch-black-booster-pack?_pos=1&_sid=02948592d&_ss=r",
+  "Total Cards (UK)|Pitch Black (ME05)": "https://totalcards.net/products/pokemon-mega-evolution-pitch-black-booster-pack?_pos=1&_sid=96b314dbf&_ss=r",
   "Total Cards (UK)|30th Celebration": "https://totalcards.net/products/pokemon-30th-celebration-booster-pack?_pos=1&_sid=56bdc5cd6&_ss=r"
  },
  "digest_slot": "2026-07-06-10",
@@ -1043,11 +1034,11 @@
  "down": {
   "www.cardmarket.com": 13,
   "www.gamestop.com": 13,
-  "www.gamelife.it": 13,
-  "pokeseller14.com": 13,
-  "geco-shop.de": 13,
+  "www.gamelife.it": 14,
+  "pokeseller14.com": 14,
+  "geco-shop.de": 14,
   "www.chaoscards.co.uk": 13,
-  "fabscards.at": 13,
+  "fabscards.at": 14,
   "www.deckshop.de": 13,
   "www.waylandgames.co.uk": 13,
   "www.firestormgames.co.uk": 14,
@@ -1073,9 +1064,7 @@
   "www.pokemonia.ro": 14,
   "en.tcg-shop.at": 13,
   "cardcorner.at": 6,
-  "pokewoke.store": 4,
-  "www.blackfire.eu": 4,
-  "www.amazon.it": 3
+  "www.blackfire.eu": 4
  },
- "runno": 127
+ "runno": 128
 }
