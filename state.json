@@ -835,7 +835,7 @@
   },
   "LetsGoTry": {
    "Pitch Black (ME05)": "listato",
-   "30th Celebration": "disponibile",
+   "30th Celebration": "listato",
    "Storm Emerald (ME06)": "listato",
    "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "non listato",
@@ -990,48 +990,8 @@
    "listato",
    1
   ],
-  "AllDayTCG|Pokémon 151": [
-   "esaurito",
-   1
-  ],
-  "AllDayTCG|Crown Zenith": [
-   "listato",
-   1
-  ],
-  "OutpostBrussels|Phantasmal Flames (ME02)": [
-   "esaurito",
-   1
-  ],
-  "OutpostBrussels|Prismatic Evolutions": [
-   "esaurito",
-   1
-  ],
-  "SunnyStore|Prismatic Evolutions": [
-   "esaurito",
-   1
-  ],
-  "CardZone|Phantasmal Flames (ME02)": [
-   "listato",
-   1
-  ],
-  "Rogerz|Phantasmal Flames (ME02)": [
-   "listato",
-   1
-  ],
-  "God of Cards|Chaos Rising (ME04)": [
+  "LetsGoTry|Chaos Rising (ME04)": [
    "non listato",
-   1
-  ],
-  "God of Cards|Phantasmal Flames (ME02)": [
-   "listato",
-   1
-  ],
-  "Total Cards (UK)|Phantasmal Flames (ME02)": [
-   "esaurito",
-   1
-  ],
-  "LetsGoTry|30th Celebration": [
-   "listato",
    1
   ]
  },
@@ -1094,7 +1054,7 @@
   "geco-shop.de": 21,
   "www.chaoscards.co.uk": 20,
   "fabscards.at": 21,
-  "www.deckshop.de": 20,
+  "www.deckshop.de": 21,
   "www.waylandgames.co.uk": 21,
   "www.firestormgames.co.uk": 21,
   "crispycards.de": 21,
@@ -1111,7 +1071,7 @@
   "tcgstore.se": 21,
   "lorenzone.fr": 20,
   "papelinho.pt": 21,
-  "www.pokekarty.pl": 20,
+  "www.pokekarty.pl": 21,
   "pokeka.hu": 20,
   "itcg.bg": 21,
   "www.wakuwaku.cz": 20,
@@ -1120,9 +1080,7 @@
   "cardcorner.at": 14,
   "www.blackfire.eu": 11,
   "www.pokemillon.com": 7,
-  "www.amazon.it": 7,
-  "pokeboxstore.pt": 1,
-  "tcgdistribution.fr": 1
+  "www.amazon.it": 7
  },
- "runno": 214
+ "runno": 215
 }
