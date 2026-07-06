@@ -984,7 +984,12 @@
   "Total Cards (UK)|Pitch Black (ME05)": "£4.79",
   "Stoyanov Games|Pitch Black (ME05)": "8.00€"
  },
- "pending": {},
+ "pending": {
+  "LetsGoTry|Chaos Rising (ME04)": [
+   "non listato",
+   1
+  ]
+ },
  "urls": {
   "Rogerz|Pitch Black (ME05)": "https://rogerz.dk/search?q=pitch+black",
   "Packratt (UK)|Chaos Rising (ME04)": "https://packratt.co.uk/search?q=chaos+rising",
@@ -1001,12 +1006,12 @@
   "Sapphire-Cards|Crown Zenith": "https://sapphire-cards.de/?s=crown+zenith&post_type=product",
   "Sapphire-Cards|Destined Rivals": "https://sapphire-cards.de/?s=destined+rivals&post_type=product",
   "Stoyanov Games|Pitch Black (ME05)": "https://stoyanov-gamesbg.com/pre-order-pokemon-tcg-mega-evolution-pitch-black-elite-trainer-box-френски-език/",
-  "LetsGoTry|30th Celebration": "https://letsgotry.pl/zestawy-eng/15893--preorder-pokemon-tcg-30th-celebration-tin-sylveon-ex.html",
+  "LetsGoTry|30th Celebration": "https://letsgotry.pl/zestawy-eng/15895--preorder-pokemon-tcg-30th-celebration-binder-collection.html",
   "Pikashop|Chaos Rising (ME04)": "https://pikashop.pl/?s=chaos+rising&post_type=product",
   "Pokemania.ro|Pitch Black (ME05)": "https://pokemania.ro/?s=pitch+black&post_type=product",
   "SunnyStore|Pokémon 151": "https://sunnystore.es/search?q=pokemon+151",
-  "Total Cards (UK)|Pitch Black (ME05)": "https://totalcards.net/products/pokemon-mega-evolution-pitch-black-booster-pack?_pos=1&_sid=5ec5f05b4&_ss=r",
-  "Total Cards (UK)|30th Celebration": "https://totalcards.net/products/pokemon-30th-celebration-booster-pack?_pos=1&_sid=7727ce2cf&_ss=r"
+  "Total Cards (UK)|Pitch Black (ME05)": "https://totalcards.net/products/pokemon-mega-evolution-pitch-black-booster-pack?_pos=1&_sid=cfd294de2&_ss=r",
+  "Total Cards (UK)|30th Celebration": "https://totalcards.net/products/pokemon-30th-celebration-booster-pack?_pos=1&_sid=55727e280&_ss=r"
  },
  "digest_slot": "2026-07-06-10",
  "log": [
@@ -1034,11 +1039,11 @@
  "down": {
   "www.cardmarket.com": 14,
   "www.gamestop.com": 14,
-  "www.gamelife.it": 14,
-  "pokeseller14.com": 14,
-  "geco-shop.de": 14,
+  "www.gamelife.it": 15,
+  "pokeseller14.com": 15,
+  "geco-shop.de": 15,
   "www.chaoscards.co.uk": 14,
-  "fabscards.at": 14,
+  "fabscards.at": 15,
   "www.deckshop.de": 14,
   "www.waylandgames.co.uk": 14,
   "www.firestormgames.co.uk": 15,
@@ -1065,7 +1070,9 @@
   "en.tcg-shop.at": 14,
   "cardcorner.at": 7,
   "www.blackfire.eu": 5,
-  "tcgdistribution.fr": 2
+  "tcgdistribution.fr": 3,
+  "www.amazon.it": 1,
+  "pokeboxstore.pt": 1
  },
- "runno": 139
+ "runno": 140
 }
