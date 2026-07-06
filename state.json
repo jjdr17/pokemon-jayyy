@@ -235,7 +235,7 @@
   },
   "Total Cards (UK)": {
    "Pitch Black (ME05)": "disponibile",
-   "30th Celebration": "irraggiungibile",
+   "30th Celebration": "disponibile",
    "Storm Emerald (ME06)": "irraggiungibile",
    "Chaos Rising (ME04)": "irraggiungibile",
    "Phantasmal Flames (ME02)": "irraggiungibile",
@@ -983,100 +983,7 @@
   "Total Cards (UK)|Pitch Black (ME05)": "£4.79",
   "Stoyanov Games|Pitch Black (ME05)": "8.00€"
  },
- "pending": {
-  "SunnyStore|Crown Zenith": [
-   "listato",
-   1
-  ],
-  "SunnyStore|Destined Rivals": [
-   "esaurito",
-   1
-  ],
-  "OutpostBrussels|Phantasmal Flames (ME02)": [
-   "esaurito",
-   1
-  ],
-  "OutpostBrussels|Pokémon 151": [
-   "listato",
-   1
-  ],
-  "OutpostBrussels|Prismatic Evolutions": [
-   "esaurito",
-   1
-  ],
-  "OutpostBrussels|Crown Zenith": [
-   "listato",
-   1
-  ],
-  "AllDayTCG|Pokémon 151": [
-   "esaurito",
-   1
-  ],
-  "AllDayTCG|Prismatic Evolutions": [
-   "esaurito",
-   1
-  ],
-  "AllDayTCG|Crown Zenith": [
-   "listato",
-   1
-  ],
-  "AllDayTCG|Destined Rivals": [
-   "listato",
-   1
-  ],
-  "Poke-Power|Prismatic Evolutions": [
-   "esaurito",
-   1
-  ],
-  "Poke-Power|Crown Zenith": [
-   "esaurito",
-   1
-  ],
-  "Poke-Power|Destined Rivals": [
-   "esaurito",
-   1
-  ],
-  "Total Cards (UK)|30th Celebration": [
-   "disponibile",
-   1
-  ],
-  "Total Cards (UK)|Chaos Rising (ME04)": [
-   "esaurito",
-   1
-  ],
-  "Rogerz|Pokémon 151": [
-   "listato",
-   1
-  ],
-  "Rogerz|Prismatic Evolutions": [
-   "listato",
-   1
-  ],
-  "CardZone|Pokémon 151": [
-   "esaurito",
-   1
-  ],
-  "CardZone|Prismatic Evolutions": [
-   "listato",
-   1
-  ],
-  "God of Cards|Chaos Rising (ME04)": [
-   "non listato",
-   1
-  ],
-  "God of Cards|Phantasmal Flames (ME02)": [
-   "listato",
-   1
-  ],
-  "God of Cards|Pokémon 151": [
-   "disponibile",
-   1
-  ],
-  "LetsGoTry|Chaos Rising (ME04)": [
-   "non listato",
-   1
-  ]
- },
+ "pending": {},
  "urls": {
   "Rogerz|Pitch Black (ME05)": "https://rogerz.dk/search?q=pitch+black",
   "Packratt (UK)|Chaos Rising (ME04)": "https://packratt.co.uk/search?q=chaos+rising",
@@ -1097,7 +1004,8 @@
   "Pikashop|Chaos Rising (ME04)": "https://pikashop.pl/?s=chaos+rising&post_type=product",
   "Pokemania.ro|Pitch Black (ME05)": "https://pokemania.ro/?s=pitch+black&post_type=product",
   "SunnyStore|Pokémon 151": "https://sunnystore.es/search?q=pokemon+151",
-  "Total Cards (UK)|Pitch Black (ME05)": "https://totalcards.net/products/pokemon-mega-evolution-pitch-black-booster-pack?_pos=1&_sid=60d57bd68&_ss=r"
+  "Total Cards (UK)|Pitch Black (ME05)": "https://totalcards.net/products/pokemon-mega-evolution-pitch-black-booster-pack?_pos=1&_sid=79f1835d9&_ss=r",
+  "Total Cards (UK)|30th Celebration": "https://totalcards.net/products/pokemon-30th-celebration-booster-pack?_pos=1&_sid=02c8db389&_ss=r"
  },
  "digest_slot": "2026-07-05-22",
  "log": [
@@ -1132,10 +1040,10 @@
   "rarecards.nl": 6,
   "pokevend.at": 6,
   "www.poketalk.se": 6,
-  "tcgcompany.nl": 6,
+  "tcgcompany.nl": 7,
   "tcgfanshop.nl": 6,
   "www.nerdom.gr": 6,
-  "tcgstore.se": 6,
+  "tcgstore.se": 7,
   "www.pokemillon.com": 6,
   "lorenzone.fr": 6,
   "papelinho.pt": 6,
@@ -1147,8 +1055,7 @@
   "en.tcg-shop.at": 6,
   "www.blackfire.eu": 5,
   "www.amazon.it": 5,
-  "pokewoke.store": 3,
-  "games-island.eu": 1
+  "pokewoke.store": 3
  },
- "runno": 44
+ "runno": 45
 }
