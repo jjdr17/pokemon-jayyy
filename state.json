@@ -969,8 +969,7 @@
   "www.poketalk.se": "https://www.poketalk.se/search?q={q}",
   "hobbykort.se": "-",
   "pokevend.at": "https://pokevend.at/search?controller=search&s={q}",
-  "www.pokemillon.com": "https://www.pokemillon.com/?s={q}&post_type=product",
-  "pokeka.hu": "https://pokeka.hu/search?controller=search&s={q}"
+  "www.pokemillon.com": "https://www.pokemillon.com/?s={q}&post_type=product"
  },
  "alerts": {
   "drop|MagicBazar|Pitch Black (ME05)": 1783274158.1076322,
@@ -986,31 +985,7 @@
   "Stoyanov Games|Pitch Black (ME05)": "8.00€"
  },
  "pending": {
-  "Pokeka.hu|Storm Emerald (ME06)": [
-   "non listato",
-   1
-  ],
-  "Pokeka.hu|Chaos Rising (ME04)": [
-   "non listato",
-   1
-  ],
-  "Pokeka.hu|Phantasmal Flames (ME02)": [
-   "non listato",
-   1
-  ],
-  "Pokeka.hu|Pokémon 151": [
-   "non listato",
-   1
-  ],
-  "Pokeka.hu|Prismatic Evolutions": [
-   "non listato",
-   1
-  ],
-  "Pokeka.hu|Crown Zenith": [
-   "non listato",
-   1
-  ],
-  "Pokeka.hu|Destined Rivals": [
+  "Pokemillon|Prismatic Evolutions": [
    "non listato",
    1
   ]
@@ -1035,7 +1010,7 @@
   "Pikashop|Chaos Rising (ME04)": "https://pikashop.pl/?s=chaos+rising&post_type=product",
   "Pokemania.ro|Pitch Black (ME05)": "https://pokemania.ro/?s=pitch+black&post_type=product",
   "SunnyStore|Pokémon 151": "https://sunnystore.es/search?q=pokemon+151",
-  "Total Cards (UK)|Pitch Black (ME05)": "https://totalcards.net/products/pokemon-mega-evolution-pitch-black-booster-pack?_pos=1&_sid=b50bbc5dd&_ss=r",
+  "Total Cards (UK)|Pitch Black (ME05)": "https://totalcards.net/products/pokemon-mega-evolution-pitch-black-booster-pack?_pos=1&_sid=23dcd2d5f&_ss=r",
   "Total Cards (UK)|30th Celebration": "https://totalcards.net/products/pokemon-30th-celebration-booster-pack?_pos=1&_sid=cb062c8cf&_ss=r"
  },
  "digest_slot": "2026-07-06-15",
@@ -1084,10 +1059,10 @@
   "tcgfanshop.nl": 16,
   "www.nerdom.gr": 15,
   "tcgstore.se": 16,
-  "www.pokemillon.com": 16,
   "lorenzone.fr": 16,
   "papelinho.pt": 16,
   "www.pokekarty.pl": 16,
+  "pokeka.hu": 16,
   "itcg.bg": 16,
   "www.wakuwaku.cz": 16,
   "www.pokemonia.ro": 16,
@@ -1095,7 +1070,8 @@
   "cardcorner.at": 9,
   "www.blackfire.eu": 7,
   "tcgdistribution.fr": 4,
-  "www.amazon.it": 4
+  "www.amazon.it": 4,
+  "pokewoke.store": 1
  },
  "runno": 158
 }
