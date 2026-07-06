@@ -34,11 +34,20 @@
  "alerts": {},
  "prices": {},
  "urls": {},
- "pending": {},
+ "pending": {
+  "Amazon.it|30th Celebration": [
+   "non listato",
+   1
+  ],
+  "Amazon.it|Storm Emerald (ME06)": [
+   "non listato",
+   1
+  ]
+ },
  "down": {
-  "www.gamestop.com": 330,
+  "www.gamestop.com": 331,
   "www.gamelife.it": 331,
   "www.pokemoncenter.com": 28
  },
- "runno": 1641
+ "runno": 1642
 }
