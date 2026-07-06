@@ -984,48 +984,7 @@
   "Total Cards (UK)|Pitch Black (ME05)": "£4.79",
   "Stoyanov Games|Pitch Black (ME05)": "8.00€"
  },
- "pending": {
-  "AllDayTCG|Crown Zenith": [
-   "listato",
-   1
-  ],
-  "AllDayTCG|Destined Rivals": [
-   "listato",
-   1
-  ],
-  "SunnyStore|Prismatic Evolutions": [
-   "esaurito",
-   1
-  ],
-  "Poke-Power|Prismatic Evolutions": [
-   "esaurito",
-   1
-  ],
-  "OutpostBrussels|Pokémon 151": [
-   "listato",
-   1
-  ],
-  "OutpostBrussels|Prismatic Evolutions": [
-   "esaurito",
-   1
-  ],
-  "CardZone|Pokémon 151": [
-   "esaurito",
-   1
-  ],
-  "Rogerz|Phantasmal Flames (ME02)": [
-   "listato",
-   1
-  ],
-  "God of Cards|Chaos Rising (ME04)": [
-   "non listato",
-   1
-  ],
-  "God of Cards|Phantasmal Flames (ME02)": [
-   "listato",
-   1
-  ]
- },
+ "pending": {},
  "urls": {
   "Rogerz|Pitch Black (ME05)": "https://rogerz.dk/search?q=pitch+black",
   "Packratt (UK)|Chaos Rising (ME04)": "https://packratt.co.uk/search?q=chaos+rising",
@@ -1046,8 +1005,8 @@
   "Pikashop|Chaos Rising (ME04)": "https://pikashop.pl/?s=chaos+rising&post_type=product",
   "Pokemania.ro|Pitch Black (ME05)": "https://pokemania.ro/?s=pitch+black&post_type=product",
   "SunnyStore|Pokémon 151": "https://sunnystore.es/search?q=pokemon+151",
-  "Total Cards (UK)|Pitch Black (ME05)": "https://totalcards.net/products/pokemon-mega-evolution-pitch-black-booster-pack?_pos=1&_sid=eab44af5a&_ss=r",
-  "Total Cards (UK)|30th Celebration": "https://totalcards.net/products/pokemon-30th-celebration-booster-pack?_pos=1&_sid=6b9b05dd7&_ss=r"
+  "Total Cards (UK)|Pitch Black (ME05)": "https://totalcards.net/products/pokemon-mega-evolution-pitch-black-booster-pack?_pos=1&_sid=cd0990a34&_ss=r",
+  "Total Cards (UK)|30th Celebration": "https://totalcards.net/products/pokemon-30th-celebration-booster-pack?_pos=1&_sid=cb062c8cf&_ss=r"
  },
  "digest_slot": "2026-07-06-10",
  "log": [
@@ -1107,7 +1066,9 @@
   "cardcorner.at": 9,
   "www.blackfire.eu": 6,
   "tcgdistribution.fr": 4,
-  "www.amazon.it": 4
+  "www.amazon.it": 4,
+  "www.butticards.at": 1,
+  "oppacards.com": 1
  },
  "runno": 156
 }
