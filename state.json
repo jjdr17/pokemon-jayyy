@@ -600,7 +600,7 @@
    "Chaos Rising (ME04)": "esaurito",
    "Phantasmal Flames (ME02)": "esaurito",
    "Pokémon 151": "listato",
-   "Prismatic Evolutions": "non listato",
+   "Prismatic Evolutions": "listato",
    "Crown Zenith": "esaurito",
    "Destined Rivals": "esaurito",
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
@@ -837,7 +837,7 @@
    "Pitch Black (ME05)": "listato",
    "30th Celebration": "listato",
    "Storm Emerald (ME06)": "listato",
-   "Chaos Rising (ME04)": "listato",
+   "Chaos Rising (ME04)": "non listato",
    "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "non listato",
    "Prismatic Evolutions": "non listato",
@@ -985,12 +985,8 @@
   "Stoyanov Games|Pitch Black (ME05)": "8.00€"
  },
  "pending": {
-  "PokeCardShop|Prismatic Evolutions": [
-   "listato",
-   1
-  ],
-  "LetsGoTry|Chaos Rising (ME04)": [
-   "non listato",
+  "LetsGoTry|30th Celebration": [
+   "disponibile",
    1
   ]
  },
@@ -1014,7 +1010,7 @@
   "Pikashop|Chaos Rising (ME04)": "https://pikashop.pl/?s=chaos+rising&post_type=product",
   "Pokemania.ro|Pitch Black (ME05)": "https://pokemania.ro/?s=pitch+black&post_type=product",
   "SunnyStore|Pokémon 151": "https://sunnystore.es/search?q=pokemon+151",
-  "Total Cards (UK)|Pitch Black (ME05)": "https://totalcards.net/products/pokemon-mega-evolution-pitch-black-booster-pack?_pos=1&_sid=95ddeeca2&_ss=r",
+  "Total Cards (UK)|Pitch Black (ME05)": "https://totalcards.net/products/pokemon-mega-evolution-pitch-black-booster-pack?_pos=1&_sid=c4bd76f7b&_ss=r",
   "Total Cards (UK)|30th Celebration": "https://totalcards.net/products/pokemon-30th-celebration-booster-pack?_pos=1&_sid=cb062c8cf&_ss=r"
  },
  "digest_slot": "2026-07-06-15",
@@ -1059,10 +1055,10 @@
   "rarecards.nl": 16,
   "pokevend.at": 16,
   "www.poketalk.se": 16,
-  "tcgcompany.nl": 16,
+  "tcgcompany.nl": 17,
   "tcgfanshop.nl": 16,
   "www.nerdom.gr": 16,
-  "tcgstore.se": 16,
+  "tcgstore.se": 17,
   "lorenzone.fr": 16,
   "papelinho.pt": 16,
   "www.pokekarty.pl": 16,
@@ -1074,7 +1070,9 @@
   "cardcorner.at": 9,
   "www.blackfire.eu": 7,
   "pokewoke.store": 4,
-  "www.pokemillon.com": 3
+  "www.pokemillon.com": 3,
+  "www.amazon.it": 1,
+  "games-island.eu": 1
  },
- "runno": 164
+ "runno": 165
 }
