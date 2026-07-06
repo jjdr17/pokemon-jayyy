@@ -835,7 +835,7 @@
   },
   "LetsGoTry": {
    "Pitch Black (ME05)": "listato",
-   "30th Celebration": "listato",
+   "30th Celebration": "disponibile",
    "Storm Emerald (ME06)": "listato",
    "Chaos Rising (ME04)": "non listato",
    "Phantasmal Flames (ME02)": "non listato",
@@ -990,6 +990,54 @@
    "listato",
    1
   ],
+  "AllDayTCG|Prismatic Evolutions": [
+   "esaurito",
+   1
+  ],
+  "AllDayTCG|Crown Zenith": [
+   "listato",
+   1
+  ],
+  "Poke-Power|Prismatic Evolutions": [
+   "esaurito",
+   1
+  ],
+  "OutpostBrussels|Phantasmal Flames (ME02)": [
+   "esaurito",
+   1
+  ],
+  "OutpostBrussels|Pokémon 151": [
+   "listato",
+   1
+  ],
+  "OutpostBrussels|Prismatic Evolutions": [
+   "esaurito",
+   1
+  ],
+  "God of Cards|Pokémon 151": [
+   "disponibile",
+   1
+  ],
+  "Rogerz|Phantasmal Flames (ME02)": [
+   "listato",
+   1
+  ],
+  "Rogerz|Pokémon 151": [
+   "listato",
+   1
+  ],
+  "CardZone|Phantasmal Flames (ME02)": [
+   "listato",
+   1
+  ],
+  "CardZone|Pokémon 151": [
+   "esaurito",
+   1
+  ],
+  "Total Cards (UK)|Chaos Rising (ME04)": [
+   "esaurito",
+   1
+  ],
   "LetsGoTry|Chaos Rising (ME04)": [
    "listato",
    1
@@ -1015,7 +1063,7 @@
   "Pikashop|Chaos Rising (ME04)": "https://pikashop.pl/?s=chaos+rising&post_type=product",
   "Pokemania.ro|Pitch Black (ME05)": "https://pokemania.ro/?s=pitch+black&post_type=product",
   "SunnyStore|Pokémon 151": "https://sunnystore.es/search?q=pokemon+151",
-  "Total Cards (UK)|Pitch Black (ME05)": "https://totalcards.net/products/pokemon-mega-evolution-pitch-black-booster-pack?_pos=2&_sid=781ffb35f&_ss=r",
+  "Total Cards (UK)|Pitch Black (ME05)": "https://totalcards.net/products/pokemon-mega-evolution-pitch-black-booster-pack?_pos=2&_sid=32181477a&_ss=r",
   "Total Cards (UK)|30th Celebration": "https://totalcards.net/products/pokemon-30th-celebration-booster-pack?_pos=1&_sid=7005b540d&_ss=r"
  },
  "digest_slot": "2026-07-06-18",
@@ -1080,8 +1128,7 @@
   "cardcorner.at": 12,
   "www.blackfire.eu": 9,
   "www.pokemillon.com": 5,
-  "www.amazon.it": 5,
-  "pokeboxstore.pt": 3
+  "www.amazon.it": 5
  },
  "runno": 191
 }
