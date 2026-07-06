@@ -984,7 +984,12 @@
   "Total Cards (UK)|Pitch Black (ME05)": "£4.79",
   "Stoyanov Games|Pitch Black (ME05)": "8.00€"
  },
- "pending": {},
+ "pending": {
+  "LetsGoTry|Chaos Rising (ME04)": [
+   "non listato",
+   1
+  ]
+ },
  "urls": {
   "Rogerz|Pitch Black (ME05)": "https://rogerz.dk/search?q=pitch+black",
   "Packratt (UK)|Chaos Rising (ME04)": "https://packratt.co.uk/search?q=chaos+rising",
@@ -1001,11 +1006,11 @@
   "Sapphire-Cards|Crown Zenith": "https://sapphire-cards.de/?s=crown+zenith&post_type=product",
   "Sapphire-Cards|Destined Rivals": "https://sapphire-cards.de/?s=destined+rivals&post_type=product",
   "Stoyanov Games|Pitch Black (ME05)": "https://stoyanov-gamesbg.com/pre-order-pokemon-tcg-mega-evolution-pitch-black-elite-trainer-box-френски-език/",
-  "LetsGoTry|30th Celebration": "https://letsgotry.pl/zestawy-eng/15892--preorder-pokemon-tcg-30th-celebration-elite-trainer-box.html",
+  "LetsGoTry|30th Celebration": "https://letsgotry.pl/zestawy-eng/15896--preorder-pokemon-tcg-30th-celebration-2-pack.html",
   "Pikashop|Chaos Rising (ME04)": "https://pikashop.pl/?s=chaos+rising&post_type=product",
   "Pokemania.ro|Pitch Black (ME05)": "https://pokemania.ro/?s=pitch+black&post_type=product",
   "SunnyStore|Pokémon 151": "https://sunnystore.es/search?q=pokemon+151",
-  "Total Cards (UK)|Pitch Black (ME05)": "https://totalcards.net/products/pokemon-mega-evolution-pitch-black-booster-pack?_pos=1&_sid=6f5b59d18&_ss=r",
+  "Total Cards (UK)|Pitch Black (ME05)": "https://totalcards.net/products/pokemon-mega-evolution-pitch-black-booster-pack?_pos=1&_sid=4c81a949d&_ss=r",
   "Total Cards (UK)|30th Celebration": "https://totalcards.net/products/pokemon-30th-celebration-booster-pack?_pos=1&_sid=60c624b32&_ss=r"
  },
  "digest_slot": "2026-07-05-22",
@@ -1034,7 +1039,7 @@
   "geco-shop.de": 9,
   "www.chaoscards.co.uk": 8,
   "fabscards.at": 9,
-  "www.deckshop.de": 8,
+  "www.deckshop.de": 9,
   "www.waylandgames.co.uk": 9,
   "www.firestormgames.co.uk": 9,
   "crispycards.de": 9,
@@ -1053,7 +1058,7 @@
   "www.pokemillon.com": 8,
   "lorenzone.fr": 8,
   "papelinho.pt": 9,
-  "www.pokekarty.pl": 8,
+  "www.pokekarty.pl": 9,
   "pokeka.hu": 8,
   "itcg.bg": 9,
   "www.wakuwaku.cz": 8,
@@ -1064,5 +1069,5 @@
   "www.amazon.it": 4,
   "pokewoke.store": 3
  },
- "runno": 70
+ "runno": 71
 }
