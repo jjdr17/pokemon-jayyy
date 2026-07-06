@@ -273,7 +273,7 @@
    "Pitch Black (ME05)": "non listato",
    "30th Celebration": "non listato",
    "Storm Emerald (ME06)": "non listato",
-   "Chaos Rising (ME04)": "disponibile",
+   "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "esaurito",
    "Pokémon 151": "listato",
    "Prismatic Evolutions": "listato",
@@ -985,10 +985,6 @@
   "Stoyanov Games|Pitch Black (ME05)": "8.00€"
  },
  "pending": {
-  "Packratt (UK)|Chaos Rising (ME04)": [
-   "listato",
-   1
-  ],
   "LetsGoTry|Chaos Rising (ME04)": [
    "non listato",
    1
@@ -1014,8 +1010,8 @@
   "Pikashop|Chaos Rising (ME04)": "https://pikashop.pl/?s=chaos+rising&post_type=product",
   "Pokemania.ro|Pitch Black (ME05)": "https://pokemania.ro/?s=pitch+black&post_type=product",
   "SunnyStore|Pokémon 151": "https://sunnystore.es/search?q=pokemon+151",
-  "Total Cards (UK)|Pitch Black (ME05)": "https://totalcards.net/products/pokemon-mega-evolution-pitch-black-booster-pack?_pos=1&_sid=ee02f629a&_ss=r",
-  "Total Cards (UK)|30th Celebration": "https://totalcards.net/products/pokemon-30th-celebration-booster-pack?_pos=1&_sid=611dcb2c2&_ss=r"
+  "Total Cards (UK)|Pitch Black (ME05)": "https://totalcards.net/products/pokemon-mega-evolution-pitch-black-booster-pack?_pos=1&_sid=6d419893f&_ss=r",
+  "Total Cards (UK)|30th Celebration": "https://totalcards.net/products/pokemon-30th-celebration-booster-pack?_pos=1&_sid=d2a1eda46&_ss=r"
  },
  "digest_slot": "2026-07-06-15",
  "log": [
@@ -1068,20 +1064,19 @@
   "tcgfanshop.nl": 17,
   "www.nerdom.gr": 16,
   "tcgstore.se": 17,
-  "lorenzone.fr": 16,
+  "lorenzone.fr": 17,
   "papelinho.pt": 17,
   "www.pokekarty.pl": 17,
-  "pokeka.hu": 16,
+  "pokeka.hu": 17,
   "itcg.bg": 17,
-  "www.wakuwaku.cz": 16,
+  "www.wakuwaku.cz": 17,
   "www.pokemonia.ro": 17,
   "en.tcg-shop.at": 17,
   "cardcorner.at": 10,
-  "www.blackfire.eu": 7,
+  "www.blackfire.eu": 8,
   "pokewoke.store": 4,
-  "www.pokemillon.com": 3,
-  "www.amazon.it": 2,
-  "tcgdistribution.fr": 1
+  "www.pokemillon.com": 4,
+  "letsgotry.pl": 1
  },
- "runno": 169
+ "runno": 170
 }
