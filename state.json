@@ -837,7 +837,7 @@
    "Pitch Black (ME05)": "listato",
    "30th Celebration": "disponibile",
    "Storm Emerald (ME06)": "listato",
-   "Chaos Rising (ME04)": "non listato",
+   "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "non listato",
    "Prismatic Evolutions": "non listato",
@@ -979,13 +979,13 @@
   "Packratt (UK)|Chaos Rising (ME04)": "£10.01",
   "Packratt (UK)|Pokémon 151": "£29.99",
   "PokeCardShop|Chaos Rising (ME04)": "€6.95",
-  "MagicBazar|Pitch Black (ME05)": "$85",
+  "MagicBazar|Pitch Black (ME05)": "$84",
   "SunnyStore|Pokémon 151": "€26,90",
   "Total Cards (UK)|Pitch Black (ME05)": "£4.79",
   "Stoyanov Games|Pitch Black (ME05)": "8.00€"
  },
  "pending": {
-  "LetsGoTry|Chaos Rising (ME04)": [
+  "LetsGoTry|30th Celebration": [
    "listato",
    1
   ]
@@ -1010,8 +1010,8 @@
   "Pikashop|Chaos Rising (ME04)": "https://pikashop.pl/?s=chaos+rising&post_type=product",
   "Pokemania.ro|Pitch Black (ME05)": "https://pokemania.ro/?s=pitch+black&post_type=product",
   "SunnyStore|Pokémon 151": "https://sunnystore.es/search?q=pokemon+151",
-  "Total Cards (UK)|Pitch Black (ME05)": "https://totalcards.net/products/pokemon-mega-evolution-pitch-black-booster-pack?_pos=1&_sid=d52e3a579&_ss=r",
-  "Total Cards (UK)|30th Celebration": "https://totalcards.net/products/pokemon-30th-celebration-booster-pack?_pos=1&_sid=302bf522f&_ss=r"
+  "Total Cards (UK)|Pitch Black (ME05)": "https://totalcards.net/products/pokemon-mega-evolution-pitch-black-booster-pack?_pos=1&_sid=9a27df788&_ss=r",
+  "Total Cards (UK)|30th Celebration": "https://totalcards.net/products/pokemon-30th-celebration-booster-pack?_pos=1&_sid=0335536b5&_ss=r"
  },
  "digest_slot": "2026-07-06-10",
  "log": [
@@ -1044,7 +1044,7 @@
   "geco-shop.de": 13,
   "www.chaoscards.co.uk": 12,
   "fabscards.at": 13,
-  "www.deckshop.de": 12,
+  "www.deckshop.de": 13,
   "www.waylandgames.co.uk": 13,
   "www.firestormgames.co.uk": 13,
   "crispycards.de": 13,
@@ -1062,7 +1062,7 @@
   "www.pokemillon.com": 12,
   "lorenzone.fr": 12,
   "papelinho.pt": 13,
-  "www.pokekarty.pl": 12,
+  "www.pokekarty.pl": 13,
   "pokeka.hu": 12,
   "itcg.bg": 13,
   "www.wakuwaku.cz": 12,
@@ -1071,7 +1071,8 @@
   "cardcorner.at": 6,
   "pokewoke.store": 4,
   "www.blackfire.eu": 3,
-  "www.amazon.it": 1
+  "www.amazon.it": 2,
+  "tcgdistribution.fr": 1
  },
- "runno": 118
+ "runno": 119
 }
