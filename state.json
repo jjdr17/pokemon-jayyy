@@ -988,6 +988,18 @@
   "Amazon.it|Storm Emerald (ME06)": [
    "listato",
    1
+  ],
+  "LetsGoTry|Chaos Rising (ME04)": [
+   "non listato",
+   1
+  ],
+  "PokeCardShop|30th Celebration": [
+   "non listato",
+   1
+  ],
+  "PokeCardShop|Crown Zenith": [
+   "non listato",
+   1
   ]
  },
  "urls": {
@@ -1006,11 +1018,11 @@
   "Sapphire-Cards|Crown Zenith": "https://sapphire-cards.de/?s=crown+zenith&post_type=product",
   "Sapphire-Cards|Destined Rivals": "https://sapphire-cards.de/?s=destined+rivals&post_type=product",
   "Stoyanov Games|Pitch Black (ME05)": "https://stoyanov-gamesbg.com/pre-order-pokemon-tcg-mega-evolution-pitch-black-elite-trainer-box-френски-език/",
-  "LetsGoTry|30th Celebration": "https://letsgotry.pl/zestawy-eng/15896--preorder-pokemon-tcg-30th-celebration-2-pack.html",
+  "LetsGoTry|30th Celebration": "https://letsgotry.pl/zestawy-eng/15895--preorder-pokemon-tcg-30th-celebration-binder-collection.html",
   "Pikashop|Chaos Rising (ME04)": "https://pikashop.pl/?s=chaos+rising&post_type=product",
   "Pokemania.ro|Pitch Black (ME05)": "https://pokemania.ro/?s=pitch+black&post_type=product",
   "SunnyStore|Pokémon 151": "https://sunnystore.es/search?q=pokemon+151",
-  "Total Cards (UK)|Pitch Black (ME05)": "https://totalcards.net/products/pokemon-mega-evolution-pitch-black-booster-pack?_pos=1&_sid=accf128d9&_ss=r",
+  "Total Cards (UK)|Pitch Black (ME05)": "https://totalcards.net/products/pokemon-mega-evolution-pitch-black-booster-pack?_pos=1&_sid=7c0b87bfc&_ss=r",
   "Total Cards (UK)|30th Celebration": "https://totalcards.net/products/pokemon-30th-celebration-booster-pack?_pos=1&_sid=b180b36dc&_ss=r"
  },
  "digest_slot": "2026-07-06-10",
@@ -1059,19 +1071,18 @@
   "tcgfanshop.nl": 14,
   "www.nerdom.gr": 13,
   "tcgstore.se": 14,
-  "www.pokemillon.com": 13,
-  "lorenzone.fr": 13,
+  "www.pokemillon.com": 14,
+  "lorenzone.fr": 14,
   "papelinho.pt": 14,
   "www.pokekarty.pl": 14,
-  "pokeka.hu": 13,
+  "pokeka.hu": 14,
   "itcg.bg": 14,
-  "www.wakuwaku.cz": 13,
+  "www.wakuwaku.cz": 14,
   "www.pokemonia.ro": 14,
   "en.tcg-shop.at": 14,
   "cardcorner.at": 7,
-  "www.blackfire.eu": 4,
-  "www.amazon.it": 1,
-  "tcgdistribution.fr": 1
+  "www.blackfire.eu": 5,
+  "www.amazon.it": 2
  },
- "runno": 133
+ "runno": 134
 }
