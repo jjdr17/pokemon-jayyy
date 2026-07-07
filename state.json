@@ -837,7 +837,7 @@
    "Pitch Black (ME05)": "listato",
    "30th Celebration": "disponibile",
    "Storm Emerald (ME06)": "listato",
-   "Chaos Rising (ME04)": "listato",
+   "Chaos Rising (ME04)": "non listato",
    "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "non listato",
    "Prismatic Evolutions": "non listato",
@@ -989,12 +989,7 @@
   "Total Cards (UK)|Pitch Black (ME05)": "£4.79",
   "Stoyanov Games|Pitch Black (ME05)": "8.00€"
  },
- "pending": {
-  "LetsGoTry|Chaos Rising (ME04)": [
-   "non listato",
-   1
-  ]
- },
+ "pending": {},
  "urls": {
   "Rogerz|Pitch Black (ME05)": "https://rogerz.dk/search?q=pitch+black",
   "Packratt (UK)|Chaos Rising (ME04)": "https://packratt.co.uk/search?q=chaos+rising",
@@ -1011,12 +1006,12 @@
   "Sapphire-Cards|Crown Zenith": "https://sapphire-cards.de/?s=crown+zenith&post_type=product",
   "Sapphire-Cards|Destined Rivals": "https://sapphire-cards.de/?s=destined+rivals&post_type=product",
   "Stoyanov Games|Pitch Black (ME05)": "https://stoyanov-gamesbg.com/pre-order-pokemon-tcg-mega-evolution-pitch-black-elite-trainer-box-френски-език/",
-  "LetsGoTry|30th Celebration": "https://letsgotry.pl/zestawy-eng/15893--preorder-pokemon-tcg-30th-celebration-tin-sylveon-ex.html",
+  "LetsGoTry|30th Celebration": "https://letsgotry.pl/zestawy-eng/15892--preorder-pokemon-tcg-30th-celebration-elite-trainer-box.html",
   "Pikashop|Chaos Rising (ME04)": "https://pikashop.pl/?s=chaos+rising&post_type=product",
   "Pokemania.ro|Pitch Black (ME05)": "https://pokemania.ro/?s=pitch+black&post_type=product",
   "SunnyStore|Pokémon 151": "https://sunnystore.es/search?q=pokemon+151",
   "Total Cards (UK)|Pitch Black (ME05)": "https://totalcards.net/products/pokemon-mega-evolution-pitch-black-booster-pack?_pos=2&_sid=94ee142a0&_ss=r",
-  "Total Cards (UK)|30th Celebration": "https://totalcards.net/products/pokemon-30th-celebration-japanese-booster-box-20-packs?_pos=1&_sid=63164d1a0&_ss=r"
+  "Total Cards (UK)|30th Celebration": "https://totalcards.net/products/pokemon-30th-celebration-japanese-booster-box-20-packs?_pos=1&_sid=817d5f89e&_ss=r"
  },
  "digest_slot": "2026-07-07-10",
  "log": [
@@ -1058,22 +1053,22 @@
  ],
  "down": {
   "www.cardmarket.com": 32,
-  "www.gamestop.com": 31,
+  "www.gamestop.com": 32,
   "www.gamelife.it": 32,
   "pokeseller14.com": 32,
   "geco-shop.de": 32,
-  "www.chaoscards.co.uk": 31,
+  "www.chaoscards.co.uk": 32,
   "fabscards.at": 32,
   "www.waylandgames.co.uk": 32,
   "www.firestormgames.co.uk": 32,
   "crispycards.de": 32,
-  "misticards.com": 31,
+  "misticards.com": 32,
   "pokechest.at": 31,
   "bescards.com": 32,
   "hobbykort.se": 32,
   "rarecards.nl": 31,
   "pokevend.at": 31,
-  "www.poketalk.se": 31,
+  "www.poketalk.se": 32,
   "tcgcompany.nl": 32,
   "www.nerdom.gr": 31,
   "tcgstore.se": 32,
@@ -1091,8 +1086,7 @@
   "www.deckshop.de": 7,
   "www.blackfire.eu": 4,
   "www.amazon.it": 4,
-  "alldaytcg.com": 1,
-  "pokeboxstore.pt": 1
+  "tcgdistribution.fr": 1
  },
- "runno": 347
+ "runno": 348
 }
