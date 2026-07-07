@@ -837,7 +837,7 @@
    "Pitch Black (ME05)": "listato",
    "30th Celebration": "disponibile",
    "Storm Emerald (ME06)": "listato",
-   "Chaos Rising (ME04)": "listato",
+   "Chaos Rising (ME04)": "non listato",
    "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "non listato",
    "Prismatic Evolutions": "non listato",
@@ -990,8 +990,12 @@
   "Stoyanov Games|Pitch Black (ME05)": "8.00€"
  },
  "pending": {
-  "LetsGoTry|Chaos Rising (ME04)": [
+  "God of Cards|Crown Zenith": [
    "non listato",
+   1
+  ],
+  "LetsGoTry|30th Celebration": [
+   "listato",
    1
   ]
  },
@@ -1080,7 +1084,7 @@
   "misticards.com": 39,
   "pokechest.at": 39,
   "bescards.com": 40,
-  "hobbykort.se": 39,
+  "hobbykort.se": 40,
   "rarecards.nl": 39,
   "pokevend.at": 39,
   "www.poketalk.se": 39,
@@ -1100,8 +1104,7 @@
   "tcgfanshop.nl": 15,
   "www.deckshop.de": 14,
   "www.blackfire.eu": 5,
-  "www.amazon.it": 3,
-  "tcgdistribution.fr": 1
+  "www.amazon.it": 3
  },
- "runno": 437
+ "runno": 438
 }
