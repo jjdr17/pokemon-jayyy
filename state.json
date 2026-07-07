@@ -990,16 +990,8 @@
   "Stoyanov Games|Pitch Black (ME05)": "8.00€"
  },
  "pending": {
-  "AllDayTCG|Pokémon 151": [
-   "esaurito",
-   1
-  ],
-  "God of Cards|Chaos Rising (ME04)": [
-   "non listato",
-   1
-  ],
-  "Total Cards (UK)|Premium Deck Espeon & Umbreon (30th)": [
-   "non listato",
+  "LetsGoTry|30th Celebration": [
+   "disponibile",
    1
   ]
  },
@@ -1026,7 +1018,7 @@
   "Total Cards (UK)|Pitch Black (ME05)": "https://totalcards.net/products/pokemon-mega-evolution-pitch-black-booster-pack?_pos=2&_sid=94ee142a0&_ss=r",
   "Total Cards (UK)|30th Celebration": "https://totalcards.net/products/pokemon-30th-celebration-japanese-booster-box-20-packs?_pos=1&_sid=4fbcae543&_ss=r"
  },
- "digest_slot": "2026-07-07-10",
+ "digest_slot": "2026-07-07-15",
  "log": [
   {
    "ts": "05/07 19:55",
@@ -1084,11 +1076,11 @@
   "pokechest.at": 34,
   "bescards.com": 34,
   "hobbykort.se": 34,
-  "rarecards.nl": 33,
-  "pokevend.at": 33,
+  "rarecards.nl": 34,
+  "pokevend.at": 34,
   "www.poketalk.se": 34,
   "tcgcompany.nl": 34,
-  "www.nerdom.gr": 33,
+  "www.nerdom.gr": 34,
   "tcgstore.se": 34,
   "papelinho.pt": 34,
   "www.pokekarty.pl": 34,
@@ -1103,8 +1095,9 @@
   "tcgfanshop.nl": 10,
   "www.deckshop.de": 9,
   "www.blackfire.eu": 5,
-  "www.amazon.it": 1,
-  "pokeboxstore.pt": 1
+  "pokeboxstore.pt": 2,
+  "games-island.eu": 1,
+  "tradingcard.fi": 1
  },
- "runno": 374
+ "runno": 375
 }
