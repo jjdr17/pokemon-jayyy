@@ -990,7 +990,35 @@
   "Stoyanov Games|Pitch Black (ME05)": "8.00€"
  },
  "pending": {
-  "LetsGoTry|Chaos Rising (ME04)": [
+  "OutpostBrussels|Pokémon 151": [
+   "listato",
+   1
+  ],
+  "AllDayTCG|Pokémon 151": [
+   "esaurito",
+   1
+  ],
+  "AllDayTCG|Prismatic Evolutions": [
+   "esaurito",
+   1
+  ],
+  "CardZone|Phantasmal Flames (ME02)": [
+   "listato",
+   1
+  ],
+  "SunnyStore|Prismatic Evolutions": [
+   "esaurito",
+   1
+  ],
+  "God of Cards|Chaos Rising (ME04)": [
+   "non listato",
+   1
+  ],
+  "Rogerz|Phantasmal Flames (ME02)": [
+   "listato",
+   1
+  ],
+  "LetsGoTry|30th Celebration": [
    "listato",
    1
   ]
@@ -1016,7 +1044,7 @@
   "Pokemania.ro|Pitch Black (ME05)": "https://pokemania.ro/?s=pitch+black&post_type=product",
   "SunnyStore|Pokémon 151": "https://sunnystore.es/search?q=pokemon+151",
   "Total Cards (UK)|Pitch Black (ME05)": "https://totalcards.net/products/pokemon-mega-evolution-pitch-black-booster-pack?_pos=2&_sid=94ee142a0&_ss=r",
-  "Total Cards (UK)|30th Celebration": "https://totalcards.net/products/pokemon-30th-celebration-japanese-booster-box-20-packs?_pos=1&_sid=282a1e4d1&_ss=r"
+  "Total Cards (UK)|30th Celebration": "https://totalcards.net/products/pokemon-30th-celebration-japanese-booster-box-20-packs?_pos=1&_sid=2605df60a&_ss=r"
  },
  "digest_slot": "2026-07-07-22",
  "log": [
@@ -1069,11 +1097,11 @@
  "down": {
   "www.cardmarket.com": 39,
   "www.gamestop.com": 39,
-  "www.gamelife.it": 39,
-  "pokeseller14.com": 39,
-  "geco-shop.de": 39,
+  "www.gamelife.it": 40,
+  "pokeseller14.com": 40,
+  "geco-shop.de": 40,
   "www.chaoscards.co.uk": 39,
-  "fabscards.at": 39,
+  "fabscards.at": 40,
   "www.waylandgames.co.uk": 39,
   "www.firestormgames.co.uk": 40,
   "crispycards.de": 39,
@@ -1100,7 +1128,7 @@
   "tcgfanshop.nl": 15,
   "www.deckshop.de": 14,
   "www.blackfire.eu": 5,
-  "www.amazon.it": 3
+  "www.amazon.it": 4
  },
- "runno": 439
+ "runno": 440
 }
