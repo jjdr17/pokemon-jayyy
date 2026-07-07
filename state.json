@@ -835,7 +835,7 @@
   },
   "LetsGoTry": {
    "Pitch Black (ME05)": "listato",
-   "30th Celebration": "listato",
+   "30th Celebration": "disponibile",
    "Storm Emerald (ME06)": "listato",
    "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "non listato",
@@ -978,7 +978,7 @@
  },
  "alerts": {
   "drop|MagicBazar|Pitch Black (ME05)": 1783274158.1076322,
-  "LetsGoTry|30th Celebration": 1783378285.6432726
+  "LetsGoTry|30th Celebration": 1783401358.4775798
  },
  "prices": {
   "Packratt (UK)|Chaos Rising (ME04)": "£10.01",
@@ -990,8 +990,8 @@
   "Stoyanov Games|Pitch Black (ME05)": "8.00€"
  },
  "pending": {
-  "LetsGoTry|30th Celebration": [
-   "disponibile",
+  "PokeCardShop|Chaos Rising (ME04)": [
+   "non listato",
    1
   ]
  },
@@ -1011,11 +1011,11 @@
   "Sapphire-Cards|Crown Zenith": "https://sapphire-cards.de/?s=crown+zenith&post_type=product",
   "Sapphire-Cards|Destined Rivals": "https://sapphire-cards.de/?s=destined+rivals&post_type=product",
   "Stoyanov Games|Pitch Black (ME05)": "https://stoyanov-gamesbg.com/pre-order-pokemon-tcg-mega-evolution-pitch-black-elite-trainer-box-френски-език/",
-  "LetsGoTry|30th Celebration": "https://letsgotry.pl/zestawy-eng/15892--preorder-pokemon-tcg-30th-celebration-elite-trainer-box.html",
+  "LetsGoTry|30th Celebration": "https://letsgotry.pl/zestawy-eng/15893--preorder-pokemon-tcg-30th-celebration-tin-sylveon-ex.html",
   "Pikashop|Chaos Rising (ME04)": "https://pikashop.pl/?s=chaos+rising&post_type=product",
   "Pokemania.ro|Pitch Black (ME05)": "https://pokemania.ro/?s=pitch+black&post_type=product",
   "SunnyStore|Pokémon 151": "https://sunnystore.es/search?q=pokemon+151",
-  "Total Cards (UK)|Pitch Black (ME05)": "https://totalcards.net/products/pokemon-mega-evolution-pitch-black-booster-pack?_pos=2&_sid=9ecb3413a&_ss=r",
+  "Total Cards (UK)|Pitch Black (ME05)": "https://totalcards.net/products/pokemon-mega-evolution-pitch-black-booster-pack?_pos=2&_sid=f841149df&_ss=r",
   "Total Cards (UK)|30th Celebration": "https://totalcards.net/products/pokemon-30th-celebration-japanese-booster-box-20-packs?_pos=2&_sid=e2d6c18d3&_ss=r"
  },
  "digest_slot": "2026-07-06-22",
@@ -1049,16 +1049,21 @@
    "ts": "07/07 00:51",
    "title": "🚨 DISPONIBILE/PREORDER: 30th Celebration — LetsGoTry",
    "url": "https://letsgotry.pl/zestawy-eng/15895--preorder-pokemon-tcg-30th-celebration-binder-collection.html"
+  },
+  {
+   "ts": "07/07 07:15",
+   "title": "🚨 DISPONIBILE/PREORDER: 30th Celebration — LetsGoTry",
+   "url": "https://letsgotry.pl/zestawy-eng/15893--preorder-pokemon-tcg-30th-celebration-tin-sylveon-ex.html"
   }
  ],
  "down": {
   "www.cardmarket.com": 28,
   "www.gamestop.com": 28,
-  "www.gamelife.it": 28,
-  "pokeseller14.com": 28,
-  "geco-shop.de": 28,
+  "www.gamelife.it": 29,
+  "pokeseller14.com": 29,
+  "geco-shop.de": 29,
   "www.chaoscards.co.uk": 28,
-  "fabscards.at": 28,
+  "fabscards.at": 29,
   "www.waylandgames.co.uk": 28,
   "www.firestormgames.co.uk": 29,
   "crispycards.de": 28,
@@ -1084,8 +1089,9 @@
   "lorenzone.fr": 6,
   "www.blackfire.eu": 5,
   "tcgfanshop.nl": 4,
-  "www.amazon.it": 3,
-  "www.deckshop.de": 3
+  "www.amazon.it": 4,
+  "www.deckshop.de": 3,
+  "pokeboxstore.pt": 1
  },
- "runno": 307
+ "runno": 308
 }
