@@ -989,16 +989,7 @@
   "Total Cards (UK)|Pitch Black (ME05)": "£4.79",
   "Stoyanov Games|Pitch Black (ME05)": "8.00€"
  },
- "pending": {
-  "SunnyStore|Prismatic Evolutions": [
-   "esaurito",
-   1
-  ],
-  "LetsGoTry|30th Celebration": [
-   "listato",
-   1
-  ]
- },
+ "pending": {},
  "urls": {
   "Rogerz|Pitch Black (ME05)": "https://rogerz.dk/search?q=pitch+black",
   "Packratt (UK)|Chaos Rising (ME04)": "https://packratt.co.uk/search?q=chaos+rising",
@@ -1015,7 +1006,7 @@
   "Sapphire-Cards|Crown Zenith": "https://sapphire-cards.de/?s=crown+zenith&post_type=product",
   "Sapphire-Cards|Destined Rivals": "https://sapphire-cards.de/?s=destined+rivals&post_type=product",
   "Stoyanov Games|Pitch Black (ME05)": "https://stoyanov-gamesbg.com/pre-order-pokemon-tcg-mega-evolution-pitch-black-elite-trainer-box-френски-език/",
-  "LetsGoTry|30th Celebration": "https://letsgotry.pl/zestawy-eng/15892--preorder-pokemon-tcg-30th-celebration-elite-trainer-box.html",
+  "LetsGoTry|30th Celebration": "https://letsgotry.pl/zestawy-eng/15895--preorder-pokemon-tcg-30th-celebration-binder-collection.html",
   "Pikashop|Chaos Rising (ME04)": "https://pikashop.pl/?s=chaos+rising&post_type=product",
   "Pokemania.ro|Pitch Black (ME05)": "https://pokemania.ro/?s=pitch+black&post_type=product",
   "SunnyStore|Pokémon 151": "https://sunnystore.es/search?q=pokemon+151",
@@ -1069,7 +1060,7 @@
   "www.chaoscards.co.uk": 30,
   "fabscards.at": 30,
   "www.waylandgames.co.uk": 30,
-  "www.firestormgames.co.uk": 30,
+  "www.firestormgames.co.uk": 31,
   "crispycards.de": 30,
   "misticards.com": 30,
   "pokechest.at": 30,
@@ -1086,7 +1077,7 @@
   "pokeka.hu": 30,
   "itcg.bg": 30,
   "www.wakuwaku.cz": 30,
-  "www.pokemonia.ro": 30,
+  "www.pokemonia.ro": 31,
   "en.tcg-shop.at": 30,
   "cardcorner.at": 23,
   "www.pokemillon.com": 17,
@@ -1094,13 +1085,12 @@
   "tcgfanshop.nl": 6,
   "www.deckshop.de": 5,
   "pokeboxstore.pt": 3,
-  "www.blackfire.eu": 2,
-  "www.amazon.it": 1,
-  "pokectcg.cz": 1,
-  "pokewoke.store": 1,
-  "tcgpikas.lt": 1,
-  "pokemonworld.lt": 1,
-  "extremepokecorner.com": 1
+  "www.blackfire.eu": 3,
+  "pokectcg.cz": 2,
+  "pokewoke.store": 2,
+  "tcgpikas.lt": 2,
+  "pokemonworld.lt": 2,
+  "extremepokecorner.com": 2
  },
- "runno": 328
+ "runno": 329
 }
