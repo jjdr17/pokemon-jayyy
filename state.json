@@ -989,52 +989,7 @@
   "Total Cards (UK)|Pitch Black (ME05)": "£4.79",
   "Stoyanov Games|Pitch Black (ME05)": "8.00€"
  },
- "pending": {
-  "AllDayTCG|Pokémon 151": [
-   "esaurito",
-   1
-  ],
-  "AllDayTCG|Destined Rivals": [
-   "listato",
-   1
-  ],
-  "SunnyStore|Prismatic Evolutions": [
-   "esaurito",
-   1
-  ],
-  "OutpostBrussels|Pokémon 151": [
-   "listato",
-   1
-  ],
-  "OutpostBrussels|Destined Rivals": [
-   "esaurito",
-   1
-  ],
-  "Rogerz|Phantasmal Flames (ME02)": [
-   "listato",
-   1
-  ],
-  "Poke-Power|Prismatic Evolutions": [
-   "esaurito",
-   1
-  ],
-  "Poke-Power|Crown Zenith": [
-   "esaurito",
-   1
-  ],
-  "God of Cards|Chaos Rising (ME04)": [
-   "non listato",
-   1
-  ],
-  "CardZone|Pokémon 151": [
-   "esaurito",
-   1
-  ],
-  "Total Cards (UK)|Premium Deck Espeon & Umbreon (30th)": [
-   "non listato",
-   1
-  ]
- },
+ "pending": {},
  "urls": {
   "Rogerz|Pitch Black (ME05)": "https://rogerz.dk/search?q=pitch+black",
   "Packratt (UK)|Chaos Rising (ME04)": "https://packratt.co.uk/search?q=chaos+rising",
@@ -1103,22 +1058,22 @@
  ],
  "down": {
   "www.cardmarket.com": 35,
-  "www.gamestop.com": 34,
+  "www.gamestop.com": 35,
   "www.gamelife.it": 35,
   "pokeseller14.com": 35,
   "geco-shop.de": 35,
-  "www.chaoscards.co.uk": 34,
+  "www.chaoscards.co.uk": 35,
   "fabscards.at": 35,
   "www.waylandgames.co.uk": 35,
   "www.firestormgames.co.uk": 35,
   "crispycards.de": 35,
-  "misticards.com": 34,
+  "misticards.com": 35,
   "pokechest.at": 34,
   "bescards.com": 35,
   "hobbykort.se": 35,
   "rarecards.nl": 34,
   "pokevend.at": 34,
-  "www.poketalk.se": 34,
+  "www.poketalk.se": 35,
   "tcgcompany.nl": 35,
   "www.nerdom.gr": 34,
   "tcgstore.se": 35,
@@ -1135,8 +1090,7 @@
   "tcgfanshop.nl": 10,
   "www.deckshop.de": 10,
   "www.blackfire.eu": 5,
-  "www.amazon.it": 4,
-  "tcgdistribution.fr": 1
+  "www.amazon.it": 4
  },
- "runno": 383
+ "runno": 384
 }
