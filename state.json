@@ -990,16 +990,32 @@
   "Stoyanov Games|Pitch Black (ME05)": "8.00€"
  },
  "pending": {
-  "SunnyStore|Prismatic Evolutions": [
+  "AllDayTCG|Pokémon 151": [
    "esaurito",
    1
   ],
-  "SunnyStore|Crown Zenith": [
+  "AllDayTCG|Prismatic Evolutions": [
+   "esaurito",
+   1
+  ],
+  "AllDayTCG|Crown Zenith": [
    "listato",
    1
   ],
-  "SunnyStore|Destined Rivals": [
+  "AllDayTCG|Destined Rivals": [
+   "listato",
+   1
+  ],
+  "CardZone|Phantasmal Flames (ME02)": [
+   "listato",
+   1
+  ],
+  "CardZone|Pokémon 151": [
    "esaurito",
+   1
+  ],
+  "LetsGoTry|30th Celebration": [
+   "disponibile",
    1
   ]
  },
@@ -1087,9 +1103,9 @@
   "rarecards.nl": 36,
   "pokevend.at": 36,
   "www.poketalk.se": 36,
-  "tcgcompany.nl": 36,
+  "tcgcompany.nl": 37,
   "www.nerdom.gr": 36,
-  "tcgstore.se": 36,
+  "tcgstore.se": 37,
   "papelinho.pt": 36,
   "www.pokekarty.pl": 36,
   "pokeka.hu": 36,
@@ -1104,12 +1120,7 @@
   "www.deckshop.de": 11,
   "www.blackfire.eu": 7,
   "www.amazon.it": 6,
-  "pokeboxstore.pt": 2,
-  "pokectcg.cz": 1,
-  "pokewoke.store": 1,
-  "tcgpikas.lt": 1,
-  "pokemonworld.lt": 1,
-  "extremepokecorner.com": 1
+  "pokeboxstore.pt": 3
  },
- "runno": 404
+ "runno": 405
 }
