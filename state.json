@@ -835,7 +835,7 @@
   },
   "LetsGoTry": {
    "Pitch Black (ME05)": "listato",
-   "30th Celebration": "disponibile",
+   "30th Celebration": "listato",
    "Storm Emerald (ME06)": "listato",
    "Chaos Rising (ME04)": "non listato",
    "Phantasmal Flames (ME02)": "non listato",
@@ -989,16 +989,7 @@
   "Total Cards (UK)|Pitch Black (ME05)": "£4.79",
   "Stoyanov Games|Pitch Black (ME05)": "8.00€"
  },
- "pending": {
-  "SunnyStore|Storm Emerald (ME06)": [
-   "listato",
-   1
-  ],
-  "LetsGoTry|30th Celebration": [
-   "listato",
-   1
-  ]
- },
+ "pending": {},
  "urls": {
   "Rogerz|Pitch Black (ME05)": "https://rogerz.dk/search?q=pitch+black",
   "Packratt (UK)|Chaos Rising (ME04)": "https://packratt.co.uk/search?q=chaos+rising",
@@ -1019,7 +1010,7 @@
   "Pikashop|Chaos Rising (ME04)": "https://pikashop.pl/?s=chaos+rising&post_type=product",
   "Pokemania.ro|Pitch Black (ME05)": "https://pokemania.ro/?s=pitch+black&post_type=product",
   "SunnyStore|Pokémon 151": "https://sunnystore.es/search?q=pokemon+151",
-  "Total Cards (UK)|Pitch Black (ME05)": "https://totalcards.net/products/pokemon-mega-evolution-pitch-black-booster-pack?_pos=2&_sid=940735c8b&_ss=r",
+  "Total Cards (UK)|Pitch Black (ME05)": "https://totalcards.net/products/pokemon-mega-evolution-pitch-black-booster-pack?_pos=2&_sid=f9a2e6a92&_ss=r",
   "Total Cards (UK)|30th Celebration": "https://totalcards.net/products/pokemon-30th-celebration-japanese-booster-box-20-packs?_pos=2&_sid=d8fb0e50e&_ss=r"
  },
  "digest_slot": "2026-07-06-22",
@@ -1063,11 +1054,11 @@
  "down": {
   "www.cardmarket.com": 29,
   "www.gamestop.com": 29,
-  "www.gamelife.it": 29,
-  "pokeseller14.com": 29,
-  "geco-shop.de": 29,
+  "www.gamelife.it": 30,
+  "pokeseller14.com": 30,
+  "geco-shop.de": 30,
   "www.chaoscards.co.uk": 29,
-  "fabscards.at": 29,
+  "fabscards.at": 30,
   "www.waylandgames.co.uk": 29,
   "www.firestormgames.co.uk": 30,
   "crispycards.de": 29,
@@ -1093,10 +1084,9 @@
   "lorenzone.fr": 7,
   "www.blackfire.eu": 6,
   "tcgfanshop.nl": 5,
-  "www.amazon.it": 4,
+  "www.amazon.it": 5,
   "www.deckshop.de": 4,
-  "pokeboxstore.pt": 1,
-  "www.lotticards.de": 1
+  "pokeboxstore.pt": 2
  },
- "runno": 319
+ "runno": 320
 }
