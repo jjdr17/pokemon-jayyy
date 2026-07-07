@@ -835,7 +835,7 @@
   },
   "LetsGoTry": {
    "Pitch Black (ME05)": "listato",
-   "30th Celebration": "disponibile",
+   "30th Celebration": "listato",
    "Storm Emerald (ME06)": "listato",
    "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "non listato",
@@ -973,7 +973,8 @@
   "crispycards.de": "https://crispycards.de/?s={q}&post_type=product",
   "pokechest.at": "https://pokechest.at/search?controller=search&s={q}",
   "misticards.com": "https://misticards.com/?s={q}&post_type=product",
-  "tcgfanshop.nl": "https://tcgfanshop.nl/search?q={q}"
+  "tcgfanshop.nl": "https://tcgfanshop.nl/search?q={q}",
+  "rarecards.nl": "https://rarecards.nl/search?controller=search&s={q}"
  },
  "alerts": {
   "drop|MagicBazar|Pitch Black (ME05)": 1783274158.1076322,
@@ -989,8 +990,8 @@
   "Stoyanov Games|Pitch Black (ME05)": "8.00€"
  },
  "pending": {
-  "LetsGoTry|30th Celebration": [
-   "listato",
+  "Total Cards (UK)|Premium Deck Espeon & Umbreon (30th)": [
+   "non listato",
    1
   ]
  },
@@ -1065,11 +1066,11 @@
   "pokechest.at": 28,
   "bescards.com": 28,
   "hobbykort.se": 28,
-  "rarecards.nl": 27,
-  "pokevend.at": 27,
+  "rarecards.nl": 28,
+  "pokevend.at": 28,
   "www.poketalk.se": 28,
   "tcgcompany.nl": 28,
-  "www.nerdom.gr": 27,
+  "www.nerdom.gr": 28,
   "tcgstore.se": 28,
   "papelinho.pt": 28,
   "www.pokekarty.pl": 28,
@@ -1085,7 +1086,8 @@
   "tcgfanshop.nl": 4,
   "www.amazon.it": 3,
   "www.deckshop.de": 3,
-  "pokeboxstore.pt": 1
+  "pokeboxstore.pt": 2,
+  "www.tcgplayer.com": 1
  },
- "runno": 302
+ "runno": 303
 }
