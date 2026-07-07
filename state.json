@@ -971,7 +971,8 @@
   "pokevend.at": "https://pokevend.at/search?controller=search&s={q}",
   "www.pokemillon.com": "https://www.pokemillon.com/?s={q}&post_type=product",
   "crispycards.de": "https://crispycards.de/?s={q}&post_type=product",
-  "pokechest.at": "https://pokechest.at/search?controller=search&s={q}"
+  "pokechest.at": "https://pokechest.at/search?controller=search&s={q}",
+  "misticards.com": "https://misticards.com/?s={q}&post_type=product"
  },
  "alerts": {
   "drop|MagicBazar|Pitch Black (ME05)": 1783274158.1076322,
@@ -989,6 +990,86 @@
  "pending": {
   "Amazon.it|Storm Emerald (ME06)": [
    "listato",
+   1
+  ],
+  "AllDayTCG|Pokémon 151": [
+   "esaurito",
+   1
+  ],
+  "AllDayTCG|Prismatic Evolutions": [
+   "esaurito",
+   1
+  ],
+  "AllDayTCG|Crown Zenith": [
+   "listato",
+   1
+  ],
+  "AllDayTCG|Destined Rivals": [
+   "listato",
+   1
+  ],
+  "Rogerz|Crown Zenith": [
+   "listato",
+   1
+  ],
+  "Rogerz|Destined Rivals": [
+   "listato",
+   1
+  ],
+  "Poke-Power|Prismatic Evolutions": [
+   "esaurito",
+   1
+  ],
+  "Poke-Power|Crown Zenith": [
+   "esaurito",
+   1
+  ],
+  "Poke-Power|Destined Rivals": [
+   "esaurito",
+   1
+  ],
+  "SunnyStore|Prismatic Evolutions": [
+   "esaurito",
+   1
+  ],
+  "SunnyStore|Crown Zenith": [
+   "listato",
+   1
+  ],
+  "SunnyStore|Destined Rivals": [
+   "esaurito",
+   1
+  ],
+  "Total Cards (UK)|Storm Emerald (ME06)": [
+   "listato",
+   1
+  ],
+  "Total Cards (UK)|Chaos Rising (ME04)": [
+   "esaurito",
+   1
+  ],
+  "God of Cards|Phantasmal Flames (ME02)": [
+   "listato",
+   1
+  ],
+  "God of Cards|Pokémon 151": [
+   "disponibile",
+   1
+  ],
+  "God of Cards|Prismatic Evolutions": [
+   "disponibile",
+   1
+  ],
+  "God of Cards|Crown Zenith": [
+   "non listato",
+   1
+  ],
+  "CardZone|Phantasmal Flames (ME02)": [
+   "listato",
+   1
+  ],
+  "LetsGoTry|Chaos Rising (ME04)": [
+   "non listato",
    1
   ]
  },
@@ -1012,7 +1093,7 @@
   "Pikashop|Chaos Rising (ME04)": "https://pikashop.pl/?s=chaos+rising&post_type=product",
   "Pokemania.ro|Pitch Black (ME05)": "https://pokemania.ro/?s=pitch+black&post_type=product",
   "SunnyStore|Pokémon 151": "https://sunnystore.es/search?q=pokemon+151",
-  "Total Cards (UK)|Pitch Black (ME05)": "https://totalcards.net/products/pokemon-mega-evolution-pitch-black-booster-pack?_pos=2&_sid=551eff19b&_ss=r",
+  "Total Cards (UK)|Pitch Black (ME05)": "https://totalcards.net/products/pokemon-mega-evolution-pitch-black-booster-pack?_pos=2&_sid=eb215f2f9&_ss=r",
   "Total Cards (UK)|30th Celebration": "https://totalcards.net/products/pokemon-30th-celebration-booster-pack?_pos=1&_sid=10a145366&_ss=r"
  },
  "digest_slot": "2026-07-06-22",
@@ -1050,23 +1131,23 @@
  ],
  "down": {
   "www.cardmarket.com": 26,
-  "www.gamestop.com": 25,
+  "www.gamestop.com": 26,
   "www.gamelife.it": 26,
   "pokeseller14.com": 26,
   "geco-shop.de": 26,
-  "www.chaoscards.co.uk": 25,
+  "www.chaoscards.co.uk": 26,
   "fabscards.at": 26,
   "www.deckshop.de": 26,
   "www.waylandgames.co.uk": 26,
   "www.firestormgames.co.uk": 26,
   "crispycards.de": 26,
-  "misticards.com": 25,
+  "misticards.com": 26,
   "pokechest.at": 25,
   "bescards.com": 26,
   "hobbykort.se": 26,
   "rarecards.nl": 25,
   "pokevend.at": 25,
-  "www.poketalk.se": 25,
+  "www.poketalk.se": 26,
   "tcgcompany.nl": 26,
   "tcgfanshop.nl": 25,
   "www.nerdom.gr": 25,
@@ -1084,7 +1165,7 @@
   "www.blackfire.eu": 6,
   "lorenzone.fr": 3,
   "pokeboxstore.pt": 3,
-  "tcgdistribution.fr": 1
+  "games-island.eu": 1
  },
- "runno": 275
+ "runno": 276
 }
