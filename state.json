@@ -989,7 +989,12 @@
   "Total Cards (UK)|Pitch Black (ME05)": "£4.79",
   "Stoyanov Games|Pitch Black (ME05)": "8.00€"
  },
- "pending": {},
+ "pending": {
+  "LetsGoTry|Chaos Rising (ME04)": [
+   "non listato",
+   1
+  ]
+ },
  "urls": {
   "Rogerz|Pitch Black (ME05)": "https://rogerz.dk/search?q=pitch+black",
   "Packratt (UK)|Chaos Rising (ME04)": "https://packratt.co.uk/search?q=chaos+rising",
@@ -1074,9 +1079,9 @@
   "rarecards.nl": 37,
   "pokevend.at": 37,
   "www.poketalk.se": 37,
-  "tcgcompany.nl": 37,
+  "tcgcompany.nl": 38,
   "www.nerdom.gr": 37,
-  "tcgstore.se": 37,
+  "tcgstore.se": 38,
   "papelinho.pt": 37,
   "www.pokekarty.pl": 37,
   "pokeka.hu": 37,
@@ -1090,7 +1095,8 @@
   "tcgfanshop.nl": 13,
   "www.deckshop.de": 12,
   "www.amazon.it": 7,
-  "www.blackfire.eu": 3
+  "www.blackfire.eu": 3,
+  "www.lotticards.de": 1
  },
- "runno": 416
+ "runno": 417
 }
