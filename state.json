@@ -989,32 +989,7 @@
   "Total Cards (UK)|Pitch Black (ME05)": "£4.79",
   "Stoyanov Games|Pitch Black (ME05)": "8.00€"
  },
- "pending": {
-  "AllDayTCG|Pokémon 151": [
-   "esaurito",
-   1
-  ],
-  "AllDayTCG|Crown Zenith": [
-   "listato",
-   1
-  ],
-  "OutpostBrussels|Pokémon 151": [
-   "listato",
-   1
-  ],
-  "OutpostBrussels|Prismatic Evolutions": [
-   "esaurito",
-   1
-  ],
-  "CardZone|Phantasmal Flames (ME02)": [
-   "listato",
-   1
-  ],
-  "LetsGoTry|Chaos Rising (ME04)": [
-   "non listato",
-   1
-  ]
- },
+ "pending": {},
  "urls": {
   "Rogerz|Pitch Black (ME05)": "https://rogerz.dk/search?q=pitch+black",
   "Packratt (UK)|Chaos Rising (ME04)": "https://packratt.co.uk/search?q=chaos+rising",
@@ -1090,7 +1065,7 @@
   "www.chaoscards.co.uk": 35,
   "fabscards.at": 35,
   "www.waylandgames.co.uk": 35,
-  "www.firestormgames.co.uk": 35,
+  "www.firestormgames.co.uk": 36,
   "crispycards.de": 35,
   "misticards.com": 35,
   "pokechest.at": 35,
@@ -1107,7 +1082,7 @@
   "pokeka.hu": 35,
   "itcg.bg": 35,
   "www.wakuwaku.cz": 35,
-  "www.pokemonia.ro": 35,
+  "www.pokemonia.ro": 36,
   "en.tcg-shop.at": 35,
   "cardcorner.at": 28,
   "www.pokemillon.com": 22,
@@ -1115,8 +1090,7 @@
   "tcgfanshop.nl": 11,
   "www.deckshop.de": 10,
   "www.blackfire.eu": 6,
-  "www.amazon.it": 4,
-  "tcgdistribution.fr": 1
+  "www.amazon.it": 4
  },
- "runno": 388
+ "runno": 389
 }
