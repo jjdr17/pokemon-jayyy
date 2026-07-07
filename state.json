@@ -835,7 +835,7 @@
   },
   "LetsGoTry": {
    "Pitch Black (ME05)": "listato",
-   "30th Celebration": "disponibile",
+   "30th Celebration": "listato",
    "Storm Emerald (ME06)": "listato",
    "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "non listato",
@@ -990,12 +990,16 @@
   "Stoyanov Games|Pitch Black (ME05)": "8.00€"
  },
  "pending": {
-  "LetsGoTry|30th Celebration": [
+  "SunnyStore|Prismatic Evolutions": [
+   "esaurito",
+   1
+  ],
+  "SunnyStore|Crown Zenith": [
    "listato",
    1
   ],
-  "LetsGoTry|Chaos Rising (ME04)": [
-   "non listato",
+  "SunnyStore|Destined Rivals": [
+   "esaurito",
    1
   ]
  },
@@ -1020,7 +1024,7 @@
   "Pokemania.ro|Pitch Black (ME05)": "https://pokemania.ro/?s=pitch+black&post_type=product",
   "SunnyStore|Pokémon 151": "https://sunnystore.es/search?q=pokemon+151",
   "Total Cards (UK)|Pitch Black (ME05)": "https://totalcards.net/products/pokemon-mega-evolution-pitch-black-booster-pack?_pos=2&_sid=94ee142a0&_ss=r",
-  "Total Cards (UK)|30th Celebration": "https://totalcards.net/products/pokemon-30th-celebration-japanese-booster-box-20-packs?_pos=1&_sid=764548197&_ss=r"
+  "Total Cards (UK)|30th Celebration": "https://totalcards.net/products/pokemon-30th-celebration-japanese-booster-box-20-packs?_pos=1&_sid=7ff5b0ed1&_ss=r"
  },
  "digest_slot": "2026-07-07-18",
  "log": [
@@ -1068,11 +1072,11 @@
  "down": {
   "www.cardmarket.com": 36,
   "www.gamestop.com": 36,
-  "www.gamelife.it": 36,
-  "pokeseller14.com": 36,
-  "geco-shop.de": 36,
+  "www.gamelife.it": 37,
+  "pokeseller14.com": 37,
+  "geco-shop.de": 37,
   "www.chaoscards.co.uk": 36,
-  "fabscards.at": 36,
+  "fabscards.at": 37,
   "www.waylandgames.co.uk": 36,
   "www.firestormgames.co.uk": 37,
   "crispycards.de": 36,
@@ -1099,9 +1103,13 @@
   "tcgfanshop.nl": 12,
   "www.deckshop.de": 11,
   "www.blackfire.eu": 7,
-  "www.amazon.it": 5,
-  "pokeboxstore.pt": 1,
-  "tcgdistribution.fr": 1
+  "www.amazon.it": 6,
+  "pokeboxstore.pt": 2,
+  "pokectcg.cz": 1,
+  "pokewoke.store": 1,
+  "tcgpikas.lt": 1,
+  "pokemonworld.lt": 1,
+  "extremepokecorner.com": 1
  },
- "runno": 403
+ "runno": 404
 }
