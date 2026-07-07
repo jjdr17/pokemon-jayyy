@@ -988,7 +988,12 @@
   "Total Cards (UK)|Pitch Black (ME05)": "£4.79",
   "Stoyanov Games|Pitch Black (ME05)": "8.00€"
  },
- "pending": {},
+ "pending": {
+  "PokeCardShop|Pitch Black (ME05)": [
+   "non listato",
+   1
+  ]
+ },
  "urls": {
   "Rogerz|Pitch Black (ME05)": "https://rogerz.dk/search?q=pitch+black",
   "Packratt (UK)|Chaos Rising (ME04)": "https://packratt.co.uk/search?q=chaos+rising",
@@ -1005,11 +1010,11 @@
   "Sapphire-Cards|Crown Zenith": "https://sapphire-cards.de/?s=crown+zenith&post_type=product",
   "Sapphire-Cards|Destined Rivals": "https://sapphire-cards.de/?s=destined+rivals&post_type=product",
   "Stoyanov Games|Pitch Black (ME05)": "https://stoyanov-gamesbg.com/pre-order-pokemon-tcg-mega-evolution-pitch-black-elite-trainer-box-френски-език/",
-  "LetsGoTry|30th Celebration": "https://letsgotry.pl/zestawy-eng/15894--preorder-pokemon-tcg-30th-celebration-tin-greninja-ex.html",
+  "LetsGoTry|30th Celebration": "https://letsgotry.pl/zestawy-eng/15893--preorder-pokemon-tcg-30th-celebration-tin-sylveon-ex.html",
   "Pikashop|Chaos Rising (ME04)": "https://pikashop.pl/?s=chaos+rising&post_type=product",
   "Pokemania.ro|Pitch Black (ME05)": "https://pokemania.ro/?s=pitch+black&post_type=product",
   "SunnyStore|Pokémon 151": "https://sunnystore.es/search?q=pokemon+151",
-  "Total Cards (UK)|Pitch Black (ME05)": "https://totalcards.net/products/pokemon-mega-evolution-pitch-black-booster-pack?_pos=2&_sid=6643ecced&_ss=r",
+  "Total Cards (UK)|Pitch Black (ME05)": "https://totalcards.net/products/pokemon-mega-evolution-pitch-black-booster-pack?_pos=2&_sid=9c4bc966b&_ss=r",
   "Total Cards (UK)|30th Celebration": "https://totalcards.net/products/pokemon-30th-celebration-booster-pack?_pos=1&_sid=f8693f225&_ss=r"
  },
  "digest_slot": "2026-07-06-22",
@@ -1057,7 +1062,7 @@
   "www.firestormgames.co.uk": 28,
   "crispycards.de": 28,
   "misticards.com": 28,
-  "pokechest.at": 27,
+  "pokechest.at": 28,
   "bescards.com": 28,
   "hobbykort.se": 28,
   "rarecards.nl": 27,
@@ -1072,16 +1077,14 @@
   "itcg.bg": 28,
   "www.wakuwaku.cz": 27,
   "www.pokemonia.ro": 28,
-  "en.tcg-shop.at": 27,
+  "en.tcg-shop.at": 28,
   "cardcorner.at": 21,
   "www.pokemillon.com": 14,
   "lorenzone.fr": 5,
   "www.blackfire.eu": 4,
-  "tcgfanshop.nl": 3,
+  "tcgfanshop.nl": 4,
   "www.amazon.it": 3,
-  "kaissagames.com": 2,
-  "www.deckshop.de": 1,
-  "games-island.eu": 1
+  "www.deckshop.de": 2
  },
- "runno": 300
+ "runno": 301
 }
