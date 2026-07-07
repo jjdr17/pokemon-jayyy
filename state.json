@@ -989,12 +989,7 @@
   "Total Cards (UK)|Pitch Black (ME05)": "£4.79",
   "Stoyanov Games|Pitch Black (ME05)": "8.00€"
  },
- "pending": {
-  "LetsGoTry|Chaos Rising (ME04)": [
-   "non listato",
-   1
-  ]
- },
+ "pending": {},
  "urls": {
   "Rogerz|Pitch Black (ME05)": "https://rogerz.dk/search?q=pitch+black",
   "Packratt (UK)|Chaos Rising (ME04)": "https://packratt.co.uk/search?q=chaos+rising",
@@ -1011,7 +1006,7 @@
   "Sapphire-Cards|Crown Zenith": "https://sapphire-cards.de/?s=crown+zenith&post_type=product",
   "Sapphire-Cards|Destined Rivals": "https://sapphire-cards.de/?s=destined+rivals&post_type=product",
   "Stoyanov Games|Pitch Black (ME05)": "https://stoyanov-gamesbg.com/pre-order-pokemon-tcg-mega-evolution-pitch-black-elite-trainer-box-френски-език/",
-  "LetsGoTry|30th Celebration": "https://letsgotry.pl/zestawy-eng/15896--preorder-pokemon-tcg-30th-celebration-2-pack.html",
+  "LetsGoTry|30th Celebration": "https://letsgotry.pl/zestawy-eng/15892--preorder-pokemon-tcg-30th-celebration-elite-trainer-box.html",
   "Pikashop|Chaos Rising (ME04)": "https://pikashop.pl/?s=chaos+rising&post_type=product",
   "Pokemania.ro|Pitch Black (ME05)": "https://pokemania.ro/?s=pitch+black&post_type=product",
   "SunnyStore|Pokémon 151": "https://sunnystore.es/search?q=pokemon+151",
@@ -1068,22 +1063,22 @@
  ],
  "down": {
   "www.cardmarket.com": 40,
-  "www.gamestop.com": 39,
+  "www.gamestop.com": 40,
   "www.gamelife.it": 40,
   "pokeseller14.com": 40,
   "geco-shop.de": 40,
-  "www.chaoscards.co.uk": 39,
+  "www.chaoscards.co.uk": 40,
   "fabscards.at": 40,
   "www.waylandgames.co.uk": 40,
   "www.firestormgames.co.uk": 40,
   "crispycards.de": 40,
-  "misticards.com": 39,
+  "misticards.com": 40,
   "pokechest.at": 39,
   "bescards.com": 40,
   "hobbykort.se": 40,
   "rarecards.nl": 39,
   "pokevend.at": 39,
-  "www.poketalk.se": 39,
+  "www.poketalk.se": 40,
   "tcgcompany.nl": 40,
   "www.nerdom.gr": 39,
   "tcgstore.se": 40,
@@ -1101,10 +1096,9 @@
   "www.deckshop.de": 15,
   "www.blackfire.eu": 5,
   "www.amazon.it": 4,
-  "tradingcard.fi": 1,
-  "www.pokemons.dk": 1,
-  "pokeboxstore.pt": 1,
-  "pikashop.pl": 1
+  "pokeboxstore.pt": 2,
+  "totalcards.net": 1,
+  "tcgdistribution.fr": 1
  },
- "runno": 443
+ "runno": 444
 }
