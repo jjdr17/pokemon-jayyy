@@ -34,12 +34,16 @@
  "alerts": {},
  "prices": {},
  "urls": {},
- "pending": {},
+ "pending": {
+  "Amazon.it|Storm Emerald (ME06)": [
+   "listato",
+   1
+  ]
+ },
  "down": {
   "www.gamestop.com": 548,
-  "www.gamelife.it": 548,
-  "www.pokemoncenter.com": 246,
-  "www.amazon.it": 4
+  "www.gamelife.it": 549,
+  "www.pokemoncenter.com": 246
  },
- "runno": 2730
+ "runno": 2731
 }
