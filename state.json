@@ -835,7 +835,7 @@
   },
   "LetsGoTry": {
    "Pitch Black (ME05)": "listato",
-   "30th Celebration": "listato",
+   "30th Celebration": "disponibile",
    "Storm Emerald (ME06)": "listato",
    "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "non listato",
@@ -978,7 +978,7 @@
  },
  "alerts": {
   "drop|MagicBazar|Pitch Black (ME05)": 1783274158.1076322,
-  "LetsGoTry|30th Celebration": 1783401358.4775798
+  "LetsGoTry|30th Celebration": 1783424492.4249485
  },
  "prices": {
   "Packratt (UK)|Chaos Rising (ME04)": "£10.01",
@@ -992,10 +992,6 @@
  "pending": {
   "Amazon.it|Storm Emerald (ME06)": [
    "listato",
-   1
-  ],
-  "LetsGoTry|30th Celebration": [
-   "disponibile",
    1
   ]
  },
@@ -1015,7 +1011,7 @@
   "Sapphire-Cards|Crown Zenith": "https://sapphire-cards.de/?s=crown+zenith&post_type=product",
   "Sapphire-Cards|Destined Rivals": "https://sapphire-cards.de/?s=destined+rivals&post_type=product",
   "Stoyanov Games|Pitch Black (ME05)": "https://stoyanov-gamesbg.com/pre-order-pokemon-tcg-mega-evolution-pitch-black-elite-trainer-box-френски-език/",
-  "LetsGoTry|30th Celebration": "https://letsgotry.pl/zestawy-eng/15894--preorder-pokemon-tcg-30th-celebration-tin-greninja-ex.html",
+  "LetsGoTry|30th Celebration": "https://letsgotry.pl/zestawy-eng/15895--preorder-pokemon-tcg-30th-celebration-binder-collection.html",
   "Pikashop|Chaos Rising (ME04)": "https://pikashop.pl/?s=chaos+rising&post_type=product",
   "Pokemania.ro|Pitch Black (ME05)": "https://pokemania.ro/?s=pitch+black&post_type=product",
   "SunnyStore|Pokémon 151": "https://sunnystore.es/search?q=pokemon+151",
@@ -1058,6 +1054,11 @@
    "ts": "07/07 07:15",
    "title": "🚨 DISPONIBILE/PREORDER: 30th Celebration — LetsGoTry",
    "url": "https://letsgotry.pl/zestawy-eng/15893--preorder-pokemon-tcg-30th-celebration-tin-sylveon-ex.html"
+  },
+  {
+   "ts": "07/07 13:41",
+   "title": "🚨 DISPONIBILE/PREORDER: 30th Celebration — LetsGoTry",
+   "url": "https://letsgotry.pl/zestawy-eng/15895--preorder-pokemon-tcg-30th-celebration-binder-collection.html"
   }
  ],
  "down": {
@@ -1075,11 +1076,11 @@
   "pokechest.at": 33,
   "bescards.com": 33,
   "hobbykort.se": 33,
-  "rarecards.nl": 32,
-  "pokevend.at": 32,
+  "rarecards.nl": 33,
+  "pokevend.at": 33,
   "www.poketalk.se": 33,
   "tcgcompany.nl": 33,
-  "www.nerdom.gr": 32,
+  "www.nerdom.gr": 33,
   "tcgstore.se": 33,
   "papelinho.pt": 33,
   "www.pokekarty.pl": 33,
@@ -1095,9 +1096,8 @@
   "www.deckshop.de": 8,
   "www.blackfire.eu": 4,
   "www.amazon.it": 3,
-  "tradingcard.fi": 1,
-  "www.pokemons.dk": 1,
-  "pikashop.pl": 1
+  "www.butticards.at": 1,
+  "oppacards.com": 1
  },
- "runno": 362
+ "runno": 363
 }
