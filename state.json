@@ -37,7 +37,7 @@
    "Premium Deck Espeon & Umbreon (30th)": "irraggiungibile"
   },
   "Amazon.it": {
-   "30th Celebration": "listato",
+   "30th Celebration": "non listato",
    "Storm Emerald (ME06)": "non listato",
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
@@ -990,28 +990,8 @@
   "Stoyanov Games|Pitch Black (ME05)": "8.00€"
  },
  "pending": {
-  "Amazon.it|30th Celebration": [
-   "non listato",
-   1
-  ],
-  "Amazon.it|Storm Emerald (ME06)": [
-   "listato",
-   1
-  ],
   "OutpostBrussels|Storm Emerald (ME06)": [
    "non listato",
-   1
-  ],
-  "Poke-Power|Crown Zenith": [
-   "esaurito",
-   1
-  ],
-  "Poke-Power|Destined Rivals": [
-   "esaurito",
-   1
-  ],
-  "LetsGoTry|30th Celebration": [
-   "listato",
    1
   ]
  },
@@ -1094,11 +1074,11 @@
  "down": {
   "www.cardmarket.com": 45,
   "www.gamestop.com": 45,
-  "www.gamelife.it": 45,
-  "pokeseller14.com": 45,
-  "geco-shop.de": 45,
+  "www.gamelife.it": 46,
+  "pokeseller14.com": 46,
+  "geco-shop.de": 46,
   "www.chaoscards.co.uk": 45,
-  "fabscards.at": 45,
+  "fabscards.at": 46,
   "www.waylandgames.co.uk": 45,
   "www.firestormgames.co.uk": 46,
   "crispycards.de": 45,
@@ -1123,11 +1103,13 @@
   "www.pokemillon.com": 32,
   "lorenzone.fr": 23,
   "www.deckshop.de": 20,
-  "www.amazon.it": 4,
   "tcgfanshop.nl": 4,
   "www.blackfire.eu": 4,
-  "oppacards.com": 1,
-  "games-island.eu": 1
+  "pokectcg.cz": 1,
+  "pokewoke.store": 1,
+  "tcgpikas.lt": 1,
+  "pokemonworld.lt": 1,
+  "extremepokecorner.com": 1
  },
- "runno": 511
+ "runno": 512
 }
