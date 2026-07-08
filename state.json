@@ -835,7 +835,7 @@
   },
   "LetsGoTry": {
    "Pitch Black (ME05)": "listato",
-   "30th Celebration": "disponibile",
+   "30th Celebration": "listato",
    "Storm Emerald (ME06)": "listato",
    "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "non listato",
@@ -990,40 +990,16 @@
   "Stoyanov Games|Pitch Black (ME05)": "8.00€"
  },
  "pending": {
-  "SunnyStore|Prismatic Evolutions": [
-   "esaurito",
-   1
-  ],
-  "OutpostBrussels|Pokémon 151": [
+  "Amazon.it|Storm Emerald (ME06)": [
    "listato",
    1
   ],
-  "OutpostBrussels|Prismatic Evolutions": [
-   "esaurito",
-   1
-  ],
-  "Rogerz|Pokémon 151": [
-   "listato",
-   1
-  ],
-  "God of Cards|Phantasmal Flames (ME02)": [
-   "listato",
-   1
-  ],
-  "CardZone|Pokémon 151": [
-   "esaurito",
-   1
-  ],
-  "CardZone|Prismatic Evolutions": [
-   "listato",
-   1
-  ],
-  "Total Cards (UK)|Premium Deck Espeon & Umbreon (30th)": [
+  "PokeCardShop|Crown Zenith": [
    "non listato",
    1
   ],
-  "LetsGoTry|30th Celebration": [
-   "listato",
+  "LetsGoTry|Chaos Rising (ME04)": [
+   "non listato",
    1
   ]
  },
@@ -1126,19 +1102,16 @@
   "tcgstore.se": 47,
   "papelinho.pt": 47,
   "www.pokekarty.pl": 47,
-  "pokeka.hu": 46,
+  "pokeka.hu": 47,
   "itcg.bg": 47,
-  "www.wakuwaku.cz": 46,
+  "www.wakuwaku.cz": 47,
   "www.pokemonia.ro": 47,
   "en.tcg-shop.at": 47,
   "cardcorner.at": 40,
-  "www.pokemillon.com": 33,
-  "lorenzone.fr": 24,
+  "www.pokemillon.com": 34,
+  "lorenzone.fr": 25,
   "www.deckshop.de": 22,
-  "www.blackfire.eu": 5,
-  "tcgfanshop.nl": 4,
-  "www.amazon.it": 1,
-  "pokeboxstore.pt": 1
+  "tcgfanshop.nl": 4
  },
- "runno": 529
+ "runno": 530
 }
