@@ -991,7 +991,12 @@
   "Total Cards (UK)|Pitch Black (ME05)": "£4.79",
   "Stoyanov Games|Pitch Black (ME05)": "8.00€"
  },
- "pending": {},
+ "pending": {
+  "LetsGoTry|30th Celebration": [
+   "listato",
+   1
+  ]
+ },
  "urls": {
   "Rogerz|Pitch Black (ME05)": "https://rogerz.dk/search?q=pitch+black",
   "Packratt (UK)|Chaos Rising (ME04)": "https://packratt.co.uk/search?q=chaos+rising",
@@ -1012,8 +1017,8 @@
   "Pikashop|Chaos Rising (ME04)": "https://pikashop.pl/?s=chaos+rising&post_type=product",
   "Pokemania.ro|Pitch Black (ME05)": "https://pokemania.ro/?s=pitch+black&post_type=product",
   "SunnyStore|Pokémon 151": "https://sunnystore.es/search?q=pokemon+151",
-  "Total Cards (UK)|Pitch Black (ME05)": "https://totalcards.net/products/pokemon-mega-evolution-pitch-black-booster-pack?_pos=2&_sid=d42e55c59&_ss=r",
-  "Total Cards (UK)|30th Celebration": "https://totalcards.net/products/pokemon-30th-celebration-japanese-booster-box-20-packs?_pos=1&_sid=3b7bc7ccd&_ss=r"
+  "Total Cards (UK)|Pitch Black (ME05)": "https://totalcards.net/products/pokemon-mega-evolution-pitch-black-booster-pack?_pos=2&_sid=b9245e513&_ss=r",
+  "Total Cards (UK)|30th Celebration": "https://totalcards.net/products/pokemon-30th-celebration-japanese-booster-box-20-packs?_pos=1&_sid=725790016&_ss=r"
  },
  "digest_slot": "2026-07-08-22",
  "log": [
@@ -1084,14 +1089,14 @@
   }
  ],
  "down": {
-  "www.cardmarket.com": 56,
+  "www.cardmarket.com": 57,
   "www.gamestop.com": 56,
   "www.gamelife.it": 57,
   "pokeseller14.com": 57,
   "geco-shop.de": 57,
   "www.chaoscards.co.uk": 56,
   "fabscards.at": 57,
-  "www.waylandgames.co.uk": 56,
+  "www.waylandgames.co.uk": 57,
   "www.firestormgames.co.uk": 57,
   "misticards.com": 56,
   "pokechest.at": 56,
@@ -1103,23 +1108,21 @@
   "tcgcompany.nl": 57,
   "www.nerdom.gr": 56,
   "tcgstore.se": 57,
-  "papelinho.pt": 56,
+  "papelinho.pt": 57,
   "www.pokekarty.pl": 56,
   "pokeka.hu": 56,
-  "itcg.bg": 56,
+  "itcg.bg": 57,
   "www.wakuwaku.cz": 56,
   "www.pokemonia.ro": 57,
   "en.tcg-shop.at": 56,
-  "cardcorner.at": 49,
+  "cardcorner.at": 50,
   "lorenzone.fr": 34,
   "www.deckshop.de": 31,
   "tcgfanshop.nl": 13,
   "www.amazon.it": 12,
   "www.pokemillon.com": 7,
-  "crispycards.de": 3,
-  "www.blackfire.eu": 3,
-  "pokeboxstore.pt": 1,
-  "oppacards.com": 1
+  "crispycards.de": 4,
+  "www.blackfire.eu": 3
  },
- "runno": 645
+ "runno": 646
 }
