@@ -837,7 +837,7 @@
    "Pitch Black (ME05)": "listato",
    "30th Celebration": "disponibile",
    "Storm Emerald (ME06)": "listato",
-   "Chaos Rising (ME04)": "non listato",
+   "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "non listato",
    "Prismatic Evolutions": "non listato",
@@ -984,69 +984,12 @@
   "Packratt (UK)|Chaos Rising (ME04)": "£10.01",
   "Packratt (UK)|Pokémon 151": "£29.99",
   "PokeCardShop|Chaos Rising (ME04)": "€6.95",
-  "MagicBazar|Pitch Black (ME05)": "$85",
+  "MagicBazar|Pitch Black (ME05)": "$84",
   "SunnyStore|Pokémon 151": "€26,90",
   "Total Cards (UK)|Pitch Black (ME05)": "£4.79",
   "Stoyanov Games|Pitch Black (ME05)": "8.00€"
  },
- "pending": {
-  "AllDayTCG|Destined Rivals": [
-   "listato",
-   1
-  ],
-  "Poke-Power|Prismatic Evolutions": [
-   "esaurito",
-   1
-  ],
-  "Poke-Power|Crown Zenith": [
-   "esaurito",
-   1
-  ],
-  "SunnyStore|Prismatic Evolutions": [
-   "esaurito",
-   1
-  ],
-  "Total Cards (UK)|Phantasmal Flames (ME02)": [
-   "esaurito",
-   1
-  ],
-  "OutpostBrussels|Pokémon 151": [
-   "listato",
-   1
-  ],
-  "OutpostBrussels|Prismatic Evolutions": [
-   "esaurito",
-   1
-  ],
-  "OutpostBrussels|Crown Zenith": [
-   "listato",
-   1
-  ],
-  "CardZone|Pokémon 151": [
-   "esaurito",
-   1
-  ],
-  "God of Cards|Chaos Rising (ME04)": [
-   "non listato",
-   1
-  ],
-  "God of Cards|Phantasmal Flames (ME02)": [
-   "listato",
-   1
-  ],
-  "Rogerz|Phantasmal Flames (ME02)": [
-   "listato",
-   1
-  ],
-  "Rogerz|Pokémon 151": [
-   "listato",
-   1
-  ],
-  "LetsGoTry|Chaos Rising (ME04)": [
-   "listato",
-   1
-  ]
- },
+ "pending": {},
  "urls": {
   "Rogerz|Pitch Black (ME05)": "https://rogerz.dk/search?q=pitch+black",
   "Packratt (UK)|Chaos Rising (ME04)": "https://packratt.co.uk/search?q=chaos+rising",
@@ -1063,7 +1006,7 @@
   "Sapphire-Cards|Crown Zenith": "https://sapphire-cards.de/?s=crown+zenith&post_type=product",
   "Sapphire-Cards|Destined Rivals": "https://sapphire-cards.de/?s=destined+rivals&post_type=product",
   "Stoyanov Games|Pitch Black (ME05)": "https://stoyanov-gamesbg.com/pre-order-pokemon-tcg-mega-evolution-pitch-black-elite-trainer-box-френски-език/",
-  "LetsGoTry|30th Celebration": "https://letsgotry.pl/zestawy-eng/15892--preorder-pokemon-tcg-30th-celebration-elite-trainer-box.html",
+  "LetsGoTry|30th Celebration": "https://letsgotry.pl/zestawy-eng/15893--preorder-pokemon-tcg-30th-celebration-tin-sylveon-ex.html",
   "Pikashop|Chaos Rising (ME04)": "https://pikashop.pl/?s=chaos+rising&post_type=product",
   "Pokemania.ro|Pitch Black (ME05)": "https://pokemania.ro/?s=pitch+black&post_type=product",
   "SunnyStore|Pokémon 151": "https://sunnystore.es/search?q=pokemon+151",
@@ -1141,20 +1084,18 @@
   "tcgstore.se": 42,
   "papelinho.pt": 42,
   "www.pokekarty.pl": 42,
-  "pokeka.hu": 41,
+  "pokeka.hu": 42,
   "itcg.bg": 42,
-  "www.wakuwaku.cz": 41,
+  "www.wakuwaku.cz": 42,
   "www.pokemonia.ro": 42,
   "en.tcg-shop.at": 42,
   "cardcorner.at": 35,
-  "www.pokemillon.com": 28,
-  "lorenzone.fr": 19,
+  "www.pokemillon.com": 29,
+  "lorenzone.fr": 20,
   "tcgfanshop.nl": 18,
   "www.deckshop.de": 17,
   "www.amazon.it": 6,
-  "www.blackfire.eu": 3,
-  "pokeboxstore.pt": 3,
-  "tcgdistribution.fr": 1
+  "pokeboxstore.pt": 3
  },
- "runno": 469
+ "runno": 470
 }
