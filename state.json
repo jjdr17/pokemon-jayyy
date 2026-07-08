@@ -989,7 +989,16 @@
   "Total Cards (UK)|Pitch Black (ME05)": "£4.79",
   "Stoyanov Games|Pitch Black (ME05)": "8.00€"
  },
- "pending": {},
+ "pending": {
+  "Total Cards (UK)|Destined Rivals": [
+   "esaurito",
+   1
+  ],
+  "LetsGoTry|30th Celebration": [
+   "listato",
+   1
+  ]
+ },
  "urls": {
   "Rogerz|Pitch Black (ME05)": "https://rogerz.dk/search?q=pitch+black",
   "Packratt (UK)|Chaos Rising (ME04)": "https://packratt.co.uk/search?q=chaos+rising",
@@ -1093,7 +1102,7 @@
   "www.nerdom.gr": 50,
   "tcgstore.se": 51,
   "papelinho.pt": 51,
-  "www.pokekarty.pl": 50,
+  "www.pokekarty.pl": 51,
   "pokeka.hu": 50,
   "itcg.bg": 51,
   "www.wakuwaku.cz": 50,
@@ -1102,11 +1111,17 @@
   "cardcorner.at": 44,
   "www.pokemillon.com": 37,
   "lorenzone.fr": 28,
-  "www.deckshop.de": 25,
+  "www.deckshop.de": 26,
   "tcgfanshop.nl": 7,
   "www.amazon.it": 6,
   "www.blackfire.eu": 3,
-  "tcgdistribution.fr": 2
+  "pokectcg.cz": 1,
+  "pokewoke.store": 1,
+  "pokeboxstore.pt": 1,
+  "tcgpikas.lt": 1,
+  "pokemonworld.lt": 1,
+  "extremepokecorner.com": 1,
+  "games-island.eu": 1
  },
- "runno": 574
+ "runno": 575
 }
