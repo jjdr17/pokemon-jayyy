@@ -835,7 +835,7 @@
   },
   "LetsGoTry": {
    "Pitch Black (ME05)": "listato",
-   "30th Celebration": "disponibile",
+   "30th Celebration": "listato",
    "Storm Emerald (ME06)": "listato",
    "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "non listato",
@@ -990,12 +990,7 @@
   "Total Cards (UK)|Pitch Black (ME05)": "£4.79",
   "Stoyanov Games|Pitch Black (ME05)": "8.00€"
  },
- "pending": {
-  "LetsGoTry|Chaos Rising (ME04)": [
-   "non listato",
-   1
-  ]
- },
+ "pending": {},
  "urls": {
   "Rogerz|Pitch Black (ME05)": "https://rogerz.dk/search?q=pitch+black",
   "Packratt (UK)|Chaos Rising (ME04)": "https://packratt.co.uk/search?q=chaos+rising",
@@ -1017,7 +1012,7 @@
   "Pokemania.ro|Pitch Black (ME05)": "https://pokemania.ro/?s=pitch+black&post_type=product",
   "SunnyStore|Pokémon 151": "https://sunnystore.es/search?q=pokemon+151",
   "Total Cards (UK)|Pitch Black (ME05)": "https://totalcards.net/products/pokemon-mega-evolution-pitch-black-booster-pack?_pos=2&_sid=94ee142a0&_ss=r",
-  "Total Cards (UK)|30th Celebration": "https://totalcards.net/products/pokemon-30th-celebration-japanese-booster-box-20-packs?_pos=1&_sid=9ab7b4fe5&_ss=r"
+  "Total Cards (UK)|30th Celebration": "https://totalcards.net/products/pokemon-30th-celebration-japanese-booster-box-20-packs?_pos=1&_sid=02167e80e&_ss=r"
  },
  "digest_slot": "2026-07-08-15",
  "log": [
@@ -1091,7 +1086,7 @@
   "misticards.com": 52,
   "pokechest.at": 52,
   "bescards.com": 53,
-  "hobbykort.se": 52,
+  "hobbykort.se": 53,
   "rarecards.nl": 52,
   "pokevend.at": 52,
   "www.poketalk.se": 52,
@@ -1106,12 +1101,18 @@
   "www.pokemonia.ro": 53,
   "en.tcg-shop.at": 52,
   "cardcorner.at": 45,
-  "www.pokemillon.com": 39,
   "lorenzone.fr": 30,
   "www.deckshop.de": 27,
   "tcgfanshop.nl": 9,
   "www.amazon.it": 7,
-  "www.blackfire.eu": 5
+  "www.blackfire.eu": 5,
+  "www.pokemillon.com": 3,
+  "pokectcg.cz": 2,
+  "pokewoke.store": 2,
+  "tcgpikas.lt": 2,
+  "pokemonworld.lt": 2,
+  "extremepokecorner.com": 2,
+  "tcgdistribution.fr": 1
  },
- "runno": 593
+ "runno": 594
 }
