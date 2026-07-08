@@ -128,7 +128,7 @@
   "OutpostBrussels": {
    "Pitch Black (ME05)": "esaurito",
    "30th Celebration": "esaurito",
-   "Storm Emerald (ME06)": "listato",
+   "Storm Emerald (ME06)": "non listato",
    "Chaos Rising (ME04)": "esaurito",
    "Phantasmal Flames (ME02)": "esaurito",
    "Pokémon 151": "irraggiungibile",
@@ -835,7 +835,7 @@
   },
   "LetsGoTry": {
    "Pitch Black (ME05)": "listato",
-   "30th Celebration": "disponibile",
+   "30th Celebration": "listato",
    "Storm Emerald (ME06)": "listato",
    "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "non listato",
@@ -993,14 +993,6 @@
   "Amazon.it|Storm Emerald (ME06)": [
    "listato",
    1
-  ],
-  "OutpostBrussels|Storm Emerald (ME06)": [
-   "non listato",
-   1
-  ],
-  "LetsGoTry|30th Celebration": [
-   "listato",
-   1
   ]
  },
  "urls": {
@@ -1024,7 +1016,7 @@
   "Pokemania.ro|Pitch Black (ME05)": "https://pokemania.ro/?s=pitch+black&post_type=product",
   "SunnyStore|Pokémon 151": "https://sunnystore.es/search?q=pokemon+151",
   "Total Cards (UK)|Pitch Black (ME05)": "https://totalcards.net/products/pokemon-mega-evolution-pitch-black-booster-pack?_pos=2&_sid=94ee142a0&_ss=r",
-  "Total Cards (UK)|30th Celebration": "https://totalcards.net/products/pokemon-30th-celebration-japanese-booster-box-20-packs?_pos=1&_sid=2d58e28aa&_ss=r"
+  "Total Cards (UK)|30th Celebration": "https://totalcards.net/products/pokemon-30th-celebration-japanese-booster-box-20-packs?_pos=1&_sid=d3d888926&_ss=r"
  },
  "digest_slot": "2026-07-07-22",
  "log": [
@@ -1113,8 +1105,7 @@
   "www.deckshop.de": 21,
   "www.blackfire.eu": 5,
   "www.amazon.it": 3,
-  "tcgfanshop.nl": 3,
-  "pokeboxstore.pt": 2
+  "tcgfanshop.nl": 3
  },
- "runno": 522
+ "runno": 523
 }
