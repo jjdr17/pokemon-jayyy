@@ -990,24 +990,8 @@
   "Stoyanov Games|Pitch Black (ME05)": "8.00€"
  },
  "pending": {
-  "PokeCardShop|Chaos Rising (ME04)": [
-   "non listato",
-   1
-  ],
-  "PokeCardShop|Phantasmal Flames (ME02)": [
-   "non listato",
-   1
-  ],
-  "PokeCardShop|Pokémon 151": [
-   "non listato",
-   1
-  ],
-  "PokeCardShop|Prismatic Evolutions": [
-   "non listato",
-   1
-  ],
-  "PokeCardShop|Destined Rivals": [
-   "non listato",
+  "LetsGoTry|Chaos Rising (ME04)": [
+   "listato",
    1
   ]
  },
@@ -1107,11 +1091,11 @@
   "pokechest.at": 51,
   "bescards.com": 51,
   "hobbykort.se": 51,
-  "rarecards.nl": 50,
-  "pokevend.at": 50,
+  "rarecards.nl": 51,
+  "pokevend.at": 51,
   "www.poketalk.se": 51,
   "tcgcompany.nl": 51,
-  "www.nerdom.gr": 50,
+  "www.nerdom.gr": 51,
   "tcgstore.se": 51,
   "papelinho.pt": 51,
   "www.pokekarty.pl": 51,
@@ -1126,7 +1110,8 @@
   "www.deckshop.de": 26,
   "tcgfanshop.nl": 8,
   "www.amazon.it": 6,
-  "www.blackfire.eu": 4
+  "www.blackfire.eu": 4,
+  "pokeboxstore.pt": 1
  },
- "runno": 578
+ "runno": 579
 }
