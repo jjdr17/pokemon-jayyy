@@ -980,7 +980,7 @@
  "alerts": {
   "drop|MagicBazar|Pitch Black (ME05)": 1783274158.1076322,
   "LetsGoTry|30th Celebration": 1783534554.973152,
-  "Total Cards (UK)|Pitch Black (ME05)": 1783539071.867175
+  "Total Cards (UK)|Pitch Black (ME05)": 1783539344.1864767
  },
  "prices": {
   "Packratt (UK)|Chaos Rising (ME04)": "£10.01",
@@ -992,8 +992,16 @@
   "Stoyanov Games|Pitch Black (ME05)": "8.00€"
  },
  "pending": {
+  "PokeCardShop|Pitch Black (ME05)": [
+   "disponibile",
+   1
+  ],
   "LetsGoTry|30th Celebration": [
    "disponibile",
+   1
+  ],
+  "LetsGoTry|Chaos Rising (ME04)": [
+   "non listato",
    1
   ]
  },
@@ -1083,7 +1091,7 @@
    "url": "https://letsgotry.pl/zestawy-eng/15895--preorder-pokemon-tcg-30th-celebration-binder-collection.html"
   },
   {
-   "ts": "08/07 21:31",
+   "ts": "08/07 21:35",
    "title": "🚨 RESTOCK: Pitch Black (ME05) — Total Cards (UK)",
    "url": "https://totalcards.net/products/pokemon-mega-evolution-pitch-black-booster-pack?_pos=2&_sid=f980cbca0&_ss=r"
   }
@@ -1122,9 +1130,7 @@
   "www.amazon.it": 11,
   "www.pokemillon.com": 7,
   "crispycards.de": 3,
-  "www.blackfire.eu": 2,
-  "www.butticards.at": 1,
-  "oppacards.com": 1
+  "www.blackfire.eu": 2
  },
  "runno": 641
 }
