@@ -835,7 +835,7 @@
   },
   "LetsGoTry": {
    "Pitch Black (ME05)": "listato",
-   "30th Celebration": "listato",
+   "30th Celebration": "disponibile",
    "Storm Emerald (ME06)": "listato",
    "Chaos Rising (ME04)": "non listato",
    "Phantasmal Flames (ME02)": "non listato",
@@ -978,7 +978,7 @@
  },
  "alerts": {
   "drop|MagicBazar|Pitch Black (ME05)": 1783274158.1076322,
-  "LetsGoTry|30th Celebration": 1783452373.3399353
+  "LetsGoTry|30th Celebration": 1783478758.6886494
  },
  "prices": {
   "Packratt (UK)|Chaos Rising (ME04)": "£10.01",
@@ -995,18 +995,6 @@
    1
   ],
   "Amazon.it|Storm Emerald (ME06)": [
-   "listato",
-   1
-  ],
-  "TCGFanshop|Crown Zenith": [
-   "non listato",
-   1
-  ],
-  "LetsGoTry|30th Celebration": [
-   "disponibile",
-   1
-  ],
-  "LetsGoTry|Chaos Rising (ME04)": [
    "listato",
    1
   ]
@@ -1080,6 +1068,11 @@
    "ts": "07/07 21:26",
    "title": "🚨 DISPONIBILE/PREORDER: 30th Celebration — LetsGoTry",
    "url": "https://letsgotry.pl/zestawy-eng/15894--preorder-pokemon-tcg-30th-celebration-tin-greninja-ex.html"
+  },
+  {
+   "ts": "08/07 04:45",
+   "title": "🚨 DISPONIBILE/PREORDER: 30th Celebration — LetsGoTry",
+   "url": "https://letsgotry.pl/zestawy-eng/15894--preorder-pokemon-tcg-30th-celebration-tin-greninja-ex.html"
   }
  ],
  "down": {
@@ -1105,23 +1098,17 @@
   "tcgstore.se": 44,
   "papelinho.pt": 44,
   "www.pokekarty.pl": 44,
-  "pokeka.hu": 43,
+  "pokeka.hu": 44,
   "itcg.bg": 44,
-  "www.wakuwaku.cz": 43,
+  "www.wakuwaku.cz": 44,
   "www.pokemonia.ro": 44,
   "en.tcg-shop.at": 44,
   "cardcorner.at": 37,
-  "www.pokemillon.com": 30,
-  "lorenzone.fr": 21,
+  "www.pokemillon.com": 31,
+  "lorenzone.fr": 22,
   "www.deckshop.de": 19,
   "www.amazon.it": 3,
-  "pokectcg.cz": 2,
-  "pokewoke.store": 2,
-  "tcgpikas.lt": 2,
-  "pokemonworld.lt": 2,
-  "extremepokecorner.com": 2,
-  "www.blackfire.eu": 1,
-  "pokeboxstore.pt": 1
+  "tcgfanshop.nl": 1
  },
- "runno": 493
+ "runno": 494
 }
