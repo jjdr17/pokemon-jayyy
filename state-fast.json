@@ -34,16 +34,12 @@
  "alerts": {},
  "prices": {},
  "urls": {},
- "pending": {
-  "Amazon.it|30th Celebration": [
-   "non listato",
-   1
-  ]
- },
+ "pending": {},
  "down": {
   "www.gamestop.com": 712,
   "www.gamelife.it": 713,
-  "www.pokemoncenter.com": 410
+  "www.pokemoncenter.com": 410,
+  "www.amazon.it": 1
  },
  "runno": 3551
 }
