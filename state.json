@@ -986,22 +986,34 @@
   "Packratt (UK)|Chaos Rising (ME04)": "£10.01",
   "Packratt (UK)|Pokémon 151": "£29.99",
   "PokeCardShop|Chaos Rising (ME04)": "€6.95",
-  "MagicBazar|Pitch Black (ME05)": "$84",
+  "MagicBazar|Pitch Black (ME05)": "$85",
   "SunnyStore|Pokémon 151": "€26,90",
   "Total Cards (UK)|Pitch Black (ME05)": "£4.79",
   "Stoyanov Games|Pitch Black (ME05)": "8.00€"
  },
  "pending": {
-  "PokeCardShop|Pitch Black (ME05)": [
-   "disponibile",
+  "AllDayTCG|Destined Rivals": [
+   "listato",
    1
   ],
-  "LetsGoTry|30th Celebration": [
-   "disponibile",
+  "OutpostBrussels|Pokémon 151": [
+   "listato",
    1
   ],
-  "LetsGoTry|Chaos Rising (ME04)": [
-   "non listato",
+  "OutpostBrussels|Prismatic Evolutions": [
+   "esaurito",
+   1
+  ],
+  "Rogerz|Prismatic Evolutions": [
+   "listato",
+   1
+  ],
+  "Rogerz|Crown Zenith": [
+   "listato",
+   1
+  ],
+  "Total Cards (UK)|Chaos Rising (ME04)": [
+   "esaurito",
    1
   ]
  },
@@ -1025,8 +1037,8 @@
   "Pikashop|Chaos Rising (ME04)": "https://pikashop.pl/?s=chaos+rising&post_type=product",
   "Pokemania.ro|Pitch Black (ME05)": "https://pokemania.ro/?s=pitch+black&post_type=product",
   "SunnyStore|Pokémon 151": "https://sunnystore.es/search?q=pokemon+151",
-  "Total Cards (UK)|Pitch Black (ME05)": "https://totalcards.net/products/pokemon-mega-evolution-pitch-black-booster-pack?_pos=2&_sid=f980cbca0&_ss=r",
-  "Total Cards (UK)|30th Celebration": "https://totalcards.net/products/pokemon-30th-celebration-japanese-booster-box-20-packs?_pos=1&_sid=3b7bc7ccd&_ss=r"
+  "Total Cards (UK)|Pitch Black (ME05)": "https://totalcards.net/products/pokemon-mega-evolution-pitch-black-booster-pack?_pos=2&_sid=87854991a&_ss=r",
+  "Total Cards (UK)|30th Celebration": "https://totalcards.net/products/pokemon-30th-celebration-japanese-booster-box-20-packs?_pos=1&_sid=bb8ccd632&_ss=r"
  },
  "digest_slot": "2026-07-08-18",
  "log": [
@@ -1109,7 +1121,7 @@
   "misticards.com": 56,
   "pokechest.at": 56,
   "bescards.com": 57,
-  "hobbykort.se": 56,
+  "hobbykort.se": 57,
   "rarecards.nl": 56,
   "pokevend.at": 56,
   "www.poketalk.se": 56,
@@ -1130,7 +1142,8 @@
   "www.amazon.it": 11,
   "www.pokemillon.com": 7,
   "crispycards.de": 3,
-  "www.blackfire.eu": 2
+  "www.blackfire.eu": 3,
+  "tcgdistribution.fr": 1
  },
- "runno": 641
+ "runno": 642
 }
