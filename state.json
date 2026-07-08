@@ -989,7 +989,56 @@
   "Total Cards (UK)|Pitch Black (ME05)": "£4.79",
   "Stoyanov Games|Pitch Black (ME05)": "8.00€"
  },
- "pending": {},
+ "pending": {
+  "SunnyStore|Prismatic Evolutions": [
+   "esaurito",
+   1
+  ],
+  "SunnyStore|Crown Zenith": [
+   "listato",
+   1
+  ],
+  "AllDayTCG|Prismatic Evolutions": [
+   "esaurito",
+   1
+  ],
+  "AllDayTCG|Crown Zenith": [
+   "listato",
+   1
+  ],
+  "AllDayTCG|Destined Rivals": [
+   "listato",
+   1
+  ],
+  "CardZone|Prismatic Evolutions": [
+   "listato",
+   1
+  ],
+  "OutpostBrussels|Pokémon 151": [
+   "listato",
+   1
+  ],
+  "OutpostBrussels|Prismatic Evolutions": [
+   "esaurito",
+   1
+  ],
+  "Total Cards (UK)|Premium Deck Espeon & Umbreon (30th)": [
+   "non listato",
+   1
+  ],
+  "God of Cards|Phantasmal Flames (ME02)": [
+   "listato",
+   1
+  ],
+  "God of Cards|Pokémon 151": [
+   "disponibile",
+   1
+  ],
+  "LetsGoTry|30th Celebration": [
+   "listato",
+   1
+  ]
+ },
  "urls": {
   "Rogerz|Pitch Black (ME05)": "https://rogerz.dk/search?q=pitch+black",
   "Packratt (UK)|Chaos Rising (ME04)": "https://packratt.co.uk/search?q=chaos+rising",
@@ -1011,7 +1060,7 @@
   "Pokemania.ro|Pitch Black (ME05)": "https://pokemania.ro/?s=pitch+black&post_type=product",
   "SunnyStore|Pokémon 151": "https://sunnystore.es/search?q=pokemon+151",
   "Total Cards (UK)|Pitch Black (ME05)": "https://totalcards.net/products/pokemon-mega-evolution-pitch-black-booster-pack?_pos=2&_sid=94ee142a0&_ss=r",
-  "Total Cards (UK)|30th Celebration": "https://totalcards.net/products/pokemon-30th-celebration-japanese-booster-box-20-packs?_pos=1&_sid=37d0cfbaf&_ss=r"
+  "Total Cards (UK)|30th Celebration": "https://totalcards.net/products/pokemon-30th-celebration-japanese-booster-box-20-packs?_pos=1&_sid=ec6de9112&_ss=r"
  },
  "digest_slot": "2026-07-07-22",
  "log": [
@@ -1088,7 +1137,7 @@
   "www.nerdom.gr": 46,
   "tcgstore.se": 47,
   "papelinho.pt": 47,
-  "www.pokekarty.pl": 46,
+  "www.pokekarty.pl": 47,
   "pokeka.hu": 46,
   "itcg.bg": 47,
   "www.wakuwaku.cz": 46,
@@ -1097,10 +1146,12 @@
   "cardcorner.at": 40,
   "www.pokemillon.com": 33,
   "lorenzone.fr": 24,
-  "www.deckshop.de": 21,
+  "www.deckshop.de": 22,
   "www.blackfire.eu": 5,
   "tcgfanshop.nl": 3,
-  "www.amazon.it": 1
+  "www.amazon.it": 2,
+  "pokeboxstore.pt": 1,
+  "www.lotticards.de": 1
  },
- "runno": 526
+ "runno": 527
 }
