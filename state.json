@@ -108,7 +108,7 @@
    "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "esaurito",
    "Pokémon 151": "esaurito",
-   "Prismatic Evolutions": "irraggiungibile",
+   "Prismatic Evolutions": "esaurito",
    "Crown Zenith": "irraggiungibile",
    "Destined Rivals": "irraggiungibile",
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
@@ -119,7 +119,7 @@
    "Storm Emerald (ME06)": "listato",
    "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "esaurito",
-   "Pokémon 151": "irraggiungibile",
+   "Pokémon 151": "esaurito",
    "Prismatic Evolutions": "irraggiungibile",
    "Crown Zenith": "irraggiungibile",
    "Destined Rivals": "irraggiungibile",
@@ -142,7 +142,7 @@
    "30th Celebration": "listato",
    "Storm Emerald (ME06)": "listato",
    "Chaos Rising (ME04)": "listato",
-   "Phantasmal Flames (ME02)": "irraggiungibile",
+   "Phantasmal Flames (ME02)": "listato",
    "Pokémon 151": "irraggiungibile",
    "Prismatic Evolutions": "irraggiungibile",
    "Crown Zenith": "irraggiungibile",
@@ -166,7 +166,7 @@
    "30th Celebration": "listato",
    "Storm Emerald (ME06)": "listato",
    "Chaos Rising (ME04)": "listato",
-   "Phantasmal Flames (ME02)": "irraggiungibile",
+   "Phantasmal Flames (ME02)": "listato",
    "Pokémon 151": "irraggiungibile",
    "Prismatic Evolutions": "irraggiungibile",
    "Crown Zenith": "irraggiungibile",
@@ -177,7 +177,7 @@
    "Pitch Black (ME05)": "listato",
    "30th Celebration": "non listato",
    "Storm Emerald (ME06)": "non listato",
-   "Chaos Rising (ME04)": "irraggiungibile",
+   "Chaos Rising (ME04)": "non listato",
    "Phantasmal Flames (ME02)": "irraggiungibile",
    "Pokémon 151": "irraggiungibile",
    "Prismatic Evolutions": "irraggiungibile",
@@ -990,36 +990,28 @@
   "Stoyanov Games|Pitch Black (ME05)": "8.00€"
  },
  "pending": {
-  "AllDayTCG|Pokémon 151": [
+  "SunnyStore|Prismatic Evolutions": [
    "esaurito",
    1
   ],
-  "AllDayTCG|Crown Zenith": [
-   "listato",
-   1
-  ],
-  "Poke-Power|Prismatic Evolutions": [
+  "Poke-Power|Crown Zenith": [
    "esaurito",
    1
   ],
-  "God of Cards|Chaos Rising (ME04)": [
-   "non listato",
-   1
-  ],
-  "CardZone|Phantasmal Flames (ME02)": [
+  "OutpostBrussels|Pokémon 151": [
    "listato",
    1
   ],
-  "Rogerz|Phantasmal Flames (ME02)": [
+  "Rogerz|Pokémon 151": [
    "listato",
    1
   ],
-  "Total Cards (UK)|Premium Deck Espeon & Umbreon (30th)": [
-   "non listato",
+  "CardZone|Pokémon 151": [
+   "esaurito",
    1
   ],
-  "LetsGoTry|Chaos Rising (ME04)": [
-   "non listato",
+  "God of Cards|Pokémon 151": [
+   "disponibile",
    1
   ]
  },
@@ -1039,12 +1031,12 @@
   "Sapphire-Cards|Crown Zenith": "https://sapphire-cards.de/?s=crown+zenith&post_type=product",
   "Sapphire-Cards|Destined Rivals": "https://sapphire-cards.de/?s=destined+rivals&post_type=product",
   "Stoyanov Games|Pitch Black (ME05)": "https://stoyanov-gamesbg.com/pre-order-pokemon-tcg-mega-evolution-pitch-black-elite-trainer-box-френски-език/",
-  "LetsGoTry|30th Celebration": "https://letsgotry.pl/zestawy-eng/15895--preorder-pokemon-tcg-30th-celebration-binder-collection.html",
+  "LetsGoTry|30th Celebration": "https://letsgotry.pl/zestawy-eng/15893--preorder-pokemon-tcg-30th-celebration-tin-sylveon-ex.html",
   "Pikashop|Chaos Rising (ME04)": "https://pikashop.pl/?s=chaos+rising&post_type=product",
   "Pokemania.ro|Pitch Black (ME05)": "https://pokemania.ro/?s=pitch+black&post_type=product",
   "SunnyStore|Pokémon 151": "https://sunnystore.es/search?q=pokemon+151",
   "Total Cards (UK)|Pitch Black (ME05)": "https://totalcards.net/products/pokemon-mega-evolution-pitch-black-booster-pack?_pos=2&_sid=94ee142a0&_ss=r",
-  "Total Cards (UK)|30th Celebration": "https://totalcards.net/products/pokemon-30th-celebration-japanese-booster-box-20-packs?_pos=1&_sid=9163d1eb0&_ss=r"
+  "Total Cards (UK)|30th Celebration": "https://totalcards.net/products/pokemon-30th-celebration-japanese-booster-box-20-packs?_pos=1&_sid=ca282cf7e&_ss=r"
  },
  "digest_slot": "2026-07-07-22",
  "log": [
@@ -1097,11 +1089,11 @@
  "down": {
   "www.cardmarket.com": 42,
   "www.gamestop.com": 42,
-  "www.gamelife.it": 42,
-  "pokeseller14.com": 42,
-  "geco-shop.de": 42,
+  "www.gamelife.it": 43,
+  "pokeseller14.com": 43,
+  "geco-shop.de": 43,
   "www.chaoscards.co.uk": 42,
-  "fabscards.at": 42,
+  "fabscards.at": 43,
   "www.waylandgames.co.uk": 42,
   "www.firestormgames.co.uk": 43,
   "crispycards.de": 42,
@@ -1127,9 +1119,9 @@
   "lorenzone.fr": 20,
   "tcgfanshop.nl": 18,
   "www.deckshop.de": 17,
-  "www.amazon.it": 6,
-  "www.blackfire.eu": 1,
-  "tcgdistribution.fr": 1
+  "www.blackfire.eu": 2,
+  "tcgdistribution.fr": 2,
+  "pokeboxstore.pt": 1
  },
- "runno": 475
+ "runno": 476
 }
