@@ -234,7 +234,7 @@
    "Premium Deck Espeon & Umbreon (30th)": "irraggiungibile"
   },
   "Total Cards (UK)": {
-   "Pitch Black (ME05)": "esaurito",
+   "Pitch Black (ME05)": "disponibile",
    "30th Celebration": "disponibile",
    "Storm Emerald (ME06)": "irraggiungibile",
    "Chaos Rising (ME04)": "irraggiungibile",
@@ -598,7 +598,7 @@
    "30th Celebration": "listato",
    "Storm Emerald (ME06)": "non listato",
    "Chaos Rising (ME04)": "esaurito",
-   "Phantasmal Flames (ME02)": "non listato",
+   "Phantasmal Flames (ME02)": "esaurito",
    "Pokémon 151": "listato",
    "Prismatic Evolutions": "listato",
    "Crown Zenith": "esaurito",
@@ -979,24 +979,21 @@
  },
  "alerts": {
   "drop|MagicBazar|Pitch Black (ME05)": 1783274158.1076322,
-  "LetsGoTry|30th Celebration": 1783534554.973152
+  "LetsGoTry|30th Celebration": 1783534554.973152,
+  "Total Cards (UK)|Pitch Black (ME05)": 1783539071.867175
  },
  "prices": {
   "Packratt (UK)|Chaos Rising (ME04)": "£10.01",
   "Packratt (UK)|Pokémon 151": "£29.99",
   "PokeCardShop|Chaos Rising (ME04)": "€6.95",
-  "MagicBazar|Pitch Black (ME05)": "$85",
+  "MagicBazar|Pitch Black (ME05)": "$84",
   "SunnyStore|Pokémon 151": "€26,90",
   "Total Cards (UK)|Pitch Black (ME05)": "£4.79",
   "Stoyanov Games|Pitch Black (ME05)": "8.00€"
  },
  "pending": {
-  "Total Cards (UK)|Pitch Black (ME05)": [
+  "LetsGoTry|30th Celebration": [
    "disponibile",
-   1
-  ],
-  "PokeCardShop|Phantasmal Flames (ME02)": [
-   "esaurito",
    1
   ]
  },
@@ -1020,7 +1017,7 @@
   "Pikashop|Chaos Rising (ME04)": "https://pikashop.pl/?s=chaos+rising&post_type=product",
   "Pokemania.ro|Pitch Black (ME05)": "https://pokemania.ro/?s=pitch+black&post_type=product",
   "SunnyStore|Pokémon 151": "https://sunnystore.es/search?q=pokemon+151",
-  "Total Cards (UK)|Pitch Black (ME05)": "https://totalcards.net/products/pokemon-mega-evolution-pitch-black-booster-pack?_pos=2&_sid=94ee142a0&_ss=r",
+  "Total Cards (UK)|Pitch Black (ME05)": "https://totalcards.net/products/pokemon-mega-evolution-pitch-black-booster-pack?_pos=2&_sid=f980cbca0&_ss=r",
   "Total Cards (UK)|30th Celebration": "https://totalcards.net/products/pokemon-30th-celebration-japanese-booster-box-20-packs?_pos=1&_sid=3b7bc7ccd&_ss=r"
  },
  "digest_slot": "2026-07-08-18",
@@ -1084,6 +1081,11 @@
    "ts": "08/07 20:15",
    "title": "🚨 DISPONIBILE/PREORDER: 30th Celebration — LetsGoTry",
    "url": "https://letsgotry.pl/zestawy-eng/15895--preorder-pokemon-tcg-30th-celebration-binder-collection.html"
+  },
+  {
+   "ts": "08/07 21:31",
+   "title": "🚨 RESTOCK: Pitch Black (ME05) — Total Cards (UK)",
+   "url": "https://totalcards.net/products/pokemon-mega-evolution-pitch-black-booster-pack?_pos=2&_sid=f980cbca0&_ss=r"
   }
  ],
  "down": {
@@ -1095,7 +1097,7 @@
   "www.chaoscards.co.uk": 56,
   "fabscards.at": 56,
   "www.waylandgames.co.uk": 56,
-  "www.firestormgames.co.uk": 56,
+  "www.firestormgames.co.uk": 57,
   "misticards.com": 56,
   "pokechest.at": 56,
   "bescards.com": 57,
@@ -1111,7 +1113,7 @@
   "pokeka.hu": 56,
   "itcg.bg": 56,
   "www.wakuwaku.cz": 56,
-  "www.pokemonia.ro": 56,
+  "www.pokemonia.ro": 57,
   "en.tcg-shop.at": 56,
   "cardcorner.at": 49,
   "lorenzone.fr": 34,
@@ -1120,7 +1122,9 @@
   "www.amazon.it": 11,
   "www.pokemillon.com": 7,
   "crispycards.de": 3,
-  "www.blackfire.eu": 1
+  "www.blackfire.eu": 2,
+  "www.butticards.at": 1,
+  "oppacards.com": 1
  },
- "runno": 640
+ "runno": 641
 }
