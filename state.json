@@ -837,7 +837,7 @@
    "Pitch Black (ME05)": "listato",
    "30th Celebration": "listato",
    "Storm Emerald (ME06)": "listato",
-   "Chaos Rising (ME04)": "non listato",
+   "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "non listato",
    "Prismatic Evolutions": "non listato",
@@ -994,8 +994,88 @@
    "non listato",
    1
   ],
-  "LetsGoTry|Chaos Rising (ME04)": [
+  "Amazon.it|Storm Emerald (ME06)": [
    "listato",
+   1
+  ],
+  "SunnyStore|Crown Zenith": [
+   "listato",
+   1
+  ],
+  "SunnyStore|Destined Rivals": [
+   "esaurito",
+   1
+  ],
+  "AllDayTCG|Prismatic Evolutions": [
+   "esaurito",
+   1
+  ],
+  "AllDayTCG|Crown Zenith": [
+   "listato",
+   1
+  ],
+  "AllDayTCG|Destined Rivals": [
+   "listato",
+   1
+  ],
+  "Poke-Power|Crown Zenith": [
+   "esaurito",
+   1
+  ],
+  "Poke-Power|Destined Rivals": [
+   "esaurito",
+   1
+  ],
+  "Rogerz|Prismatic Evolutions": [
+   "listato",
+   1
+  ],
+  "Rogerz|Crown Zenith": [
+   "listato",
+   1
+  ],
+  "Rogerz|Destined Rivals": [
+   "listato",
+   1
+  ],
+  "OutpostBrussels|Pokémon 151": [
+   "listato",
+   1
+  ],
+  "OutpostBrussels|Prismatic Evolutions": [
+   "esaurito",
+   1
+  ],
+  "OutpostBrussels|Crown Zenith": [
+   "listato",
+   1
+  ],
+  "God of Cards|Pokémon 151": [
+   "disponibile",
+   1
+  ],
+  "God of Cards|Prismatic Evolutions": [
+   "disponibile",
+   1
+  ],
+  "Total Cards (UK)|Phantasmal Flames (ME02)": [
+   "esaurito",
+   1
+  ],
+  "CardZone|Pokémon 151": [
+   "esaurito",
+   1
+  ],
+  "CardZone|Prismatic Evolutions": [
+   "listato",
+   1
+  ],
+  "PokeCardShop|Crown Zenith": [
+   "listato",
+   1
+  ],
+  "LetsGoTry|30th Celebration": [
+   "disponibile",
    1
   ]
  },
@@ -1073,11 +1153,11 @@
  "down": {
   "www.cardmarket.com": 43,
   "www.gamestop.com": 43,
-  "www.gamelife.it": 43,
-  "pokeseller14.com": 43,
-  "geco-shop.de": 43,
+  "www.gamelife.it": 44,
+  "pokeseller14.com": 44,
+  "geco-shop.de": 44,
   "www.chaoscards.co.uk": 43,
-  "fabscards.at": 43,
+  "fabscards.at": 44,
   "www.waylandgames.co.uk": 43,
   "www.firestormgames.co.uk": 44,
   "crispycards.de": 43,
@@ -1103,8 +1183,8 @@
   "lorenzone.fr": 21,
   "tcgfanshop.nl": 19,
   "www.deckshop.de": 18,
-  "www.amazon.it": 3,
-  "www.blackfire.eu": 1
+  "tcgdistribution.fr": 1,
+  "games-island.eu": 1
  },
- "runno": 487
+ "runno": 488
 }
