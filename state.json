@@ -594,7 +594,7 @@
    "Premium Deck Espeon & Umbreon (30th)": "irraggiungibile"
   },
   "PokeCardShop": {
-   "Pitch Black (ME05)": "non listato",
+   "Pitch Black (ME05)": "esaurito",
    "30th Celebration": "listato",
    "Storm Emerald (ME06)": "non listato",
    "Chaos Rising (ME04)": "esaurito",
@@ -991,12 +991,44 @@
   "Stoyanov Games|Pitch Black (ME05)": "8.00€"
  },
  "pending": {
-  "PokeCardShop|Pitch Black (ME05)": [
+  "OutpostBrussels|Pokémon 151": [
+   "listato",
+   1
+  ],
+  "AllDayTCG|Destined Rivals": [
+   "listato",
+   1
+  ],
+  "Poke-Power|Destined Rivals": [
    "esaurito",
    1
   ],
-  "LetsGoTry|Chaos Rising (ME04)": [
+  "SunnyStore|Prismatic Evolutions": [
+   "esaurito",
+   1
+  ],
+  "SunnyStore|Crown Zenith": [
+   "listato",
+   1
+  ],
+  "God of Cards|Phantasmal Flames (ME02)": [
+   "listato",
+   1
+  ],
+  "Rogerz|Pokémon 151": [
+   "listato",
+   1
+  ],
+  "Total Cards (UK)|Premium Deck Espeon & Umbreon (30th)": [
    "non listato",
+   1
+  ],
+  "CardZone|Pokémon 151": [
+   "esaurito",
+   1
+  ],
+  "LetsGoTry|30th Celebration": [
+   "listato",
    1
   ]
  },
@@ -1021,7 +1053,7 @@
   "Pokemania.ro|Pitch Black (ME05)": "https://pokemania.ro/?s=pitch+black&post_type=product",
   "SunnyStore|Pokémon 151": "https://sunnystore.es/search?q=pokemon+151",
   "Total Cards (UK)|Pitch Black (ME05)": "https://totalcards.net/products/pokemon-mega-evolution-pitch-black-booster-pack?_pos=2&_sid=94ee142a0&_ss=r",
-  "Total Cards (UK)|30th Celebration": "https://totalcards.net/products/pokemon-30th-celebration-japanese-booster-box-20-packs?_pos=1&_sid=02167e80e&_ss=r"
+  "Total Cards (UK)|30th Celebration": "https://totalcards.net/products/pokemon-30th-celebration-japanese-booster-box-20-packs?_pos=1&_sid=bea80a922&_ss=r"
  },
  "digest_slot": "2026-07-08-15",
  "log": [
@@ -1095,7 +1127,7 @@
   "misticards.com": 53,
   "pokechest.at": 53,
   "bescards.com": 54,
-  "hobbykort.se": 53,
+  "hobbykort.se": 54,
   "rarecards.nl": 53,
   "pokevend.at": 53,
   "www.poketalk.se": 53,
@@ -1117,5 +1149,5 @@
   "www.blackfire.eu": 6,
   "www.pokemillon.com": 4
  },
- "runno": 605
+ "runno": 606
 }
