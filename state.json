@@ -979,7 +979,7 @@
  },
  "alerts": {
   "drop|MagicBazar|Pitch Black (ME05)": 1783274158.1076322,
-  "LetsGoTry|30th Celebration": 1783534554.973152
+  "LetsGoTry|30th Celebration": 1783535255.0127568
  },
  "prices": {
   "Packratt (UK)|Chaos Rising (ME04)": "£10.01",
@@ -992,10 +992,6 @@
  },
  "pending": {
   "Poke-Power|Pokémon 151": [
-   "listato",
-   1
-  ],
-  "LetsGoTry|30th Celebration": [
    "listato",
    1
   ]
@@ -1016,7 +1012,7 @@
   "Sapphire-Cards|Crown Zenith": "https://sapphire-cards.de/?s=crown+zenith&post_type=product",
   "Sapphire-Cards|Destined Rivals": "https://sapphire-cards.de/?s=destined+rivals&post_type=product",
   "Stoyanov Games|Pitch Black (ME05)": "https://stoyanov-gamesbg.com/pre-order-pokemon-tcg-mega-evolution-pitch-black-elite-trainer-box-френски-език/",
-  "LetsGoTry|30th Celebration": "https://letsgotry.pl/zestawy-eng/15895--preorder-pokemon-tcg-30th-celebration-binder-collection.html",
+  "LetsGoTry|30th Celebration": "https://letsgotry.pl/zestawy-eng/15894--preorder-pokemon-tcg-30th-celebration-tin-greninja-ex.html",
   "Pikashop|Chaos Rising (ME04)": "https://pikashop.pl/?s=chaos+rising&post_type=product",
   "Pokemania.ro|Pitch Black (ME05)": "https://pokemania.ro/?s=pitch+black&post_type=product",
   "SunnyStore|Pokémon 151": "https://sunnystore.es/search?q=pokemon+151",
@@ -1081,9 +1077,9 @@
    "url": "https://letsgotry.pl/zestawy-eng/15895--preorder-pokemon-tcg-30th-celebration-binder-collection.html"
   },
   {
-   "ts": "08/07 20:15",
+   "ts": "08/07 20:27",
    "title": "🚨 DISPONIBILE/PREORDER: 30th Celebration — LetsGoTry",
-   "url": "https://letsgotry.pl/zestawy-eng/15895--preorder-pokemon-tcg-30th-celebration-binder-collection.html"
+   "url": "https://letsgotry.pl/zestawy-eng/15892--preorder-pokemon-tcg-30th-celebration-elite-trainer-box.html"
   }
  ],
  "down": {
@@ -1104,9 +1100,9 @@
   "rarecards.nl": 55,
   "pokevend.at": 55,
   "www.poketalk.se": 55,
-  "tcgcompany.nl": 55,
+  "tcgcompany.nl": 56,
   "www.nerdom.gr": 55,
-  "tcgstore.se": 55,
+  "tcgstore.se": 56,
   "papelinho.pt": 55,
   "www.pokekarty.pl": 55,
   "pokeka.hu": 55,
@@ -1118,10 +1114,8 @@
   "lorenzone.fr": 33,
   "www.deckshop.de": 30,
   "tcgfanshop.nl": 12,
-  "www.amazon.it": 11,
   "www.blackfire.eu": 8,
-  "www.pokemillon.com": 6,
-  "pokeboxstore.pt": 2
+  "www.pokemillon.com": 6
  },
- "runno": 632
+ "runno": 633
 }
