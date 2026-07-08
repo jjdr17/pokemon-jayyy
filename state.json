@@ -837,7 +837,7 @@
    "Pitch Black (ME05)": "listato",
    "30th Celebration": "disponibile",
    "Storm Emerald (ME06)": "listato",
-   "Chaos Rising (ME04)": "listato",
+   "Chaos Rising (ME04)": "non listato",
    "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "non listato",
    "Prismatic Evolutions": "non listato",
@@ -974,7 +974,8 @@
   "pokechest.at": "https://pokechest.at/search?controller=search&s={q}",
   "misticards.com": "https://misticards.com/?s={q}&post_type=product",
   "tcgfanshop.nl": "https://tcgfanshop.nl/search?q={q}",
-  "rarecards.nl": "https://rarecards.nl/search?controller=search&s={q}"
+  "rarecards.nl": "https://rarecards.nl/search?controller=search&s={q}",
+  "bescards.com": "https://bescards.com/search?q={q}"
  },
  "alerts": {
   "drop|MagicBazar|Pitch Black (ME05)": 1783274158.1076322,
@@ -994,12 +995,56 @@
    "listato",
    1
   ],
-  "LetsGoTry|30th Celebration": [
+  "SunnyStore|Destined Rivals": [
+   "esaurito",
+   1
+  ],
+  "CardZone|Prismatic Evolutions": [
    "listato",
    1
   ],
-  "LetsGoTry|Chaos Rising (ME04)": [
+  "CardZone|Crown Zenith": [
+   "listato",
+   1
+  ],
+  "CardZone|Destined Rivals": [
+   "listato",
+   1
+  ],
+  "Rogerz|Pokémon 151": [
+   "listato",
+   1
+  ],
+  "Rogerz|Prismatic Evolutions": [
+   "listato",
+   1
+  ],
+  "God of Cards|Pokémon 151": [
+   "disponibile",
+   1
+  ],
+  "God of Cards|Prismatic Evolutions": [
+   "disponibile",
+   1
+  ],
+  "God of Cards|Crown Zenith": [
    "non listato",
+   1
+  ],
+  "God of Cards|Destined Rivals": [
+   "non listato",
+   1
+  ],
+  "BESCARDS|Pitch Black (ME05)": [
+   "non listato",
+   1
+  ],
+  "Total Cards (UK)|Phantasmal Flames (ME02)": [
+   "esaurito",
+   1
+  ],
+  "Total Cards (UK)|Pokémon 151": [
+   "listato",
    1
   ]
  },
@@ -1019,7 +1064,7 @@
   "Sapphire-Cards|Crown Zenith": "https://sapphire-cards.de/?s=crown+zenith&post_type=product",
   "Sapphire-Cards|Destined Rivals": "https://sapphire-cards.de/?s=destined+rivals&post_type=product",
   "Stoyanov Games|Pitch Black (ME05)": "https://stoyanov-gamesbg.com/pre-order-pokemon-tcg-mega-evolution-pitch-black-elite-trainer-box-френски-език/",
-  "LetsGoTry|30th Celebration": "https://letsgotry.pl/zestawy-eng/15894--preorder-pokemon-tcg-30th-celebration-tin-greninja-ex.html",
+  "LetsGoTry|30th Celebration": "https://letsgotry.pl/zestawy-eng/15896--preorder-pokemon-tcg-30th-celebration-2-pack.html",
   "Pikashop|Chaos Rising (ME04)": "https://pikashop.pl/?s=chaos+rising&post_type=product",
   "Pokemania.ro|Pitch Black (ME05)": "https://pokemania.ro/?s=pitch+black&post_type=product",
   "SunnyStore|Pokémon 151": "https://sunnystore.es/search?q=pokemon+151",
@@ -1092,7 +1137,6 @@
   "crispycards.de": 46,
   "misticards.com": 46,
   "pokechest.at": 46,
-  "bescards.com": 46,
   "hobbykort.se": 46,
   "rarecards.nl": 46,
   "pokevend.at": 46,
@@ -1113,7 +1157,8 @@
   "www.deckshop.de": 21,
   "www.blackfire.eu": 5,
   "www.amazon.it": 3,
-  "tcgfanshop.nl": 2
+  "tcgfanshop.nl": 3,
+  "pokeboxstore.pt": 1
  },
- "runno": 519
+ "runno": 520
 }
