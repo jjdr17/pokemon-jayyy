@@ -993,6 +993,26 @@
   "Amazon.it|30th Celebration": [
    "non listato",
    1
+  ],
+  "CardZone|Pokémon 151": [
+   "esaurito",
+   1
+  ],
+  "CardZone|Prismatic Evolutions": [
+   "listato",
+   1
+  ],
+  "CardZone|Crown Zenith": [
+   "listato",
+   1
+  ],
+  "CardZone|Destined Rivals": [
+   "listato",
+   1
+  ],
+  "LetsGoTry|30th Celebration": [
+   "disponibile",
+   1
   ]
  },
  "urls": {
@@ -1080,7 +1100,7 @@
   "misticards.com": 43,
   "pokechest.at": 43,
   "bescards.com": 44,
-  "hobbykort.se": 43,
+  "hobbykort.se": 44,
   "rarecards.nl": 43,
   "pokevend.at": 43,
   "www.poketalk.se": 43,
@@ -1099,11 +1119,7 @@
   "lorenzone.fr": 21,
   "tcgfanshop.nl": 19,
   "www.deckshop.de": 18,
-  "www.amazon.it": 3,
-  "tradingcard.fi": 2,
-  "www.pokemons.dk": 2,
-  "pikashop.pl": 2,
-  "www.blackfire.eu": 1
+  "www.amazon.it": 3
  },
- "runno": 485
+ "runno": 486
 }
