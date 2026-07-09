@@ -835,9 +835,9 @@
   },
   "LetsGoTry": {
    "Pitch Black (ME05)": "listato",
-   "30th Celebration": "listato",
+   "30th Celebration": "disponibile",
    "Storm Emerald (ME06)": "listato",
-   "Chaos Rising (ME04)": "non listato",
+   "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "non listato",
    "Prismatic Evolutions": "non listato",
@@ -995,6 +995,10 @@
   "AllDayTCG|Pokémon 151": [
    "listato",
    1
+  ],
+  "LetsGoTry|30th Celebration": [
+   "listato",
+   1
   ]
  },
  "urls": {
@@ -1017,7 +1021,7 @@
   "Pikashop|Chaos Rising (ME04)": "https://pikashop.pl/?s=chaos+rising&post_type=product",
   "Pokemania.ro|Pitch Black (ME05)": "https://pokemania.ro/?s=pitch+black&post_type=product",
   "SunnyStore|Pokémon 151": "https://sunnystore.es/search?q=pokemon+151",
-  "Total Cards (UK)|Pitch Black (ME05)": "https://totalcards.net/products/ultra-pro-pokemon-mega-evolution-pitch-black-9-pocket-portfolio?_pos=1&_sid=670ede9ec&_ss=r",
+  "Total Cards (UK)|Pitch Black (ME05)": "https://totalcards.net/products/ultra-pro-pokemon-mega-evolution-pitch-black-9-pocket-portfolio?_pos=1&_sid=c8e440e03&_ss=r",
   "Total Cards (UK)|30th Celebration": "https://totalcards.net/products/pokemon-30th-celebration-booster-bundle?_pos=2&_sid=a7d5590f0&_ss=r"
  },
  "digest_slot": "2026-07-08-22",
@@ -1114,29 +1118,20 @@
   "www.nerdom.gr": 60,
   "tcgstore.se": 61,
   "papelinho.pt": 61,
-  "www.pokekarty.pl": 60,
+  "www.pokekarty.pl": 61,
   "pokeka.hu": 60,
   "itcg.bg": 61,
   "www.wakuwaku.cz": 60,
   "www.pokemonia.ro": 61,
   "en.tcg-shop.at": 60,
   "cardcorner.at": 54,
-  "www.deckshop.de": 35,
+  "www.deckshop.de": 36,
   "www.pokemillon.com": 11,
   "crispycards.de": 8,
   "www.blackfire.eu": 7,
   "tcgfanshop.nl": 5,
   "lorenzone.fr": 4,
-  "pokeboxstore.pt": 4,
-  "www.amazon.it": 1,
-  "tradingcard.fi": 1,
-  "pokectcg.cz": 1,
-  "www.pokemons.dk": 1,
-  "pokewoke.store": 1,
-  "pikashop.pl": 1,
-  "tcgpikas.lt": 1,
-  "pokemonworld.lt": 1,
-  "extremepokecorner.com": 1
+  "pokeboxstore.pt": 4
  },
- "runno": 694
+ "runno": 695
 }
