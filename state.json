@@ -837,7 +837,7 @@
    "Pitch Black (ME05)": "listato",
    "30th Celebration": "disponibile",
    "Storm Emerald (ME06)": "listato",
-   "Chaos Rising (ME04)": "non listato",
+   "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "non listato",
    "Prismatic Evolutions": "non listato",
@@ -995,30 +995,6 @@
   "Amazon.it|Storm Emerald (ME06)": [
    "listato",
    1
-  ],
-  "AllDayTCG|Destined Rivals": [
-   "listato",
-   1
-  ],
-  "Poke-Power|Crown Zenith": [
-   "esaurito",
-   1
-  ],
-  "SunnyStore|Crown Zenith": [
-   "listato",
-   1
-  ],
-  "God of Cards|Pokémon 151": [
-   "disponibile",
-   1
-  ],
-  "LetsGoTry|30th Celebration": [
-   "listato",
-   1
-  ],
-  "LetsGoTry|Chaos Rising (ME04)": [
-   "listato",
-   1
   ]
  },
  "urls": {
@@ -1037,11 +1013,11 @@
   "Sapphire-Cards|Crown Zenith": "https://sapphire-cards.de/?s=crown+zenith&post_type=product",
   "Sapphire-Cards|Destined Rivals": "https://sapphire-cards.de/?s=destined+rivals&post_type=product",
   "Stoyanov Games|Pitch Black (ME05)": "https://stoyanov-gamesbg.com/pre-order-pokemon-tcg-mega-evolution-pitch-black-elite-trainer-box-френски-език/",
-  "LetsGoTry|30th Celebration": "https://letsgotry.pl/zestawy-eng/15892--preorder-pokemon-tcg-30th-celebration-elite-trainer-box.html",
+  "LetsGoTry|30th Celebration": "https://letsgotry.pl/zestawy-eng/15894--preorder-pokemon-tcg-30th-celebration-tin-greninja-ex.html",
   "Pikashop|Chaos Rising (ME04)": "https://pikashop.pl/?s=chaos+rising&post_type=product",
   "Pokemania.ro|Pitch Black (ME05)": "https://pokemania.ro/?s=pitch+black&post_type=product",
   "SunnyStore|Pokémon 151": "https://sunnystore.es/search?q=pokemon+151",
-  "Total Cards (UK)|Pitch Black (ME05)": "https://totalcards.net/products/ultra-pro-pokemon-mega-evolution-pitch-black-9-pocket-portfolio?_pos=1&_sid=0ff75b92e&_ss=r",
+  "Total Cards (UK)|Pitch Black (ME05)": "https://totalcards.net/products/ultra-pro-pokemon-mega-evolution-pitch-black-9-pocket-portfolio?_pos=1&_sid=d3e0b6c2b&_ss=r",
   "Total Cards (UK)|30th Celebration": "https://totalcards.net/products/pokemon-30th-celebration-booster-bundle?_pos=2&_sid=ed98454cd&_ss=r"
  },
  "digest_slot": "2026-07-09-22",
@@ -1140,11 +1116,11 @@
   "misticards.com": 71,
   "bescards.com": 71,
   "hobbykort.se": 71,
-  "rarecards.nl": 70,
-  "pokevend.at": 70,
+  "rarecards.nl": 71,
+  "pokevend.at": 71,
   "www.poketalk.se": 71,
   "tcgcompany.nl": 71,
-  "www.nerdom.gr": 70,
+  "www.nerdom.gr": 71,
   "tcgstore.se": 71,
   "papelinho.pt": 71,
   "www.pokekarty.pl": 71,
@@ -1162,8 +1138,7 @@
   "itcg.bg": 5,
   "lorenzone.fr": 5,
   "pokeboxstore.pt": 3,
-  "www.amazon.it": 1,
-  "tcgdistribution.fr": 1
+  "www.amazon.it": 2
  },
- "runno": 818
+ "runno": 819
 }
