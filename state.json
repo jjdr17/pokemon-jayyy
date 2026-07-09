@@ -986,13 +986,17 @@
   "Packratt (UK)|Chaos Rising (ME04)": "£10.01",
   "Packratt (UK)|Pokémon 151": "£29.99",
   "PokeCardShop|Chaos Rising (ME04)": "€6.95",
-  "MagicBazar|Pitch Black (ME05)": "$84",
+  "MagicBazar|Pitch Black (ME05)": "$85",
   "SunnyStore|Pokémon 151": "€26,90",
   "Total Cards (UK)|Pitch Black (ME05)": "£4.79",
   "Stoyanov Games|Pitch Black (ME05)": "8.00€"
  },
  "pending": {
   "Amazon.it|Storm Emerald (ME06)": [
+   "listato",
+   1
+  ],
+  "LetsGoTry|30th Celebration": [
    "listato",
    1
   ]
@@ -1017,10 +1021,10 @@
   "Pikashop|Chaos Rising (ME04)": "https://pikashop.pl/?s=chaos+rising&post_type=product",
   "Pokemania.ro|Pitch Black (ME05)": "https://pokemania.ro/?s=pitch+black&post_type=product",
   "SunnyStore|Pokémon 151": "https://sunnystore.es/search?q=pokemon+151",
-  "Total Cards (UK)|Pitch Black (ME05)": "https://totalcards.net/products/ultra-pro-pokemon-mega-evolution-pitch-black-9-pocket-portfolio?_pos=1&_sid=400e62540&_ss=r",
+  "Total Cards (UK)|Pitch Black (ME05)": "https://totalcards.net/products/ultra-pro-pokemon-mega-evolution-pitch-black-9-pocket-portfolio?_pos=1&_sid=79a3ac457&_ss=r",
   "Total Cards (UK)|30th Celebration": "https://totalcards.net/products/pokemon-30th-celebration-booster-bundle?_pos=2&_sid=bbfe4aef0&_ss=r"
  },
- "digest_slot": "2026-07-09-15",
+ "digest_slot": "2026-07-09-18",
  "log": [
   {
    "ts": "05/07 19:55",
@@ -1112,7 +1116,7 @@
   "www.chaoscards.co.uk": 67,
   "fabscards.at": 67,
   "www.waylandgames.co.uk": 67,
-  "www.firestormgames.co.uk": 67,
+  "www.firestormgames.co.uk": 68,
   "misticards.com": 67,
   "bescards.com": 68,
   "hobbykort.se": 67,
@@ -1127,7 +1131,7 @@
   "pokeka.hu": 67,
   "itcg.bg": 67,
   "www.wakuwaku.cz": 67,
-  "www.pokemonia.ro": 67,
+  "www.pokemonia.ro": 68,
   "en.tcg-shop.at": 67,
   "cardcorner.at": 60,
   "www.deckshop.de": 42,
@@ -1138,7 +1142,12 @@
   "www.amazon.it": 6,
   "www.blackfire.eu": 4,
   "crispycards.de": 3,
-  "pokeboxstore.pt": 1
+  "pokeboxstore.pt": 2,
+  "pokectcg.cz": 1,
+  "pokewoke.store": 1,
+  "tcgpikas.lt": 1,
+  "pokemonworld.lt": 1,
+  "extremepokecorner.com": 1
  },
- "runno": 772
+ "runno": 773
 }
