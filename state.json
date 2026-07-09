@@ -992,8 +992,52 @@
   "Stoyanov Games|Pitch Black (ME05)": "8.00€"
  },
  "pending": {
-  "LetsGoTry|30th Celebration": [
+  "AllDayTCG|Destined Rivals": [
    "listato",
+   1
+  ],
+  "OutpostBrussels|Prismatic Evolutions": [
+   "esaurito",
+   1
+  ],
+  "OutpostBrussels|Crown Zenith": [
+   "listato",
+   1
+  ],
+  "OutpostBrussels|Destined Rivals": [
+   "esaurito",
+   1
+  ],
+  "Rogerz|Prismatic Evolutions": [
+   "listato",
+   1
+  ],
+  "Rogerz|Crown Zenith": [
+   "listato",
+   1
+  ],
+  "God of Cards|Prismatic Evolutions": [
+   "disponibile",
+   1
+  ],
+  "God of Cards|Crown Zenith": [
+   "non listato",
+   1
+  ],
+  "Total Cards (UK)|Storm Emerald (ME06)": [
+   "listato",
+   1
+  ],
+  "Total Cards (UK)|Pokémon 151": [
+   "listato",
+   1
+  ],
+  "Fabscards|30th Celebration": [
+   "non listato",
+   1
+  ],
+  "LetsGoTry|Chaos Rising (ME04)": [
+   "non listato",
    1
   ]
  },
@@ -1013,7 +1057,7 @@
   "Sapphire-Cards|Crown Zenith": "https://sapphire-cards.de/?s=crown+zenith&post_type=product",
   "Sapphire-Cards|Destined Rivals": "https://sapphire-cards.de/?s=destined+rivals&post_type=product",
   "Stoyanov Games|Pitch Black (ME05)": "https://stoyanov-gamesbg.com/pre-order-pokemon-tcg-mega-evolution-pitch-black-elite-trainer-box-френски-език/",
-  "LetsGoTry|30th Celebration": "https://letsgotry.pl/zestawy-eng/15893--preorder-pokemon-tcg-30th-celebration-tin-sylveon-ex.html",
+  "LetsGoTry|30th Celebration": "https://letsgotry.pl/zestawy-eng/15895--preorder-pokemon-tcg-30th-celebration-binder-collection.html",
   "Pikashop|Chaos Rising (ME04)": "https://pikashop.pl/?s=chaos+rising&post_type=product",
   "Pokemania.ro|Pitch Black (ME05)": "https://pokemania.ro/?s=pitch+black&post_type=product",
   "SunnyStore|Pokémon 151": "https://sunnystore.es/search?q=pokemon+151",
@@ -1111,11 +1155,10 @@
  "down": {
   "www.cardmarket.com": 73,
   "www.gamestop.com": 73,
-  "www.gamelife.it": 73,
-  "pokeseller14.com": 73,
-  "geco-shop.de": 73,
+  "www.gamelife.it": 74,
+  "pokeseller14.com": 74,
+  "geco-shop.de": 74,
   "www.chaoscards.co.uk": 73,
-  "fabscards.at": 73,
   "www.waylandgames.co.uk": 73,
   "www.firestormgames.co.uk": 74,
   "misticards.com": 73,
@@ -1141,15 +1184,10 @@
   "crispycards.de": 9,
   "itcg.bg": 7,
   "lorenzone.fr": 7,
-  "www.amazon.it": 4,
+  "www.amazon.it": 5,
   "cardzone.es": 4,
   "extremepokecorner.com": 4,
-  "www.blackfire.eu": 3,
-  "pokeboxstore.pt": 2,
-  "pokectcg.cz": 1,
-  "pokewoke.store": 1,
-  "tcgpikas.lt": 1,
-  "pokemonworld.lt": 1
+  "www.blackfire.eu": 3
  },
- "runno": 847
+ "runno": 848
 }
