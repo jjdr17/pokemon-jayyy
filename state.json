@@ -131,7 +131,7 @@
    "Storm Emerald (ME06)": "non listato",
    "Chaos Rising (ME04)": "esaurito",
    "Phantasmal Flames (ME02)": "esaurito",
-   "Pokémon 151": "irraggiungibile",
+   "Pokémon 151": "listato",
    "Prismatic Evolutions": "irraggiungibile",
    "Crown Zenith": "irraggiungibile",
    "Destined Rivals": "irraggiungibile",
@@ -143,7 +143,7 @@
    "Storm Emerald (ME06)": "listato",
    "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "listato",
-   "Pokémon 151": "irraggiungibile",
+   "Pokémon 151": "esaurito",
    "Prismatic Evolutions": "irraggiungibile",
    "Crown Zenith": "irraggiungibile",
    "Destined Rivals": "irraggiungibile",
@@ -178,7 +178,7 @@
    "30th Celebration": "non listato",
    "Storm Emerald (ME06)": "non listato",
    "Chaos Rising (ME04)": "non listato",
-   "Phantasmal Flames (ME02)": "irraggiungibile",
+   "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "irraggiungibile",
    "Prismatic Evolutions": "irraggiungibile",
    "Crown Zenith": "irraggiungibile",
@@ -986,29 +986,21 @@
   "Packratt (UK)|Chaos Rising (ME04)": "£10.01",
   "Packratt (UK)|Pokémon 151": "£29.99",
   "PokeCardShop|Chaos Rising (ME04)": "€6.95",
-  "MagicBazar|Pitch Black (ME05)": "$84",
+  "MagicBazar|Pitch Black (ME05)": "$85",
   "SunnyStore|Pokémon 151": "€26,90",
   "Total Cards (UK)|Pitch Black (ME05)": "£4.79",
   "Stoyanov Games|Pitch Black (ME05)": "8.00€"
  },
  "pending": {
-  "OutpostBrussels|Pokémon 151": [
-   "listato",
-   1
-  ],
-  "God of Cards|Phantasmal Flames (ME02)": [
-   "non listato",
-   1
-  ],
-  "CardZone|Pokémon 151": [
+  "Total Cards (UK)|Phantasmal Flames (ME02)": [
    "esaurito",
    1
   ],
-  "Total Cards (UK)|Premium Deck Espeon & Umbreon (30th)": [
-   "non listato",
+  "God of Cards|Pokémon 151": [
+   "disponibile",
    1
   ],
-  "LetsGoTry|Chaos Rising (ME04)": [
+  "PokeCardShop|Phantasmal Flames (ME02)": [
    "non listato",
    1
   ]
@@ -1029,11 +1021,11 @@
   "Sapphire-Cards|Crown Zenith": "https://sapphire-cards.de/?s=crown+zenith&post_type=product",
   "Sapphire-Cards|Destined Rivals": "https://sapphire-cards.de/?s=destined+rivals&post_type=product",
   "Stoyanov Games|Pitch Black (ME05)": "https://stoyanov-gamesbg.com/pre-order-pokemon-tcg-mega-evolution-pitch-black-elite-trainer-box-френски-език/",
-  "LetsGoTry|30th Celebration": "https://letsgotry.pl/zestawy-eng/15892--preorder-pokemon-tcg-30th-celebration-elite-trainer-box.html",
+  "LetsGoTry|30th Celebration": "https://letsgotry.pl/zestawy-eng/15895--preorder-pokemon-tcg-30th-celebration-binder-collection.html",
   "Pikashop|Chaos Rising (ME04)": "https://pikashop.pl/?s=chaos+rising&post_type=product",
   "Pokemania.ro|Pitch Black (ME05)": "https://pokemania.ro/?s=pitch+black&post_type=product",
   "SunnyStore|Pokémon 151": "https://sunnystore.es/search?q=pokemon+151",
-  "Total Cards (UK)|Pitch Black (ME05)": "https://totalcards.net/products/ultra-pro-pokemon-mega-evolution-pitch-black-9-pocket-portfolio?_pos=1&_sid=2bdedac72&_ss=r",
+  "Total Cards (UK)|Pitch Black (ME05)": "https://totalcards.net/products/ultra-pro-pokemon-mega-evolution-pitch-black-9-pocket-portfolio?_pos=1&_sid=c1cd817dc&_ss=r",
   "Total Cards (UK)|30th Celebration": "https://totalcards.net/products/pokemon-30th-celebration-booster-bundle?_pos=2&_sid=c4a59483b&_ss=r"
  },
  "digest_slot": "2026-07-09-18",
@@ -1140,21 +1132,19 @@
   "tcgstore.se": 68,
   "papelinho.pt": 68,
   "www.pokekarty.pl": 68,
-  "pokeka.hu": 67,
+  "pokeka.hu": 68,
   "itcg.bg": 68,
-  "www.wakuwaku.cz": 67,
+  "www.wakuwaku.cz": 68,
   "www.pokemonia.ro": 68,
   "en.tcg-shop.at": 68,
   "cardcorner.at": 61,
   "www.deckshop.de": 43,
-  "www.pokemillon.com": 18,
+  "www.pokemillon.com": 19,
   "tcgfanshop.nl": 13,
-  "lorenzone.fr": 8,
+  "lorenzone.fr": 9,
   "pokechest.at": 8,
-  "www.blackfire.eu": 4,
   "crispycards.de": 4,
-  "www.amazon.it": 3,
-  "tcgdistribution.fr": 1
+  "www.amazon.it": 3
  },
- "runno": 781
+ "runno": 782
 }
