@@ -837,7 +837,7 @@
    "Pitch Black (ME05)": "listato",
    "30th Celebration": "listato",
    "Storm Emerald (ME06)": "listato",
-   "Chaos Rising (ME04)": "non listato",
+   "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "non listato",
    "Prismatic Evolutions": "non listato",
@@ -991,16 +991,7 @@
   "Total Cards (UK)|Pitch Black (ME05)": "£4.79",
   "Stoyanov Games|Pitch Black (ME05)": "8.00€"
  },
- "pending": {
-  "LetsGoTry|30th Celebration": [
-   "disponibile",
-   1
-  ],
-  "LetsGoTry|Chaos Rising (ME04)": [
-   "listato",
-   1
-  ]
- },
+ "pending": {},
  "urls": {
   "Rogerz|Pitch Black (ME05)": "https://rogerz.dk/search?q=pitch+black",
   "Packratt (UK)|Chaos Rising (ME04)": "https://packratt.co.uk/search?q=chaos+rising",
@@ -1022,7 +1013,7 @@
   "Pokemania.ro|Pitch Black (ME05)": "https://pokemania.ro/?s=pitch+black&post_type=product",
   "SunnyStore|Pokémon 151": "https://sunnystore.es/search?q=pokemon+151",
   "Total Cards (UK)|Pitch Black (ME05)": "https://totalcards.net/products/ultra-pro-pokemon-mega-evolution-pitch-black-9-pocket-portfolio?_pos=1&_sid=10f43b982&_ss=r",
-  "Total Cards (UK)|30th Celebration": "https://totalcards.net/products/pokemon-30th-celebration-booster-bundle?_pos=2&_sid=98c1adb3a&_ss=r"
+  "Total Cards (UK)|30th Celebration": "https://totalcards.net/products/pokemon-30th-celebration-booster-bundle?_pos=2&_sid=b37548718&_ss=r"
  },
  "digest_slot": "2026-07-09-22",
  "log": [
@@ -1128,20 +1119,21 @@
   "tcgstore.se": 72,
   "papelinho.pt": 72,
   "www.pokekarty.pl": 72,
-  "pokeka.hu": 71,
-  "www.wakuwaku.cz": 71,
+  "pokeka.hu": 72,
+  "www.wakuwaku.cz": 72,
   "www.pokemonia.ro": 72,
   "en.tcg-shop.at": 72,
   "cardcorner.at": 65,
   "www.deckshop.de": 47,
-  "www.pokemillon.com": 22,
+  "www.pokemillon.com": 23,
   "tcgfanshop.nl": 17,
   "pokechest.at": 12,
   "crispycards.de": 8,
-  "www.blackfire.eu": 6,
   "itcg.bg": 6,
-  "lorenzone.fr": 5,
-  "www.amazon.it": 3
+  "lorenzone.fr": 6,
+  "www.amazon.it": 3,
+  "cardzone.es": 1,
+  "tcgdistribution.fr": 1
  },
- "runno": 829
+ "runno": 830
 }
