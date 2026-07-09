@@ -837,7 +837,7 @@
    "Pitch Black (ME05)": "listato",
    "30th Celebration": "disponibile",
    "Storm Emerald (ME06)": "listato",
-   "Chaos Rising (ME04)": "listato",
+   "Chaos Rising (ME04)": "non listato",
    "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "non listato",
    "Prismatic Evolutions": "non listato",
@@ -986,7 +986,7 @@
   "Packratt (UK)|Chaos Rising (ME04)": "£10.01",
   "Packratt (UK)|Pokémon 151": "£29.99",
   "PokeCardShop|Chaos Rising (ME04)": "€6.95",
-  "MagicBazar|Pitch Black (ME05)": "$84",
+  "MagicBazar|Pitch Black (ME05)": "$85",
   "SunnyStore|Pokémon 151": "€26,90",
   "Total Cards (UK)|Pitch Black (ME05)": "£4.79",
   "Stoyanov Games|Pitch Black (ME05)": "8.00€"
@@ -997,7 +997,7 @@
    1
   ],
   "LetsGoTry|Chaos Rising (ME04)": [
-   "non listato",
+   "listato",
    1
   ]
  },
@@ -1017,11 +1017,11 @@
   "Sapphire-Cards|Crown Zenith": "https://sapphire-cards.de/?s=crown+zenith&post_type=product",
   "Sapphire-Cards|Destined Rivals": "https://sapphire-cards.de/?s=destined+rivals&post_type=product",
   "Stoyanov Games|Pitch Black (ME05)": "https://stoyanov-gamesbg.com/pre-order-pokemon-tcg-mega-evolution-pitch-black-elite-trainer-box-френски-език/",
-  "LetsGoTry|30th Celebration": "https://letsgotry.pl/zestawy-eng/15892--preorder-pokemon-tcg-30th-celebration-elite-trainer-box.html",
+  "LetsGoTry|30th Celebration": "https://letsgotry.pl/zestawy-eng/15896--preorder-pokemon-tcg-30th-celebration-2-pack.html",
   "Pikashop|Chaos Rising (ME04)": "https://pikashop.pl/?s=chaos+rising&post_type=product",
   "Pokemania.ro|Pitch Black (ME05)": "https://pokemania.ro/?s=pitch+black&post_type=product",
   "SunnyStore|Pokémon 151": "https://sunnystore.es/search?q=pokemon+151",
-  "Total Cards (UK)|Pitch Black (ME05)": "https://totalcards.net/products/ultra-pro-pokemon-mega-evolution-pitch-black-9-pocket-portfolio?_pos=1&_sid=b16456e29&_ss=r",
+  "Total Cards (UK)|Pitch Black (ME05)": "https://totalcards.net/products/ultra-pro-pokemon-mega-evolution-pitch-black-9-pocket-portfolio?_pos=1&_sid=99227abf8&_ss=r",
   "Total Cards (UK)|30th Celebration": "https://totalcards.net/products/pokemon-30th-celebration-booster-bundle?_pos=2&_sid=ddd556056&_ss=r"
  },
  "digest_slot": "2026-07-09-15",
@@ -1122,14 +1122,14 @@
   "www.nerdom.gr": 65,
   "tcgstore.se": 66,
   "papelinho.pt": 66,
-  "www.pokekarty.pl": 65,
+  "www.pokekarty.pl": 66,
   "pokeka.hu": 65,
   "itcg.bg": 66,
   "www.wakuwaku.cz": 65,
   "www.pokemonia.ro": 66,
   "en.tcg-shop.at": 65,
   "cardcorner.at": 59,
-  "www.deckshop.de": 40,
+  "www.deckshop.de": 41,
   "www.pokemillon.com": 16,
   "crispycards.de": 13,
   "tcgfanshop.nl": 10,
@@ -1137,9 +1137,7 @@
   "pokechest.at": 5,
   "www.amazon.it": 5,
   "www.blackfire.eu": 3,
-  "tcgdistribution.fr": 3,
-  "pokeboxstore.pt": 2,
-  "www.lotticards.de": 1
+  "tcgdistribution.fr": 3
  },
- "runno": 754
+ "runno": 755
 }
