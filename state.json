@@ -837,7 +837,7 @@
    "Pitch Black (ME05)": "listato",
    "30th Celebration": "listato",
    "Storm Emerald (ME06)": "listato",
-   "Chaos Rising (ME04)": "listato",
+   "Chaos Rising (ME04)": "non listato",
    "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "non listato",
    "Prismatic Evolutions": "non listato",
@@ -999,14 +999,6 @@
   "Amazon.it|30th Celebration": [
    "listato",
    1
-  ],
-  "OutpostBrussels|Prismatic Evolutions": [
-   "esaurito",
-   1
-  ],
-  "LetsGoTry|Chaos Rising (ME04)": [
-   "non listato",
-   1
   ]
  },
  "urls": {
@@ -1029,7 +1021,7 @@
   "Pikashop|Chaos Rising (ME04)": "https://pikashop.pl/?s=chaos+rising&post_type=product",
   "Pokemania.ro|Pitch Black (ME05)": "https://pokemania.ro/?s=pitch+black&post_type=product",
   "SunnyStore|Pokémon 151": "https://sunnystore.es/search?q=pokemon+151",
-  "Total Cards (UK)|Pitch Black (ME05)": "https://totalcards.net/products/ultra-pro-pokemon-mega-evolution-pitch-black-9-pocket-portfolio?_pos=1&_sid=977da6f3d&_ss=r",
+  "Total Cards (UK)|Pitch Black (ME05)": "https://totalcards.net/products/ultra-pro-pokemon-mega-evolution-pitch-black-9-pocket-portfolio?_pos=1&_sid=b990bd6a2&_ss=r",
   "Total Cards (UK)|30th Celebration": "https://totalcards.net/products/pokemon-30th-celebration-booster-bundle?_pos=2&_sid=a7d5590f0&_ss=r"
  },
  "digest_slot": "2026-07-08-22",
@@ -1101,14 +1093,14 @@
   }
  ],
  "down": {
-  "www.cardmarket.com": 59,
+  "www.cardmarket.com": 60,
   "www.gamestop.com": 59,
   "www.gamelife.it": 60,
   "pokeseller14.com": 60,
   "geco-shop.de": 60,
   "www.chaoscards.co.uk": 59,
   "fabscards.at": 60,
-  "www.waylandgames.co.uk": 59,
+  "www.waylandgames.co.uk": 60,
   "www.firestormgames.co.uk": 60,
   "misticards.com": 59,
   "pokechest.at": 59,
@@ -1120,22 +1112,22 @@
   "tcgcompany.nl": 60,
   "www.nerdom.gr": 59,
   "tcgstore.se": 60,
-  "papelinho.pt": 59,
+  "papelinho.pt": 60,
   "www.pokekarty.pl": 59,
   "pokeka.hu": 59,
-  "itcg.bg": 59,
+  "itcg.bg": 60,
   "www.wakuwaku.cz": 59,
   "www.pokemonia.ro": 60,
   "en.tcg-shop.at": 59,
-  "cardcorner.at": 52,
+  "cardcorner.at": 53,
   "www.deckshop.de": 34,
   "www.pokemillon.com": 10,
-  "crispycards.de": 6,
+  "crispycards.de": 7,
   "www.blackfire.eu": 6,
   "tcgfanshop.nl": 4,
   "lorenzone.fr": 3,
-  "www.amazon.it": 1,
-  "pokeboxstore.pt": 1
+  "www.amazon.it": 2,
+  "pokeboxstore.pt": 2
  },
- "runno": 681
+ "runno": 682
 }
