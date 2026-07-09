@@ -991,12 +991,7 @@
   "Total Cards (UK)|Pitch Black (ME05)": "£4.79",
   "Stoyanov Games|Pitch Black (ME05)": "8.00€"
  },
- "pending": {
-  "LetsGoTry|Chaos Rising (ME04)": [
-   "non listato",
-   1
-  ]
- },
+ "pending": {},
  "urls": {
   "Rogerz|Pitch Black (ME05)": "https://rogerz.dk/search?q=pitch+black",
   "Packratt (UK)|Chaos Rising (ME04)": "https://packratt.co.uk/search?q=chaos+rising",
@@ -1013,7 +1008,7 @@
   "Sapphire-Cards|Crown Zenith": "https://sapphire-cards.de/?s=crown+zenith&post_type=product",
   "Sapphire-Cards|Destined Rivals": "https://sapphire-cards.de/?s=destined+rivals&post_type=product",
   "Stoyanov Games|Pitch Black (ME05)": "https://stoyanov-gamesbg.com/pre-order-pokemon-tcg-mega-evolution-pitch-black-elite-trainer-box-френски-език/",
-  "LetsGoTry|30th Celebration": "https://letsgotry.pl/zestawy-eng/15894--preorder-pokemon-tcg-30th-celebration-tin-greninja-ex.html",
+  "LetsGoTry|30th Celebration": "https://letsgotry.pl/zestawy-eng/15892--preorder-pokemon-tcg-30th-celebration-elite-trainer-box.html",
   "Pikashop|Chaos Rising (ME04)": "https://pikashop.pl/?s=chaos+rising&post_type=product",
   "Pokemania.ro|Pitch Black (ME05)": "https://pokemania.ro/?s=pitch+black&post_type=product",
   "SunnyStore|Pokémon 151": "https://sunnystore.es/search?q=pokemon+151",
@@ -1114,21 +1109,22 @@
   "www.nerdom.gr": 61,
   "tcgstore.se": 62,
   "papelinho.pt": 62,
-  "www.pokekarty.pl": 61,
+  "www.pokekarty.pl": 62,
   "pokeka.hu": 61,
   "itcg.bg": 62,
   "www.wakuwaku.cz": 61,
   "www.pokemonia.ro": 62,
   "en.tcg-shop.at": 61,
   "cardcorner.at": 55,
-  "www.deckshop.de": 36,
+  "www.deckshop.de": 37,
   "www.pokemillon.com": 12,
   "crispycards.de": 9,
   "www.blackfire.eu": 8,
   "tcgfanshop.nl": 6,
   "lorenzone.fr": 5,
   "pokeboxstore.pt": 5,
-  "www.amazon.it": 4
+  "www.amazon.it": 4,
+  "tcgdistribution.fr": 1
  },
- "runno": 706
+ "runno": 707
 }
