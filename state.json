@@ -837,7 +837,7 @@
    "Pitch Black (ME05)": "listato",
    "30th Celebration": "disponibile",
    "Storm Emerald (ME06)": "listato",
-   "Chaos Rising (ME04)": "listato",
+   "Chaos Rising (ME04)": "non listato",
    "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "non listato",
    "Prismatic Evolutions": "non listato",
@@ -992,12 +992,8 @@
   "Stoyanov Games|Pitch Black (ME05)": "8.00€"
  },
  "pending": {
-  "LetsGoTry|30th Celebration": [
-   "listato",
-   1
-  ],
   "LetsGoTry|Chaos Rising (ME04)": [
-   "non listato",
+   "listato",
    1
   ]
  },
@@ -1021,8 +1017,8 @@
   "Pikashop|Chaos Rising (ME04)": "https://pikashop.pl/?s=chaos+rising&post_type=product",
   "Pokemania.ro|Pitch Black (ME05)": "https://pokemania.ro/?s=pitch+black&post_type=product",
   "SunnyStore|Pokémon 151": "https://sunnystore.es/search?q=pokemon+151",
-  "Total Cards (UK)|Pitch Black (ME05)": "https://totalcards.net/products/ultra-pro-pokemon-mega-evolution-pitch-black-9-pocket-portfolio?_pos=1&_sid=ef8e13cbe&_ss=r",
-  "Total Cards (UK)|30th Celebration": "https://totalcards.net/products/pokemon-30th-celebration-booster-bundle?_pos=2&_sid=dbcf7644f&_ss=r"
+  "Total Cards (UK)|Pitch Black (ME05)": "https://totalcards.net/products/ultra-pro-pokemon-mega-evolution-pitch-black-9-pocket-portfolio?_pos=1&_sid=02e394bb5&_ss=r",
+  "Total Cards (UK)|30th Celebration": "https://totalcards.net/products/pokemon-30th-celebration-booster-bundle?_pos=2&_sid=ad58ae777&_ss=r"
  },
  "digest_slot": "2026-07-09-22",
  "log": [
@@ -1114,20 +1110,20 @@
  ],
  "down": {
   "www.cardmarket.com": 73,
-  "www.gamestop.com": 72,
+  "www.gamestop.com": 73,
   "www.gamelife.it": 73,
   "pokeseller14.com": 73,
   "geco-shop.de": 73,
-  "www.chaoscards.co.uk": 72,
+  "www.chaoscards.co.uk": 73,
   "fabscards.at": 73,
   "www.waylandgames.co.uk": 73,
   "www.firestormgames.co.uk": 73,
-  "misticards.com": 72,
+  "misticards.com": 73,
   "bescards.com": 73,
   "hobbykort.se": 73,
   "rarecards.nl": 72,
   "pokevend.at": 72,
-  "www.poketalk.se": 72,
+  "www.poketalk.se": 73,
   "tcgcompany.nl": 73,
   "www.nerdom.gr": 72,
   "tcgstore.se": 73,
@@ -1146,9 +1142,9 @@
   "itcg.bg": 7,
   "lorenzone.fr": 6,
   "www.amazon.it": 4,
-  "cardzone.es": 3,
+  "cardzone.es": 4,
   "www.blackfire.eu": 3,
-  "extremepokecorner.com": 4
+  "extremepokecorner.com": 1
  },
- "runno": 839
+ "runno": 840
 }
