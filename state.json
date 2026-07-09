@@ -986,18 +986,14 @@
   "Packratt (UK)|Chaos Rising (ME04)": "£10.01",
   "Packratt (UK)|Pokémon 151": "£29.99",
   "PokeCardShop|Chaos Rising (ME04)": "€6.95",
-  "MagicBazar|Pitch Black (ME05)": "$84",
+  "MagicBazar|Pitch Black (ME05)": "$85",
   "SunnyStore|Pokémon 151": "€26,90",
   "Total Cards (UK)|Pitch Black (ME05)": "£4.79",
   "Stoyanov Games|Pitch Black (ME05)": "8.00€"
  },
  "pending": {
-  "Amazon.it|Storm Emerald (ME06)": [
+  "LetsGoTry|30th Celebration": [
    "listato",
-   1
-  ],
-  "PokeCardShop|Pokémon 151": [
-   "non listato",
    1
   ]
  },
@@ -1021,10 +1017,10 @@
   "Pikashop|Chaos Rising (ME04)": "https://pikashop.pl/?s=chaos+rising&post_type=product",
   "Pokemania.ro|Pitch Black (ME05)": "https://pokemania.ro/?s=pitch+black&post_type=product",
   "SunnyStore|Pokémon 151": "https://sunnystore.es/search?q=pokemon+151",
-  "Total Cards (UK)|Pitch Black (ME05)": "https://totalcards.net/products/ultra-pro-pokemon-mega-evolution-pitch-black-9-pocket-portfolio?_pos=1&_sid=eda321c0d&_ss=r",
+  "Total Cards (UK)|Pitch Black (ME05)": "https://totalcards.net/products/ultra-pro-pokemon-mega-evolution-pitch-black-9-pocket-portfolio?_pos=1&_sid=331e4f44a&_ss=r",
   "Total Cards (UK)|30th Celebration": "https://totalcards.net/products/pokemon-30th-celebration-booster-bundle?_pos=2&_sid=d54097c19&_ss=r"
  },
- "digest_slot": "2026-07-09-10",
+ "digest_slot": "2026-07-09-15",
  "log": [
   {
    "ts": "05/07 19:55",
@@ -1105,11 +1101,11 @@
  "down": {
   "www.cardmarket.com": 65,
   "www.gamestop.com": 65,
-  "www.gamelife.it": 65,
-  "pokeseller14.com": 65,
-  "geco-shop.de": 65,
+  "www.gamelife.it": 66,
+  "pokeseller14.com": 66,
+  "geco-shop.de": 66,
   "www.chaoscards.co.uk": 65,
-  "fabscards.at": 65,
+  "fabscards.at": 66,
   "www.waylandgames.co.uk": 65,
   "www.firestormgames.co.uk": 66,
   "misticards.com": 65,
@@ -1135,10 +1131,7 @@
   "tcgfanshop.nl": 10,
   "lorenzone.fr": 6,
   "pokechest.at": 5,
-  "www.amazon.it": 4,
-  "www.blackfire.eu": 3,
-  "tcgdistribution.fr": 2,
-  "alldaytcg.com": 1
+  "www.blackfire.eu": 3
  },
- "runno": 751
+ "runno": 752
 }
