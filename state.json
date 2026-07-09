@@ -155,7 +155,7 @@
    "Storm Emerald (ME06)": "non listato",
    "Chaos Rising (ME04)": "esaurito",
    "Phantasmal Flames (ME02)": "esaurito",
-   "Pokémon 151": "disponibile",
+   "Pokémon 151": "esaurito",
    "Prismatic Evolutions": "esaurito",
    "Crown Zenith": "irraggiungibile",
    "Destined Rivals": "irraggiungibile",
@@ -835,7 +835,7 @@
   },
   "LetsGoTry": {
    "Pitch Black (ME05)": "listato",
-   "30th Celebration": "disponibile",
+   "30th Celebration": "listato",
    "Storm Emerald (ME06)": "listato",
    "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "non listato",
@@ -992,12 +992,120 @@
   "Stoyanov Games|Pitch Black (ME05)": "8.00€"
  },
  "pending": {
-  "SunnyStore|Pokémon 151": [
+  "Pokechest|Pitch Black (ME05)": [
+   "non listato",
+   1
+  ],
+  "Pokechest|30th Celebration": [
+   "non listato",
+   1
+  ],
+  "Pokechest|Premium Deck Espeon & Umbreon (30th)": [
+   "non listato",
+   1
+  ],
+  "Pokechest|Storm Emerald (ME06)": [
+   "non listato",
+   1
+  ],
+  "Pokechest|Chaos Rising (ME04)": [
+   "non listato",
+   1
+  ],
+  "Pokechest|Phantasmal Flames (ME02)": [
+   "non listato",
+   1
+  ],
+  "Pokechest|Pokémon 151": [
+   "non listato",
+   1
+  ],
+  "Pokechest|Prismatic Evolutions": [
+   "non listato",
+   1
+  ],
+  "Pokechest|Crown Zenith": [
+   "non listato",
+   1
+  ],
+  "Pokechest|Destined Rivals": [
+   "non listato",
+   1
+  ],
+  "OutpostBrussels|Pokémon 151": [
+   "listato",
+   1
+  ],
+  "OutpostBrussels|Prismatic Evolutions": [
    "esaurito",
    1
   ],
-  "LetsGoTry|Chaos Rising (ME04)": [
+  "OutpostBrussels|Crown Zenith": [
+   "listato",
+   1
+  ],
+  "OutpostBrussels|Destined Rivals": [
+   "esaurito",
+   1
+  ],
+  "Rogerz|Prismatic Evolutions": [
+   "listato",
+   1
+  ],
+  "Rogerz|Crown Zenith": [
+   "listato",
+   1
+  ],
+  "Rogerz|Destined Rivals": [
+   "listato",
+   1
+  ],
+  "Total Cards (UK)|Premium Deck Espeon & Umbreon (30th)": [
    "non listato",
+   1
+  ],
+  "Total Cards (UK)|Storm Emerald (ME06)": [
+   "listato",
+   1
+  ],
+  "Total Cards (UK)|Chaos Rising (ME04)": [
+   "esaurito",
+   1
+  ],
+  "Total Cards (UK)|Prismatic Evolutions": [
+   "esaurito",
+   1
+  ],
+  "Total Cards (UK)|Crown Zenith": [
+   "esaurito",
+   1
+  ],
+  "Total Cards (UK)|Destined Rivals": [
+   "esaurito",
+   1
+  ],
+  "SunnyStore|Crown Zenith": [
+   "listato",
+   1
+  ],
+  "SunnyStore|Destined Rivals": [
+   "esaurito",
+   1
+  ],
+  "AllDayTCG|Destined Rivals": [
+   "listato",
+   1
+  ],
+  "God of Cards|Phantasmal Flames (ME02)": [
+   "non listato",
+   1
+  ],
+  "God of Cards|Pokémon 151": [
+   "disponibile",
+   1
+  ],
+  "God of Cards|Prismatic Evolutions": [
+   "disponibile",
    1
   ]
  },
@@ -1017,12 +1125,12 @@
   "Sapphire-Cards|Crown Zenith": "https://sapphire-cards.de/?s=crown+zenith&post_type=product",
   "Sapphire-Cards|Destined Rivals": "https://sapphire-cards.de/?s=destined+rivals&post_type=product",
   "Stoyanov Games|Pitch Black (ME05)": "https://stoyanov-gamesbg.com/pre-order-pokemon-tcg-mega-evolution-pitch-black-elite-trainer-box-френски-език/",
-  "LetsGoTry|30th Celebration": "https://letsgotry.pl/zestawy-eng/15893--preorder-pokemon-tcg-30th-celebration-tin-sylveon-ex.html",
+  "LetsGoTry|30th Celebration": "https://letsgotry.pl/zestawy-eng/15895--preorder-pokemon-tcg-30th-celebration-binder-collection.html",
   "Pikashop|Chaos Rising (ME04)": "https://pikashop.pl/?s=chaos+rising&post_type=product",
   "Pokemania.ro|Pitch Black (ME05)": "https://pokemania.ro/?s=pitch+black&post_type=product",
   "SunnyStore|Pokémon 151": "https://sunnystore.es/search?q=pokemon+151",
   "Total Cards (UK)|Pitch Black (ME05)": "https://totalcards.net/products/ultra-pro-pokemon-mega-evolution-pitch-black-9-pocket-portfolio?_pos=1&_sid=4e469623f&_ss=r",
-  "Total Cards (UK)|30th Celebration": "https://totalcards.net/products/pokemon-30th-celebration-booster-bundle?_pos=2&_sid=f62b91e5f&_ss=r"
+  "Total Cards (UK)|30th Celebration": "https://totalcards.net/products/pokemon-30th-celebration-booster-bundle?_pos=2&_sid=bba149788&_ss=r"
  },
  "digest_slot": "2026-07-08-22",
  "log": [
@@ -1108,7 +1216,6 @@
   "www.waylandgames.co.uk": 63,
   "www.firestormgames.co.uk": 63,
   "misticards.com": 63,
-  "pokechest.at": 63,
   "bescards.com": 63,
   "hobbykort.se": 63,
   "rarecards.nl": 62,
