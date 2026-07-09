@@ -991,28 +991,7 @@
   "Total Cards (UK)|Pitch Black (ME05)": "£4.79",
   "Stoyanov Games|Pitch Black (ME05)": "8.00€"
  },
- "pending": {
-  "AllDayTCG|Destined Rivals": [
-   "listato",
-   1
-  ],
-  "SunnyStore|Destined Rivals": [
-   "esaurito",
-   1
-  ],
-  "OutpostBrussels|Destined Rivals": [
-   "esaurito",
-   1
-  ],
-  "Total Cards (UK)|Premium Deck Espeon & Umbreon (30th)": [
-   "non listato",
-   1
-  ],
-  "Poke-Power|Destined Rivals": [
-   "esaurito",
-   1
-  ]
- },
+ "pending": {},
  "urls": {
   "Rogerz|Pitch Black (ME05)": "https://rogerz.dk/search?q=pitch+black",
   "Packratt (UK)|Chaos Rising (ME04)": "https://packratt.co.uk/search?q=chaos+rising",
@@ -1140,9 +1119,9 @@
   "rarecards.nl": 72,
   "pokevend.at": 72,
   "www.poketalk.se": 72,
-  "tcgcompany.nl": 72,
+  "tcgcompany.nl": 73,
   "www.nerdom.gr": 72,
-  "tcgstore.se": 72,
+  "tcgstore.se": 73,
   "papelinho.pt": 72,
   "www.pokekarty.pl": 72,
   "pokeka.hu": 72,
@@ -1161,8 +1140,8 @@
   "cardzone.es": 3,
   "www.blackfire.eu": 3,
   "extremepokecorner.com": 3,
-  "pokeboxstore.pt": 1,
-  "tcgdistribution.fr": 1
+  "pokeboxstore.pt": 2,
+  "tcgdistribution.fr": 2
  },
- "runno": 836
+ "runno": 837
 }
