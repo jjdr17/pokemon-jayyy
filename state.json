@@ -995,6 +995,30 @@
   "Amazon.it|Storm Emerald (ME06)": [
    "listato",
    1
+  ],
+  "AllDayTCG|Destined Rivals": [
+   "listato",
+   1
+  ],
+  "Poke-Power|Crown Zenith": [
+   "esaurito",
+   1
+  ],
+  "SunnyStore|Crown Zenith": [
+   "listato",
+   1
+  ],
+  "God of Cards|Pokémon 151": [
+   "disponibile",
+   1
+  ],
+  "LetsGoTry|30th Celebration": [
+   "listato",
+   1
+  ],
+  "LetsGoTry|Chaos Rising (ME04)": [
+   "listato",
+   1
   ]
  },
  "urls": {
@@ -1017,8 +1041,8 @@
   "Pikashop|Chaos Rising (ME04)": "https://pikashop.pl/?s=chaos+rising&post_type=product",
   "Pokemania.ro|Pitch Black (ME05)": "https://pokemania.ro/?s=pitch+black&post_type=product",
   "SunnyStore|Pokémon 151": "https://sunnystore.es/search?q=pokemon+151",
-  "Total Cards (UK)|Pitch Black (ME05)": "https://totalcards.net/products/ultra-pro-pokemon-mega-evolution-pitch-black-9-pocket-portfolio?_pos=1&_sid=17e958d95&_ss=r",
-  "Total Cards (UK)|30th Celebration": "https://totalcards.net/products/pokemon-30th-celebration-booster-bundle?_pos=2&_sid=eaae9c067&_ss=r"
+  "Total Cards (UK)|Pitch Black (ME05)": "https://totalcards.net/products/ultra-pro-pokemon-mega-evolution-pitch-black-9-pocket-portfolio?_pos=1&_sid=0ff75b92e&_ss=r",
+  "Total Cards (UK)|30th Celebration": "https://totalcards.net/products/pokemon-30th-celebration-booster-bundle?_pos=2&_sid=ed98454cd&_ss=r"
  },
  "digest_slot": "2026-07-09-22",
  "log": [
@@ -1124,20 +1148,22 @@
   "tcgstore.se": 71,
   "papelinho.pt": 71,
   "www.pokekarty.pl": 71,
-  "pokeka.hu": 70,
-  "www.wakuwaku.cz": 70,
+  "pokeka.hu": 71,
+  "www.wakuwaku.cz": 71,
   "www.pokemonia.ro": 71,
   "en.tcg-shop.at": 71,
   "cardcorner.at": 64,
   "www.deckshop.de": 46,
-  "www.pokemillon.com": 21,
+  "www.pokemillon.com": 22,
   "tcgfanshop.nl": 16,
   "pokechest.at": 11,
   "crispycards.de": 7,
-  "www.blackfire.eu": 5,
+  "www.blackfire.eu": 6,
   "itcg.bg": 5,
-  "lorenzone.fr": 4,
-  "pokeboxstore.pt": 3
+  "lorenzone.fr": 5,
+  "pokeboxstore.pt": 3,
+  "www.amazon.it": 1,
+  "tcgdistribution.fr": 1
  },
- "runno": 817
+ "runno": 818
 }
