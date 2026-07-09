@@ -835,9 +835,9 @@
   },
   "LetsGoTry": {
    "Pitch Black (ME05)": "listato",
-   "30th Celebration": "disponibile",
+   "30th Celebration": "listato",
    "Storm Emerald (ME06)": "listato",
-   "Chaos Rising (ME04)": "listato",
+   "Chaos Rising (ME04)": "non listato",
    "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "non listato",
    "Prismatic Evolutions": "non listato",
@@ -979,7 +979,7 @@
  },
  "alerts": {
   "drop|MagicBazar|Pitch Black (ME05)": 1783274158.1076322,
-  "LetsGoTry|30th Celebration": 1783558482.1786916,
+  "LetsGoTry|30th Celebration": 1783534554.973152,
   "Total Cards (UK)|Pitch Black (ME05)": 1783539344.1864767
  },
  "prices": {
@@ -996,16 +996,12 @@
    "listato",
    1
   ],
-  "Amazon.it|30th Celebration": [
-   "listato",
-   1
-  ],
-  "Pokemon Center|Chaos Rising (ME04)": [
-   "esaurito",
+  "LetsGoTry|30th Celebration": [
+   "disponibile",
    1
   ],
   "LetsGoTry|Chaos Rising (ME04)": [
-   "non listato",
+   "listato",
    1
   ]
  },
@@ -1025,7 +1021,7 @@
   "Sapphire-Cards|Crown Zenith": "https://sapphire-cards.de/?s=crown+zenith&post_type=product",
   "Sapphire-Cards|Destined Rivals": "https://sapphire-cards.de/?s=destined+rivals&post_type=product",
   "Stoyanov Games|Pitch Black (ME05)": "https://stoyanov-gamesbg.com/pre-order-pokemon-tcg-mega-evolution-pitch-black-elite-trainer-box-френски-език/",
-  "LetsGoTry|30th Celebration": "https://letsgotry.pl/zestawy-eng/15893--preorder-pokemon-tcg-30th-celebration-tin-sylveon-ex.html",
+  "LetsGoTry|30th Celebration": "https://letsgotry.pl/zestawy-eng/15892--preorder-pokemon-tcg-30th-celebration-elite-trainer-box.html",
   "Pikashop|Chaos Rising (ME04)": "https://pikashop.pl/?s=chaos+rising&post_type=product",
   "Pokemania.ro|Pitch Black (ME05)": "https://pokemania.ro/?s=pitch+black&post_type=product",
   "SunnyStore|Pokémon 151": "https://sunnystore.es/search?q=pokemon+151",
@@ -1098,30 +1094,25 @@
    "ts": "08/07 21:35",
    "title": "🚨 RESTOCK: Pitch Black (ME05) — Total Cards (UK)",
    "url": "https://totalcards.net/products/pokemon-mega-evolution-pitch-black-booster-pack?_pos=2&_sid=f980cbca0&_ss=r"
-  },
-  {
-   "ts": "09/07 02:54",
-   "title": "🚨 DISPONIBILE/PREORDER: 30th Celebration — LetsGoTry",
-   "url": "https://letsgotry.pl/zestawy-eng/15893--preorder-pokemon-tcg-30th-celebration-tin-sylveon-ex.html"
   }
  ],
  "down": {
   "www.cardmarket.com": 60,
-  "www.gamestop.com": 59,
+  "www.gamestop.com": 60,
   "www.gamelife.it": 60,
   "pokeseller14.com": 60,
   "geco-shop.de": 60,
-  "www.chaoscards.co.uk": 59,
+  "www.chaoscards.co.uk": 60,
   "fabscards.at": 60,
   "www.waylandgames.co.uk": 60,
   "www.firestormgames.co.uk": 60,
-  "misticards.com": 59,
+  "misticards.com": 60,
   "pokechest.at": 59,
   "bescards.com": 60,
   "hobbykort.se": 60,
   "rarecards.nl": 59,
   "pokevend.at": 59,
-  "www.poketalk.se": 59,
+  "www.poketalk.se": 60,
   "tcgcompany.nl": 60,
   "www.nerdom.gr": 59,
   "tcgstore.se": 60,
@@ -1139,9 +1130,9 @@
   "www.blackfire.eu": 6,
   "tcgfanshop.nl": 4,
   "lorenzone.fr": 3,
-  "www.amazon.it": 3,
   "pokeboxstore.pt": 3,
-  "games-island.eu": 1
+  "www.amazon.it": 1,
+  "letsgotry.pl": 1
  },
- "runno": 683
+ "runno": 684
 }
