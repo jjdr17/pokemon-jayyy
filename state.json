@@ -835,7 +835,7 @@
   },
   "LetsGoTry": {
    "Pitch Black (ME05)": "listato",
-   "30th Celebration": "listato",
+   "30th Celebration": "disponibile",
    "Storm Emerald (ME06)": "listato",
    "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "non listato",
@@ -979,7 +979,7 @@
  },
  "alerts": {
   "drop|MagicBazar|Pitch Black (ME05)": 1783274158.1076322,
-  "LetsGoTry|30th Celebration": 1783586381.4929383,
+  "LetsGoTry|30th Celebration": 1783610180.4709213,
   "Total Cards (UK)|Pitch Black (ME05)": 1783539344.1864767
  },
  "prices": {
@@ -996,8 +996,56 @@
    "listato",
    1
   ],
-  "LetsGoTry|30th Celebration": [
+  "SunnyStore|Crown Zenith": [
+   "listato",
+   1
+  ],
+  "SunnyStore|Destined Rivals": [
+   "esaurito",
+   1
+  ],
+  "God of Cards|Pokémon 151": [
    "disponibile",
+   1
+  ],
+  "God of Cards|Prismatic Evolutions": [
+   "disponibile",
+   1
+  ],
+  "Rogerz|Prismatic Evolutions": [
+   "listato",
+   1
+  ],
+  "OutpostBrussels|Pokémon 151": [
+   "listato",
+   1
+  ],
+  "OutpostBrussels|Prismatic Evolutions": [
+   "esaurito",
+   1
+  ],
+  "OutpostBrussels|Crown Zenith": [
+   "listato",
+   1
+  ],
+  "Total Cards (UK)|Pokémon 151": [
+   "listato",
+   1
+  ],
+  "Poke-Power|Crown Zenith": [
+   "esaurito",
+   1
+  ],
+  "Poke-Power|Destined Rivals": [
+   "esaurito",
+   1
+  ],
+  "CardZone|Pokémon 151": [
+   "esaurito",
+   1
+  ],
+  "CrispyCards|Pitch Black (ME05)": [
+   "non listato",
    1
   ]
  },
@@ -1021,8 +1069,8 @@
   "Pikashop|Chaos Rising (ME04)": "https://pikashop.pl/?s=chaos+rising&post_type=product",
   "Pokemania.ro|Pitch Black (ME05)": "https://pokemania.ro/?s=pitch+black&post_type=product",
   "SunnyStore|Pokémon 151": "https://sunnystore.es/search?q=pokemon+151",
-  "Total Cards (UK)|Pitch Black (ME05)": "https://totalcards.net/products/ultra-pro-pokemon-mega-evolution-pitch-black-9-pocket-portfolio?_pos=1&_sid=a170e1194&_ss=r",
-  "Total Cards (UK)|30th Celebration": "https://totalcards.net/products/pokemon-30th-celebration-booster-bundle?_pos=2&_sid=d31d13c9f&_ss=r"
+  "Total Cards (UK)|Pitch Black (ME05)": "https://totalcards.net/products/ultra-pro-pokemon-mega-evolution-pitch-black-9-pocket-portfolio?_pos=1&_sid=b928a9122&_ss=r",
+  "Total Cards (UK)|30th Celebration": "https://totalcards.net/products/pokemon-30th-celebration-booster-bundle?_pos=2&_sid=bbfe4aef0&_ss=r"
  },
  "digest_slot": "2026-07-09-15",
  "log": [
@@ -1100,17 +1148,22 @@
    "ts": "09/07 10:39",
    "title": "🚨 DISPONIBILE/PREORDER: 30th Celebration — LetsGoTry",
    "url": "https://letsgotry.pl/zestawy-eng/15894--preorder-pokemon-tcg-30th-celebration-tin-greninja-ex.html"
+  },
+  {
+   "ts": "09/07 17:16",
+   "title": "🚨 DISPONIBILE/PREORDER: 30th Celebration — LetsGoTry",
+   "url": "https://letsgotry.pl/zestawy-eng/15896--preorder-pokemon-tcg-30th-celebration-2-pack.html"
   }
  ],
  "down": {
-  "www.cardmarket.com": 66,
+  "www.cardmarket.com": 67,
   "www.gamestop.com": 66,
   "www.gamelife.it": 67,
   "pokeseller14.com": 67,
   "geco-shop.de": 67,
   "www.chaoscards.co.uk": 66,
   "fabscards.at": 67,
-  "www.waylandgames.co.uk": 66,
+  "www.waylandgames.co.uk": 67,
   "www.firestormgames.co.uk": 67,
   "misticards.com": 66,
   "bescards.com": 67,
@@ -1121,22 +1174,21 @@
   "tcgcompany.nl": 67,
   "www.nerdom.gr": 66,
   "tcgstore.se": 67,
-  "papelinho.pt": 66,
+  "papelinho.pt": 67,
   "www.pokekarty.pl": 66,
   "pokeka.hu": 66,
-  "itcg.bg": 66,
+  "itcg.bg": 67,
   "www.wakuwaku.cz": 66,
   "www.pokemonia.ro": 67,
   "en.tcg-shop.at": 66,
-  "cardcorner.at": 59,
+  "cardcorner.at": 60,
   "www.deckshop.de": 41,
   "www.pokemillon.com": 17,
-  "crispycards.de": 13,
   "tcgfanshop.nl": 11,
   "lorenzone.fr": 7,
   "pokechest.at": 6,
   "www.amazon.it": 6,
   "www.blackfire.eu": 3
  },
- "runno": 765
+ "runno": 766
 }
