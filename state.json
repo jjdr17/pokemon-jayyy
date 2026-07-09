@@ -835,7 +835,7 @@
   },
   "LetsGoTry": {
    "Pitch Black (ME05)": "listato",
-   "30th Celebration": "disponibile",
+   "30th Celebration": "listato",
    "Storm Emerald (ME06)": "listato",
    "Chaos Rising (ME04)": "non listato",
    "Phantasmal Flames (ME02)": "non listato",
@@ -992,7 +992,35 @@
   "Stoyanov Games|Pitch Black (ME05)": "8.00€"
  },
  "pending": {
-  "LetsGoTry|30th Celebration": [
+  "Pokemon Center|30th Celebration": [
+   "non listato",
+   1
+  ],
+  "Pokemon Center|Premium Deck Espeon & Umbreon (30th)": [
+   "non listato",
+   1
+  ],
+  "Pokemon Center|Storm Emerald (ME06)": [
+   "non listato",
+   1
+  ],
+  "Pokemon Center|Chaos Rising (ME04)": [
+   "non listato",
+   1
+  ],
+  "Rogerz|Prismatic Evolutions": [
+   "listato",
+   1
+  ],
+  "Rogerz|Crown Zenith": [
+   "listato",
+   1
+  ],
+  "Rogerz|Destined Rivals": [
+   "listato",
+   1
+  ],
+  "LetsGoTry|Chaos Rising (ME04)": [
    "listato",
    1
   ]
@@ -1017,7 +1045,7 @@
   "Pikashop|Chaos Rising (ME04)": "https://pikashop.pl/?s=chaos+rising&post_type=product",
   "Pokemania.ro|Pitch Black (ME05)": "https://pokemania.ro/?s=pitch+black&post_type=product",
   "SunnyStore|Pokémon 151": "https://sunnystore.es/search?q=pokemon+151",
-  "Total Cards (UK)|Pitch Black (ME05)": "https://totalcards.net/products/ultra-pro-pokemon-mega-evolution-pitch-black-9-pocket-portfolio?_pos=1&_sid=695bd1f77&_ss=r",
+  "Total Cards (UK)|Pitch Black (ME05)": "https://totalcards.net/products/ultra-pro-pokemon-mega-evolution-pitch-black-9-pocket-portfolio?_pos=1&_sid=361c4e5bb&_ss=r",
   "Total Cards (UK)|30th Celebration": "https://totalcards.net/products/pokemon-30th-celebration-booster-bundle?_pos=2&_sid=7c9b6e624&_ss=r"
  },
  "digest_slot": "2026-07-09-18",
@@ -1114,7 +1142,7 @@
   "www.waylandgames.co.uk": 69,
   "www.firestormgames.co.uk": 69,
   "misticards.com": 69,
-  "bescards.com": 69,
+  "bescards.com": 70,
   "hobbykort.se": 69,
   "rarecards.nl": 69,
   "pokevend.at": 69,
@@ -1137,10 +1165,8 @@
   "www.amazon.it": 4,
   "www.blackfire.eu": 4,
   "itcg.bg": 3,
-  "lorenzone.fr": 1,
-  "pokectcg.cz": 1,
-  "pokewoke.store": 1,
-  "extremepokecorner.com": 1
+  "lorenzone.fr": 2,
+  "pokeboxstore.pt": 1
  },
- "runno": 795
+ "runno": 796
 }
