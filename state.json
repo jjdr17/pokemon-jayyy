@@ -992,8 +992,12 @@
   "Stoyanov Games|Pitch Black (ME05)": "8.00€"
  },
  "pending": {
-  "LetsGoTry|Chaos Rising (ME04)": [
-   "listato",
+  "Total Cards (UK)|Premium Deck Espeon & Umbreon (30th)": [
+   "non listato",
+   1
+  ],
+  "LetsGoTry|30th Celebration": [
+   "disponibile",
    1
   ]
  },
@@ -1017,7 +1021,7 @@
   "Pikashop|Chaos Rising (ME04)": "https://pikashop.pl/?s=chaos+rising&post_type=product",
   "Pokemania.ro|Pitch Black (ME05)": "https://pokemania.ro/?s=pitch+black&post_type=product",
   "SunnyStore|Pokémon 151": "https://sunnystore.es/search?q=pokemon+151",
-  "Total Cards (UK)|Pitch Black (ME05)": "https://totalcards.net/products/ultra-pro-pokemon-mega-evolution-pitch-black-9-pocket-portfolio?_pos=1&_sid=dc6de39df&_ss=r",
+  "Total Cards (UK)|Pitch Black (ME05)": "https://totalcards.net/products/ultra-pro-pokemon-mega-evolution-pitch-black-9-pocket-portfolio?_pos=1&_sid=fc5a934fc&_ss=r",
   "Total Cards (UK)|30th Celebration": "https://totalcards.net/products/pokemon-30th-celebration-booster-bundle?_pos=2&_sid=d991f6fa0&_ss=r"
  },
  "digest_slot": "2026-07-09-22",
@@ -1105,20 +1109,20 @@
  ],
  "down": {
   "www.cardmarket.com": 71,
-  "www.gamestop.com": 70,
+  "www.gamestop.com": 71,
   "www.gamelife.it": 71,
   "pokeseller14.com": 71,
   "geco-shop.de": 71,
-  "www.chaoscards.co.uk": 70,
+  "www.chaoscards.co.uk": 71,
   "fabscards.at": 71,
   "www.waylandgames.co.uk": 71,
   "www.firestormgames.co.uk": 71,
-  "misticards.com": 70,
+  "misticards.com": 71,
   "bescards.com": 71,
   "hobbykort.se": 71,
   "rarecards.nl": 70,
   "pokevend.at": 70,
-  "www.poketalk.se": 70,
+  "www.poketalk.se": 71,
   "tcgcompany.nl": 71,
   "www.nerdom.gr": 70,
   "tcgstore.se": 71,
@@ -1138,7 +1142,12 @@
   "itcg.bg": 5,
   "lorenzone.fr": 4,
   "pokeboxstore.pt": 3,
-  "games-island.eu": 1
+  "pokectcg.cz": 1,
+  "pokewoke.store": 1,
+  "tcgpikas.lt": 1,
+  "pokemonworld.lt": 1,
+  "tcgdistribution.fr": 1,
+  "extremepokecorner.com": 1
  },
- "runno": 815
+ "runno": 816
 }
