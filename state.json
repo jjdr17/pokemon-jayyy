@@ -835,7 +835,7 @@
   },
   "LetsGoTry": {
    "Pitch Black (ME05)": "listato",
-   "30th Celebration": "disponibile",
+   "30th Celebration": "listato",
    "Storm Emerald (ME06)": "listato",
    "Chaos Rising (ME04)": "non listato",
    "Phantasmal Flames (ME02)": "non listato",
@@ -992,7 +992,7 @@
   "Stoyanov Games|Pitch Black (ME05)": "8.00€"
  },
  "pending": {
-  "LetsGoTry|30th Celebration": [
+  "LetsGoTry|Chaos Rising (ME04)": [
    "listato",
    1
   ]
@@ -1018,7 +1018,7 @@
   "Pokemania.ro|Pitch Black (ME05)": "https://pokemania.ro/?s=pitch+black&post_type=product",
   "SunnyStore|Pokémon 151": "https://sunnystore.es/search?q=pokemon+151",
   "Total Cards (UK)|Pitch Black (ME05)": "https://totalcards.net/products/ultra-pro-pokemon-mega-evolution-pitch-black-9-pocket-portfolio?_pos=1&_sid=c960850cb&_ss=r",
-  "Total Cards (UK)|30th Celebration": "https://totalcards.net/products/pokemon-30th-celebration-booster-bundle?_pos=2&_sid=47915ed5c&_ss=r"
+  "Total Cards (UK)|30th Celebration": "https://totalcards.net/products/pokemon-30th-celebration-booster-bundle?_pos=2&_sid=28eae4e35&_ss=r"
  },
  "digest_slot": "2026-07-09-22",
  "log": [
@@ -1119,7 +1119,7 @@
   "www.firestormgames.co.uk": 76,
   "misticards.com": 75,
   "bescards.com": 76,
-  "hobbykort.se": 75,
+  "hobbykort.se": 76,
   "rarecards.nl": 75,
   "pokevend.at": 75,
   "www.poketalk.se": 75,
@@ -1143,8 +1143,7 @@
   "www.amazon.it": 6,
   "fabscards.at": 4,
   "pokeboxstore.pt": 4,
-  "www.blackfire.eu": 4,
-  "games-island.eu": 1
+  "www.blackfire.eu": 4
  },
- "runno": 869
+ "runno": 870
 }
