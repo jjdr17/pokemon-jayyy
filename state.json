@@ -992,32 +992,7 @@
   "Total Cards (UK)|Pitch Black (ME05)": "£4.79",
   "Stoyanov Games|Pitch Black (ME05)": "8.00€"
  },
- "pending": {
-  "OutpostBrussels|Prismatic Evolutions": [
-   "esaurito",
-   1
-  ],
-  "SunnyStore|Crown Zenith": [
-   "non listato",
-   1
-  ],
-  "God of Cards|Pokémon 151": [
-   "disponibile",
-   1
-  ],
-  "God of Cards|Prismatic Evolutions": [
-   "disponibile",
-   1
-  ],
-  "Total Cards (UK)|Prismatic Evolutions": [
-   "esaurito",
-   1
-  ],
-  "LetsGoTry|30th Celebration": [
-   "disponibile",
-   1
-  ]
- },
+ "pending": {},
  "urls": {
   "Rogerz|Pitch Black (ME05)": "https://rogerz.dk/search?q=pitch+black",
   "Packratt (UK)|Chaos Rising (ME04)": "https://packratt.co.uk/search?q=chaos+rising",
@@ -1038,8 +1013,8 @@
   "Pikashop|Chaos Rising (ME04)": "https://pikashop.pl/?s=chaos+rising&post_type=product",
   "Pokemania.ro|Pitch Black (ME05)": "https://pokemania.ro/?s=pitch+black&post_type=product",
   "SunnyStore|Pokémon 151": "https://sunnystore.es/search?q=pokemon+151",
-  "Total Cards (UK)|Pitch Black (ME05)": "https://totalcards.net/products/ultra-pro-pokemon-mega-evolution-pitch-black-9-pocket-portfolio?_pos=1&_sid=087ca3b4a&_ss=r",
-  "Total Cards (UK)|30th Celebration": "https://totalcards.net/products/pokemon-30th-celebration-booster-bundle?_pos=2&_sid=a31a2bd00&_ss=r"
+  "Total Cards (UK)|Pitch Black (ME05)": "https://totalcards.net/products/ultra-pro-pokemon-mega-evolution-pitch-black-9-pocket-portfolio?_pos=1&_sid=4cf0d3e97&_ss=r",
+  "Total Cards (UK)|30th Celebration": "https://totalcards.net/products/pokemon-30th-celebration-booster-bundle?_pos=2&_sid=505c5d499&_ss=r"
  },
  "digest_slot": "2026-07-10-10",
  "log": [
@@ -1145,7 +1120,7 @@
   "www.firestormgames.co.uk": 82,
   "misticards.com": 81,
   "bescards.com": 82,
-  "hobbykort.se": 81,
+  "hobbykort.se": 82,
   "rarecards.nl": 81,
   "www.poketalk.se": 81,
   "tcgcompany.nl": 81,
@@ -1168,10 +1143,7 @@
   "crispycards.de": 4,
   "pokeboxstore.pt": 3,
   "tcgstore.se": 3,
-  "tcgfanshop.nl": 2,
-  "www.amazon.it": 1,
-  "tcgdistribution.fr": 1,
-  "oppacards.com": 1
+  "tcgfanshop.nl": 3
  },
- "runno": 941
+ "runno": 942
 }
