@@ -34,12 +34,28 @@
  "alerts": {},
  "prices": {},
  "urls": {},
- "pending": {},
+ "pending": {
+  "Pokemon Center|Pitch Black (ME05)": [
+   "non listato",
+   1
+  ],
+  "Pokemon Center|30th Celebration": [
+   "non listato",
+   1
+  ],
+  "Pokemon Center|Premium Deck Espeon & Umbreon (30th)": [
+   "non listato",
+   1
+  ],
+  "Pokemon Center|Storm Emerald (ME06)": [
+   "non listato",
+   1
+  ]
+ },
  "down": {
   "www.gamestop.com": 1154,
   "www.gamelife.it": 1154,
-  "www.pokemoncenter.com": 851,
   "www.amazon.it": 4
  },
- "runno": 5759
+ "runno": 5760
 }
