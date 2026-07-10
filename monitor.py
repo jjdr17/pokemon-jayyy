@@ -550,9 +550,13 @@ def main():
                                 continue
                             if vprice:
                                 price = vprice
+                        if not price:
+                            # regola di Jacopo: senza prezzo leggibile, nessuna notifica
+                            print(f"{shop_name:22s} | {prod_name:26s} | disponibile ma senza prezzo leggibile: avviso soppresso")
+                            continue
                         state["alerts"][akey] = now
                         tag = " ⚠️ spedizione Italia da verificare" if group == "C" else ""
-                        ptxt = f" a {price}" if price else " (prezzo non rilevato, verifica sul link)"
+                        ptxt = f" a {price}"
                         prio = "urgent" if prod_name in URGENT_PRODUCTS else "high"
                         kind = "RESTOCK" if prev == "esaurito" else "DISPONIBILE/PREORDER"
                         send_alert(f"🚨 {kind}: {prod_name} — {shop_name}",
