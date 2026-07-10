@@ -837,7 +837,7 @@
    "Pitch Black (ME05)": "listato",
    "30th Celebration": "disponibile",
    "Storm Emerald (ME06)": "listato",
-   "Chaos Rising (ME04)": "listato",
+   "Chaos Rising (ME04)": "non listato",
    "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "non listato",
    "Prismatic Evolutions": "non listato",
@@ -992,12 +992,8 @@
   "Stoyanov Games|Pitch Black (ME05)": "8.00€"
  },
  "pending": {
-  "LetsGoTry|30th Celebration": [
+  "CardZone|Crown Zenith": [
    "listato",
-   1
-  ],
-  "LetsGoTry|Chaos Rising (ME04)": [
-   "non listato",
    1
   ]
  },
@@ -1017,11 +1013,11 @@
   "Sapphire-Cards|Crown Zenith": "https://sapphire-cards.de/?s=crown+zenith&post_type=product",
   "Sapphire-Cards|Destined Rivals": "https://sapphire-cards.de/?s=destined+rivals&post_type=product",
   "Stoyanov Games|Pitch Black (ME05)": "https://stoyanov-gamesbg.com/pre-order-pokemon-tcg-mega-evolution-pitch-black-elite-trainer-box-френски-език/",
-  "LetsGoTry|30th Celebration": "https://letsgotry.pl/zestawy-eng/15896--preorder-pokemon-tcg-30th-celebration-2-pack.html",
+  "LetsGoTry|30th Celebration": "https://letsgotry.pl/zestawy-eng/15892--preorder-pokemon-tcg-30th-celebration-elite-trainer-box.html",
   "Pikashop|Chaos Rising (ME04)": "https://pikashop.pl/?s=chaos+rising&post_type=product",
   "Pokemania.ro|Pitch Black (ME05)": "https://pokemania.ro/?s=pitch+black&post_type=product",
   "SunnyStore|Pokémon 151": "https://sunnystore.es/search?q=pokemon+151",
-  "Total Cards (UK)|Pitch Black (ME05)": "https://totalcards.net/products/ultra-pro-pokemon-mega-evolution-pitch-black-9-pocket-portfolio?_pos=1&_sid=747b805e0&_ss=r",
+  "Total Cards (UK)|Pitch Black (ME05)": "https://totalcards.net/products/ultra-pro-pokemon-mega-evolution-pitch-black-9-pocket-portfolio?_pos=1&_sid=8744b5354&_ss=r",
   "Total Cards (UK)|30th Celebration": "https://totalcards.net/products/pokemon-30th-celebration-booster-bundle?_pos=2&_sid=547bcc5bf&_ss=r"
  },
  "digest_slot": "2026-07-09-22",
@@ -1132,22 +1128,28 @@
   "tcgstore.se": 74,
   "papelinho.pt": 74,
   "www.pokekarty.pl": 74,
-  "pokeka.hu": 73,
-  "www.wakuwaku.cz": 73,
+  "pokeka.hu": 74,
+  "www.wakuwaku.cz": 74,
   "www.pokemonia.ro": 74,
   "en.tcg-shop.at": 74,
   "cardcorner.at": 67,
   "www.deckshop.de": 49,
-  "www.pokemillon.com": 24,
+  "www.pokemillon.com": 25,
   "tcgfanshop.nl": 19,
   "pokechest.at": 14,
   "crispycards.de": 10,
   "itcg.bg": 8,
-  "lorenzone.fr": 7,
+  "lorenzone.fr": 8,
   "www.amazon.it": 5,
-  "www.blackfire.eu": 3,
   "fabscards.at": 3,
-  "pokeboxstore.pt": 3
+  "pokeboxstore.pt": 3,
+  "pokectcg.cz": 1,
+  "pokewoke.store": 1,
+  "pikashop.pl": 1,
+  "tcgpikas.lt": 1,
+  "pokemonworld.lt": 1,
+  "www.lotticards.de": 1,
+  "extremepokecorner.com": 1
  },
- "runno": 853
+ "runno": 854
 }
