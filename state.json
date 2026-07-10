@@ -991,7 +991,16 @@
   "Total Cards (UK)|Pitch Black (ME05)": "£4.79",
   "Stoyanov Games|Pitch Black (ME05)": "8.00€"
  },
- "pending": {},
+ "pending": {
+  "LetsGoTry|30th Celebration": [
+   "listato",
+   1
+  ],
+  "LetsGoTry|Chaos Rising (ME04)": [
+   "listato",
+   1
+  ]
+ },
  "urls": {
   "Rogerz|Pitch Black (ME05)": "https://rogerz.dk/search?q=pitch+black",
   "Packratt (UK)|Chaos Rising (ME04)": "https://packratt.co.uk/search?q=chaos+rising",
@@ -1012,8 +1021,8 @@
   "Pikashop|Chaos Rising (ME04)": "https://pikashop.pl/?s=chaos+rising&post_type=product",
   "Pokemania.ro|Pitch Black (ME05)": "https://pokemania.ro/?s=pitch+black&post_type=product",
   "SunnyStore|Pokémon 151": "https://sunnystore.es/search?q=pokemon+151",
-  "Total Cards (UK)|Pitch Black (ME05)": "https://totalcards.net/products/ultra-pro-pokemon-mega-evolution-pitch-black-9-pocket-portfolio?_pos=1&_sid=3010fbbe2&_ss=r",
-  "Total Cards (UK)|30th Celebration": "https://totalcards.net/products/pokemon-30th-celebration-booster-bundle?_pos=2&_sid=6eba1020c&_ss=r"
+  "Total Cards (UK)|Pitch Black (ME05)": "https://totalcards.net/products/ultra-pro-pokemon-mega-evolution-pitch-black-9-pocket-portfolio?_pos=1&_sid=9524eeed6&_ss=r",
+  "Total Cards (UK)|30th Celebration": "https://totalcards.net/products/pokemon-30th-celebration-booster-bundle?_pos=2&_sid=70a3a5afa&_ss=r"
  },
  "digest_slot": "2026-07-09-22",
  "log": [
@@ -1116,7 +1125,7 @@
   "geco-shop.de": 79,
   "www.chaoscards.co.uk": 79,
   "www.waylandgames.co.uk": 79,
-  "www.firestormgames.co.uk": 79,
+  "www.firestormgames.co.uk": 80,
   "misticards.com": 79,
   "bescards.com": 80,
   "hobbykort.se": 79,
@@ -1129,7 +1138,7 @@
   "www.pokekarty.pl": 79,
   "pokeka.hu": 79,
   "www.wakuwaku.cz": 79,
-  "www.pokemonia.ro": 79,
+  "www.pokemonia.ro": 80,
   "en.tcg-shop.at": 79,
   "cardcorner.at": 72,
   "tcgfanshop.nl": 24,
@@ -1142,10 +1151,9 @@
   "crispycards.de": 4,
   "www.pokemillon.com": 4,
   "pokevend.at": 4,
-  "www.blackfire.eu": 2,
-  "tradingcard.fi": 1,
-  "www.pokemons.dk": 1,
-  "pikashop.pl": 1
+  "www.blackfire.eu": 3,
+  "pokewoke.store": 1,
+  "games-island.eu": 1
  },
- "runno": 916
+ "runno": 917
 }
