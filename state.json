@@ -1,17 +1,5 @@
 {
  "shops": {
-  "GameStop US": {
-   "Pitch Black (ME05)": "irraggiungibile",
-   "30th Celebration": "irraggiungibile",
-   "Storm Emerald (ME06)": "irraggiungibile",
-   "Chaos Rising (ME04)": "irraggiungibile",
-   "Phantasmal Flames (ME02)": "irraggiungibile",
-   "Pokémon 151": "irraggiungibile",
-   "Prismatic Evolutions": "irraggiungibile",
-   "Crown Zenith": "irraggiungibile",
-   "Destined Rivals": "irraggiungibile",
-   "Premium Deck Espeon & Umbreon (30th)": "irraggiungibile"
-  },
   "GameLife (IT)": {
    "Pitch Black (ME05)": "irraggiungibile",
    "30th Celebration": "irraggiungibile",
@@ -52,18 +40,6 @@
    "Crown Zenith": "non listato",
    "Destined Rivals": "non listato",
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
-  },
-  "Pokemon Center": {
-   "Pitch Black (ME05)": "irraggiungibile",
-   "30th Celebration": "irraggiungibile",
-   "Storm Emerald (ME06)": "irraggiungibile",
-   "Chaos Rising (ME04)": "irraggiungibile",
-   "Phantasmal Flames (ME02)": "non listato",
-   "Pokémon 151": "non listato",
-   "Prismatic Evolutions": "non listato",
-   "Crown Zenith": "non listato",
-   "Destined Rivals": "non listato",
-   "Premium Deck Espeon & Umbreon (30th)": "irraggiungibile"
   },
   "Blackfire": {
    "Pitch Black (ME05)": "non listato",
@@ -994,7 +970,16 @@
   "Total Cards (UK)|Pitch Black (ME05)": "£4.79",
   "Stoyanov Games|Pitch Black (ME05)": "8.00€"
  },
- "pending": {},
+ "pending": {
+  "Total Cards (UK)|30th Celebration": [
+   "listato",
+   1
+  ],
+  "LetsGoTry|Chaos Rising (ME04)": [
+   "non listato",
+   1
+  ]
+ },
  "urls": {
   "Rogerz|Pitch Black (ME05)": "https://rogerz.dk/search?q=pitch+black",
   "Packratt (UK)|Chaos Rising (ME04)": "https://packratt.co.uk/search?q=chaos+rising",
@@ -1123,13 +1108,13 @@
   }
  ],
  "down": {
-  "www.cardmarket.com": 84,
+  "www.cardmarket.com": 85,
   "www.gamestop.com": 84,
   "www.gamelife.it": 85,
   "pokeseller14.com": 85,
   "geco-shop.de": 85,
   "www.chaoscards.co.uk": 84,
-  "www.waylandgames.co.uk": 84,
+  "www.waylandgames.co.uk": 85,
   "www.firestormgames.co.uk": 85,
   "misticards.com": 84,
   "bescards.com": 85,
@@ -1138,27 +1123,27 @@
   "www.poketalk.se": 84,
   "tcgcompany.nl": 85,
   "www.nerdom.gr": 84,
-  "papelinho.pt": 84,
+  "papelinho.pt": 85,
   "www.pokekarty.pl": 84,
   "pokeka.hu": 84,
   "www.wakuwaku.cz": 84,
   "www.pokemonia.ro": 85,
   "en.tcg-shop.at": 84,
-  "cardcorner.at": 77,
+  "cardcorner.at": 78,
   "pokechest.at": 24,
-  "itcg.bg": 18,
+  "itcg.bg": 19,
   "lorenzone.fr": 18,
   "fabscards.at": 14,
   "www.deckshop.de": 10,
   "www.pokemillon.com": 9,
-  "crispycards.de": 7,
+  "crispycards.de": 8,
   "tcgstore.se": 7,
   "tcgfanshop.nl": 6,
   "www.amazon.it": 6,
   "pokevend.at": 4,
   "www.blackfire.eu": 4,
   "pikashop.pl": 3,
-  "pokeboxstore.pt": 1
+  "tcgdistribution.fr": 1
  },
- "runno": 981
+ "runno": 982
 }
