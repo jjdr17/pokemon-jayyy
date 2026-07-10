@@ -986,12 +986,17 @@
   "Packratt (UK)|Chaos Rising (ME04)": "£10.01",
   "Packratt (UK)|Pokémon 151": "£29.99",
   "PokeCardShop|Chaos Rising (ME04)": "€6.95",
-  "MagicBazar|Pitch Black (ME05)": "$84",
+  "MagicBazar|Pitch Black (ME05)": "$85",
   "SunnyStore|Pokémon 151": "€26,90",
   "Total Cards (UK)|Pitch Black (ME05)": "£4.79",
   "Stoyanov Games|Pitch Black (ME05)": "8.00€"
  },
- "pending": {},
+ "pending": {
+  "LetsGoTry|30th Celebration": [
+   "listato",
+   1
+  ]
+ },
  "urls": {
   "Rogerz|Pitch Black (ME05)": "https://rogerz.dk/search?q=pitch+black",
   "Packratt (UK)|Chaos Rising (ME04)": "https://packratt.co.uk/search?q=chaos+rising",
@@ -1012,7 +1017,7 @@
   "Pikashop|Chaos Rising (ME04)": "https://pikashop.pl/?s=chaos+rising&post_type=product",
   "Pokemania.ro|Pitch Black (ME05)": "https://pokemania.ro/?s=pitch+black&post_type=product",
   "SunnyStore|Pokémon 151": "https://sunnystore.es/search?q=pokemon+151",
-  "Total Cards (UK)|Pitch Black (ME05)": "https://totalcards.net/products/ultra-pro-pokemon-mega-evolution-pitch-black-9-pocket-portfolio?_pos=1&_sid=c63a406bb&_ss=r",
+  "Total Cards (UK)|Pitch Black (ME05)": "https://totalcards.net/products/ultra-pro-pokemon-mega-evolution-pitch-black-9-pocket-portfolio?_pos=1&_sid=ce6b1ad54&_ss=r",
   "Total Cards (UK)|30th Celebration": "https://totalcards.net/products/pokemon-30th-celebration-booster-bundle?_pos=2&_sid=e40c2a527&_ss=r"
  },
  "digest_slot": "2026-07-09-22",
@@ -1127,29 +1132,23 @@
   "tcgstore.se": 80,
   "papelinho.pt": 80,
   "www.pokekarty.pl": 80,
-  "pokeka.hu": 79,
-  "www.wakuwaku.cz": 79,
+  "pokeka.hu": 80,
+  "www.wakuwaku.cz": 80,
   "www.pokemonia.ro": 80,
   "en.tcg-shop.at": 80,
   "cardcorner.at": 73,
   "tcgfanshop.nl": 25,
   "pokechest.at": 20,
   "itcg.bg": 14,
-  "lorenzone.fr": 13,
+  "lorenzone.fr": 14,
   "www.amazon.it": 11,
   "fabscards.at": 9,
   "www.deckshop.de": 6,
-  "www.pokemillon.com": 4,
+  "www.pokemillon.com": 5,
   "pokevend.at": 4,
-  "www.blackfire.eu": 3,
+  "www.blackfire.eu": 4,
   "pokewoke.store": 4,
-  "crispycards.de": 3,
-  "pokectcg.cz": 1,
-  "tcgpikas.lt": 1,
-  "pokemonworld.lt": 1,
-  "oppacards.com": 1,
-  "extremepokecorner.com": 1,
-  "games-island.eu": 1
+  "crispycards.de": 3
  },
- "runno": 925
+ "runno": 926
 }
