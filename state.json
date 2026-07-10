@@ -25,8 +25,8 @@
    "Premium Deck Espeon & Umbreon (30th)": "irraggiungibile"
   },
   "Amazon.it": {
-   "30th Celebration": "non listato",
-   "Storm Emerald (ME06)": "non listato",
+   "30th Celebration": "listato",
+   "Storm Emerald (ME06)": "listato",
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "TCGplayer": {
@@ -971,12 +971,8 @@
   "Stoyanov Games|Pitch Black (ME05)": "8.00€"
  },
  "pending": {
-  "Amazon.it|30th Celebration": [
-   "listato",
-   1
-  ],
-  "Amazon.it|Storm Emerald (ME06)": [
-   "listato",
+  "LetsGoTry|Chaos Rising (ME04)": [
+   "non listato",
    1
   ]
  },
@@ -1124,7 +1120,7 @@
   "tcgcompany.nl": 86,
   "www.nerdom.gr": 85,
   "papelinho.pt": 86,
-  "www.pokekarty.pl": 85,
+  "www.pokekarty.pl": 86,
   "pokeka.hu": 85,
   "www.wakuwaku.cz": 85,
   "www.pokemonia.ro": 86,
@@ -1134,7 +1130,7 @@
   "itcg.bg": 20,
   "lorenzone.fr": 19,
   "fabscards.at": 15,
-  "www.deckshop.de": 11,
+  "www.deckshop.de": 12,
   "www.pokemillon.com": 10,
   "crispycards.de": 9,
   "tcgstore.se": 8,
@@ -1142,5 +1138,5 @@
   "pokevend.at": 5,
   "www.blackfire.eu": 5
  },
- "runno": 994
+ "runno": 995
 }
