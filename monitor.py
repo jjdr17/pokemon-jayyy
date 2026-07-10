@@ -584,6 +584,24 @@ def main():
     slot = f"{now_it.strftime('%Y-%m-%d')}-{now_it.hour}"
     if MODE == "full" and not first_run and now_it.hour in DIGEST_HOURS and state.get("digest_slot") != slot:
         state["digest_slot"] = slot
+        # pulizia verificata: ricontrolla sulla pagina prodotto ogni disponibilità corrente
+        # (declassa le false, raccoglie i prezzi veri) — max ~15 verifiche per digest
+        checked = 0
+        for shop_name, prods in state["shops"].items():
+            for pn, st_v in list(prods.items()):
+                if st_v != "disponibile" or checked >= 15:
+                    continue
+                u = state.get("urls", {}).get(f"{shop_name}|{pn}")
+                pd = next((p for p in PRODUCTS if p["name"] == pn), None)
+                if not u or not pd:
+                    continue
+                checked += 1
+                ok, vprice = verify_available(u, pd)
+                if not ok:
+                    prods[pn] = "listato"
+                    print(f"pulizia digest: {shop_name}|{pn} declassato (pagina prodotto non conferma)")
+                elif vprice:
+                    state["prices"][f"{shop_name}|{pn}"] = vprice
         lines = []
         for prod in PRODUCTS:
             n = prod["name"]
