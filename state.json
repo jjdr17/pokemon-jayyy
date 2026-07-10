@@ -974,6 +974,14 @@
   "Amazon.it|Storm Emerald (ME06)": [
    "listato",
    1
+  ],
+  "PokeCardShop|30th Celebration": [
+   "non listato",
+   1
+  ],
+  "LetsGoTry|Chaos Rising (ME04)": [
+   "non listato",
+   1
   ]
  },
  "urls": {
@@ -1115,10 +1123,10 @@
   "misticards.com": 91,
   "bescards.com": 91,
   "hobbykort.se": 91,
-  "rarecards.nl": 90,
+  "rarecards.nl": 91,
   "www.poketalk.se": 91,
   "tcgcompany.nl": 91,
-  "www.nerdom.gr": 90,
+  "www.nerdom.gr": 91,
   "papelinho.pt": 91,
   "www.pokekarty.pl": 91,
   "pokeka.hu": 91,
@@ -1135,10 +1143,12 @@
   "crispycards.de": 14,
   "tcgstore.se": 13,
   "tcgfanshop.nl": 13,
-  "pokevend.at": 10,
+  "pokevend.at": 11,
   "www.blackfire.eu": 7,
   "pokebank.es": 4,
-  "pokeboxstore.pt": 1
+  "pokeboxstore.pt": 2,
+  "www.amazon.it": 1,
+  "tcgdistribution.fr": 1
  },
- "runno": 1058
+ "runno": 1059
 }
