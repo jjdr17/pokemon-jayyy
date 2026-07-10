@@ -991,40 +991,7 @@
   "Total Cards (UK)|Pitch Black (ME05)": "£4.79",
   "Stoyanov Games|Pitch Black (ME05)": "8.00€"
  },
- "pending": {
-  "LetsGoTry|30th Celebration": [
-   "listato",
-   1
-  ],
-  "LetsGoTry|Chaos Rising (ME04)": [
-   "non listato",
-   1
-  ],
-  "OutpostBrussels|Prismatic Evolutions": [
-   "esaurito",
-   1
-  ],
-  "OutpostBrussels|Crown Zenith": [
-   "listato",
-   1
-  ],
-  "OutpostBrussels|Destined Rivals": [
-   "esaurito",
-   1
-  ],
-  "Poke-Power|Crown Zenith": [
-   "esaurito",
-   1
-  ],
-  "Poke-Power|Destined Rivals": [
-   "esaurito",
-   1
-  ],
-  "Deckshop|Pitch Black (ME05)": [
-   "non listato",
-   1
-  ]
- },
+ "pending": {},
  "urls": {
   "Rogerz|Pitch Black (ME05)": "https://rogerz.dk/search?q=pitch+black",
   "Packratt (UK)|Chaos Rising (ME04)": "https://packratt.co.uk/search?q=chaos+rising",
@@ -1041,11 +1008,11 @@
   "Sapphire-Cards|Crown Zenith": "https://sapphire-cards.de/?s=crown+zenith&post_type=product",
   "Sapphire-Cards|Destined Rivals": "https://sapphire-cards.de/?s=destined+rivals&post_type=product",
   "Stoyanov Games|Pitch Black (ME05)": "https://stoyanov-gamesbg.com/pre-order-pokemon-tcg-mega-evolution-pitch-black-elite-trainer-box-френски-език/",
-  "LetsGoTry|30th Celebration": "https://letsgotry.pl/zestawy-eng/15893--preorder-pokemon-tcg-30th-celebration-tin-sylveon-ex.html",
+  "LetsGoTry|30th Celebration": "https://letsgotry.pl/zestawy-eng/15892--preorder-pokemon-tcg-30th-celebration-elite-trainer-box.html",
   "Pikashop|Chaos Rising (ME04)": "https://pikashop.pl/?s=chaos+rising&post_type=product",
   "Pokemania.ro|Pitch Black (ME05)": "https://pokemania.ro/?s=pitch+black&post_type=product",
   "SunnyStore|Pokémon 151": "https://sunnystore.es/search?q=pokemon+151",
-  "Total Cards (UK)|Pitch Black (ME05)": "https://totalcards.net/products/ultra-pro-pokemon-mega-evolution-pitch-black-9-pocket-portfolio?_pos=1&_sid=0337fbb89&_ss=r",
+  "Total Cards (UK)|Pitch Black (ME05)": "https://totalcards.net/products/ultra-pro-pokemon-mega-evolution-pitch-black-9-pocket-portfolio?_pos=1&_sid=d134a35ea&_ss=r",
   "Total Cards (UK)|30th Celebration": "https://totalcards.net/products/pokemon-30th-celebration-booster-bundle?_pos=2&_sid=b16e32bc0&_ss=r"
  },
  "digest_slot": "2026-07-09-22",
@@ -1138,19 +1105,19 @@
  ],
  "down": {
   "www.cardmarket.com": 76,
-  "www.gamestop.com": 75,
+  "www.gamestop.com": 76,
   "www.gamelife.it": 76,
   "pokeseller14.com": 76,
   "geco-shop.de": 76,
-  "www.chaoscards.co.uk": 75,
+  "www.chaoscards.co.uk": 76,
   "www.waylandgames.co.uk": 76,
   "www.firestormgames.co.uk": 76,
-  "misticards.com": 75,
+  "misticards.com": 76,
   "bescards.com": 76,
   "hobbykort.se": 76,
   "rarecards.nl": 75,
   "pokevend.at": 75,
-  "www.poketalk.se": 75,
+  "www.poketalk.se": 76,
   "tcgcompany.nl": 76,
   "www.nerdom.gr": 75,
   "tcgstore.se": 76,
@@ -1171,9 +1138,7 @@
   "fabscards.at": 5,
   "pokeboxstore.pt": 5,
   "www.blackfire.eu": 4,
-  "totalcards.net": 1,
-  "rogerz.dk": 1,
-  "godofcards.com": 1
+  "www.deckshop.de": 1
  },
- "runno": 875
+ "runno": 876
 }
