@@ -992,8 +992,12 @@
   "Stoyanov Games|Pitch Black (ME05)": "8.00€"
  },
  "pending": {
-  "LetsGoTry|Chaos Rising (ME04)": [
-   "non listato",
+  "God of Cards|Pokémon 151": [
+   "disponibile",
+   1
+  ],
+  "LetsGoTry|30th Celebration": [
+   "disponibile",
    1
   ]
  },
@@ -1017,8 +1021,8 @@
   "Pikashop|Chaos Rising (ME04)": "https://pikashop.pl/?s=chaos+rising&post_type=product",
   "Pokemania.ro|Pitch Black (ME05)": "https://pokemania.ro/?s=pitch+black&post_type=product",
   "SunnyStore|Pokémon 151": "https://sunnystore.es/search?q=pokemon+151",
-  "Total Cards (UK)|Pitch Black (ME05)": "https://totalcards.net/products/ultra-pro-pokemon-mega-evolution-pitch-black-9-pocket-portfolio?_pos=1&_sid=65119a15d&_ss=r",
-  "Total Cards (UK)|30th Celebration": "https://totalcards.net/products/pokemon-30th-celebration-booster-bundle?_pos=2&_sid=21878970e&_ss=r"
+  "Total Cards (UK)|Pitch Black (ME05)": "https://totalcards.net/products/ultra-pro-pokemon-mega-evolution-pitch-black-9-pocket-portfolio?_pos=1&_sid=03650f082&_ss=r",
+  "Total Cards (UK)|30th Celebration": "https://totalcards.net/products/pokemon-30th-celebration-booster-bundle?_pos=2&_sid=6eba1020c&_ss=r"
  },
  "digest_slot": "2026-07-09-22",
  "log": [
@@ -1114,13 +1118,13 @@
   }
  ],
  "down": {
-  "www.cardmarket.com": 78,
+  "www.cardmarket.com": 79,
   "www.gamestop.com": 78,
   "www.gamelife.it": 79,
   "pokeseller14.com": 79,
   "geco-shop.de": 79,
   "www.chaoscards.co.uk": 78,
-  "www.waylandgames.co.uk": 78,
+  "www.waylandgames.co.uk": 79,
   "www.firestormgames.co.uk": 79,
   "misticards.com": 78,
   "bescards.com": 79,
@@ -1130,27 +1134,24 @@
   "tcgcompany.nl": 79,
   "www.nerdom.gr": 78,
   "tcgstore.se": 79,
-  "papelinho.pt": 78,
+  "papelinho.pt": 79,
   "www.pokekarty.pl": 78,
   "pokeka.hu": 78,
   "www.wakuwaku.cz": 78,
   "www.pokemonia.ro": 79,
   "en.tcg-shop.at": 78,
-  "cardcorner.at": 71,
+  "cardcorner.at": 72,
   "tcgfanshop.nl": 23,
   "pokechest.at": 18,
-  "itcg.bg": 12,
+  "itcg.bg": 13,
   "lorenzone.fr": 12,
   "www.amazon.it": 10,
   "fabscards.at": 8,
   "www.deckshop.de": 4,
-  "crispycards.de": 3,
+  "crispycards.de": 4,
   "www.pokemillon.com": 3,
   "pokevend.at": 3,
-  "www.blackfire.eu": 3,
-  "tradingcard.fi": 2,
-  "www.pokemons.dk": 2,
-  "pikashop.pl": 2
+  "www.blackfire.eu": 3
  },
- "runno": 909
+ "runno": 910
 }
