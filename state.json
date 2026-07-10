@@ -835,7 +835,7 @@
   },
   "LetsGoTry": {
    "Pitch Black (ME05)": "listato",
-   "30th Celebration": "listato",
+   "30th Celebration": "disponibile",
    "Storm Emerald (ME06)": "listato",
    "Chaos Rising (ME04)": "non listato",
    "Phantasmal Flames (ME02)": "non listato",
@@ -979,21 +979,29 @@
  },
  "alerts": {
   "drop|MagicBazar|Pitch Black (ME05)": 1783274158.1076322,
-  "LetsGoTry|30th Celebration": 1783635377.9407878,
+  "LetsGoTry|30th Celebration": 1783659071.9182703,
   "Total Cards (UK)|Pitch Black (ME05)": 1783539344.1864767
  },
  "prices": {
   "Packratt (UK)|Chaos Rising (ME04)": "£10.01",
   "Packratt (UK)|Pokémon 151": "£29.99",
   "PokeCardShop|Chaos Rising (ME04)": "€6.95",
-  "MagicBazar|Pitch Black (ME05)": "$84",
+  "MagicBazar|Pitch Black (ME05)": "$85",
   "SunnyStore|Pokémon 151": "€26,90",
   "Total Cards (UK)|Pitch Black (ME05)": "£4.79",
   "Stoyanov Games|Pitch Black (ME05)": "8.00€"
  },
  "pending": {
-  "LetsGoTry|30th Celebration": [
-   "disponibile",
+  "Poke-Power|Crown Zenith": [
+   "esaurito",
+   1
+  ],
+  "Poke-Power|Destined Rivals": [
+   "esaurito",
+   1
+  ],
+  "LetsGoTry|Chaos Rising (ME04)": [
+   "listato",
    1
   ]
  },
@@ -1106,6 +1114,11 @@
    "ts": "10/07 00:16",
    "title": "🚨 DISPONIBILE/PREORDER: 30th Celebration — LetsGoTry",
    "url": "https://letsgotry.pl/zestawy-eng/15892--preorder-pokemon-tcg-30th-celebration-elite-trainer-box.html"
+  },
+  {
+   "ts": "10/07 06:51",
+   "title": "🚨 DISPONIBILE/PREORDER: 30th Celebration — LetsGoTry",
+   "url": "https://letsgotry.pl/zestawy-eng/15895--preorder-pokemon-tcg-30th-celebration-binder-collection.html"
   }
  ],
  "down": {
@@ -1119,7 +1132,7 @@
   "www.firestormgames.co.uk": 78,
   "misticards.com": 77,
   "bescards.com": 78,
-  "hobbykort.se": 77,
+  "hobbykort.se": 78,
   "rarecards.nl": 77,
   "pokevend.at": 77,
   "www.poketalk.se": 77,
@@ -1146,5 +1159,5 @@
   "kaissagames.com": 3,
   "www.blackfire.eu": 3
  },
- "runno": 893
+ "runno": 894
 }
