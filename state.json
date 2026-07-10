@@ -835,7 +835,7 @@
   },
   "LetsGoTry": {
    "Pitch Black (ME05)": "listato",
-   "30th Celebration": "disponibile",
+   "30th Celebration": "listato",
    "Storm Emerald (ME06)": "listato",
    "Chaos Rising (ME04)": "non listato",
    "Phantasmal Flames (ME02)": "non listato",
@@ -994,7 +994,11 @@
   "Stoyanov Games|Pitch Black (ME05)": "8.00€"
  },
  "pending": {
-  "LetsGoTry|30th Celebration": [
+  "TCGFanshop|Premium Deck Espeon & Umbreon (30th)": [
+   "non listato",
+   1
+  ],
+  "LetsGoTry|Chaos Rising (ME04)": [
    "listato",
    1
   ]
@@ -1019,10 +1023,10 @@
   "Pikashop|Chaos Rising (ME04)": "https://pikashop.pl/?s=chaos+rising&post_type=product",
   "Pokemania.ro|Pitch Black (ME05)": "https://pokemania.ro/?s=pitch+black&post_type=product",
   "SunnyStore|Pokémon 151": "https://sunnystore.es/search?q=pokemon+151",
-  "Total Cards (UK)|Pitch Black (ME05)": "https://totalcards.net/products/ultra-pro-pokemon-mega-evolution-pitch-black-9-pocket-portfolio?_pos=1&_sid=8d0cdfc4f&_ss=r",
+  "Total Cards (UK)|Pitch Black (ME05)": "https://totalcards.net/products/ultra-pro-pokemon-mega-evolution-pitch-black-9-pocket-portfolio?_pos=1&_sid=83323d4e5&_ss=r",
   "Total Cards (UK)|30th Celebration": "https://totalcards.net/products/pokemon-30th-celebration-booster-bundle?_pos=2&_sid=a4dd651dc&_ss=r"
  },
- "digest_slot": "2026-07-10-10",
+ "digest_slot": "2026-07-10-15",
  "log": [
   {
    "ts": "05/07 19:55",
@@ -1136,9 +1140,9 @@
   "pokeka.hu": 83,
   "www.wakuwaku.cz": 83,
   "www.pokemonia.ro": 84,
-  "en.tcg-shop.at": 83,
+  "en.tcg-shop.at": 84,
   "cardcorner.at": 77,
-  "pokechest.at": 23,
+  "pokechest.at": 24,
   "itcg.bg": 18,
   "lorenzone.fr": 17,
   "fabscards.at": 13,
@@ -1146,14 +1150,10 @@
   "www.pokemillon.com": 8,
   "crispycards.de": 7,
   "tcgstore.se": 6,
-  "tcgfanshop.nl": 5,
   "www.amazon.it": 5,
   "pokevend.at": 3,
   "www.blackfire.eu": 3,
-  "pokeboxstore.pt": 3,
-  "tradingcard.fi": 2,
-  "www.pokemons.dk": 2,
-  "pikashop.pl": 2
+  "pokeboxstore.pt": 3
  },
- "runno": 972
+ "runno": 973
 }
