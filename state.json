@@ -162,7 +162,7 @@
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "Rogerz": {
-   "Pitch Black (ME05)": "disponibile",
+   "Pitch Black (ME05)": "listato",
    "30th Celebration": "listato",
    "Storm Emerald (ME06)": "listato",
    "Chaos Rising (ME04)": "listato",
@@ -234,7 +234,7 @@
    "Premium Deck Espeon & Umbreon (30th)": "irraggiungibile"
   },
   "Total Cards (UK)": {
-   "Pitch Black (ME05)": "disponibile",
+   "Pitch Black (ME05)": "listato",
    "30th Celebration": "disponibile",
    "Storm Emerald (ME06)": "irraggiungibile",
    "Chaos Rising (ME04)": "irraggiungibile",
@@ -671,7 +671,7 @@
    "Storm Emerald (ME06)": "listato",
    "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "listato",
-   "Pokémon 151": "listato",
+   "Pokémon 151": "disponibile",
    "Prismatic Evolutions": "listato",
    "Crown Zenith": "listato",
    "Destined Rivals": "non listato",
@@ -726,7 +726,7 @@
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "MagicBazar": {
-   "Pitch Black (ME05)": "disponibile",
+   "Pitch Black (ME05)": "listato",
    "30th Celebration": "non listato",
    "Storm Emerald (ME06)": "non listato",
    "Chaos Rising (ME04)": "non listato",
@@ -786,7 +786,7 @@
    "Premium Deck Espeon & Umbreon (30th)": "irraggiungibile"
   },
   "Stoyanov Games": {
-   "Pitch Black (ME05)": "disponibile",
+   "Pitch Black (ME05)": "listato",
    "30th Celebration": "non listato",
    "Storm Emerald (ME06)": "non listato",
    "Chaos Rising (ME04)": "non listato",
@@ -835,7 +835,7 @@
   },
   "LetsGoTry": {
    "Pitch Black (ME05)": "listato",
-   "30th Celebration": "disponibile",
+   "30th Celebration": "listato",
    "Storm Emerald (ME06)": "listato",
    "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "non listato",
@@ -982,7 +982,8 @@
  "alerts": {
   "drop|MagicBazar|Pitch Black (ME05)": 1783274158.1076322,
   "LetsGoTry|30th Celebration": 1783689370.625792,
-  "Total Cards (UK)|Pitch Black (ME05)": 1783539344.1864767
+  "Total Cards (UK)|Pitch Black (ME05)": 1783539344.1864767,
+  "Pokewoke|Pokémon 151": 1783690864.7065828
  },
  "prices": {
   "Packratt (UK)|Chaos Rising (ME04)": "£10.01",
@@ -994,27 +995,7 @@
   "Stoyanov Games|Pitch Black (ME05)": "8.00€"
  },
  "pending": {
-  "Total Cards (UK)|Pitch Black (ME05)": [
-   "listato",
-   1
-  ],
-  "Rogerz|Pitch Black (ME05)": [
-   "listato",
-   1
-  ],
-  "MagicBazar|Pitch Black (ME05)": [
-   "listato",
-   1
-  ],
-  "Pokewoke|Pokémon 151": [
-   "disponibile",
-   1
-  ],
-  "Stoyanov Games|Pitch Black (ME05)": [
-   "listato",
-   1
-  ],
-  "LetsGoTry|30th Celebration": [
+  "Pokebox|Pitch Black (ME05)": [
    "listato",
    1
   ]
@@ -1040,7 +1021,8 @@
   "Pokemania.ro|Pitch Black (ME05)": "https://pokemania.ro/?s=pitch+black&post_type=product",
   "SunnyStore|Pokémon 151": "https://sunnystore.es/search?q=pokemon+151",
   "Total Cards (UK)|Pitch Black (ME05)": "https://totalcards.net/products/ultra-pro-pokemon-mega-evolution-pitch-black-9-pocket-portfolio?_pos=1&_sid=f90e20df9&_ss=r",
-  "Total Cards (UK)|30th Celebration": "https://totalcards.net/products/pokemon-30th-celebration-booster-bundle?_pos=2&_sid=904be7d3d&_ss=r"
+  "Total Cards (UK)|30th Celebration": "https://totalcards.net/products/pokemon-30th-celebration-booster-bundle?_pos=2&_sid=904be7d3d&_ss=r",
+  "Pokewoke|Pokémon 151": "https://pokewoke.store/?s=pokemon+151&post_type=product"
  },
  "digest_slot": "2026-07-10-15",
  "log": [
@@ -1138,6 +1120,11 @@
    "ts": "10/07 15:16",
    "title": "🚨 DISPONIBILE/PREORDER: 30th Celebration — LetsGoTry",
    "url": "https://letsgotry.pl/zestawy-eng/15894--preorder-pokemon-tcg-30th-celebration-tin-greninja-ex.html"
+  },
+  {
+   "ts": "10/07 15:41",
+   "title": "🚨 DISPONIBILE/PREORDER: Pokémon 151 — Pokewoke",
+   "url": "https://pokewoke.store/?s=pokemon+151&post_type=product"
   }
  ],
  "down": {
@@ -1175,10 +1162,9 @@
   "www.amazon.it": 5,
   "pokevend.at": 4,
   "www.blackfire.eu": 4,
-  "pokeboxstore.pt": 3,
   "www.pokemons.dk": 3,
   "pikashop.pl": 3,
-  "tcgdistribution.fr": 1
+  "games-island.eu": 1
  },
- "runno": 978
+ "runno": 979
 }
