@@ -835,7 +835,7 @@
   },
   "LetsGoTry": {
    "Pitch Black (ME05)": "listato",
-   "30th Celebration": "disponibile",
+   "30th Celebration": "listato",
    "Storm Emerald (ME06)": "listato",
    "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "non listato",
@@ -993,40 +993,8 @@
   "Stoyanov Games|Pitch Black (ME05)": "8.00€"
  },
  "pending": {
-  "Amazon.it|30th Celebration": [
-   "listato",
-   1
-  ],
-  "Amazon.it|Storm Emerald (ME06)": [
-   "listato",
-   1
-  ],
-  "CardZone|Crown Zenith": [
-   "listato",
-   1
-  ],
-  "CardZone|Destined Rivals": [
-   "listato",
-   1
-  ],
-  "OutpostBrussels|Prismatic Evolutions": [
-   "esaurito",
-   1
-  ],
-  "OutpostBrussels|Crown Zenith": [
-   "listato",
-   1
-  ],
-  "OutpostBrussels|Destined Rivals": [
-   "esaurito",
-   1
-  ],
-  "TCGFanshop|Destined Rivals": [
+  "LetsGoTry|Chaos Rising (ME04)": [
    "non listato",
-   1
-  ],
-  "LetsGoTry|30th Celebration": [
-   "listato",
    1
   ]
  },
@@ -1050,7 +1018,7 @@
   "Pikashop|Chaos Rising (ME04)": "https://pikashop.pl/?s=chaos+rising&post_type=product",
   "Pokemania.ro|Pitch Black (ME05)": "https://pokemania.ro/?s=pitch+black&post_type=product",
   "SunnyStore|Pokémon 151": "https://sunnystore.es/search?q=pokemon+151",
-  "Total Cards (UK)|Pitch Black (ME05)": "https://totalcards.net/products/ultra-pro-pokemon-mega-evolution-pitch-black-9-pocket-portfolio?_pos=1&_sid=6fed3336b&_ss=r",
+  "Total Cards (UK)|Pitch Black (ME05)": "https://totalcards.net/products/ultra-pro-pokemon-mega-evolution-pitch-black-9-pocket-portfolio?_pos=1&_sid=595657bba&_ss=r",
   "Total Cards (UK)|30th Celebration": "https://totalcards.net/products/pokemon-30th-celebration-booster-bundle?_pos=2&_sid=a31a2bd00&_ss=r"
  },
  "digest_slot": "2026-07-10-10",
@@ -1156,7 +1124,7 @@
   "www.waylandgames.co.uk": 81,
   "www.firestormgames.co.uk": 81,
   "misticards.com": 81,
-  "bescards.com": 81,
+  "bescards.com": 82,
   "hobbykort.se": 81,
   "rarecards.nl": 81,
   "www.poketalk.se": 81,
@@ -1180,7 +1148,7 @@
   "crispycards.de": 4,
   "pokeboxstore.pt": 3,
   "tcgstore.se": 3,
-  "www.amazon.it": 2
+  "tcgfanshop.nl": 1
  },
- "runno": 939
+ "runno": 940
 }
