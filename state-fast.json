@@ -19,7 +19,7 @@
    "Premium Deck Espeon & Umbreon (30th)": "irraggiungibile"
   },
   "Amazon.it": {
-   "30th Celebration": "listato",
+   "30th Celebration": "non listato",
    "Storm Emerald (ME06)": "non listato",
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
@@ -34,17 +34,11 @@
  "alerts": {},
  "prices": {},
  "urls": {},
- "pending": {
-  "Amazon.it|30th Celebration": [
-   "non listato",
-   1
-  ]
- },
+ "pending": {},
  "down": {
   "www.gamestop.com": 1164,
-  "www.gamelife.it": 1164,
-  "www.pokemoncenter.com": 13,
-  "www.amazon.it": 7
+  "www.gamelife.it": 1165,
+  "www.pokemoncenter.com": 13
  },
- "runno": 5810
+ "runno": 5811
 }
