@@ -18,7 +18,7 @@ else:
     STATE_FILE = "state.json"
     OTHER_STATE_FILE = "state-fast.json"
 
-HOT_SHOP_NAMES = {"TCGplayer", "Pokemon Center", "Amazon.it", "GameStop US", "GameLife (IT)"}
+HOT_SHOP_NAMES = {"TCGplayer", "Amazon.it", "GameLife (IT)"}
 HOT_PRODUCT_NAMES = {"Pitch Black (ME05)", "30th Celebration", "Storm Emerald (ME06)",
                      "Premium Deck Espeon & Umbreon (30th)"}
 
@@ -114,9 +114,7 @@ OTHER_TCG = ["magic", "mtg", "the gathering", "yu-gi-oh", "yugioh", "one piece c
 # gruppo: A=retailer grandi, B=confermati spedizione Italia, C=non verificati
 SHOPS = [
     ("TCGplayer", "www.tcgplayer.com", "https://www.tcgplayer.com/search/pokemon/product?q={q}", "A"),
-    ("Pokemon Center", "www.pokemoncenter.com", "https://www.pokemoncenter.com/search/{q}", "A"),
     ("Amazon.it", "www.amazon.it", "https://www.amazon.it/s?k=pokemon+tcg+{q}", "A"),
-    ("GameStop US", "www.gamestop.com", "https://www.gamestop.com/search/?q=pokemon+{q}", "A"),
     ("Cardmarket", "www.cardmarket.com", "https://www.cardmarket.com/en/Pokemon/Products/Search?searchString={q}", "A"),
     # nota: gamestop.it reindirizza a gamelife.it (stesso gruppo) — un solo ingresso per evitare doppioni
     ("GameLife (IT)", "www.gamelife.it", "https://www.gamelife.it/ricerca?controller=search&s={q}", "A"),
