@@ -170,7 +170,7 @@
    "Pokémon 151": "listato",
    "Prismatic Evolutions": "listato",
    "Crown Zenith": "irraggiungibile",
-   "Destined Rivals": "irraggiungibile",
+   "Destined Rivals": "listato",
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "God of Cards": {
@@ -986,13 +986,13 @@
   "Packratt (UK)|Chaos Rising (ME04)": "£10.01",
   "Packratt (UK)|Pokémon 151": "£29.99",
   "PokeCardShop|Chaos Rising (ME04)": "€6.95",
-  "MagicBazar|Pitch Black (ME05)": "$85",
+  "MagicBazar|Pitch Black (ME05)": "$84",
   "SunnyStore|Pokémon 151": "€26,90",
   "Total Cards (UK)|Pitch Black (ME05)": "£4.79",
   "Stoyanov Games|Pitch Black (ME05)": "8.00€"
  },
  "pending": {
-  "Rogerz|Destined Rivals": [
+  "LetsGoTry|30th Celebration": [
    "listato",
    1
   ]
@@ -1115,18 +1115,18 @@
  ],
  "down": {
   "www.cardmarket.com": 80,
-  "www.gamestop.com": 79,
+  "www.gamestop.com": 80,
   "www.gamelife.it": 80,
   "pokeseller14.com": 80,
   "geco-shop.de": 80,
-  "www.chaoscards.co.uk": 79,
+  "www.chaoscards.co.uk": 80,
   "www.waylandgames.co.uk": 80,
   "www.firestormgames.co.uk": 80,
-  "misticards.com": 79,
+  "misticards.com": 80,
   "bescards.com": 80,
   "hobbykort.se": 80,
   "rarecards.nl": 79,
-  "www.poketalk.se": 79,
+  "www.poketalk.se": 80,
   "tcgcompany.nl": 80,
   "www.nerdom.gr": 79,
   "tcgstore.se": 80,
@@ -1148,7 +1148,7 @@
   "pokevend.at": 4,
   "www.blackfire.eu": 3,
   "pokewoke.store": 4,
-  "crispycards.de": 1
+  "crispycards.de": 2
  },
- "runno": 923
+ "runno": 924
 }
