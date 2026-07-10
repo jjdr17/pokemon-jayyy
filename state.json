@@ -993,7 +993,56 @@
   "Total Cards (UK)|Pitch Black (ME05)": "£4.79",
   "Stoyanov Games|Pitch Black (ME05)": "8.00€"
  },
- "pending": {},
+ "pending": {
+  "Total Cards (UK)|Chaos Rising (ME04)": [
+   "esaurito",
+   1
+  ],
+  "Total Cards (UK)|Pokémon 151": [
+   "listato",
+   1
+  ],
+  "Total Cards (UK)|Prismatic Evolutions": [
+   "esaurito",
+   1
+  ],
+  "Total Cards (UK)|Crown Zenith": [
+   "esaurito",
+   1
+  ],
+  "Total Cards (UK)|Destined Rivals": [
+   "esaurito",
+   1
+  ],
+  "Rogerz|Crown Zenith": [
+   "listato",
+   1
+  ],
+  "SunnyStore|Crown Zenith": [
+   "non listato",
+   1
+  ],
+  "SunnyStore|Destined Rivals": [
+   "esaurito",
+   1
+  ],
+  "Pokevend|Pitch Black (ME05)": [
+   "non listato",
+   1
+  ],
+  "Pokevend|30th Celebration": [
+   "listato",
+   1
+  ],
+  "Pokevend|Premium Deck Espeon & Umbreon (30th)": [
+   "non listato",
+   1
+  ],
+  "Pokevend|Storm Emerald (ME06)": [
+   "non listato",
+   1
+  ]
+ },
  "urls": {
   "Rogerz|Pitch Black (ME05)": "https://rogerz.dk/search?q=pitch+black",
   "Packratt (UK)|Chaos Rising (ME04)": "https://packratt.co.uk/search?q=chaos+rising",
@@ -1139,12 +1188,11 @@
   "fabscards.at": 12,
   "www.deckshop.de": 9,
   "www.pokemillon.com": 8,
-  "pokevend.at": 8,
   "crispycards.de": 6,
   "tcgstore.se": 5,
   "tcgfanshop.nl": 5,
   "www.amazon.it": 4,
-  "www.blackfire.eu": 1
+  "outpostbrussels.be": 1
  },
  "runno": 963
 }
