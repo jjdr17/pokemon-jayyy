@@ -433,6 +433,28 @@ def check_shop(state, shop):
     return name, group, results
 
 
+def verify_available(url, prod):
+    """Seconda opinione sulla PAGINA PRODOTTO prima di un avviso: lì l'esaurito
+    è visibile accanto al carrello (sulle pagine di ricerca spesso no).
+    Ritorna (ok, prezzo)."""
+    raw = fetch(url, raw=True)
+    if raw is None:
+        return True, None  # pagina non verificabile: non bloccare l'avviso
+    html = raw.lower()
+    if not any(v in html for v in prod["match"]):
+        return False, None  # la pagina non parla del prodotto: link sbagliato
+    windows = []
+    for key in prod["match"]:
+        for m in re.finditer(re.escape(key), html):
+            windows.append(html[max(0, m.start() - PROXIMITY): m.end() + PROXIMITY])
+    if any(any(k in w for k in NEGATIVE) for w in windows):
+        return False, None  # esaurito/avvisami presente vicino al nome: NON disponibile
+    strong = [w for w in windows if any(k in w for k in POSITIVE_STRONG)]
+    if not strong:
+        return False, None  # nessun bottone d'acquisto vicino al nome
+    return True, extract_price(strong)
+
+
 def load_other_state():
     """Stato dell'altra corsia: cooldown condiviso + conoscenza già acquisita (evita doppioni)."""
     try:
@@ -518,6 +540,16 @@ def main():
                     akey = f"{shop_name}|{prod_name}"
                     last = max(state["alerts"].get(akey, 0), other_alerts.get(akey, 0))
                     if now - last >= ALERT_COOLDOWN_H * 3600:
+                        # seconda opinione sulla pagina prodotto prima di disturbare Jacopo
+                        prod_def = next((p for p in PRODUCTS if p["name"] == prod_name), None)
+                        if url and prod_def:
+                            ok, vprice = verify_available(url, prod_def)
+                            if not ok:
+                                prev_shop[prod_name] = "esaurito"  # bugia della pagina di ricerca
+                                print(f"{shop_name:22s} | {prod_name:26s} | verifica pagina prodotto: NON disponibile, avviso soppresso")
+                                continue
+                            if vprice:
+                                price = vprice
                         state["alerts"][akey] = now
                         tag = " ⚠️ spedizione Italia da verificare" if group == "C" else ""
                         ptxt = f" a {price}" if price else " (prezzo non rilevato, verifica sul link)"
