@@ -34,23 +34,12 @@
  "alerts": {},
  "prices": {},
  "urls": {},
- "pending": {
-  "Pokemon Center|30th Celebration": [
-   "listato",
-   1
-  ],
-  "Pokemon Center|Premium Deck Espeon & Umbreon (30th)": [
-   "listato",
-   1
-  ],
-  "Pokemon Center|Storm Emerald (ME06)": [
-   "non listato",
-   1
-  ]
- },
+ "pending": {},
  "down": {
   "www.gamestop.com": 1259,
-  "www.gamelife.it": 1259
+  "www.gamelife.it": 1260,
+  "www.amazon.it": 1,
+  "www.pokemoncenter.com": 1
  },
- "runno": 6285
+ "runno": 6286
 }
