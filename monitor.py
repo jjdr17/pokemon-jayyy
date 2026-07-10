@@ -88,16 +88,21 @@ MSRP = {
 POKEMON_MARKERS = ["pokemon", "pokémon"]
 
 # Parole che indicano disponibilità / preordine
-POSITIVE = ["pre-order", "preorder", "pre order", "add to cart", "add to basket",
-            "in stock", "buy now", "in den warenkorb", "vorbestellen", "disponibile",
-            "aggiungi al carrello", "ajouter au panier", "précommande", "añadir al carrito",
-            "do koszyka", "in winkelwagen", "læg i kurv", "lisää koriin", "købe",
-            "preordina", "preordine", "preordini", "prenota", "acquista"]
+# Segnali FORTI: veri bottoni/azioni di acquisto — solo questi rendono un prodotto "disponibile"
+POSITIVE_STRONG = ["add to cart", "add to basket", "in stock", "buy now",
+                   "in den warenkorb", "aggiungi al carrello", "ajouter au panier",
+                   "añadir al carrito", "do koszyka", "in winkelwagen", "læg i kurv",
+                   "lisää koriin", "acquista ora", "kup teraz", "comprar"]
+# Segnali DEBOLI: parole tipo "preorder" che spesso stanno solo nei TITOLI dei prodotti
+# (anche esauriti!) — da soli valgono solo come "listato", mai come disponibile
+POSITIVE_WEAK = ["pre-order", "preorder", "pre order", "vorbestellen", "disponibile",
+                 "précommande", "preordina", "preordine", "preordini", "prenota", "købe"]
 NEGATIVE = ["sold out", "out of stock", "esaurito", "esaurita", "ausverkauft", "épuisé", "agotado",
             "not available", "unavailable", "wyprzedane", "uitverkocht", "non disponibile",
             "coda al completo", "avvisami", "notify me", "notify when", "email me when",
             "email when", "waitlist", "wait list", "back in stock", "restock alert",
-            "niet leverbaar", "backorder", "sold-out"]
+            "niet leverbaar", "backorder", "sold-out", "brak w magazynie", "brak na stanie",
+            "niedostępny", "niedostepny", "powiadom mnie"]
 
 # Se vicino al nome del prodotto compaiono questi termini, è roba di un altro gioco: scarta
 OTHER_TCG = ["magic", "mtg", "the gathering", "yu-gi-oh", "yugioh", "one piece card",
@@ -204,7 +209,7 @@ SEARCH_PATTERNS = [
 ]
 
 
-ALERT_COOLDOWN_H = 6      # max 1 notifica per prodotto/negozio ogni N ore
+ALERT_COOLDOWN_H = 12     # max 1 notifica per prodotto/negozio ogni N ore
 MAX_ALERTS_PER_RUN = 8    # tetto anti-spam per singolo run
 PROXIMITY = 400           # le parole chiave valgono solo entro N caratteri dal nome prodotto
 DIGEST_HOURS = [10, 15, 18, 22]   # riepiloghi giornalieri, ora italiana (Europe/Rome)
@@ -213,8 +218,8 @@ PRICE_DROP_RATIO = 0.85           # avvisa se il prezzo scende di almeno il 15% 
 # prodotti "caldi": notifica con priorità urgente (suona anche in non disturbare, se configurato)
 URGENT_PRODUCTS = {"Pitch Black (ME05)", "30th Celebration", "Storm Emerald (ME06)",
                    "Premium Deck Espeon & Umbreon (30th)"}
-# prezzo con simbolo prima (€54.99, formato USA) O dopo (54,99 €, formato europeo)
-PRICE_RE = re.compile(r'(?:€|\$|£)\s?\d{1,4}(?:[.,]\d{1,2})?|\d{1,4}(?:[.,]\d{1,2})?\s?(?:€|\$|£|eur\b)')
+# prezzo con simbolo prima (€54.99, formato USA) O dopo (54,99 € / 219,99 zł, formato europeo)
+PRICE_RE = re.compile(r'(?:€|\$|£)\s?\d{1,5}(?:[.,]\d{1,2})?|\d{1,5}(?:[.,]\d{1,2})?\s?(?:€|\$|£|eur\b|zł|zl\b|pln\b|kr\b|kč|czk\b)')
 PRICE_NUM_RE = re.compile(r'\d{1,4}(?:[.,]\d{1,2})?')
 
 
@@ -349,7 +354,7 @@ def extract_price(windows):
     for w in windows:
         for m in PRICE_RE.findall(w):
             val = price_value(m)
-            if val is not None and 3 <= val <= 2000:
+            if val is not None and 3 <= val <= 20000:
                 prices.append((val, m.strip()))
     return min(prices)[1] if prices else None
 
@@ -400,7 +405,9 @@ def check_shop(state, shop):
                     if any(t in window for t in OTHER_TCG):
                         continue  # vicino c'è un altro gioco (Magic ecc.): scarta
                     found_valid = True
-                    if any(k in window for k in POSITIVE):
+                    # solo i segnali FORTI (bottoni d'acquisto) contano come disponibilità;
+                    # "preorder" nel titolo di un prodotto esaurito non basta più
+                    if any(k in window for k in POSITIVE_STRONG):
                         pos = True
                         pos_windows.append(window)
                         if first_pos is None:
