@@ -991,7 +991,12 @@
   "Total Cards (UK)|Pitch Black (ME05)": "£4.79",
   "Stoyanov Games|Pitch Black (ME05)": "8.00€"
  },
- "pending": {},
+ "pending": {
+  "PokeCardShop|Chaos Rising (ME04)": [
+   "esaurito",
+   1
+  ]
+ },
  "urls": {
   "Rogerz|Pitch Black (ME05)": "https://rogerz.dk/search?q=pitch+black",
   "Packratt (UK)|Chaos Rising (ME04)": "https://packratt.co.uk/search?q=chaos+rising",
@@ -1008,11 +1013,11 @@
   "Sapphire-Cards|Crown Zenith": "https://sapphire-cards.de/?s=crown+zenith&post_type=product",
   "Sapphire-Cards|Destined Rivals": "https://sapphire-cards.de/?s=destined+rivals&post_type=product",
   "Stoyanov Games|Pitch Black (ME05)": "https://stoyanov-gamesbg.com/pre-order-pokemon-tcg-mega-evolution-pitch-black-elite-trainer-box-френски-език/",
-  "LetsGoTry|30th Celebration": "https://letsgotry.pl/zestawy-eng/15895--preorder-pokemon-tcg-30th-celebration-binder-collection.html",
+  "LetsGoTry|30th Celebration": "https://letsgotry.pl/zestawy-eng/15896--preorder-pokemon-tcg-30th-celebration-2-pack.html",
   "Pikashop|Chaos Rising (ME04)": "https://pikashop.pl/?s=chaos+rising&post_type=product",
   "Pokemania.ro|Pitch Black (ME05)": "https://pokemania.ro/?s=pitch+black&post_type=product",
   "SunnyStore|Pokémon 151": "https://sunnystore.es/search?q=pokemon+151",
-  "Total Cards (UK)|Pitch Black (ME05)": "https://totalcards.net/products/ultra-pro-pokemon-mega-evolution-pitch-black-9-pocket-portfolio?_pos=1&_sid=03b5e364e&_ss=r",
+  "Total Cards (UK)|Pitch Black (ME05)": "https://totalcards.net/products/ultra-pro-pokemon-mega-evolution-pitch-black-9-pocket-portfolio?_pos=1&_sid=e25ed9649&_ss=r",
   "Total Cards (UK)|30th Celebration": "https://totalcards.net/products/pokemon-30th-celebration-booster-bundle?_pos=2&_sid=547bcc5bf&_ss=r"
  },
  "digest_slot": "2026-07-09-22",
@@ -1105,19 +1110,19 @@
  ],
  "down": {
   "www.cardmarket.com": 74,
-  "www.gamestop.com": 73,
+  "www.gamestop.com": 74,
   "www.gamelife.it": 74,
   "pokeseller14.com": 74,
   "geco-shop.de": 74,
-  "www.chaoscards.co.uk": 73,
+  "www.chaoscards.co.uk": 74,
   "www.waylandgames.co.uk": 74,
   "www.firestormgames.co.uk": 74,
-  "misticards.com": 73,
+  "misticards.com": 74,
   "bescards.com": 74,
   "hobbykort.se": 74,
   "rarecards.nl": 73,
   "pokevend.at": 73,
-  "www.poketalk.se": 73,
+  "www.poketalk.se": 74,
   "tcgcompany.nl": 74,
   "www.nerdom.gr": 73,
   "tcgstore.se": 74,
@@ -1136,13 +1141,9 @@
   "itcg.bg": 8,
   "lorenzone.fr": 7,
   "www.amazon.it": 5,
-  "cardzone.es": 4,
   "www.blackfire.eu": 3,
   "fabscards.at": 3,
-  "tradingcard.fi": 1,
-  "www.pokemons.dk": 1,
-  "pokeboxstore.pt": 1,
-  "pikashop.pl": 1
+  "pokeboxstore.pt": 2
  },
- "runno": 851
+ "runno": 852
 }
