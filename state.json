@@ -578,7 +578,7 @@
    "Pokémon 151": "listato",
    "Prismatic Evolutions": "listato",
    "Crown Zenith": "esaurito",
-   "Destined Rivals": "non listato",
+   "Destined Rivals": "esaurito",
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "Kaissa Games": {
@@ -813,7 +813,7 @@
    "Pitch Black (ME05)": "listato",
    "30th Celebration": "listato",
    "Storm Emerald (ME06)": "listato",
-   "Chaos Rising (ME04)": "listato",
+   "Chaos Rising (ME04)": "non listato",
    "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "non listato",
    "Prismatic Evolutions": "non listato",
@@ -970,16 +970,7 @@
   "Total Cards (UK)|Pitch Black (ME05)": "£4.79",
   "Stoyanov Games|Pitch Black (ME05)": "8.00€"
  },
- "pending": {
-  "PokeCardShop|Destined Rivals": [
-   "esaurito",
-   1
-  ],
-  "LetsGoTry|Chaos Rising (ME04)": [
-   "non listato",
-   1
-  ]
- },
+ "pending": {},
  "urls": {
   "Rogerz|Pitch Black (ME05)": "https://rogerz.dk/search?q=pitch+black",
   "Packratt (UK)|Chaos Rising (ME04)": "https://packratt.co.uk/search?q=chaos+rising",
@@ -1115,7 +1106,7 @@
   "geco-shop.de": 88,
   "www.chaoscards.co.uk": 88,
   "www.waylandgames.co.uk": 88,
-  "www.firestormgames.co.uk": 88,
+  "www.firestormgames.co.uk": 89,
   "misticards.com": 88,
   "bescards.com": 89,
   "hobbykort.se": 88,
@@ -1127,7 +1118,7 @@
   "www.pokekarty.pl": 88,
   "pokeka.hu": 88,
   "www.wakuwaku.cz": 88,
-  "www.pokemonia.ro": 88,
+  "www.pokemonia.ro": 89,
   "en.tcg-shop.at": 88,
   "cardcorner.at": 81,
   "pokechest.at": 28,
@@ -1142,7 +1133,13 @@
   "pokevend.at": 8,
   "www.pokemons.dk": 4,
   "www.amazon.it": 4,
-  "www.blackfire.eu": 4
+  "www.blackfire.eu": 4,
+  "tradingcard.fi": 1,
+  "pokectcg.cz": 1,
+  "pikashop.pl": 1,
+  "tcgpikas.lt": 1,
+  "pokemonworld.lt": 1,
+  "extremepokecorner.com": 1
  },
- "runno": 1024
+ "runno": 1025
 }
