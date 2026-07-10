@@ -991,7 +991,12 @@
   "Total Cards (UK)|Pitch Black (ME05)": "£4.79",
   "Stoyanov Games|Pitch Black (ME05)": "8.00€"
  },
- "pending": {},
+ "pending": {
+  "LetsGoTry|30th Celebration": [
+   "listato",
+   1
+  ]
+ },
  "urls": {
   "Rogerz|Pitch Black (ME05)": "https://rogerz.dk/search?q=pitch+black",
   "Packratt (UK)|Chaos Rising (ME04)": "https://packratt.co.uk/search?q=chaos+rising",
@@ -1012,7 +1017,7 @@
   "Pikashop|Chaos Rising (ME04)": "https://pikashop.pl/?s=chaos+rising&post_type=product",
   "Pokemania.ro|Pitch Black (ME05)": "https://pokemania.ro/?s=pitch+black&post_type=product",
   "SunnyStore|Pokémon 151": "https://sunnystore.es/search?q=pokemon+151",
-  "Total Cards (UK)|Pitch Black (ME05)": "https://totalcards.net/products/ultra-pro-pokemon-mega-evolution-pitch-black-9-pocket-portfolio?_pos=1&_sid=77c7cfd15&_ss=r",
+  "Total Cards (UK)|Pitch Black (ME05)": "https://totalcards.net/products/ultra-pro-pokemon-mega-evolution-pitch-black-9-pocket-portfolio?_pos=1&_sid=c960850cb&_ss=r",
   "Total Cards (UK)|30th Celebration": "https://totalcards.net/products/pokemon-30th-celebration-booster-bundle?_pos=2&_sid=47915ed5c&_ss=r"
  },
  "digest_slot": "2026-07-09-22",
@@ -1111,7 +1116,7 @@
   "geco-shop.de": 75,
   "www.chaoscards.co.uk": 75,
   "www.waylandgames.co.uk": 75,
-  "www.firestormgames.co.uk": 75,
+  "www.firestormgames.co.uk": 76,
   "misticards.com": 75,
   "bescards.com": 76,
   "hobbykort.se": 75,
@@ -1125,7 +1130,7 @@
   "www.pokekarty.pl": 75,
   "pokeka.hu": 75,
   "www.wakuwaku.cz": 75,
-  "www.pokemonia.ro": 75,
+  "www.pokemonia.ro": 76,
   "en.tcg-shop.at": 75,
   "cardcorner.at": 68,
   "www.deckshop.de": 50,
@@ -1139,15 +1144,7 @@
   "fabscards.at": 4,
   "pokeboxstore.pt": 4,
   "www.blackfire.eu": 4,
-  "tradingcard.fi": 2,
-  "www.pokemons.dk": 2,
-  "pikashop.pl": 2,
-  "pokectcg.cz": 1,
-  "pokewoke.store": 1,
-  "tcgpikas.lt": 1,
-  "pokemonworld.lt": 1,
-  "www.lotticards.de": 1,
-  "extremepokecorner.com": 1
+  "games-island.eu": 1
  },
- "runno": 868
+ "runno": 869
 }
