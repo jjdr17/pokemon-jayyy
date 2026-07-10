@@ -597,7 +597,7 @@
    "Pitch Black (ME05)": "esaurito",
    "30th Celebration": "listato",
    "Storm Emerald (ME06)": "non listato",
-   "Chaos Rising (ME04)": "non listato",
+   "Chaos Rising (ME04)": "esaurito",
    "Phantasmal Flames (ME02)": "esaurito",
    "Pokémon 151": "listato",
    "Prismatic Evolutions": "listato",
@@ -992,8 +992,12 @@
   "Stoyanov Games|Pitch Black (ME05)": "8.00€"
  },
  "pending": {
-  "PokeCardShop|Chaos Rising (ME04)": [
-   "esaurito",
+  "LetsGoTry|30th Celebration": [
+   "listato",
+   1
+  ],
+  "LetsGoTry|Chaos Rising (ME04)": [
+   "non listato",
    1
   ]
  },
@@ -1017,7 +1021,7 @@
   "Pikashop|Chaos Rising (ME04)": "https://pikashop.pl/?s=chaos+rising&post_type=product",
   "Pokemania.ro|Pitch Black (ME05)": "https://pokemania.ro/?s=pitch+black&post_type=product",
   "SunnyStore|Pokémon 151": "https://sunnystore.es/search?q=pokemon+151",
-  "Total Cards (UK)|Pitch Black (ME05)": "https://totalcards.net/products/ultra-pro-pokemon-mega-evolution-pitch-black-9-pocket-portfolio?_pos=1&_sid=e25ed9649&_ss=r",
+  "Total Cards (UK)|Pitch Black (ME05)": "https://totalcards.net/products/ultra-pro-pokemon-mega-evolution-pitch-black-9-pocket-portfolio?_pos=1&_sid=747b805e0&_ss=r",
   "Total Cards (UK)|30th Celebration": "https://totalcards.net/products/pokemon-30th-celebration-booster-bundle?_pos=2&_sid=547bcc5bf&_ss=r"
  },
  "digest_slot": "2026-07-09-22",
@@ -1131,19 +1135,19 @@
   "pokeka.hu": 73,
   "www.wakuwaku.cz": 73,
   "www.pokemonia.ro": 74,
-  "en.tcg-shop.at": 73,
+  "en.tcg-shop.at": 74,
   "cardcorner.at": 67,
   "www.deckshop.de": 49,
   "www.pokemillon.com": 24,
-  "tcgfanshop.nl": 18,
-  "pokechest.at": 13,
+  "tcgfanshop.nl": 19,
+  "pokechest.at": 14,
   "crispycards.de": 10,
   "itcg.bg": 8,
   "lorenzone.fr": 7,
   "www.amazon.it": 5,
   "www.blackfire.eu": 3,
   "fabscards.at": 3,
-  "pokeboxstore.pt": 2
+  "pokeboxstore.pt": 3
  },
- "runno": 852
+ "runno": 853
 }
