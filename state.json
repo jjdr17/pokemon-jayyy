@@ -953,7 +953,8 @@
   "rarecards.nl": "https://rarecards.nl/search?controller=search&s={q}",
   "itcg.bg": "https://itcg.bg/search?q={q}",
   "tcgstore.se": "https://tcgstore.se/?s={q}&post_type=product",
-  "pokeka.hu": "https://pokeka.hu/?s={q}&post_type=product"
+  "pokeka.hu": "https://pokeka.hu/?s={q}&post_type=product",
+  "bescards.com": "https://bescards.com/search?q={q}"
  },
  "alerts": {
   "drop|MagicBazar|Pitch Black (ME05)": 1783274158.1076322,
@@ -972,6 +973,10 @@
  },
  "pending": {
   "Amazon.it|30th Celebration": [
+   "non listato",
+   1
+  ],
+  "LetsGoTry|Chaos Rising (ME04)": [
    "non listato",
    1
   ]
@@ -1111,9 +1116,8 @@
   "geco-shop.de": 96,
   "www.chaoscards.co.uk": 96,
   "www.waylandgames.co.uk": 96,
-  "www.firestormgames.co.uk": 96,
+  "www.firestormgames.co.uk": 97,
   "misticards.com": 96,
-  "bescards.com": 97,
   "hobbykort.se": 96,
   "rarecards.nl": 96,
   "www.poketalk.se": 96,
@@ -1123,7 +1127,7 @@
   "www.pokekarty.pl": 96,
   "pokeka.hu": 96,
   "www.wakuwaku.cz": 96,
-  "www.pokemonia.ro": 96,
+  "www.pokemonia.ro": 97,
   "en.tcg-shop.at": 96,
   "cardcorner.at": 89,
   "itcg.bg": 30,
@@ -1137,7 +1141,14 @@
   "www.amazon.it": 5,
   "tcgfanshop.nl": 5,
   "www.blackfire.eu": 5,
-  "fabscards.at": 3
+  "fabscards.at": 3,
+  "bescards.com": 1,
+  "pokectcg.cz": 1,
+  "pokewoke.store": 1,
+  "tcgpikas.lt": 1,
+  "pokemonworld.lt": 1,
+  "tcgdistribution.fr": 1,
+  "extremepokecorner.com": 1
  },
- "runno": 1120
+ "runno": 1121
 }
