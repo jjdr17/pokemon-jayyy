@@ -26,7 +26,7 @@
   },
   "Amazon.it": {
    "30th Celebration": "non listato",
-   "Storm Emerald (ME06)": "listato",
+   "Storm Emerald (ME06)": "non listato",
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "TCGplayer": {
@@ -972,10 +972,6 @@
   "Stoyanov Games|Pitch Black (ME05)": "8.00€"
  },
  "pending": {
-  "Amazon.it|Storm Emerald (ME06)": [
-   "non listato",
-   1
-  ],
   "LetsGoTry|Chaos Rising (ME04)": [
    "non listato",
    1
@@ -1141,8 +1137,7 @@
   "crispycards.de": 7,
   "cardcorner.at": 7,
   "itcg.bg": 7,
-  "www.blackfire.eu": 3,
-  "www.amazon.it": 1
+  "www.blackfire.eu": 3
  },
  "runno": 1194
 }
