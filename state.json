@@ -25,7 +25,7 @@
    "Premium Deck Espeon & Umbreon (30th)": "irraggiungibile"
   },
   "Amazon.it": {
-   "30th Celebration": "listato",
+   "30th Celebration": "non listato",
    "Storm Emerald (ME06)": "listato",
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
@@ -972,64 +972,8 @@
   "Stoyanov Games|Pitch Black (ME05)": "8.00€"
  },
  "pending": {
-  "Amazon.it|30th Celebration": [
+  "Amazon.it|Storm Emerald (ME06)": [
    "non listato",
-   1
-  ],
-  "BESCARDS|Pitch Black (ME05)": [
-   "non listato",
-   1
-  ],
-  "BESCARDS|30th Celebration": [
-   "listato",
-   1
-  ],
-  "BESCARDS|Premium Deck Espeon & Umbreon (30th)": [
-   "non listato",
-   1
-  ],
-  "BESCARDS|Storm Emerald (ME06)": [
-   "listato",
-   1
-  ],
-  "BESCARDS|Chaos Rising (ME04)": [
-   "listato",
-   1
-  ],
-  "BESCARDS|Phantasmal Flames (ME02)": [
-   "esaurito",
-   1
-  ],
-  "BESCARDS|Pokémon 151": [
-   "disponibile",
-   1
-  ],
-  "BESCARDS|Prismatic Evolutions": [
-   "disponibile",
-   1
-  ],
-  "BESCARDS|Crown Zenith": [
-   "disponibile",
-   1
-  ],
-  "BESCARDS|Destined Rivals": [
-   "esaurito",
-   1
-  ],
-  "OutpostBrussels|Prismatic Evolutions": [
-   "esaurito",
-   1
-  ],
-  "OutpostBrussels|Crown Zenith": [
-   "listato",
-   1
-  ],
-  "OutpostBrussels|Destined Rivals": [
-   "esaurito",
-   1
-  ],
-  "God of Cards|Pokémon 151": [
-   "listato",
    1
   ]
  },
@@ -1163,9 +1107,9 @@
  "down": {
   "www.cardmarket.com": 96,
   "www.gamestop.com": 84,
-  "www.gamelife.it": 96,
-  "pokeseller14.com": 96,
-  "geco-shop.de": 96,
+  "www.gamelife.it": 97,
+  "pokeseller14.com": 97,
+  "geco-shop.de": 97,
   "www.chaoscards.co.uk": 96,
   "www.waylandgames.co.uk": 96,
   "www.firestormgames.co.uk": 97,
@@ -1190,12 +1134,11 @@
   "tcgstore.se": 18,
   "pokevend.at": 16,
   "pokechest.at": 6,
-  "www.amazon.it": 5,
   "tcgfanshop.nl": 5,
   "www.blackfire.eu": 5,
-  "fabscards.at": 3,
-  "pokeboxstore.pt": 1,
-  "totalcards.net": 1
+  "fabscards.at": 4,
+  "pokeboxstore.pt": 2,
+  "bescards.com": 1
  },
- "runno": 1123
+ "runno": 1124
 }
