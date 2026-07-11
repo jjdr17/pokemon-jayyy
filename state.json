@@ -974,6 +974,14 @@
   "Amazon.it|30th Celebration": [
    "non listato",
    1
+  ],
+  "PokeCardShop|Phantasmal Flames (ME02)": [
+   "listato",
+   1
+  ],
+  "PokeCardShop|Prismatic Evolutions": [
+   "non listato",
+   1
   ]
  },
  "urls": {
@@ -1104,13 +1112,13 @@
   }
  ],
  "down": {
-  "www.cardmarket.com": 93,
+  "www.cardmarket.com": 94,
   "www.gamestop.com": 84,
   "www.gamelife.it": 94,
   "pokeseller14.com": 94,
   "geco-shop.de": 94,
   "www.chaoscards.co.uk": 93,
-  "www.waylandgames.co.uk": 93,
+  "www.waylandgames.co.uk": 94,
   "www.firestormgames.co.uk": 94,
   "misticards.com": 93,
   "bescards.com": 94,
@@ -1119,25 +1127,26 @@
   "www.poketalk.se": 93,
   "tcgcompany.nl": 94,
   "www.nerdom.gr": 93,
-  "papelinho.pt": 93,
+  "papelinho.pt": 94,
   "www.pokekarty.pl": 93,
   "pokeka.hu": 93,
   "www.wakuwaku.cz": 93,
   "www.pokemonia.ro": 94,
   "en.tcg-shop.at": 93,
-  "cardcorner.at": 86,
-  "itcg.bg": 27,
+  "cardcorner.at": 87,
+  "itcg.bg": 28,
   "lorenzone.fr": 27,
   "www.deckshop.de": 19,
   "www.pokemillon.com": 18,
-  "crispycards.de": 16,
+  "crispycards.de": 17,
   "tcgstore.se": 16,
   "tcgfanshop.nl": 15,
   "pokevend.at": 13,
   "pokechest.at": 3,
   "www.blackfire.eu": 3,
-  "fabscards.at": 1,
-  "tcgdistribution.fr": 1
+  "fabscards.at": 2,
+  "www.amazon.it": 1,
+  "pokeboxstore.pt": 1
  },
- "runno": 1089
+ "runno": 1090
 }
