@@ -971,7 +971,16 @@
   "Total Cards (UK)|Pitch Black (ME05)": "£4.79",
   "Stoyanov Games|Pitch Black (ME05)": "8.00€"
  },
- "pending": {},
+ "pending": {
+  "Amazon.it|Storm Emerald (ME06)": [
+   "listato",
+   1
+  ],
+  "PokeCardShop|Crown Zenith": [
+   "listato",
+   1
+  ]
+ },
  "urls": {
   "Rogerz|Pitch Black (ME05)": "https://rogerz.dk/search?q=pitch+black",
   "Packratt (UK)|Chaos Rising (ME04)": "https://packratt.co.uk/search?q=chaos+rising",
@@ -1119,23 +1128,25 @@
   "pokeka.hu": 104,
   "www.wakuwaku.cz": 104,
   "www.pokemonia.ro": 105,
-  "en.tcg-shop.at": 104,
+  "en.tcg-shop.at": 105,
   "lorenzone.fr": 38,
   "www.deckshop.de": 31,
   "www.pokemillon.com": 29,
   "tcgstore.se": 27,
   "pokevend.at": 24,
-  "pokechest.at": 14,
-  "tcgfanshop.nl": 13,
+  "pokechest.at": 15,
+  "tcgfanshop.nl": 14,
   "fabscards.at": 12,
   "bescards.com": 11,
   "crispycards.de": 10,
   "cardcorner.at": 10,
   "itcg.bg": 10,
-  "pikashop.pl": 4,
-  "www.amazon.it": 1,
-  "totalcards.net": 1,
-  "pokeboxstore.pt": 1
+  "www.blackfire.eu": 1,
+  "pokectcg.cz": 1,
+  "pokewoke.store": 1,
+  "tcgpikas.lt": 1,
+  "pokemonworld.lt": 1,
+  "extremepokecorner.com": 1
  },
- "runno": 1224
+ "runno": 1225
 }
