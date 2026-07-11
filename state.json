@@ -953,8 +953,7 @@
   "rarecards.nl": "https://rarecards.nl/search?controller=search&s={q}",
   "itcg.bg": "https://itcg.bg/search?q={q}",
   "tcgstore.se": "https://tcgstore.se/?s={q}&post_type=product",
-  "pokeka.hu": "https://pokeka.hu/?s={q}&post_type=product",
-  "bescards.com": "https://bescards.com/search?q={q}"
+  "pokeka.hu": "https://pokeka.hu/?s={q}&post_type=product"
  },
  "alerts": {
   "drop|MagicBazar|Pitch Black (ME05)": 1783274158.1076322,
@@ -974,62 +973,6 @@
  "pending": {
   "Amazon.it|30th Celebration": [
    "non listato",
-   1
-  ],
-  "BESCARDS|Pitch Black (ME05)": [
-   "non listato",
-   1
-  ],
-  "BESCARDS|30th Celebration": [
-   "listato",
-   1
-  ],
-  "BESCARDS|Premium Deck Espeon & Umbreon (30th)": [
-   "non listato",
-   1
-  ],
-  "BESCARDS|Storm Emerald (ME06)": [
-   "listato",
-   1
-  ],
-  "BESCARDS|Chaos Rising (ME04)": [
-   "listato",
-   1
-  ],
-  "BESCARDS|Phantasmal Flames (ME02)": [
-   "esaurito",
-   1
-  ],
-  "BESCARDS|Pokémon 151": [
-   "disponibile",
-   1
-  ],
-  "BESCARDS|Prismatic Evolutions": [
-   "disponibile",
-   1
-  ],
-  "BESCARDS|Crown Zenith": [
-   "disponibile",
-   1
-  ],
-  "BESCARDS|Destined Rivals": [
-   "esaurito",
-   1
-  ],
-  "OutpostBrussels|Prismatic Evolutions": [
-   "esaurito",
-   1
-  ],
-  "OutpostBrussels|Crown Zenith": [
-   "listato",
-   1
-  ],
-  "OutpostBrussels|Destined Rivals": [
-   "esaurito",
-   1
-  ],
-  "Rogerz|Crown Zenith": [
-   "listato",
    1
   ]
  },
@@ -1170,6 +1113,7 @@
   "www.waylandgames.co.uk": 96,
   "www.firestormgames.co.uk": 96,
   "misticards.com": 96,
+  "bescards.com": 97,
   "hobbykort.se": 96,
   "rarecards.nl": 96,
   "www.poketalk.se": 96,
@@ -1193,10 +1137,7 @@
   "www.amazon.it": 5,
   "tcgfanshop.nl": 5,
   "www.blackfire.eu": 5,
-  "fabscards.at": 3,
-  "pokeboxstore.pt": 1,
-  "cardzone.es": 1,
-  "sunnystore.es": 1
+  "fabscards.at": 3
  },
  "runno": 1120
 }
