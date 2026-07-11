@@ -578,7 +578,7 @@
    "Pokémon 151": "listato",
    "Prismatic Evolutions": "listato",
    "Crown Zenith": "esaurito",
-   "Destined Rivals": "non listato",
+   "Destined Rivals": "esaurito",
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "Kaissa Games": {
@@ -971,24 +971,8 @@
   "Stoyanov Games|Pitch Black (ME05)": "8.00€"
  },
  "pending": {
-  "Fabscards|Destined Rivals": [
+  "Amazon.it|30th Celebration": [
    "non listato",
-   1
-  ],
-  "CardZone|Prismatic Evolutions": [
-   "listato",
-   1
-  ],
-  "CardZone|Crown Zenith": [
-   "listato",
-   1
-  ],
-  "CardZone|Destined Rivals": [
-   "listato",
-   1
-  ],
-  "PokeCardShop|Destined Rivals": [
-   "esaurito",
    1
   ]
  },
@@ -1133,7 +1117,7 @@
   "hobbykort.se": 94,
   "rarecards.nl": 93,
   "www.poketalk.se": 93,
-  "tcgcompany.nl": 93,
+  "tcgcompany.nl": 94,
   "www.nerdom.gr": 93,
   "papelinho.pt": 93,
   "www.pokekarty.pl": 93,
@@ -1147,12 +1131,13 @@
   "www.deckshop.de": 19,
   "www.pokemillon.com": 18,
   "crispycards.de": 16,
-  "tcgstore.se": 15,
+  "tcgstore.se": 16,
   "tcgfanshop.nl": 15,
   "pokevend.at": 13,
   "pokechest.at": 3,
   "www.blackfire.eu": 3,
-  "godofcards.com": 1
+  "fabscards.at": 1,
+  "tcgdistribution.fr": 1
  },
- "runno": 1088
+ "runno": 1089
 }
