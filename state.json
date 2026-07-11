@@ -975,6 +975,10 @@
   "Amazon.it|Storm Emerald (ME06)": [
    "non listato",
    1
+  ],
+  "PokeCardShop|30th Celebration": [
+   "non listato",
+   1
   ]
  },
  "urls": {
@@ -1107,9 +1111,9 @@
  "down": {
   "www.cardmarket.com": 98,
   "www.gamestop.com": 84,
-  "www.gamelife.it": 98,
-  "pokeseller14.com": 98,
-  "geco-shop.de": 98,
+  "www.gamelife.it": 99,
+  "pokeseller14.com": 99,
+  "geco-shop.de": 99,
   "www.chaoscards.co.uk": 98,
   "www.waylandgames.co.uk": 98,
   "www.firestormgames.co.uk": 99,
@@ -1133,12 +1137,12 @@
   "pokechest.at": 8,
   "tcgfanshop.nl": 7,
   "www.blackfire.eu": 7,
-  "fabscards.at": 5,
+  "fabscards.at": 6,
   "bescards.com": 5,
-  "www.amazon.it": 4,
+  "www.amazon.it": 5,
   "crispycards.de": 3,
   "cardcorner.at": 3,
   "itcg.bg": 3
  },
- "runno": 1147
+ "runno": 1148
 }
