@@ -813,7 +813,7 @@
    "Pitch Black (ME05)": "listato",
    "30th Celebration": "listato",
    "Storm Emerald (ME06)": "listato",
-   "Chaos Rising (ME04)": "listato",
+   "Chaos Rising (ME04)": "non listato",
    "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "non listato",
    "Prismatic Evolutions": "non listato",
@@ -972,80 +972,8 @@
   "Stoyanov Games|Pitch Black (ME05)": "8.00€"
  },
  "pending": {
-  "CrispyCards|Phantasmal Flames (ME02)": [
-   "non listato",
-   1
-  ],
-  "CrispyCards|Pokémon 151": [
-   "non listato",
-   1
-  ],
-  "CrispyCards|Prismatic Evolutions": [
+  "Amazon.it|Storm Emerald (ME06)": [
    "listato",
-   1
-  ],
-  "CrispyCards|Crown Zenith": [
-   "non listato",
-   1
-  ],
-  "CrispyCards|Destined Rivals": [
-   "non listato",
-   1
-  ],
-  "Rogerz|Crown Zenith": [
-   "listato",
-   1
-  ],
-  "God of Cards|Pokémon 151": [
-   "listato",
-   1
-  ],
-  "God of Cards|Prismatic Evolutions": [
-   "listato",
-   1
-  ],
-  "God of Cards|Crown Zenith": [
-   "non listato",
-   1
-  ],
-  "God of Cards|Destined Rivals": [
-   "non listato",
-   1
-  ],
-  "CardZone|Prismatic Evolutions": [
-   "listato",
-   1
-  ],
-  "CardZone|Crown Zenith": [
-   "listato",
-   1
-  ],
-  "CardZone|Destined Rivals": [
-   "listato",
-   1
-  ],
-  "Total Cards (UK)|Chaos Rising (ME04)": [
-   "esaurito",
-   1
-  ],
-  "Total Cards (UK)|Pokémon 151": [
-   "listato",
-   1
-  ],
-  "CardCorner.at|Pitch Black (ME05)": [
-   "non listato",
-   1
-  ],
-  "CardCorner.at|30th Celebration": [
-   "non listato",
-   1
-  ],
-  "CardCorner.at|Premium Deck Espeon & Umbreon (30th)": [
-   "non listato",
-   1
-  ],
-  "CardCorner.at|Storm Emerald (ME06)": [
-   "non listato",
    1
   ]
  },
@@ -1201,17 +1129,16 @@
   "pokevend.at": 34,
   "pokechest.at": 24,
   "tcgfanshop.nl": 23,
-  "fabscards.at": 22,
   "bescards.com": 21,
+  "crispycards.de": 20,
+  "cardcorner.at": 20,
   "itcg.bg": 20,
   "pokeka.hu": 9,
   "misticards.com": 7,
   "www.poketalk.se": 7,
-  "www.blackfire.eu": 4,
-  "tradingcard.fi": 3,
-  "pikashop.pl": 3,
-  "www.amazon.it": 1,
-  "www.pokemons.dk": 1
+  "www.blackfire.eu": 3,
+  "fabscards.at": 2,
+  "www.amazon.it": 1
  },
  "runno": 1342
 }
