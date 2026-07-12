@@ -971,8 +971,148 @@
   "Stoyanov Games|Pitch Black (ME05)": "8.00€"
  },
  "pending": {
-  "LetsGoTry|Chaos Rising (ME04)": [
+  "Poketalk|Pitch Black (ME05)": [
    "listato",
+   1
+  ],
+  "Poketalk|30th Celebration": [
+   "non listato",
+   1
+  ],
+  "Poketalk|Premium Deck Espeon & Umbreon (30th)": [
+   "non listato",
+   1
+  ],
+  "Poketalk|Storm Emerald (ME06)": [
+   "listato",
+   1
+  ],
+  "Poketalk|Chaos Rising (ME04)": [
+   "esaurito",
+   1
+  ],
+  "Poketalk|Phantasmal Flames (ME02)": [
+   "esaurito",
+   1
+  ],
+  "Poketalk|Pokémon 151": [
+   "esaurito",
+   1
+  ],
+  "Poketalk|Prismatic Evolutions": [
+   "esaurito",
+   1
+  ],
+  "Poketalk|Crown Zenith": [
+   "esaurito",
+   1
+  ],
+  "Poketalk|Destined Rivals": [
+   "esaurito",
+   1
+  ],
+  "God of Cards|Pokémon 151": [
+   "listato",
+   1
+  ],
+  "God of Cards|Prismatic Evolutions": [
+   "listato",
+   1
+  ],
+  "God of Cards|Crown Zenith": [
+   "non listato",
+   1
+  ],
+  "God of Cards|Destined Rivals": [
+   "non listato",
+   1
+  ],
+  "SunnyStore|Pokémon 151": [
+   "listato",
+   1
+  ],
+  "SunnyStore|Crown Zenith": [
+   "listato",
+   1
+  ],
+  "SunnyStore|Destined Rivals": [
+   "esaurito",
+   1
+  ],
+  "Poke-Power|Destined Rivals": [
+   "esaurito",
+   1
+  ],
+  "Rogerz|Crown Zenith": [
+   "listato",
+   1
+  ],
+  "CardZone|Prismatic Evolutions": [
+   "listato",
+   1
+  ],
+  "CardZone|Crown Zenith": [
+   "listato",
+   1
+  ],
+  "CardZone|Destined Rivals": [
+   "listato",
+   1
+  ],
+  "Total Cards (UK)|Storm Emerald (ME06)": [
+   "listato",
+   1
+  ],
+  "Total Cards (UK)|Chaos Rising (ME04)": [
+   "esaurito",
+   1
+  ],
+  "Total Cards (UK)|Pokémon 151": [
+   "listato",
+   1
+  ],
+  "Total Cards (UK)|Prismatic Evolutions": [
+   "esaurito",
+   1
+  ],
+  "Total Cards (UK)|Crown Zenith": [
+   "esaurito",
+   1
+  ],
+  "Total Cards (UK)|Destined Rivals": [
+   "esaurito",
+   1
+  ],
+  "MistiCards|Pitch Black (ME05)": [
+   "non listato",
+   1
+  ],
+  "MistiCards|30th Celebration": [
+   "listato",
+   1
+  ],
+  "MistiCards|Premium Deck Espeon & Umbreon (30th)": [
+   "non listato",
+   1
+  ],
+  "MistiCards|Storm Emerald (ME06)": [
+   "non listato",
+   1
+  ],
+  "MistiCards|Chaos Rising (ME04)": [
+   "non listato",
+   1
+  ],
+  "MistiCards|Phantasmal Flames (ME02)": [
+   "non listato",
+   1
+  ],
+  "MistiCards|Pokémon 151": [
+   "non listato",
+   1
+  ],
+  "MistiCards|Prismatic Evolutions": [
+   "non listato",
    1
   ]
  },
@@ -1000,7 +1140,7 @@
   "Total Cards (UK)|30th Celebration": "https://totalcards.net/products/pokemon-30th-celebration-booster-bundle?_pos=2&_sid=904be7d3d&_ss=r",
   "Pokewoke|Pokémon 151": "https://pokewoke.store/?s=pokemon+151&post_type=product"
  },
- "digest_slot": "2026-07-12-18",
+ "digest_slot": "2026-07-12-22",
  "log": [
   {
    "ts": "05/07 19:55",
@@ -1109,7 +1249,7 @@
   "www.gamelife.it": 120,
   "pokeseller14.com": 120,
   "geco-shop.de": 120,
-  "www.chaoscards.co.uk": 119,
+  "www.chaoscards.co.uk": 120,
   "www.waylandgames.co.uk": 120,
   "www.firestormgames.co.uk": 120,
   "hobbykort.se": 120,
@@ -1131,20 +1271,14 @@
   "bescards.com": 26,
   "itcg.bg": 25,
   "pokeka.hu": 14,
-  "misticards.com": 12,
-  "www.poketalk.se": 12,
   "www.blackfire.eu": 9,
   "www.amazon.it": 8,
   "crispycards.de": 8,
   "cardcorner.at": 8,
   "pokeboxstore.pt": 8,
   "fabscards.at": 4,
-  "pokectcg.cz": 1,
-  "pokewoke.store": 1,
-  "tcgpikas.lt": 1,
-  "pokemonworld.lt": 1,
-  "sapphire-cards.de": 1,
-  "extremepokecorner.com": 1
+  "tcgdistribution.fr": 1,
+  "oppacards.com": 1
  },
- "runno": 1403
+ "runno": 1404
 }
