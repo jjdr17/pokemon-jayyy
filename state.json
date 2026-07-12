@@ -974,6 +974,14 @@
   "SunnyStore|Pokémon 151": [
    "listato",
    1
+  ],
+  "PokeCardShop|Pitch Black (ME05)": [
+   "listato",
+   1
+  ],
+  "PokeCardShop|Prismatic Evolutions": [
+   "listato",
+   1
   ]
  },
  "urls": {
@@ -1112,7 +1120,7 @@
   "www.chaoscards.co.uk": 121,
   "www.waylandgames.co.uk": 121,
   "www.firestormgames.co.uk": 122,
-  "hobbykort.se": 121,
+  "hobbykort.se": 122,
   "rarecards.nl": 121,
   "tcgcompany.nl": 121,
   "www.nerdom.gr": 121,
@@ -1140,5 +1148,5 @@
   "misticards.com": 4,
   "www.poketalk.se": 4
  },
- "runno": 1421
+ "runno": 1422
 }
