@@ -128,7 +128,7 @@
   "SunnyStore": {
    "Pitch Black (ME05)": "non listato",
    "30th Celebration": "listato",
-   "Storm Emerald (ME06)": "non listato",
+   "Storm Emerald (ME06)": "listato",
    "Chaos Rising (ME04)": "esaurito",
    "Phantasmal Flames (ME02)": "esaurito",
    "Pokémon 151": "esaurito",
@@ -813,7 +813,7 @@
    "Pitch Black (ME05)": "listato",
    "30th Celebration": "listato",
    "Storm Emerald (ME06)": "listato",
-   "Chaos Rising (ME04)": "listato",
+   "Chaos Rising (ME04)": "non listato",
    "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "non listato",
    "Prismatic Evolutions": "non listato",
@@ -976,8 +976,12 @@
    "listato",
    1
   ],
-  "LetsGoTry|Chaos Rising (ME04)": [
+  "SunnyStore|Storm Emerald (ME06)": [
    "non listato",
+   1
+  ],
+  "LetsGoTry|Chaos Rising (ME04)": [
+   "listato",
    1
   ]
  },
@@ -1143,7 +1147,7 @@
   "www.poketalk.se": 4,
   "www.amazon.it": 4,
   "pokeka.hu": 3,
-  "tcgdistribution.fr": 1
+  "games-island.eu": 1
  },
  "runno": 1268
 }
