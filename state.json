@@ -974,6 +974,18 @@
   "SunnyStore|Pokémon 151": [
    "listato",
    1
+  ],
+  "PokeCardShop|Prismatic Evolutions": [
+   "listato",
+   1
+  ],
+  "PokeCardShop|Crown Zenith": [
+   "esaurito",
+   1
+  ],
+  "LetsGoTry|Chaos Rising (ME04)": [
+   "non listato",
+   1
   ]
  },
  "urls": {
@@ -1111,7 +1123,7 @@
   "geco-shop.de": 120,
   "www.chaoscards.co.uk": 120,
   "www.waylandgames.co.uk": 120,
-  "www.firestormgames.co.uk": 120,
+  "www.firestormgames.co.uk": 121,
   "hobbykort.se": 120,
   "rarecards.nl": 120,
   "tcgcompany.nl": 120,
@@ -1119,7 +1131,7 @@
   "papelinho.pt": 120,
   "www.pokekarty.pl": 120,
   "www.wakuwaku.cz": 120,
-  "www.pokemonia.ro": 120,
+  "www.pokemonia.ro": 121,
   "en.tcg-shop.at": 120,
   "lorenzone.fr": 54,
   "www.deckshop.de": 46,
@@ -1138,8 +1150,7 @@
   "pokeboxstore.pt": 8,
   "fabscards.at": 4,
   "misticards.com": 3,
-  "www.poketalk.se": 3,
-  "oppacards.com": 1
+  "www.poketalk.se": 3
  },
- "runno": 1408
+ "runno": 1409
 }
