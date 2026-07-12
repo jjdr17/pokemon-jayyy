@@ -974,14 +974,6 @@
   "SunnyStore|Pokémon 151": [
    "listato",
    1
-  ],
-  "PokeCardShop|30th Celebration": [
-   "non listato",
-   1
-  ],
-  "LetsGoTry|Chaos Rising (ME04)": [
-   "non listato",
-   1
   ]
  },
  "urls": {
@@ -1112,19 +1104,19 @@
   }
  ],
  "down": {
-  "www.cardmarket.com": 121,
+  "www.cardmarket.com": 122,
   "www.gamestop.com": 84,
   "www.gamelife.it": 122,
   "pokeseller14.com": 122,
   "geco-shop.de": 122,
   "www.chaoscards.co.uk": 121,
-  "www.waylandgames.co.uk": 121,
+  "www.waylandgames.co.uk": 122,
   "www.firestormgames.co.uk": 122,
   "hobbykort.se": 122,
   "rarecards.nl": 121,
   "tcgcompany.nl": 122,
   "www.nerdom.gr": 121,
-  "papelinho.pt": 121,
+  "papelinho.pt": 122,
   "www.pokekarty.pl": 121,
   "www.wakuwaku.cz": 121,
   "www.pokemonia.ro": 122,
@@ -1137,15 +1129,22 @@
   "pokechest.at": 31,
   "tcgfanshop.nl": 30,
   "bescards.com": 28,
-  "itcg.bg": 26,
+  "itcg.bg": 27,
   "pokeka.hu": 16,
   "www.blackfire.eu": 11,
   "www.amazon.it": 10,
-  "crispycards.de": 9,
-  "cardcorner.at": 9,
+  "crispycards.de": 10,
+  "cardcorner.at": 10,
   "fabscards.at": 6,
   "misticards.com": 4,
-  "www.poketalk.se": 4
+  "www.poketalk.se": 4,
+  "pokectcg.cz": 1,
+  "pokewoke.store": 1,
+  "pokeboxstore.pt": 1,
+  "tcgpikas.lt": 1,
+  "pokemonworld.lt": 1,
+  "sapphire-cards.de": 1,
+  "extremepokecorner.com": 1
  },
- "runno": 1425
+ "runno": 1426
 }
