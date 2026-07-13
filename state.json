@@ -974,6 +974,10 @@
   "SunnyStore|Pokémon 151": [
    "esaurito",
    1
+  ],
+  "PokeCardShop|Pitch Black (ME05)": [
+   "listato",
+   1
   ]
  },
  "urls": {
@@ -1114,14 +1118,14 @@
   "www.firestormgames.co.uk": 132,
   "hobbykort.se": 132,
   "rarecards.nl": 131,
-  "tcgcompany.nl": 131,
+  "tcgcompany.nl": 132,
   "www.nerdom.gr": 131,
   "papelinho.pt": 131,
   "www.pokekarty.pl": 131,
   "www.wakuwaku.cz": 131,
   "www.pokemonia.ro": 132,
   "en.tcg-shop.at": 131,
-  "tcgstore.se": 53,
+  "tcgstore.se": 54,
   "pokevend.at": 51,
   "pokechest.at": 41,
   "bescards.com": 38,
@@ -1138,8 +1142,7 @@
   "pokeka.hu": 4,
   "www.blackfire.eu": 3,
   "pokeboxstore.pt": 3,
-  "www.amazon.it": 2,
-  "tcgdistribution.fr": 1
+  "www.amazon.it": 3
  },
- "runno": 1544
+ "runno": 1545
 }
