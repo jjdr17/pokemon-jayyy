@@ -970,68 +970,7 @@
   "Total Cards (UK)|Pitch Black (ME05)": "£4.79",
   "Stoyanov Games|Pitch Black (ME05)": "8.00€"
  },
- "pending": {
-  "Deckshop|Pitch Black (ME05)": [
-   "non listato",
-   1
-  ],
-  "Deckshop|30th Celebration": [
-   "non listato",
-   1
-  ],
-  "Deckshop|Premium Deck Espeon & Umbreon (30th)": [
-   "non listato",
-   1
-  ],
-  "Deckshop|Storm Emerald (ME06)": [
-   "non listato",
-   1
-  ],
-  "Deckshop|Chaos Rising (ME04)": [
-   "non listato",
-   1
-  ],
-  "Deckshop|Phantasmal Flames (ME02)": [
-   "non listato",
-   1
-  ],
-  "Deckshop|Pokémon 151": [
-   "listato",
-   1
-  ],
-  "Deckshop|Prismatic Evolutions": [
-   "non listato",
-   1
-  ],
-  "Deckshop|Crown Zenith": [
-   "non listato",
-   1
-  ],
-  "Deckshop|Destined Rivals": [
-   "non listato",
-   1
-  ],
-  "LetsGoTry|Chaos Rising (ME04)": [
-   "non listato",
-   1
-  ],
-  "Total Cards (UK)|Storm Emerald (ME06)": [
-   "listato",
-   1
-  ],
-  "Total Cards (UK)|Chaos Rising (ME04)": [
-   "esaurito",
-   1
-  ],
-  "Total Cards (UK)|Pokémon 151": [
-   "listato",
-   1
-  ],
-  "Total Cards (UK)|Prismatic Evolutions": [
-   "esaurito",
-   1
-  ]
- },
+ "pending": {},
  "urls": {
   "Rogerz|Pitch Black (ME05)": "https://rogerz.dk/search?q=pitch+black",
   "Packratt (UK)|Chaos Rising (ME04)": "https://packratt.co.uk/search?q=chaos+rising",
@@ -1165,7 +1104,7 @@
   "www.gamelife.it": 123,
   "pokeseller14.com": 123,
   "geco-shop.de": 123,
-  "www.chaoscards.co.uk": 122,
+  "www.chaoscards.co.uk": 123,
   "www.waylandgames.co.uk": 123,
   "www.firestormgames.co.uk": 123,
   "hobbykort.se": 123,
@@ -1178,6 +1117,7 @@
   "www.pokemonia.ro": 123,
   "en.tcg-shop.at": 122,
   "lorenzone.fr": 56,
+  "www.deckshop.de": 49,
   "www.pokemillon.com": 47,
   "tcgstore.se": 45,
   "pokevend.at": 42,
@@ -1191,18 +1131,18 @@
   "crispycards.de": 11,
   "cardcorner.at": 11,
   "fabscards.at": 7,
-  "misticards.com": 5,
-  "www.poketalk.se": 5,
+  "misticards.com": 6,
+  "www.poketalk.se": 6,
   "tradingcard.fi": 1,
-  "www.pokemons.dk": 1,
+  "pokectcg.cz": 1,
+  "pokewoke.store": 1,
   "pokeboxstore.pt": 1,
   "pikashop.pl": 1,
-  "cardzone.es": 1,
-  "rogerz.dk": 1,
-  "godofcards.com": 1,
-  "sunnystore.es": 1,
-  "poke-power.eu": 1,
-  "alldaytcg.com": 1
+  "www.pokemons.dk": 1,
+  "tcgpikas.lt": 1,
+  "pokemonworld.lt": 1,
+  "games-island.eu": 1,
+  "extremepokecorner.com": 1
  },
- "runno": 1439
+ "runno": 1440
 }
