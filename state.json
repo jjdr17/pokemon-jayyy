@@ -978,6 +978,10 @@
   "Amazon.it|Storm Emerald (ME06)": [
    "non listato",
    1
+  ],
+  "PokeCardShop|Chaos Rising (ME04)": [
+   "listato",
+   1
   ]
  },
  "urls": {
@@ -1108,19 +1112,19 @@
   }
  ],
  "down": {
-  "www.cardmarket.com": 130,
+  "www.cardmarket.com": 131,
   "www.gamestop.com": 84,
   "www.gamelife.it": 131,
   "pokeseller14.com": 131,
   "geco-shop.de": 131,
   "www.chaoscards.co.uk": 130,
-  "www.waylandgames.co.uk": 130,
+  "www.waylandgames.co.uk": 131,
   "www.firestormgames.co.uk": 131,
   "hobbykort.se": 131,
   "rarecards.nl": 130,
   "tcgcompany.nl": 131,
   "www.nerdom.gr": 130,
-  "papelinho.pt": 130,
+  "papelinho.pt": 131,
   "www.pokekarty.pl": 130,
   "www.wakuwaku.cz": 130,
   "www.pokemonia.ro": 131,
@@ -1129,10 +1133,10 @@
   "pokevend.at": 50,
   "pokechest.at": 40,
   "bescards.com": 37,
-  "itcg.bg": 35,
+  "itcg.bg": 36,
   "www.blackfire.eu": 20,
-  "crispycards.de": 18,
-  "cardcorner.at": 18,
+  "crispycards.de": 19,
+  "cardcorner.at": 19,
   "fabscards.at": 15,
   "misticards.com": 13,
   "www.poketalk.se": 13,
@@ -1141,7 +1145,8 @@
   "tradingcard.fi": 4,
   "www.pokemillon.com": 3,
   "lorenzone.fr": 3,
-  "pokeka.hu": 3
+  "pokeka.hu": 3,
+  "www.amazon.it": 1
  },
- "runno": 1533
+ "runno": 1534
 }
