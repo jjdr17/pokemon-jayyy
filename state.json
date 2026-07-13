@@ -26,7 +26,7 @@
   },
   "Amazon.it": {
    "30th Celebration": "non listato",
-   "Storm Emerald (ME06)": "listato",
+   "Storm Emerald (ME06)": "non listato",
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "TCGplayer": {
@@ -974,66 +974,6 @@
   "SunnyStore|Pokémon 151": [
    "esaurito",
    1
-  ],
-  "Amazon.it|Storm Emerald (ME06)": [
-   "non listato",
-   1
-  ],
-  "Poketalk|Pitch Black (ME05)": [
-   "listato",
-   1
-  ],
-  "Poketalk|30th Celebration": [
-   "non listato",
-   1
-  ],
-  "Poketalk|Premium Deck Espeon & Umbreon (30th)": [
-   "non listato",
-   1
-  ],
-  "Poketalk|Storm Emerald (ME06)": [
-   "listato",
-   1
-  ],
-  "Poketalk|Chaos Rising (ME04)": [
-   "esaurito",
-   1
-  ],
-  "Poketalk|Phantasmal Flames (ME02)": [
-   "esaurito",
-   1
-  ],
-  "Poketalk|Pokémon 151": [
-   "esaurito",
-   1
-  ],
-  "Poketalk|Prismatic Evolutions": [
-   "esaurito",
-   1
-  ],
-  "Poketalk|Crown Zenith": [
-   "esaurito",
-   1
-  ],
-  "Poketalk|Destined Rivals": [
-   "esaurito",
-   1
-  ],
-  "Total Cards (UK)|Storm Emerald (ME06)": [
-   "listato",
-   1
-  ],
-  "Total Cards (UK)|Chaos Rising (ME04)": [
-   "esaurito",
-   1
-  ],
-  "Total Cards (UK)|Pokémon 151": [
-   "listato",
-   1
-  ],
-  "MistiCards|Pitch Black (ME05)": [
-   "non listato",
-   1
   ]
  },
  "urls": {
@@ -1190,18 +1130,16 @@
   "crispycards.de": 19,
   "cardcorner.at": 19,
   "fabscards.at": 15,
+  "misticards.com": 14,
+  "www.poketalk.se": 14,
   "tcgfanshop.nl": 10,
   "www.deckshop.de": 7,
   "tradingcard.fi": 4,
   "www.pokemillon.com": 3,
   "lorenzone.fr": 3,
   "pokeka.hu": 3,
-  "www.amazon.it": 3,
-  "outpostbrussels.be": 2,
-  "godofcards.com": 1,
   "cardzone.es": 1,
-  "poke-power.eu": 1,
-  "rogerz.dk": 1
+  "godofcards.com": 1
  },
  "runno": 1536
 }
