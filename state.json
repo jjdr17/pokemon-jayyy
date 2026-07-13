@@ -131,7 +131,7 @@
    "Storm Emerald (ME06)": "listato",
    "Chaos Rising (ME04)": "esaurito",
    "Phantasmal Flames (ME02)": "esaurito",
-   "Pokémon 151": "listato",
+   "Pokémon 151": "esaurito",
    "Prismatic Evolutions": "esaurito",
    "Crown Zenith": "irraggiungibile",
    "Destined Rivals": "irraggiungibile",
@@ -971,11 +971,15 @@
   "Stoyanov Games|Pitch Black (ME05)": "8.00€"
  },
  "pending": {
-  "SunnyStore|Pokémon 151": [
-   "esaurito",
+  "Amazon.it|Storm Emerald (ME06)": [
+   "non listato",
    1
   ],
-  "Amazon.it|Storm Emerald (ME06)": [
+  "SunnyStore|Storm Emerald (ME06)": [
+   "non listato",
+   1
+  ],
+  "LetsGoTry|Chaos Rising (ME04)": [
    "non listato",
    1
   ]
@@ -1004,7 +1008,7 @@
   "Total Cards (UK)|30th Celebration": "https://totalcards.net/products/pokemon-30th-celebration-booster-bundle?_pos=2&_sid=904be7d3d&_ss=r",
   "Pokewoke|Pokémon 151": "https://pokewoke.store/?s=pokemon+151&post_type=product"
  },
- "digest_slot": "2026-07-13-18",
+ "digest_slot": "2026-07-13-22",
  "log": [
   {
    "ts": "05/07 19:55",
@@ -1128,7 +1132,7 @@
   "tcgstore.se": 57,
   "pokevend.at": 55,
   "pokechest.at": 45,
-  "bescards.com": 41,
+  "bescards.com": 42,
   "itcg.bg": 40,
   "crispycards.de": 23,
   "cardcorner.at": 23,
@@ -1143,7 +1147,10 @@
   "www.blackfire.eu": 7,
   "www.amazon.it": 4,
   "pokeboxstore.pt": 3,
-  "tcgdistribution.fr": 3
+  "tcgdistribution.fr": 3,
+  "alldaytcg.com": 1,
+  "rogerz.dk": 1,
+  "godofcards.com": 1
  },
- "runno": 1587
+ "runno": 1588
 }
