@@ -131,7 +131,7 @@
    "Storm Emerald (ME06)": "non listato",
    "Chaos Rising (ME04)": "esaurito",
    "Phantasmal Flames (ME02)": "esaurito",
-   "Pokémon 151": "esaurito",
+   "Pokémon 151": "listato",
    "Prismatic Evolutions": "esaurito",
    "Crown Zenith": "irraggiungibile",
    "Destined Rivals": "irraggiungibile",
@@ -971,8 +971,8 @@
   "Stoyanov Games|Pitch Black (ME05)": "8.00€"
  },
  "pending": {
-  "SunnyStore|Pokémon 151": [
-   "listato",
+  "LetsGoTry|Chaos Rising (ME04)": [
+   "non listato",
    1
   ]
  },
@@ -1106,9 +1106,9 @@
  "down": {
   "www.cardmarket.com": 122,
   "www.gamestop.com": 84,
-  "www.gamelife.it": 122,
-  "pokeseller14.com": 122,
-  "geco-shop.de": 122,
+  "www.gamelife.it": 123,
+  "pokeseller14.com": 123,
+  "geco-shop.de": 123,
   "www.chaoscards.co.uk": 122,
   "www.waylandgames.co.uk": 122,
   "www.firestormgames.co.uk": 123,
@@ -1132,12 +1132,12 @@
   "itcg.bg": 27,
   "pokeka.hu": 17,
   "www.blackfire.eu": 12,
-  "www.amazon.it": 10,
+  "www.amazon.it": 11,
   "crispycards.de": 10,
   "cardcorner.at": 10,
-  "fabscards.at": 6,
+  "fabscards.at": 7,
   "misticards.com": 5,
   "www.poketalk.se": 5
  },
- "runno": 1435
+ "runno": 1436
 }
