@@ -978,54 +978,6 @@
   "Amazon.it|Storm Emerald (ME06)": [
    "non listato",
    1
-  ],
-  "TCGStore.se|Pitch Black (ME05)": [
-   "non listato",
-   1
-  ],
-  "TCGStore.se|30th Celebration": [
-   "non listato",
-   1
-  ],
-  "TCGStore.se|Premium Deck Espeon & Umbreon (30th)": [
-   "non listato",
-   1
-  ],
-  "TCGStore.se|Storm Emerald (ME06)": [
-   "non listato",
-   1
-  ],
-  "TCGStore.se|Chaos Rising (ME04)": [
-   "listato",
-   1
-  ],
-  "TCGStore.se|Phantasmal Flames (ME02)": [
-   "non listato",
-   1
-  ],
-  "TCGStore.se|Pokémon 151": [
-   "listato",
-   1
-  ],
-  "TCGStore.se|Prismatic Evolutions": [
-   "listato",
-   1
-  ],
-  "TCGStore.se|Crown Zenith": [
-   "non listato",
-   1
-  ],
-  "TCGStore.se|Destined Rivals": [
-   "non listato",
-   1
-  ],
-  "Poke-Power|Destined Rivals": [
-   "esaurito",
-   1
-  ],
-  "CardZone|Pokémon 151": [
-   "listato",
-   1
   ]
  },
  "urls": {
@@ -1173,6 +1125,7 @@
   "www.wakuwaku.cz": 134,
   "www.pokemonia.ro": 135,
   "en.tcg-shop.at": 134,
+  "tcgstore.se": 57,
   "pokevend.at": 54,
   "pokechest.at": 44,
   "bescards.com": 41,
@@ -1190,7 +1143,9 @@
   "www.blackfire.eu": 6,
   "www.amazon.it": 4,
   "pokeboxstore.pt": 3,
-  "sunnystore.es": 1
+  "tcgdistribution.fr": 2,
+  "alldaytcg.com": 1,
+  "rogerz.dk": 1
  },
  "runno": 1581
 }
