@@ -131,7 +131,7 @@
    "Storm Emerald (ME06)": "listato",
    "Chaos Rising (ME04)": "esaurito",
    "Phantasmal Flames (ME02)": "esaurito",
-   "Pokémon 151": "esaurito",
+   "Pokémon 151": "listato",
    "Prismatic Evolutions": "esaurito",
    "Crown Zenith": "irraggiungibile",
    "Destined Rivals": "irraggiungibile",
@@ -971,15 +971,11 @@
   "Stoyanov Games|Pitch Black (ME05)": "8.00€"
  },
  "pending": {
+  "SunnyStore|Pokémon 151": [
+   "esaurito",
+   1
+  ],
   "Amazon.it|Storm Emerald (ME06)": [
-   "non listato",
-   1
-  ],
-  "SunnyStore|Storm Emerald (ME06)": [
-   "non listato",
-   1
-  ],
-  "LetsGoTry|Chaos Rising (ME04)": [
    "non listato",
    1
   ]
@@ -1148,9 +1144,8 @@
   "www.amazon.it": 4,
   "pokeboxstore.pt": 3,
   "tcgdistribution.fr": 3,
-  "alldaytcg.com": 1,
-  "rogerz.dk": 1,
-  "godofcards.com": 1
+  "totalcards.net": 1,
+  "rogerz.dk": 1
  },
  "runno": 1588
 }
