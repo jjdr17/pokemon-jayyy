@@ -978,22 +978,6 @@
   "Amazon.it|Storm Emerald (ME06)": [
    "listato",
    1
-  ],
-  "PokeCardShop|Pitch Black (ME05)": [
-   "non listato",
-   1
-  ],
-  "PokeCardShop|Phantasmal Flames (ME02)": [
-   "non listato",
-   1
-  ],
-  "PokeCardShop|Pokémon 151": [
-   "non listato",
-   1
-  ],
-  "PokeCardShop|Destined Rivals": [
-   "non listato",
-   1
   ]
  },
  "urls": {
@@ -1124,19 +1108,19 @@
   }
  ],
  "down": {
-  "www.cardmarket.com": 128,
+  "www.cardmarket.com": 129,
   "www.gamestop.com": 84,
   "www.gamelife.it": 129,
   "pokeseller14.com": 129,
   "geco-shop.de": 129,
   "www.chaoscards.co.uk": 128,
-  "www.waylandgames.co.uk": 128,
+  "www.waylandgames.co.uk": 129,
   "www.firestormgames.co.uk": 129,
   "hobbykort.se": 129,
   "rarecards.nl": 128,
   "tcgcompany.nl": 129,
   "www.nerdom.gr": 128,
-  "papelinho.pt": 128,
+  "papelinho.pt": 129,
   "www.pokekarty.pl": 128,
   "www.wakuwaku.cz": 128,
   "www.pokemonia.ro": 129,
@@ -1147,11 +1131,11 @@
   "pokevend.at": 48,
   "pokechest.at": 38,
   "bescards.com": 35,
-  "itcg.bg": 33,
+  "itcg.bg": 34,
   "pokeka.hu": 23,
   "www.blackfire.eu": 18,
-  "crispycards.de": 16,
-  "cardcorner.at": 16,
+  "crispycards.de": 17,
+  "cardcorner.at": 17,
   "fabscards.at": 13,
   "misticards.com": 11,
   "www.poketalk.se": 11,
@@ -1159,5 +1143,5 @@
   "www.deckshop.de": 4,
   "www.amazon.it": 4
  },
- "runno": 1509
+ "runno": 1510
 }
