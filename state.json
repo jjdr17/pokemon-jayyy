@@ -975,12 +975,8 @@
    "non listato",
    1
   ],
-  "TCGStore.se|Crown Zenith": [
-   "non listato",
-   1
-  ],
-  "PokeCardShop|Chaos Rising (ME04)": [
-   "listato",
+  "AllDayTCG|Pokémon 151": [
+   "esaurito",
    1
   ]
  },
@@ -1144,7 +1140,9 @@
   "www.amazon.it": 9,
   "www.deckshop.de": 4,
   "fabscards.at": 4,
-  "www.blackfire.eu": 3
+  "www.blackfire.eu": 3,
+  "tcgstore.se": 1,
+  "pokeboxstore.pt": 1
  },
  "runno": 1642
 }
