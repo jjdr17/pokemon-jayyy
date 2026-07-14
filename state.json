@@ -974,6 +974,10 @@
   "Amazon.it|Storm Emerald (ME06)": [
    "non listato",
    1
+  ],
+  "PokeCardShop|Phantasmal Flames (ME02)": [
+   "non listato",
+   1
   ]
  },
  "urls": {
@@ -1117,7 +1121,7 @@
   "tcgcompany.nl": 145,
   "www.nerdom.gr": 144,
   "papelinho.pt": 145,
-  "www.pokekarty.pl": 144,
+  "www.pokekarty.pl": 145,
   "www.wakuwaku.cz": 144,
   "www.pokemonia.ro": 145,
   "en.tcg-shop.at": 144,
@@ -1133,11 +1137,12 @@
   "www.pokemillon.com": 17,
   "lorenzone.fr": 17,
   "pokeka.hu": 17,
-  "www.deckshop.de": 9,
+  "www.deckshop.de": 10,
   "fabscards.at": 9,
   "www.blackfire.eu": 8,
   "tcgstore.se": 8,
-  "games-island.eu": 1
+  "www.amazon.it": 1,
+  "pokeboxstore.pt": 1
  },
- "runno": 1702
+ "runno": 1703
 }
