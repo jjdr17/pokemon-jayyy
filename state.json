@@ -974,6 +974,10 @@
   "Amazon.it|30th Celebration": [
    "listato",
    1
+  ],
+  "LetsGoTry|Chaos Rising (ME04)": [
+   "non listato",
+   1
   ]
  },
  "urls": {
@@ -1117,7 +1121,7 @@
   "tcgcompany.nl": 144,
   "www.nerdom.gr": 143,
   "papelinho.pt": 144,
-  "www.pokekarty.pl": 143,
+  "www.pokekarty.pl": 144,
   "www.wakuwaku.cz": 143,
   "www.pokemonia.ro": 144,
   "en.tcg-shop.at": 143,
@@ -1133,10 +1137,12 @@
   "www.pokemillon.com": 16,
   "lorenzone.fr": 16,
   "pokeka.hu": 16,
-  "www.deckshop.de": 8,
+  "www.deckshop.de": 9,
   "fabscards.at": 8,
   "www.blackfire.eu": 7,
-  "tcgstore.se": 7
+  "tcgstore.se": 7,
+  "www.amazon.it": 1,
+  "pokeboxstore.pt": 1
  },
- "runno": 1690
+ "runno": 1691
 }
