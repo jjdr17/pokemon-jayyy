@@ -970,7 +970,16 @@
   "Total Cards (UK)|Pitch Black (ME05)": "£4.79",
   "Stoyanov Games|Pitch Black (ME05)": "8.00€"
  },
- "pending": {},
+ "pending": {
+  "God of Cards|Pokémon 151": [
+   "listato",
+   1
+  ],
+  "LetsGoTry|Chaos Rising (ME04)": [
+   "non listato",
+   1
+  ]
+ },
  "urls": {
   "Rogerz|Pitch Black (ME05)": "https://rogerz.dk/search?q=pitch+black",
   "Packratt (UK)|Chaos Rising (ME04)": "https://packratt.co.uk/search?q=chaos+rising",
@@ -995,7 +1004,7 @@
   "Total Cards (UK)|30th Celebration": "https://totalcards.net/products/pokemon-30th-celebration-booster-bundle?_pos=2&_sid=904be7d3d&_ss=r",
   "Pokewoke|Pokémon 151": "https://pokewoke.store/?s=pokemon+151&post_type=product"
  },
- "digest_slot": "2026-07-14-15",
+ "digest_slot": "2026-07-14-18",
  "log": [
   {
    "ts": "05/07 19:55",
@@ -1108,15 +1117,15 @@
   "www.waylandgames.co.uk": 149,
   "www.firestormgames.co.uk": 149,
   "hobbykort.se": 149,
-  "rarecards.nl": 148,
+  "rarecards.nl": 149,
   "tcgcompany.nl": 149,
-  "www.nerdom.gr": 148,
+  "www.nerdom.gr": 149,
   "papelinho.pt": 149,
   "www.pokekarty.pl": 149,
   "www.wakuwaku.cz": 149,
   "www.pokemonia.ro": 149,
   "en.tcg-shop.at": 149,
-  "pokevend.at": 68,
+  "pokevend.at": 69,
   "pokechest.at": 59,
   "bescards.com": 55,
   "itcg.bg": 54,
@@ -1132,8 +1141,7 @@
   "fabscards.at": 13,
   "tcgstore.se": 12,
   "www.blackfire.eu": 4,
-  "www.amazon.it": 3,
-  "tcgdistribution.fr": 1
+  "www.amazon.it": 3
  },
- "runno": 1754
+ "runno": 1755
 }
