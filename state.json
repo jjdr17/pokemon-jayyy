@@ -95,7 +95,7 @@
    "Storm Emerald (ME06)": "listato",
    "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "esaurito",
-   "Pokémon 151": "listato",
+   "Pokémon 151": "esaurito",
    "Prismatic Evolutions": "esaurito",
    "Crown Zenith": "listato",
    "Destined Rivals": "listato",
@@ -975,7 +975,11 @@
    "listato",
    1
   ],
-  "LetsGoTry|Chaos Rising (ME04)": [
+  "AllDayTCG|Pokémon 151": [
+   "listato",
+   1
+  ],
+  "CardZone|Prismatic Evolutions": [
    "listato",
    1
   ]
