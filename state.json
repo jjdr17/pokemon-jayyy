@@ -813,7 +813,7 @@
    "Pitch Black (ME05)": "listato",
    "30th Celebration": "listato",
    "Storm Emerald (ME06)": "listato",
-   "Chaos Rising (ME04)": "listato",
+   "Chaos Rising (ME04)": "non listato",
    "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "non listato",
    "Prismatic Evolutions": "non listato",
@@ -977,6 +977,10 @@
   ],
   "AllDayTCG|Pokémon 151": [
    "listato",
+   1
+  ],
+  "PokeCardShop|30th Celebration": [
+   "non listato",
    1
   ]
  },
