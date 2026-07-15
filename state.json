@@ -813,7 +813,7 @@
    "Pitch Black (ME05)": "listato",
    "30th Celebration": "listato",
    "Storm Emerald (ME06)": "listato",
-   "Chaos Rising (ME04)": "non listato",
+   "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "non listato",
    "Prismatic Evolutions": "non listato",
@@ -975,7 +975,7 @@
    "listato",
    1
   ],
-  "LetsGoTry|Chaos Rising (ME04)": [
+  "PokeCardShop|Pitch Black (ME05)": [
    "listato",
    1
   ]
@@ -1004,7 +1004,7 @@
   "Total Cards (UK)|30th Celebration": "https://totalcards.net/products/pokemon-30th-celebration-booster-bundle?_pos=2&_sid=904be7d3d&_ss=r",
   "Pokewoke|Pokémon 151": "https://pokewoke.store/?s=pokemon+151&post_type=product"
  },
- "digest_slot": "2026-07-15-15",
+ "digest_slot": "2026-07-15-18",
  "log": [
   {
    "ts": "05/07 19:55",
@@ -1122,7 +1122,7 @@
   "www.nerdom.gr": 165,
   "papelinho.pt": 166,
   "www.pokekarty.pl": 166,
-  "www.wakuwaku.cz": 165,
+  "www.wakuwaku.cz": 166,
   "www.pokemonia.ro": 166,
   "en.tcg-shop.at": 166,
   "pokevend.at": 85,
@@ -1135,13 +1135,16 @@
   "fabscards.at": 30,
   "tcgstore.se": 29,
   "www.deckshop.de": 12,
-  "www.blackfire.eu": 8,
-  "www.pokemillon.com": 6,
-  "lorenzone.fr": 6,
-  "pokeka.hu": 6,
+  "www.blackfire.eu": 9,
+  "www.pokemillon.com": 7,
+  "lorenzone.fr": 7,
+  "pokeka.hu": 7,
   "www.amazon.it": 4,
   "misticards.com": 4,
-  "www.poketalk.se": 4
+  "www.poketalk.se": 4,
+  "tradingcard.fi": 1,
+  "www.pokemons.dk": 1,
+  "pikashop.pl": 1
  },
- "runno": 1957
+ "runno": 1958
 }
