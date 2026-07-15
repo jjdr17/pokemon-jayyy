@@ -978,10 +978,6 @@
   "AllDayTCG|Pokémon 151": [
    "listato",
    1
-  ],
-  "LetsGoTry|Chaos Rising (ME04)": [
-   "non listato",
-   1
   ]
  },
  "urls": {
@@ -1008,7 +1004,7 @@
   "Total Cards (UK)|30th Celebration": "https://totalcards.net/products/pokemon-30th-celebration-booster-bundle?_pos=2&_sid=904be7d3d&_ss=r",
   "Pokewoke|Pokémon 151": "https://pokewoke.store/?s=pokemon+151&post_type=product"
  },
- "digest_slot": "2026-07-15-10",
+ "digest_slot": "2026-07-15-15",
  "log": [
   {
    "ts": "05/07 19:55",
@@ -1121,15 +1117,15 @@
   "www.waylandgames.co.uk": 164,
   "www.firestormgames.co.uk": 164,
   "hobbykort.se": 164,
-  "rarecards.nl": 163,
+  "rarecards.nl": 164,
   "tcgcompany.nl": 164,
-  "www.nerdom.gr": 163,
+  "www.nerdom.gr": 164,
   "papelinho.pt": 164,
   "www.pokekarty.pl": 164,
   "www.wakuwaku.cz": 164,
   "www.pokemonia.ro": 164,
   "en.tcg-shop.at": 164,
-  "pokevend.at": 83,
+  "pokevend.at": 84,
   "pokechest.at": 74,
   "bescards.com": 70,
   "itcg.bg": 69,
@@ -1145,7 +1141,11 @@
   "www.amazon.it": 5,
   "www.pokemillon.com": 5,
   "lorenzone.fr": 5,
-  "pokeka.hu": 5
+  "pokeka.hu": 5,
+  "tradingcard.fi": 1,
+  "www.pokemons.dk": 1,
+  "pokeboxstore.pt": 1,
+  "pikashop.pl": 1
  },
- "runno": 1934
+ "runno": 1935
 }
