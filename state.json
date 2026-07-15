@@ -95,7 +95,7 @@
    "Storm Emerald (ME06)": "listato",
    "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "esaurito",
-   "Pokémon 151": "esaurito",
+   "Pokémon 151": "listato",
    "Prismatic Evolutions": "esaurito",
    "Crown Zenith": "listato",
    "Destined Rivals": "listato",
@@ -975,8 +975,132 @@
    "listato",
    1
   ],
-  "AllDayTCG|Pokémon 151": [
+  "OutpostBrussels|Prismatic Evolutions": [
+   "esaurito",
+   1
+  ],
+  "OutpostBrussels|Crown Zenith": [
    "listato",
+   1
+  ],
+  "OutpostBrussels|Destined Rivals": [
+   "esaurito",
+   1
+  ],
+  "SunnyStore|Crown Zenith": [
+   "listato",
+   1
+  ],
+  "SunnyStore|Destined Rivals": [
+   "esaurito",
+   1
+  ],
+  "Poke-Power|Destined Rivals": [
+   "esaurito",
+   1
+  ],
+  "Rogerz|Crown Zenith": [
+   "listato",
+   1
+  ],
+  "CardZone|Prismatic Evolutions": [
+   "listato",
+   1
+  ],
+  "CardZone|Crown Zenith": [
+   "listato",
+   1
+  ],
+  "CardZone|Destined Rivals": [
+   "listato",
+   1
+  ],
+  "God of Cards|Pokémon 151": [
+   "listato",
+   1
+  ],
+  "God of Cards|Prismatic Evolutions": [
+   "listato",
+   1
+  ],
+  "God of Cards|Crown Zenith": [
+   "non listato",
+   1
+  ],
+  "God of Cards|Destined Rivals": [
+   "non listato",
+   1
+  ],
+  "Total Cards (UK)|Storm Emerald (ME06)": [
+   "listato",
+   1
+  ],
+  "Total Cards (UK)|Chaos Rising (ME04)": [
+   "esaurito",
+   1
+  ],
+  "Total Cards (UK)|Pokémon 151": [
+   "listato",
+   1
+  ],
+  "Total Cards (UK)|Prismatic Evolutions": [
+   "esaurito",
+   1
+  ],
+  "Total Cards (UK)|Crown Zenith": [
+   "esaurito",
+   1
+  ],
+  "Total Cards (UK)|Destined Rivals": [
+   "esaurito",
+   1
+  ],
+  "TCGStore.se|Pitch Black (ME05)": [
+   "non listato",
+   1
+  ],
+  "TCGStore.se|30th Celebration": [
+   "non listato",
+   1
+  ],
+  "TCGStore.se|Premium Deck Espeon & Umbreon (30th)": [
+   "non listato",
+   1
+  ],
+  "TCGStore.se|Storm Emerald (ME06)": [
+   "non listato",
+   1
+  ],
+  "TCGStore.se|Chaos Rising (ME04)": [
+   "listato",
+   1
+  ],
+  "TCGStore.se|Phantasmal Flames (ME02)": [
+   "non listato",
+   1
+  ],
+  "TCGStore.se|Pokémon 151": [
+   "listato",
+   1
+  ],
+  "TCGStore.se|Prismatic Evolutions": [
+   "listato",
+   1
+  ],
+  "TCGStore.se|Crown Zenith": [
+   "non listato",
+   1
+  ],
+  "TCGStore.se|Destined Rivals": [
+   "non listato",
+   1
+  ],
+  "PokeCardShop|Chaos Rising (ME04)": [
+   "esaurito",
+   1
+  ],
+  "LetsGoTry|Chaos Rising (ME04)": [
+   "non listato",
    1
   ]
  },
@@ -1118,7 +1242,7 @@
   "www.firestormgames.co.uk": 163,
   "hobbykort.se": 163,
   "rarecards.nl": 162,
-  "tcgcompany.nl": 162,
+  "tcgcompany.nl": 163,
   "www.nerdom.gr": 162,
   "papelinho.pt": 162,
   "www.pokekarty.pl": 162,
@@ -1133,7 +1257,6 @@
   "cardcorner.at": 50,
   "tcgfanshop.nl": 42,
   "fabscards.at": 27,
-  "tcgstore.se": 25,
   "www.deckshop.de": 8,
   "misticards.com": 6,
   "www.poketalk.se": 6,
@@ -1141,7 +1264,8 @@
   "www.amazon.it": 4,
   "www.pokemillon.com": 3,
   "lorenzone.fr": 3,
-  "pokeka.hu": 3
+  "pokeka.hu": 3,
+  "pokemania.ro": 1
  },
- "runno": 1916
+ "runno": 1917
 }
