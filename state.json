@@ -95,7 +95,7 @@
    "Storm Emerald (ME06)": "listato",
    "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "esaurito",
-   "Pokémon 151": "esaurito",
+   "Pokémon 151": "listato",
    "Prismatic Evolutions": "esaurito",
    "Crown Zenith": "listato",
    "Destined Rivals": "listato",
@@ -975,12 +975,8 @@
    "listato",
    1
   ],
-  "AllDayTCG|Pokémon 151": [
+  "LetsGoTry|Chaos Rising (ME04)": [
    "listato",
-   1
-  ],
-  "PokeCardShop|30th Celebration": [
-   "non listato",
    1
   ]
  },
@@ -1131,7 +1127,7 @@
   "en.tcg-shop.at": 163,
   "pokevend.at": 83,
   "pokechest.at": 73,
-  "bescards.com": 69,
+  "bescards.com": 70,
   "itcg.bg": 68,
   "crispycards.de": 51,
   "cardcorner.at": 51,
@@ -1147,5 +1143,5 @@
   "lorenzone.fr": 4,
   "pokeka.hu": 4
  },
- "runno": 1923
+ "runno": 1924
 }
