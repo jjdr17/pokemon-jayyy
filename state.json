@@ -154,7 +154,7 @@
    "30th Celebration": "non listato",
    "Storm Emerald (ME06)": "non listato",
    "Chaos Rising (ME04)": "non listato",
-   "Phantasmal Flames (ME02)": "non listato",
+   "Phantasmal Flames (ME02)": "listato",
    "Pokémon 151": "irraggiungibile",
    "Prismatic Evolutions": "irraggiungibile",
    "Crown Zenith": "irraggiungibile",
@@ -971,12 +971,212 @@
   "Stoyanov Games|Pitch Black (ME05)": "8.00€"
  },
  "pending": {
-  "God of Cards|Phantasmal Flames (ME02)": [
+  "Amazon.it|Storm Emerald (ME06)": [
    "listato",
    1
   ],
-  "LetsGoTry|Chaos Rising (ME04)": [
+  "AllDayTCG|Pokémon 151": [
    "listato",
+   1
+  ],
+  "SunnyStore|Crown Zenith": [
+   "listato",
+   1
+  ],
+  "SunnyStore|Destined Rivals": [
+   "esaurito",
+   1
+  ],
+  "OutpostBrussels|Prismatic Evolutions": [
+   "esaurito",
+   1
+  ],
+  "OutpostBrussels|Crown Zenith": [
+   "listato",
+   1
+  ],
+  "OutpostBrussels|Destined Rivals": [
+   "esaurito",
+   1
+  ],
+  "Poke-Power|Destined Rivals": [
+   "esaurito",
+   1
+  ],
+  "CardZone|Prismatic Evolutions": [
+   "listato",
+   1
+  ],
+  "CardZone|Crown Zenith": [
+   "listato",
+   1
+  ],
+  "CardZone|Destined Rivals": [
+   "listato",
+   1
+  ],
+  "Rogerz|Crown Zenith": [
+   "listato",
+   1
+  ],
+  "God of Cards|Pokémon 151": [
+   "listato",
+   1
+  ],
+  "God of Cards|Prismatic Evolutions": [
+   "listato",
+   1
+  ],
+  "God of Cards|Crown Zenith": [
+   "non listato",
+   1
+  ],
+  "God of Cards|Destined Rivals": [
+   "non listato",
+   1
+  ],
+  "Total Cards (UK)|Storm Emerald (ME06)": [
+   "listato",
+   1
+  ],
+  "Total Cards (UK)|Chaos Rising (ME04)": [
+   "esaurito",
+   1
+  ],
+  "Total Cards (UK)|Pokémon 151": [
+   "listato",
+   1
+  ],
+  "Total Cards (UK)|Prismatic Evolutions": [
+   "esaurito",
+   1
+  ],
+  "Total Cards (UK)|Crown Zenith": [
+   "esaurito",
+   1
+  ],
+  "Total Cards (UK)|Destined Rivals": [
+   "esaurito",
+   1
+  ],
+  "Pokemillon|Pitch Black (ME05)": [
+   "non listato",
+   1
+  ],
+  "Pokemillon|30th Celebration": [
+   "listato",
+   1
+  ],
+  "Pokemillon|Premium Deck Espeon & Umbreon (30th)": [
+   "non listato",
+   1
+  ],
+  "Pokemillon|Storm Emerald (ME06)": [
+   "listato",
+   1
+  ],
+  "Pokemillon|Chaos Rising (ME04)": [
+   "listato",
+   1
+  ],
+  "Pokemillon|Phantasmal Flames (ME02)": [
+   "listato",
+   1
+  ],
+  "Pokemillon|Pokémon 151": [
+   "non listato",
+   1
+  ],
+  "Pokemillon|Prismatic Evolutions": [
+   "non listato",
+   1
+  ],
+  "Pokemillon|Crown Zenith": [
+   "non listato",
+   1
+  ],
+  "Pokemillon|Destined Rivals": [
+   "non listato",
+   1
+  ],
+  "LorenZone|Pitch Black (ME05)": [
+   "non listato",
+   1
+  ],
+  "LorenZone|30th Celebration": [
+   "non listato",
+   1
+  ],
+  "LorenZone|Premium Deck Espeon & Umbreon (30th)": [
+   "non listato",
+   1
+  ],
+  "LorenZone|Storm Emerald (ME06)": [
+   "non listato",
+   1
+  ],
+  "LorenZone|Chaos Rising (ME04)": [
+   "non listato",
+   1
+  ],
+  "LorenZone|Phantasmal Flames (ME02)": [
+   "non listato",
+   1
+  ],
+  "LorenZone|Pokémon 151": [
+   "non listato",
+   1
+  ],
+  "LorenZone|Prismatic Evolutions": [
+   "non listato",
+   1
+  ],
+  "LorenZone|Crown Zenith": [
+   "non listato",
+   1
+  ],
+  "LorenZone|Destined Rivals": [
+   "non listato",
+   1
+  ],
+  "Pokeka.hu|Pitch Black (ME05)": [
+   "non listato",
+   1
+  ],
+  "Pokeka.hu|30th Celebration": [
+   "non listato",
+   1
+  ],
+  "Pokeka.hu|Premium Deck Espeon & Umbreon (30th)": [
+   "non listato",
+   1
+  ],
+  "Pokeka.hu|Storm Emerald (ME06)": [
+   "non listato",
+   1
+  ],
+  "Pokeka.hu|Chaos Rising (ME04)": [
+   "non listato",
+   1
+  ],
+  "Pokeka.hu|Phantasmal Flames (ME02)": [
+   "non listato",
+   1
+  ],
+  "Pokeka.hu|Pokémon 151": [
+   "non listato",
+   1
+  ],
+  "Pokeka.hu|Prismatic Evolutions": [
+   "non listato",
+   1
+  ],
+  "Pokeka.hu|Crown Zenith": [
+   "non listato",
+   1
+  ],
+  "Pokeka.hu|Destined Rivals": [
+   "non listato",
    1
   ]
  },
@@ -1132,16 +1332,12 @@
   "crispycards.de": 50,
   "cardcorner.at": 50,
   "tcgfanshop.nl": 42,
-  "www.pokemillon.com": 35,
-  "lorenzone.fr": 35,
-  "pokeka.hu": 35,
   "fabscards.at": 26,
   "tcgstore.se": 25,
   "www.deckshop.de": 8,
   "misticards.com": 6,
   "www.poketalk.se": 6,
-  "www.butticards.at": 1,
-  "oppacards.com": 1
+  "www.blackfire.eu": 5
  },
  "runno": 1910
 }
