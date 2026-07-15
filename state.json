@@ -973,6 +973,14 @@
   "CardZone|Pokémon 151": [
    "listato",
    1
+  ],
+  "PokeCardShop|Crown Zenith": [
+   "listato",
+   1
+  ],
+  "LetsGoTry|Chaos Rising (ME04)": [
+   "non listato",
+   1
   ]
  },
  "urls": {
@@ -1117,7 +1125,7 @@
   "www.nerdom.gr": 171,
   "papelinho.pt": 172,
   "www.pokekarty.pl": 172,
-  "www.wakuwaku.cz": 171,
+  "www.wakuwaku.cz": 172,
   "www.pokemonia.ro": 172,
   "en.tcg-shop.at": 172,
   "pokevend.at": 91,
@@ -1132,11 +1140,10 @@
   "www.deckshop.de": 18,
   "misticards.com": 10,
   "www.poketalk.se": 10,
-  "www.blackfire.eu": 7,
-  "www.pokemillon.com": 4,
-  "lorenzone.fr": 4,
-  "pokeka.hu": 4,
+  "www.pokemillon.com": 5,
+  "lorenzone.fr": 5,
+  "pokeka.hu": 5,
   "www.amazon.it": 4
  },
- "runno": 2029
+ "runno": 2030
 }
