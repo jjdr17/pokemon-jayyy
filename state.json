@@ -26,7 +26,7 @@
   },
   "Amazon.it": {
    "30th Celebration": "non listato",
-   "Storm Emerald (ME06)": "listato",
+   "Storm Emerald (ME06)": "non listato",
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "TCGplayer": {
@@ -971,11 +971,11 @@
   "Stoyanov Games|Pitch Black (ME05)": "8.00€"
  },
  "pending": {
-  "AllDayTCG|Pokémon 151": [
+  "Amazon.it|Storm Emerald (ME06)": [
    "listato",
    1
   ],
-  "Amazon.it|30th Celebration": [
+  "AllDayTCG|Pokémon 151": [
    "listato",
    1
   ]
@@ -1141,7 +1141,8 @@
   "www.pokemillon.com": 5,
   "lorenzone.fr": 5,
   "pokeka.hu": 5,
-  "pokeboxstore.pt": 2
+  "tcgdistribution.fr": 2,
+  "www.amazon.it": 1
  },
  "runno": 1941
 }
