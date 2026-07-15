@@ -969,7 +969,12 @@
   "Total Cards (UK)|Pitch Black (ME05)": "£4.79",
   "Stoyanov Games|Pitch Black (ME05)": "8.00€"
  },
- "pending": {},
+ "pending": {
+  "LetsGoTry|Chaos Rising (ME04)": [
+   "listato",
+   1
+  ]
+ },
  "urls": {
   "Rogerz|Pitch Black (ME05)": "https://rogerz.dk/search?q=pitch+black",
   "Packratt (UK)|Chaos Rising (ME04)": "https://packratt.co.uk/search?q=chaos+rising",
@@ -994,7 +999,7 @@
   "Total Cards (UK)|30th Celebration": "https://totalcards.net/products/pokemon-30th-celebration-booster-bundle?_pos=2&_sid=904be7d3d&_ss=r",
   "Pokewoke|Pokémon 151": "https://pokewoke.store/?s=pokemon+151&post_type=product"
  },
- "digest_slot": "2026-07-15-18",
+ "digest_slot": "2026-07-15-22",
  "log": [
   {
    "ts": "05/07 19:55",
@@ -1103,7 +1108,7 @@
   "www.gamelife.it": 169,
   "pokeseller14.com": 169,
   "geco-shop.de": 169,
-  "www.chaoscards.co.uk": 168,
+  "www.chaoscards.co.uk": 169,
   "www.waylandgames.co.uk": 169,
   "www.firestormgames.co.uk": 169,
   "hobbykort.se": 169,
@@ -1128,11 +1133,12 @@
   "www.pokemillon.com": 9,
   "lorenzone.fr": 9,
   "pokeka.hu": 9,
-  "misticards.com": 6,
-  "www.poketalk.se": 6,
+  "misticards.com": 7,
+  "www.poketalk.se": 7,
   "www.blackfire.eu": 4,
   "pokeboxstore.pt": 4,
-  "www.amazon.it": 2
+  "www.amazon.it": 3,
+  "alldaytcg.com": 1
  },
- "runno": 1991
+ "runno": 1992
 }
