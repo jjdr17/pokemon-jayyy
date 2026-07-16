@@ -973,6 +973,10 @@
   "CardZone|Pokémon 151": [
    "listato",
    1
+  ],
+  "LetsGoTry|Chaos Rising (ME04)": [
+   "non listato",
+   1
   ]
  },
  "urls": {
@@ -997,7 +1001,8 @@
   "SunnyStore|Pokémon 151": "https://sunnystore.es/search?q=pokemon+151",
   "Total Cards (UK)|Pitch Black (ME05)": "https://totalcards.net/products/ultra-pro-pokemon-mega-evolution-pitch-black-9-pocket-portfolio?_pos=1&_sid=f90e20df9&_ss=r",
   "Total Cards (UK)|30th Celebration": "https://totalcards.net/products/pokemon-30th-celebration-booster-bundle?_pos=2&_sid=904be7d3d&_ss=r",
-  "Pokewoke|Pokémon 151": "https://pokewoke.store/?s=pokemon+151&post_type=product"
+  "Pokewoke|Pokémon 151": "https://pokewoke.store/?s=pokemon+151&post_type=product",
+  "Pokecollect|Pitch Black (ME05)": "https://pokecollect.pl/?s=pitch+black&post_type=product"
  },
  "digest_slot": "2026-07-16-10",
  "log": [
@@ -1113,7 +1118,7 @@
   "www.firestormgames.co.uk": 179,
   "hobbykort.se": 179,
   "rarecards.nl": 178,
-  "tcgcompany.nl": 178,
+  "tcgcompany.nl": 179,
   "www.nerdom.gr": 178,
   "papelinho.pt": 178,
   "www.pokekarty.pl": 178,
@@ -1127,7 +1132,7 @@
   "crispycards.de": 66,
   "cardcorner.at": 66,
   "tcgfanshop.nl": 58,
-  "tcgstore.se": 41,
+  "tcgstore.se": 42,
   "www.deckshop.de": 24,
   "misticards.com": 16,
   "www.poketalk.se": 16,
@@ -1136,12 +1141,7 @@
   "pokeka.hu": 11,
   "fabscards.at": 7,
   "www.amazon.it": 5,
-  "www.blackfire.eu": 3,
-  "tradingcard.fi": 1,
-  "www.pokemons.dk": 1,
-  "pikashop.pl": 1,
-  "games-island.eu": 1,
-  "letsgotry.pl": 1
+  "www.blackfire.eu": 3
  },
- "runno": 2108
+ "runno": 2109
 }
