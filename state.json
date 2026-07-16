@@ -973,6 +973,10 @@
   "CardZone|Pokémon 151": [
    "listato",
    1
+  ],
+  "PokeCardShop|Crown Zenith": [
+   "listato",
+   1
   ]
  },
  "urls": {
@@ -1119,14 +1123,14 @@
   "www.pokekarty.pl": 178,
   "www.wakuwaku.cz": 177,
   "www.pokemonia.ro": 178,
-  "en.tcg-shop.at": 177,
+  "en.tcg-shop.at": 178,
   "pokevend.at": 97,
-  "pokechest.at": 87,
+  "pokechest.at": 88,
   "bescards.com": 84,
   "itcg.bg": 83,
   "crispycards.de": 66,
   "cardcorner.at": 66,
-  "tcgfanshop.nl": 57,
+  "tcgfanshop.nl": 58,
   "tcgstore.se": 41,
   "www.deckshop.de": 24,
   "misticards.com": 16,
@@ -1136,7 +1140,8 @@
   "pokeka.hu": 10,
   "fabscards.at": 6,
   "www.blackfire.eu": 3,
-  "www.amazon.it": 4
+  "www.amazon.it": 4,
+  "letsgotry.pl": 1
  },
- "runno": 2100
+ "runno": 2101
 }
