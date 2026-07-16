@@ -86,7 +86,7 @@
    "Pokémon 151": "esaurito",
    "Prismatic Evolutions": "esaurito",
    "Crown Zenith": "esaurito",
-   "Destined Rivals": "esaurito",
+   "Destined Rivals": "irraggiungibile",
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "AllDayTCG": {
@@ -108,9 +108,9 @@
    "Chaos Rising (ME04)": "esaurito",
    "Phantasmal Flames (ME02)": "esaurito",
    "Pokémon 151": "listato",
-   "Prismatic Evolutions": "esaurito",
-   "Crown Zenith": "listato",
-   "Destined Rivals": "esaurito",
+   "Prismatic Evolutions": "irraggiungibile",
+   "Crown Zenith": "irraggiungibile",
+   "Destined Rivals": "irraggiungibile",
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "CardZone": {
@@ -120,9 +120,9 @@
    "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "listato",
    "Pokémon 151": "listato",
-   "Prismatic Evolutions": "listato",
-   "Crown Zenith": "listato",
-   "Destined Rivals": "listato",
+   "Prismatic Evolutions": "irraggiungibile",
+   "Crown Zenith": "irraggiungibile",
+   "Destined Rivals": "irraggiungibile",
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "SunnyStore": {
@@ -133,8 +133,8 @@
    "Phantasmal Flames (ME02)": "esaurito",
    "Pokémon 151": "esaurito",
    "Prismatic Evolutions": "esaurito",
-   "Crown Zenith": "listato",
-   "Destined Rivals": "esaurito",
+   "Crown Zenith": "irraggiungibile",
+   "Destined Rivals": "irraggiungibile",
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "Rogerz": {
@@ -145,7 +145,7 @@
    "Phantasmal Flames (ME02)": "listato",
    "Pokémon 151": "listato",
    "Prismatic Evolutions": "listato",
-   "Crown Zenith": "listato",
+   "Crown Zenith": "irraggiungibile",
    "Destined Rivals": "listato",
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
@@ -156,9 +156,9 @@
    "Chaos Rising (ME04)": "non listato",
    "Phantasmal Flames (ME02)": "listato",
    "Pokémon 151": "irraggiungibile",
-   "Prismatic Evolutions": "listato",
-   "Crown Zenith": "non listato",
-   "Destined Rivals": "non listato",
+   "Prismatic Evolutions": "irraggiungibile",
+   "Crown Zenith": "irraggiungibile",
+   "Destined Rivals": "irraggiungibile",
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "eFantasy": {
@@ -212,13 +212,13 @@
   "Total Cards (UK)": {
    "Pitch Black (ME05)": "esaurito",
    "30th Celebration": "listato",
-   "Storm Emerald (ME06)": "listato",
-   "Chaos Rising (ME04)": "esaurito",
+   "Storm Emerald (ME06)": "irraggiungibile",
+   "Chaos Rising (ME04)": "irraggiungibile",
    "Phantasmal Flames (ME02)": "esaurito",
    "Pokémon 151": "irraggiungibile",
    "Prismatic Evolutions": "irraggiungibile",
-   "Crown Zenith": "esaurito",
-   "Destined Rivals": "esaurito",
+   "Crown Zenith": "irraggiungibile",
+   "Destined Rivals": "irraggiungibile",
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "Wayland Games (UK)": {
@@ -258,16 +258,16 @@
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "Deckshop": {
-   "Pitch Black (ME05)": "non listato",
-   "30th Celebration": "non listato",
-   "Storm Emerald (ME06)": "non listato",
-   "Chaos Rising (ME04)": "non listato",
-   "Phantasmal Flames (ME02)": "non listato",
-   "Pokémon 151": "listato",
-   "Prismatic Evolutions": "non listato",
-   "Crown Zenith": "non listato",
-   "Destined Rivals": "non listato",
-   "Premium Deck Espeon & Umbreon (30th)": "non listato"
+   "Pitch Black (ME05)": "irraggiungibile",
+   "30th Celebration": "irraggiungibile",
+   "Storm Emerald (ME06)": "irraggiungibile",
+   "Chaos Rising (ME04)": "irraggiungibile",
+   "Phantasmal Flames (ME02)": "irraggiungibile",
+   "Pokémon 151": "irraggiungibile",
+   "Prismatic Evolutions": "irraggiungibile",
+   "Crown Zenith": "irraggiungibile",
+   "Destined Rivals": "irraggiungibile",
+   "Premium Deck Espeon & Umbreon (30th)": "irraggiungibile"
   },
   "Fabscards": {
    "Pitch Black (ME05)": "irraggiungibile",
@@ -970,100 +970,7 @@
   "Total Cards (UK)|Pitch Black (ME05)": "£4.79",
   "Stoyanov Games|Pitch Black (ME05)": "8.00€"
  },
- "pending": {
-  "Poketalk|Pitch Black (ME05)": [
-   "listato",
-   1
-  ],
-  "Poketalk|30th Celebration": [
-   "non listato",
-   1
-  ],
-  "Poketalk|Premium Deck Espeon & Umbreon (30th)": [
-   "non listato",
-   1
-  ],
-  "Poketalk|Storm Emerald (ME06)": [
-   "listato",
-   1
-  ],
-  "Poketalk|Chaos Rising (ME04)": [
-   "esaurito",
-   1
-  ],
-  "Poketalk|Phantasmal Flames (ME02)": [
-   "esaurito",
-   1
-  ],
-  "Poketalk|Pokémon 151": [
-   "listato",
-   1
-  ],
-  "Poketalk|Prismatic Evolutions": [
-   "esaurito",
-   1
-  ],
-  "Poketalk|Crown Zenith": [
-   "esaurito",
-   1
-  ],
-  "Poketalk|Destined Rivals": [
-   "esaurito",
-   1
-  ],
-  "Total Cards (UK)|Pokémon 151": [
-   "listato",
-   1
-  ],
-  "Total Cards (UK)|Prismatic Evolutions": [
-   "esaurito",
-   1
-  ],
-  "MistiCards|Pitch Black (ME05)": [
-   "non listato",
-   1
-  ],
-  "MistiCards|30th Celebration": [
-   "listato",
-   1
-  ],
-  "MistiCards|Premium Deck Espeon & Umbreon (30th)": [
-   "non listato",
-   1
-  ],
-  "MistiCards|Storm Emerald (ME06)": [
-   "non listato",
-   1
-  ],
-  "MistiCards|Chaos Rising (ME04)": [
-   "non listato",
-   1
-  ],
-  "MistiCards|Phantasmal Flames (ME02)": [
-   "non listato",
-   1
-  ],
-  "MistiCards|Pokémon 151": [
-   "non listato",
-   1
-  ],
-  "MistiCards|Prismatic Evolutions": [
-   "non listato",
-   1
-  ],
-  "MistiCards|Crown Zenith": [
-   "non listato",
-   1
-  ],
-  "MistiCards|Destined Rivals": [
-   "non listato",
-   1
-  ],
-  "God of Cards|Pokémon 151": [
-   "listato",
-   1
-  ]
- },
+ "pending": {},
  "urls": {
   "Rogerz|Pitch Black (ME05)": "https://rogerz.dk/search?q=pitch+black",
   "Packratt (UK)|Chaos Rising (ME04)": "https://packratt.co.uk/search?q=chaos+rising",
@@ -1218,11 +1125,14 @@
   "cardcorner.at": 76,
   "tcgfanshop.nl": 67,
   "tcgstore.se": 51,
+  "misticards.com": 26,
+  "www.poketalk.se": 26,
   "lorenzone.fr": 20,
   "pokeka.hu": 20,
   "fabscards.at": 16,
   "www.amazon.it": 10,
   "www.pokemillon.com": 9,
+  "www.deckshop.de": 6,
   "www.blackfire.eu": 4
  },
  "runno": 2220
