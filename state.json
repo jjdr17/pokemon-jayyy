@@ -522,16 +522,16 @@
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "Papelinho": {
-   "Pitch Black (ME05)": "irraggiungibile",
-   "30th Celebration": "irraggiungibile",
-   "Storm Emerald (ME06)": "irraggiungibile",
-   "Chaos Rising (ME04)": "irraggiungibile",
-   "Phantasmal Flames (ME02)": "irraggiungibile",
-   "Pokémon 151": "irraggiungibile",
-   "Prismatic Evolutions": "irraggiungibile",
-   "Crown Zenith": "irraggiungibile",
-   "Destined Rivals": "irraggiungibile",
-   "Premium Deck Espeon & Umbreon (30th)": "irraggiungibile"
+   "Pitch Black (ME05)": "non listato",
+   "30th Celebration": "non listato",
+   "Storm Emerald (ME06)": "non listato",
+   "Chaos Rising (ME04)": "non listato",
+   "Phantasmal Flames (ME02)": "non listato",
+   "Pokémon 151": "non listato",
+   "Prismatic Evolutions": "non listato",
+   "Crown Zenith": "non listato",
+   "Destined Rivals": "non listato",
+   "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "Pokipair": {
    "Pitch Black (ME05)": "listato",
@@ -971,44 +971,8 @@
   "Stoyanov Games|Pitch Black (ME05)": "8.00€"
  },
  "pending": {
-  "Papelinho|Pitch Black (ME05)": [
-   "non listato",
-   1
-  ],
-  "Papelinho|30th Celebration": [
-   "non listato",
-   1
-  ],
-  "Papelinho|Premium Deck Espeon & Umbreon (30th)": [
-   "non listato",
-   1
-  ],
-  "Papelinho|Storm Emerald (ME06)": [
-   "non listato",
-   1
-  ],
-  "Papelinho|Chaos Rising (ME04)": [
-   "non listato",
-   1
-  ],
-  "Papelinho|Phantasmal Flames (ME02)": [
-   "non listato",
-   1
-  ],
-  "Papelinho|Pokémon 151": [
-   "non listato",
-   1
-  ],
-  "Papelinho|Prismatic Evolutions": [
-   "non listato",
-   1
-  ],
-  "Papelinho|Crown Zenith": [
-   "non listato",
-   1
-  ],
-  "Papelinho|Destined Rivals": [
-   "non listato",
+  "LetsGoTry|Chaos Rising (ME04)": [
+   "listato",
    1
   ]
  },
@@ -1154,7 +1118,7 @@
   "rarecards.nl": 183,
   "tcgcompany.nl": 184,
   "www.nerdom.gr": 183,
-  "www.pokekarty.pl": 183,
+  "www.pokekarty.pl": 184,
   "www.wakuwaku.cz": 183,
   "www.pokemonia.ro": 184,
   "en.tcg-shop.at": 183,
@@ -1166,7 +1130,7 @@
   "cardcorner.at": 72,
   "tcgfanshop.nl": 63,
   "tcgstore.se": 47,
-  "www.deckshop.de": 29,
+  "www.deckshop.de": 30,
   "misticards.com": 21,
   "www.poketalk.se": 21,
   "lorenzone.fr": 16,
@@ -1176,5 +1140,5 @@
   "www.pokemillon.com": 5,
   "www.blackfire.eu": 4
  },
- "runno": 2170
+ "runno": 2171
 }
