@@ -759,7 +759,7 @@
    "Prismatic Evolutions": "irraggiungibile",
    "Crown Zenith": "irraggiungibile",
    "Destined Rivals": "irraggiungibile",
-   "Premium Deck Espeon & Umbreon (30th)": "irraggiungibile"
+   "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "Stoyanov Games": {
    "Pitch Black (ME05)": "listato",
@@ -973,6 +973,154 @@
   "LetsGoTry|Chaos Rising (ME04)": [
    "listato",
    1
+  ],
+  "iTCG.bg|Pitch Black (ME05)": [
+   "non listato",
+   1
+  ],
+  "iTCG.bg|30th Celebration": [
+   "listato",
+   1
+  ],
+  "iTCG.bg|Storm Emerald (ME06)": [
+   "non listato",
+   1
+  ],
+  "iTCG.bg|Chaos Rising (ME04)": [
+   "listato",
+   1
+  ],
+  "iTCG.bg|Phantasmal Flames (ME02)": [
+   "listato",
+   1
+  ],
+  "iTCG.bg|Pokémon 151": [
+   "listato",
+   1
+  ],
+  "iTCG.bg|Prismatic Evolutions": [
+   "listato",
+   1
+  ],
+  "iTCG.bg|Crown Zenith": [
+   "non listato",
+   1
+  ],
+  "iTCG.bg|Destined Rivals": [
+   "listato",
+   1
+  ],
+  "God of Cards|Pokémon 151": [
+   "listato",
+   1
+  ],
+  "God of Cards|Prismatic Evolutions": [
+   "listato",
+   1
+  ],
+  "God of Cards|Crown Zenith": [
+   "non listato",
+   1
+  ],
+  "God of Cards|Destined Rivals": [
+   "non listato",
+   1
+  ],
+  "Deckshop|Pitch Black (ME05)": [
+   "non listato",
+   1
+  ],
+  "Deckshop|30th Celebration": [
+   "non listato",
+   1
+  ],
+  "Deckshop|Premium Deck Espeon & Umbreon (30th)": [
+   "non listato",
+   1
+  ],
+  "Deckshop|Storm Emerald (ME06)": [
+   "non listato",
+   1
+  ],
+  "Deckshop|Chaos Rising (ME04)": [
+   "non listato",
+   1
+  ],
+  "Deckshop|Phantasmal Flames (ME02)": [
+   "non listato",
+   1
+  ],
+  "Deckshop|Pokémon 151": [
+   "listato",
+   1
+  ],
+  "Deckshop|Prismatic Evolutions": [
+   "non listato",
+   1
+  ],
+  "Deckshop|Crown Zenith": [
+   "non listato",
+   1
+  ],
+  "Deckshop|Destined Rivals": [
+   "non listato",
+   1
+  ],
+  "SunnyStore|Crown Zenith": [
+   "listato",
+   1
+  ],
+  "SunnyStore|Destined Rivals": [
+   "esaurito",
+   1
+  ],
+  "Total Cards (UK)|Storm Emerald (ME06)": [
+   "listato",
+   1
+  ],
+  "Total Cards (UK)|Chaos Rising (ME04)": [
+   "esaurito",
+   1
+  ],
+  "Total Cards (UK)|Crown Zenith": [
+   "esaurito",
+   1
+  ],
+  "Total Cards (UK)|Destined Rivals": [
+   "esaurito",
+   1
+  ],
+  "Poke-Power|Destined Rivals": [
+   "esaurito",
+   1
+  ],
+  "Rogerz|Crown Zenith": [
+   "listato",
+   1
+  ],
+  "CardZone|Prismatic Evolutions": [
+   "listato",
+   1
+  ],
+  "CardZone|Crown Zenith": [
+   "listato",
+   1
+  ],
+  "CardZone|Destined Rivals": [
+   "listato",
+   1
+  ],
+  "OutpostBrussels|Prismatic Evolutions": [
+   "esaurito",
+   1
+  ],
+  "OutpostBrussels|Crown Zenith": [
+   "listato",
+   1
+  ],
+  "OutpostBrussels|Destined Rivals": [
+   "esaurito",
+   1
   ]
  },
  "urls": {
@@ -1118,19 +1266,17 @@
   "tcgcompany.nl": 182,
   "www.nerdom.gr": 181,
   "papelinho.pt": 182,
-  "www.pokekarty.pl": 181,
+  "www.pokekarty.pl": 182,
   "www.wakuwaku.cz": 181,
   "www.pokemonia.ro": 182,
   "en.tcg-shop.at": 181,
   "pokevend.at": 101,
   "pokechest.at": 91,
   "bescards.com": 88,
-  "itcg.bg": 87,
   "crispycards.de": 70,
   "cardcorner.at": 70,
   "tcgfanshop.nl": 61,
   "tcgstore.se": 45,
-  "www.deckshop.de": 27,
   "misticards.com": 19,
   "www.poketalk.se": 19,
   "lorenzone.fr": 14,
@@ -1138,8 +1284,7 @@
   "fabscards.at": 10,
   "www.amazon.it": 4,
   "www.pokemillon.com": 3,
-  "www.blackfire.eu": 3,
-  "pokeboxstore.pt": 1
+  "www.blackfire.eu": 3
  },
- "runno": 2146
+ "runno": 2147
 }
