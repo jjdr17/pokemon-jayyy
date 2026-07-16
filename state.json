@@ -973,6 +973,90 @@
   "CardZone|Pokémon 151": [
    "listato",
    1
+  ],
+  "CardCorner.at|Pitch Black (ME05)": [
+   "non listato",
+   1
+  ],
+  "CardCorner.at|30th Celebration": [
+   "non listato",
+   1
+  ],
+  "CardCorner.at|Premium Deck Espeon & Umbreon (30th)": [
+   "non listato",
+   1
+  ],
+  "CardCorner.at|Storm Emerald (ME06)": [
+   "non listato",
+   1
+  ],
+  "CardCorner.at|Chaos Rising (ME04)": [
+   "non listato",
+   1
+  ],
+  "CardCorner.at|Phantasmal Flames (ME02)": [
+   "non listato",
+   1
+  ],
+  "CardCorner.at|Pokémon 151": [
+   "non listato",
+   1
+  ],
+  "CardCorner.at|Prismatic Evolutions": [
+   "non listato",
+   1
+  ],
+  "CardCorner.at|Crown Zenith": [
+   "non listato",
+   1
+  ],
+  "CardCorner.at|Destined Rivals": [
+   "non listato",
+   1
+  ],
+  "SunnyStore|Crown Zenith": [
+   "listato",
+   1
+  ],
+  "SunnyStore|Destined Rivals": [
+   "esaurito",
+   1
+  ],
+  "Poke-Power|Destined Rivals": [
+   "esaurito",
+   1
+  ],
+  "OutpostBrussels|Prismatic Evolutions": [
+   "esaurito",
+   1
+  ],
+  "OutpostBrussels|Crown Zenith": [
+   "listato",
+   1
+  ],
+  "OutpostBrussels|Destined Rivals": [
+   "esaurito",
+   1
+  ],
+  "Total Cards (UK)|Storm Emerald (ME06)": [
+   "listato",
+   1
+  ],
+  "Total Cards (UK)|Chaos Rising (ME04)": [
+   "esaurito",
+   1
+  ],
+  "CrispyCards|Pitch Black (ME05)": [
+   "non listato",
+   1
+  ],
+  "CrispyCards|30th Celebration": [
+   "non listato",
+   1
+  ],
+  "CrispyCards|Premium Deck Espeon & Umbreon (30th)": [
+   "non listato",
+   1
   ]
  },
  "urls": {
@@ -999,7 +1083,7 @@
   "Total Cards (UK)|30th Celebration": "https://totalcards.net/products/pokemon-30th-celebration-booster-bundle?_pos=2&_sid=904be7d3d&_ss=r",
   "Pokewoke|Pokémon 151": "https://pokewoke.store/?s=pokemon+151&post_type=product"
  },
- "digest_slot": "2026-07-15-22",
+ "digest_slot": "2026-07-16-10",
  "log": [
   {
    "ts": "05/07 19:55",
@@ -1124,8 +1208,6 @@
   "pokechest.at": 87,
   "bescards.com": 84,
   "itcg.bg": 83,
-  "crispycards.de": 66,
-  "cardcorner.at": 66,
   "tcgfanshop.nl": 57,
   "tcgstore.se": 41,
   "www.deckshop.de": 23,
@@ -1136,12 +1218,7 @@
   "pokeka.hu": 10,
   "fabscards.at": 6,
   "www.blackfire.eu": 3,
-  "www.amazon.it": 4,
-  "pokeboxstore.pt": 1,
-  "godofcards.com": 1,
-  "totalcards.net": 1,
-  "cardzone.es": 1,
-  "letsgotry.pl": 1
+  "www.amazon.it": 4
  },
  "runno": 2098
 }
