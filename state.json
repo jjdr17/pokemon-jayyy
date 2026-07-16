@@ -970,7 +970,116 @@
   "Total Cards (UK)|Pitch Black (ME05)": "£4.79",
   "Stoyanov Games|Pitch Black (ME05)": "8.00€"
  },
- "pending": {},
+ "pending": {
+  "Rogerz|Crown Zenith": [
+   "listato",
+   1
+  ],
+  "Deckshop|Pitch Black (ME05)": [
+   "non listato",
+   1
+  ],
+  "Deckshop|30th Celebration": [
+   "non listato",
+   1
+  ],
+  "Deckshop|Premium Deck Espeon & Umbreon (30th)": [
+   "non listato",
+   1
+  ],
+  "Deckshop|Storm Emerald (ME06)": [
+   "non listato",
+   1
+  ],
+  "Deckshop|Chaos Rising (ME04)": [
+   "non listato",
+   1
+  ],
+  "Deckshop|Phantasmal Flames (ME02)": [
+   "non listato",
+   1
+  ],
+  "Deckshop|Pokémon 151": [
+   "listato",
+   1
+  ],
+  "Deckshop|Prismatic Evolutions": [
+   "non listato",
+   1
+  ],
+  "Deckshop|Crown Zenith": [
+   "non listato",
+   1
+  ],
+  "Deckshop|Destined Rivals": [
+   "non listato",
+   1
+  ],
+  "OutpostBrussels|Prismatic Evolutions": [
+   "esaurito",
+   1
+  ],
+  "OutpostBrussels|Crown Zenith": [
+   "listato",
+   1
+  ],
+  "OutpostBrussels|Destined Rivals": [
+   "esaurito",
+   1
+  ],
+  "Poke-Power|Destined Rivals": [
+   "esaurito",
+   1
+  ],
+  "CardZone|Prismatic Evolutions": [
+   "listato",
+   1
+  ],
+  "CardZone|Crown Zenith": [
+   "listato",
+   1
+  ],
+  "CardZone|Destined Rivals": [
+   "listato",
+   1
+  ],
+  "SunnyStore|Crown Zenith": [
+   "listato",
+   1
+  ],
+  "SunnyStore|Destined Rivals": [
+   "esaurito",
+   1
+  ],
+  "Total Cards (UK)|Storm Emerald (ME06)": [
+   "listato",
+   1
+  ],
+  "Total Cards (UK)|Chaos Rising (ME04)": [
+   "esaurito",
+   1
+  ],
+  "Total Cards (UK)|Crown Zenith": [
+   "esaurito",
+   1
+  ],
+  "Total Cards (UK)|Destined Rivals": [
+   "esaurito",
+   1
+  ],
+  "God of Cards|Prismatic Evolutions": [
+   "listato",
+   1
+  ],
+  "God of Cards|Crown Zenith": [
+   "non listato",
+   1
+  ],
+  "God of Cards|Destined Rivals": [
+   "non listato",
+   1
+  ]
+ },
  "urls": {
   "Rogerz|Pitch Black (ME05)": "https://rogerz.dk/search?q=pitch+black",
   "Packratt (UK)|Chaos Rising (ME04)": "https://packratt.co.uk/search?q=chaos+rising",
@@ -1113,7 +1222,7 @@
   "rarecards.nl": 187,
   "tcgcompany.nl": 188,
   "www.nerdom.gr": 187,
-  "www.pokekarty.pl": 187,
+  "www.pokekarty.pl": 188,
   "www.wakuwaku.cz": 187,
   "www.pokemonia.ro": 188,
   "en.tcg-shop.at": 187,
@@ -1132,8 +1241,7 @@
   "fabscards.at": 16,
   "www.amazon.it": 10,
   "www.pokemillon.com": 9,
-  "www.deckshop.de": 5,
   "www.blackfire.eu": 4
  },
- "runno": 2218
+ "runno": 2219
 }
