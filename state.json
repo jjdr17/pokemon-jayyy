@@ -973,90 +973,6 @@
   "CardZone|Pokémon 151": [
    "listato",
    1
-  ],
-  "CardCorner.at|Pitch Black (ME05)": [
-   "non listato",
-   1
-  ],
-  "CardCorner.at|30th Celebration": [
-   "non listato",
-   1
-  ],
-  "CardCorner.at|Premium Deck Espeon & Umbreon (30th)": [
-   "non listato",
-   1
-  ],
-  "CardCorner.at|Storm Emerald (ME06)": [
-   "non listato",
-   1
-  ],
-  "CardCorner.at|Chaos Rising (ME04)": [
-   "non listato",
-   1
-  ],
-  "CardCorner.at|Phantasmal Flames (ME02)": [
-   "non listato",
-   1
-  ],
-  "CardCorner.at|Pokémon 151": [
-   "non listato",
-   1
-  ],
-  "CardCorner.at|Prismatic Evolutions": [
-   "non listato",
-   1
-  ],
-  "CardCorner.at|Crown Zenith": [
-   "non listato",
-   1
-  ],
-  "CardCorner.at|Destined Rivals": [
-   "non listato",
-   1
-  ],
-  "SunnyStore|Crown Zenith": [
-   "listato",
-   1
-  ],
-  "SunnyStore|Destined Rivals": [
-   "esaurito",
-   1
-  ],
-  "Poke-Power|Destined Rivals": [
-   "esaurito",
-   1
-  ],
-  "OutpostBrussels|Prismatic Evolutions": [
-   "esaurito",
-   1
-  ],
-  "OutpostBrussels|Crown Zenith": [
-   "listato",
-   1
-  ],
-  "OutpostBrussels|Destined Rivals": [
-   "esaurito",
-   1
-  ],
-  "Total Cards (UK)|Storm Emerald (ME06)": [
-   "listato",
-   1
-  ],
-  "Total Cards (UK)|Chaos Rising (ME04)": [
-   "esaurito",
-   1
-  ],
-  "CrispyCards|Pitch Black (ME05)": [
-   "non listato",
-   1
-  ],
-  "CrispyCards|30th Celebration": [
-   "non listato",
-   1
-  ],
-  "CrispyCards|Premium Deck Espeon & Umbreon (30th)": [
-   "non listato",
-   1
   ]
  },
  "urls": {
@@ -1200,7 +1116,7 @@
   "tcgcompany.nl": 178,
   "www.nerdom.gr": 177,
   "papelinho.pt": 178,
-  "www.pokekarty.pl": 177,
+  "www.pokekarty.pl": 178,
   "www.wakuwaku.cz": 177,
   "www.pokemonia.ro": 178,
   "en.tcg-shop.at": 177,
@@ -1208,9 +1124,11 @@
   "pokechest.at": 87,
   "bescards.com": 84,
   "itcg.bg": 83,
+  "crispycards.de": 66,
+  "cardcorner.at": 66,
   "tcgfanshop.nl": 57,
   "tcgstore.se": 41,
-  "www.deckshop.de": 23,
+  "www.deckshop.de": 24,
   "misticards.com": 15,
   "www.poketalk.se": 15,
   "www.pokemillon.com": 10,
@@ -1218,7 +1136,10 @@
   "pokeka.hu": 10,
   "fabscards.at": 6,
   "www.blackfire.eu": 3,
-  "www.amazon.it": 4
+  "www.amazon.it": 4,
+  "pokeboxstore.pt": 2,
+  "letsgotry.pl": 2,
+  "www.lotticards.de": 1
  },
- "runno": 2098
+ "runno": 2099
 }
