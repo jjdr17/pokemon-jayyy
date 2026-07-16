@@ -977,6 +977,10 @@
   "Amazon.it|Storm Emerald (ME06)": [
    "non listato",
    1
+  ],
+  "LetsGoTry|Chaos Rising (ME04)": [
+   "listato",
+   1
   ]
  },
  "urls": {
@@ -1114,7 +1118,7 @@
   "geco-shop.de": 174,
   "www.chaoscards.co.uk": 174,
   "www.waylandgames.co.uk": 174,
-  "www.firestormgames.co.uk": 174,
+  "www.firestormgames.co.uk": 175,
   "hobbykort.se": 174,
   "rarecards.nl": 174,
   "tcgcompany.nl": 174,
@@ -1122,7 +1126,7 @@
   "papelinho.pt": 174,
   "www.pokekarty.pl": 174,
   "www.wakuwaku.cz": 174,
-  "www.pokemonia.ro": 174,
+  "www.pokemonia.ro": 175,
   "en.tcg-shop.at": 174,
   "pokevend.at": 94,
   "pokechest.at": 84,
@@ -1140,7 +1144,8 @@
   "lorenzone.fr": 7,
   "pokeka.hu": 7,
   "www.blackfire.eu": 4,
-  "pokeboxstore.pt": 3
+  "pokeboxstore.pt": 3,
+  "www.amazon.it": 1
  },
- "runno": 2056
+ "runno": 2057
 }
