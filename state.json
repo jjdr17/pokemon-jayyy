@@ -119,7 +119,7 @@
    "Storm Emerald (ME06)": "listato",
    "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "listato",
-   "Pokémon 151": "esaurito",
+   "Pokémon 151": "listato",
    "Prismatic Evolutions": "irraggiungibile",
    "Crown Zenith": "irraggiungibile",
    "Destined Rivals": "irraggiungibile",
@@ -970,12 +970,8 @@
   "Stoyanov Games|Pitch Black (ME05)": "8.00€"
  },
  "pending": {
-  "CardZone|Pokémon 151": [
+  "LetsGoTry|Chaos Rising (ME04)": [
    "listato",
-   1
-  ],
-  "iTCG.bg|Premium Deck Espeon & Umbreon (30th)": [
-   "non listato",
    1
   ]
  },
@@ -1129,6 +1125,7 @@
   "pokevend.at": 101,
   "pokechest.at": 91,
   "bescards.com": 88,
+  "itcg.bg": 87,
   "crispycards.de": 70,
   "cardcorner.at": 70,
   "tcgfanshop.nl": 61,
