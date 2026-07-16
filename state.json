@@ -26,7 +26,7 @@
   },
   "Amazon.it": {
    "30th Celebration": "non listato",
-   "Storm Emerald (ME06)": "listato",
+   "Storm Emerald (ME06)": "non listato",
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "TCGplayer": {
@@ -974,10 +974,6 @@
    "listato",
    1
   ],
-  "Amazon.it|Storm Emerald (ME06)": [
-   "non listato",
-   1
-  ],
   "LetsGoTry|Chaos Rising (ME04)": [
    "listato",
    1
@@ -1144,8 +1140,7 @@
   "lorenzone.fr": 7,
   "pokeka.hu": 7,
   "www.blackfire.eu": 4,
-  "pokeboxstore.pt": 3,
-  "www.amazon.it": 1
+  "pokeboxstore.pt": 3
  },
  "runno": 2057
 }
