@@ -970,84 +970,7 @@
   "Total Cards (UK)|Pitch Black (ME05)": "£4.79",
   "Stoyanov Games|Pitch Black (ME05)": "8.00€"
  },
- "pending": {
-  "CardCorner.at|Pitch Black (ME05)": [
-   "non listato",
-   1
-  ],
-  "CardCorner.at|30th Celebration": [
-   "non listato",
-   1
-  ],
-  "CardCorner.at|Premium Deck Espeon & Umbreon (30th)": [
-   "non listato",
-   1
-  ],
-  "CardCorner.at|Storm Emerald (ME06)": [
-   "non listato",
-   1
-  ],
-  "CardCorner.at|Chaos Rising (ME04)": [
-   "non listato",
-   1
-  ],
-  "CardCorner.at|Phantasmal Flames (ME02)": [
-   "non listato",
-   1
-  ],
-  "CardCorner.at|Pokémon 151": [
-   "non listato",
-   1
-  ],
-  "CardCorner.at|Prismatic Evolutions": [
-   "non listato",
-   1
-  ],
-  "CardCorner.at|Crown Zenith": [
-   "non listato",
-   1
-  ],
-  "CardCorner.at|Destined Rivals": [
-   "non listato",
-   1
-  ],
-  "Total Cards (UK)|Storm Emerald (ME06)": [
-   "listato",
-   1
-  ],
-  "Total Cards (UK)|Chaos Rising (ME04)": [
-   "esaurito",
-   1
-  ],
-  "Total Cards (UK)|Pokémon 151": [
-   "listato",
-   1
-  ],
-  "Total Cards (UK)|Prismatic Evolutions": [
-   "esaurito",
-   1
-  ],
-  "Total Cards (UK)|Crown Zenith": [
-   "esaurito",
-   1
-  ],
-  "Total Cards (UK)|Destined Rivals": [
-   "esaurito",
-   1
-  ],
-  "CrispyCards|Pitch Black (ME05)": [
-   "non listato",
-   1
-  ],
-  "CrispyCards|30th Celebration": [
-   "non listato",
-   1
-  ],
-  "CrispyCards|Premium Deck Espeon & Umbreon (30th)": [
-   "non listato",
-   1
-  ]
- },
+ "pending": {},
  "urls": {
   "Rogerz|Pitch Black (ME05)": "https://rogerz.dk/search?q=pitch+black",
   "Packratt (UK)|Chaos Rising (ME04)": "https://packratt.co.uk/search?q=chaos+rising",
@@ -1198,6 +1121,8 @@
   "pokechest.at": 96,
   "bescards.com": 93,
   "itcg.bg": 92,
+  "crispycards.de": 75,
+  "cardcorner.at": 75,
   "tcgfanshop.nl": 66,
   "tcgstore.se": 50,
   "misticards.com": 24,
@@ -1208,13 +1133,7 @@
   "www.amazon.it": 9,
   "www.pokemillon.com": 8,
   "www.deckshop.de": 4,
-  "www.blackfire.eu": 3,
-  "cardzone.es": 2,
-  "outpostbrussels.be": 1,
-  "alldaytcg.com": 1,
-  "rogerz.dk": 1,
-  "godofcards.com": 1,
-  "poke-power.eu": 1
+  "www.blackfire.eu": 3
  },
  "runno": 2206
 }
