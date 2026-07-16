@@ -973,10 +973,6 @@
   "CardZone|Pokémon 151": [
    "listato",
    1
-  ],
-  "Amazon.it|30th Celebration": [
-   "listato",
-   1
   ]
  },
  "urls": {
@@ -1002,7 +998,8 @@
   "Total Cards (UK)|Pitch Black (ME05)": "https://totalcards.net/products/ultra-pro-pokemon-mega-evolution-pitch-black-9-pocket-portfolio?_pos=1&_sid=f90e20df9&_ss=r",
   "Total Cards (UK)|30th Celebration": "https://totalcards.net/products/pokemon-30th-celebration-booster-bundle?_pos=2&_sid=904be7d3d&_ss=r",
   "Pokewoke|Pokémon 151": "https://pokewoke.store/?s=pokemon+151&post_type=product",
-  "Pokecollect|Pitch Black (ME05)": "https://pokecollect.pl/?s=pitch+black&post_type=product"
+  "Pokecollect|Pitch Black (ME05)": "https://pokecollect.pl/?s=pitch+black&post_type=product",
+  "Pikashop|Pitch Black (ME05)": "https://pikashop.pl/?s=pitch+black&post_type=product"
  },
  "digest_slot": "2026-07-16-10",
  "log": [
@@ -1127,7 +1124,7 @@
   "en.tcg-shop.at": 180,
   "pokevend.at": 100,
   "pokechest.at": 90,
-  "bescards.com": 86,
+  "bescards.com": 87,
   "itcg.bg": 85,
   "crispycards.de": 68,
   "cardcorner.at": 68,
@@ -1140,7 +1137,7 @@
   "lorenzone.fr": 13,
   "pokeka.hu": 13,
   "fabscards.at": 8,
-  "www.blackfire.eu": 1
+  "www.blackfire.eu": 2
  },
- "runno": 2127
+ "runno": 2128
 }
