@@ -813,7 +813,7 @@
    "Pitch Black (ME05)": "listato",
    "30th Celebration": "listato",
    "Storm Emerald (ME06)": "listato",
-   "Chaos Rising (ME04)": "listato",
+   "Chaos Rising (ME04)": "non listato",
    "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "non listato",
    "Prismatic Evolutions": "non listato",
@@ -954,7 +954,8 @@
   "itcg.bg": "https://itcg.bg/search?q={q}",
   "tcgstore.se": "https://tcgstore.se/?s={q}&post_type=product",
   "pokeka.hu": "https://pokeka.hu/?s={q}&post_type=product",
-  "bescards.com": "https://bescards.com/search?q={q}"
+  "bescards.com": "https://bescards.com/search?q={q}",
+  "papelinho.pt": "https://papelinho.pt/?s={q}&post_type=product"
  },
  "alerts": {
   "LetsGoTry|30th Celebration": 1783689370.625792,
@@ -970,7 +971,43 @@
   "Stoyanov Games|Pitch Black (ME05)": "8.00€"
  },
  "pending": {
-  "LetsGoTry|Chaos Rising (ME04)": [
+  "Papelinho|Pitch Black (ME05)": [
+   "non listato",
+   1
+  ],
+  "Papelinho|30th Celebration": [
+   "non listato",
+   1
+  ],
+  "Papelinho|Premium Deck Espeon & Umbreon (30th)": [
+   "non listato",
+   1
+  ],
+  "Papelinho|Storm Emerald (ME06)": [
+   "non listato",
+   1
+  ],
+  "Papelinho|Chaos Rising (ME04)": [
+   "non listato",
+   1
+  ],
+  "Papelinho|Phantasmal Flames (ME02)": [
+   "non listato",
+   1
+  ],
+  "Papelinho|Pokémon 151": [
+   "non listato",
+   1
+  ],
+  "Papelinho|Prismatic Evolutions": [
+   "non listato",
+   1
+  ],
+  "Papelinho|Crown Zenith": [
+   "non listato",
+   1
+  ],
+  "Papelinho|Destined Rivals": [
    "non listato",
    1
   ]
@@ -1105,19 +1142,18 @@
   }
  ],
  "down": {
-  "www.cardmarket.com": 183,
+  "www.cardmarket.com": 184,
   "www.gamestop.com": 84,
   "www.gamelife.it": 184,
   "pokeseller14.com": 184,
   "geco-shop.de": 184,
   "www.chaoscards.co.uk": 183,
-  "www.waylandgames.co.uk": 183,
+  "www.waylandgames.co.uk": 184,
   "www.firestormgames.co.uk": 184,
   "hobbykort.se": 184,
   "rarecards.nl": 183,
   "tcgcompany.nl": 184,
   "www.nerdom.gr": 183,
-  "papelinho.pt": 183,
   "www.pokekarty.pl": 183,
   "www.wakuwaku.cz": 183,
   "www.pokemonia.ro": 184,
@@ -1125,9 +1161,9 @@
   "pokevend.at": 103,
   "pokechest.at": 93,
   "bescards.com": 90,
-  "itcg.bg": 88,
-  "crispycards.de": 71,
-  "cardcorner.at": 71,
+  "itcg.bg": 89,
+  "crispycards.de": 72,
+  "cardcorner.at": 72,
   "tcgfanshop.nl": 63,
   "tcgstore.se": 47,
   "www.deckshop.de": 29,
@@ -1138,8 +1174,7 @@
   "fabscards.at": 12,
   "www.amazon.it": 6,
   "www.pokemillon.com": 5,
-  "www.blackfire.eu": 4,
-  "pokeboxstore.pt": 1
+  "www.blackfire.eu": 4
  },
- "runno": 2169
+ "runno": 2170
 }
