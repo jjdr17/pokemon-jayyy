@@ -133,7 +133,7 @@
    "Phantasmal Flames (ME02)": "esaurito",
    "Pokémon 151": "esaurito",
    "Prismatic Evolutions": "esaurito",
-   "Crown Zenith": "non listato",
+   "Crown Zenith": "listato",
    "Destined Rivals": "esaurito",
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
@@ -968,19 +968,7 @@
   "Stoyanov Games|Pitch Black (ME05)": "8.00€"
  },
  "pending": {
-  "Total Cards (UK)|Prismatic Evolutions": [
-   "esaurito",
-   1
-  ],
-  "Poketalk|Pokémon 151": [
-   "esaurito",
-   1
-  ],
-  "Poketalk|Prismatic Evolutions": [
-   "esaurito",
-   1
-  ],
-  "LetsGoTry|Chaos Rising (ME04)": [
+  "SunnyStore|Crown Zenith": [
    "non listato",
    1
   ]
@@ -1124,14 +1112,13 @@
   "www.waylandgames.co.uk": 199,
   "www.firestormgames.co.uk": 199,
   "hobbykort.se": 199,
-  "rarecards.nl": 198,
+  "rarecards.nl": 199,
   "tcgcompany.nl": 199,
-  "www.nerdom.gr": 198,
+  "www.nerdom.gr": 199,
   "www.pokekarty.pl": 199,
   "www.wakuwaku.cz": 199,
   "www.pokemonia.ro": 199,
   "en.tcg-shop.at": 199,
-  "pokechest.at": 109,
   "bescards.com": 105,
   "itcg.bg": 104,
   "crispycards.de": 87,
@@ -1144,9 +1131,12 @@
   "www.pokemillon.com": 21,
   "www.deckshop.de": 13,
   "misticards.com": 13,
-  "pokevend.at": 3,
+  "pokevend.at": 4,
+  "www.blackfire.eu": 4,
   "pokeboxstore.pt": 3,
-  "www.amazon.it": 3
+  "www.poketalk.se": 3,
+  "www.amazon.it": 2,
+  "pokechest.at": 2
  },
- "runno": 2354
+ "runno": 2355
 }
