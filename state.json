@@ -133,7 +133,7 @@
    "Phantasmal Flames (ME02)": "esaurito",
    "Pokémon 151": "esaurito",
    "Prismatic Evolutions": "esaurito",
-   "Crown Zenith": "listato",
+   "Crown Zenith": "non listato",
    "Destined Rivals": "esaurito",
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
@@ -967,12 +967,7 @@
   "Total Cards (UK)|Pitch Black (ME05)": "£4.79",
   "Stoyanov Games|Pitch Black (ME05)": "8.00€"
  },
- "pending": {
-  "SunnyStore|Crown Zenith": [
-   "non listato",
-   1
-  ]
- },
+ "pending": {},
  "urls": {
   "Rogerz|Pitch Black (ME05)": "https://rogerz.dk/search?q=pitch+black",
   "Packratt (UK)|Chaos Rising (ME04)": "https://packratt.co.uk/search?q=chaos+rising",
@@ -1119,6 +1114,7 @@
   "www.wakuwaku.cz": 199,
   "www.pokemonia.ro": 199,
   "en.tcg-shop.at": 199,
+  "pokechest.at": 109,
   "bescards.com": 105,
   "itcg.bg": 104,
   "crispycards.de": 87,
@@ -1132,11 +1128,10 @@
   "www.deckshop.de": 13,
   "misticards.com": 13,
   "pokevend.at": 4,
-  "www.blackfire.eu": 4,
   "pokeboxstore.pt": 3,
-  "www.poketalk.se": 3,
-  "www.amazon.it": 2,
-  "pokechest.at": 2
+  "www.amazon.it": 3,
+  "www.poketalk.se": 1,
+  "tcgdistribution.fr": 1
  },
  "runno": 2355
 }
