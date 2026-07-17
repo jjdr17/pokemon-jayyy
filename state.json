@@ -26,7 +26,7 @@
   },
   "Amazon.it": {
    "30th Celebration": "non listato",
-   "Storm Emerald (ME06)": "listato",
+   "Storm Emerald (ME06)": "non listato",
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "TCGplayer": {
@@ -133,7 +133,7 @@
    "Phantasmal Flames (ME02)": "esaurito",
    "Pokémon 151": "esaurito",
    "Prismatic Evolutions": "esaurito",
-   "Crown Zenith": "listato",
+   "Crown Zenith": "non listato",
    "Destined Rivals": "esaurito",
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
@@ -813,7 +813,7 @@
    "Pitch Black (ME05)": "listato",
    "30th Celebration": "listato",
    "Storm Emerald (ME06)": "listato",
-   "Chaos Rising (ME04)": "non listato",
+   "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "non listato",
    "Prismatic Evolutions": "non listato",
@@ -971,20 +971,12 @@
   "Stoyanov Games|Pitch Black (ME05)": "8.00€"
  },
  "pending": {
-  "SunnyStore|Crown Zenith": [
-   "non listato",
-   1
-  ],
-  "Amazon.it|Storm Emerald (ME06)": [
-   "non listato",
-   1
-  ],
   "Papelinho|Chaos Rising (ME04)": [
    "listato",
    1
   ],
   "LetsGoTry|Chaos Rising (ME04)": [
-   "listato",
+   "non listato",
    1
   ]
  },
@@ -1118,13 +1110,13 @@
   }
  ],
  "down": {
-  "www.cardmarket.com": 196,
+  "www.cardmarket.com": 197,
   "www.gamestop.com": 84,
   "www.gamelife.it": 197,
   "pokeseller14.com": 197,
   "geco-shop.de": 197,
   "www.chaoscards.co.uk": 196,
-  "www.waylandgames.co.uk": 196,
+  "www.waylandgames.co.uk": 197,
   "www.firestormgames.co.uk": 197,
   "hobbykort.se": 197,
   "rarecards.nl": 196,
@@ -1137,11 +1129,10 @@
   "pokevend.at": 116,
   "pokechest.at": 106,
   "bescards.com": 103,
-  "itcg.bg": 101,
-  "crispycards.de": 84,
-  "cardcorner.at": 84,
+  "itcg.bg": 102,
+  "crispycards.de": 85,
+  "cardcorner.at": 85,
   "tcgfanshop.nl": 76,
-  "tcgstore.se": 60,
   "lorenzone.fr": 29,
   "pokeka.hu": 29,
   "fabscards.at": 25,
@@ -1150,10 +1141,8 @@
   "misticards.com": 10,
   "www.poketalk.se": 10,
   "www.blackfire.eu": 8,
-  "tradingcard.fi": 1,
-  "www.pokemons.dk": 1,
-  "pikashop.pl": 1,
-  "tcgdistribution.fr": 1
+  "www.amazon.it": 1,
+  "tcgstore.se": 1
  },
- "runno": 2325
+ "runno": 2326
 }
