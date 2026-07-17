@@ -958,7 +958,6 @@
   "papelinho.pt": "https://papelinho.pt/?s={q}&post_type=product"
  },
  "alerts": {
-  "LetsGoTry|30th Celebration": 1783689370.625792,
   "Pokewoke|Pokémon 151": 1783690864.7065828
  },
  "prices": {
@@ -977,6 +976,10 @@
   ],
   "Amazon.it|Storm Emerald (ME06)": [
    "non listato",
+   1
+  ],
+  "LetsGoTry|Chaos Rising (ME04)": [
+   "listato",
    1
   ]
  },
@@ -1117,14 +1120,14 @@
   "geco-shop.de": 197,
   "www.chaoscards.co.uk": 197,
   "www.waylandgames.co.uk": 197,
-  "www.firestormgames.co.uk": 197,
+  "www.firestormgames.co.uk": 198,
   "hobbykort.se": 197,
   "rarecards.nl": 197,
   "tcgcompany.nl": 197,
   "www.nerdom.gr": 197,
   "www.pokekarty.pl": 197,
   "www.wakuwaku.cz": 197,
-  "www.pokemonia.ro": 197,
+  "www.pokemonia.ro": 198,
   "en.tcg-shop.at": 197,
   "pokevend.at": 117,
   "pokechest.at": 107,
@@ -1144,5 +1147,5 @@
   "www.blackfire.eu": 9,
   "www.amazon.it": 3
  },
- "runno": 2332
+ "runno": 2333
 }
