@@ -957,9 +957,7 @@
   "bescards.com": "https://bescards.com/search?q={q}",
   "papelinho.pt": "https://papelinho.pt/?s={q}&post_type=product"
  },
- "alerts": {
-  "Pokewoke|Pokémon 151": 1783690864.7065828
- },
+ "alerts": {},
  "prices": {
   "Packratt (UK)|Chaos Rising (ME04)": "£10.01",
   "Packratt (UK)|Pokémon 151": "£29.99",
@@ -976,6 +974,10 @@
   ],
   "Amazon.it|Storm Emerald (ME06)": [
    "non listato",
+   1
+  ],
+  "LetsGoTry|Chaos Rising (ME04)": [
+   "listato",
    1
   ]
  },
@@ -1119,7 +1121,7 @@
   "www.firestormgames.co.uk": 198,
   "hobbykort.se": 198,
   "rarecards.nl": 197,
-  "tcgcompany.nl": 197,
+  "tcgcompany.nl": 198,
   "www.nerdom.gr": 197,
   "www.pokekarty.pl": 197,
   "www.wakuwaku.cz": 197,
@@ -1132,7 +1134,7 @@
   "crispycards.de": 85,
   "cardcorner.at": 85,
   "tcgfanshop.nl": 77,
-  "tcgstore.se": 60,
+  "tcgstore.se": 61,
   "lorenzone.fr": 30,
   "pokeka.hu": 30,
   "fabscards.at": 26,
@@ -1141,8 +1143,7 @@
   "misticards.com": 11,
   "www.poketalk.se": 11,
   "www.blackfire.eu": 9,
-  "www.amazon.it": 4,
-  "games-island.eu": 1
+  "www.amazon.it": 4
  },
- "runno": 2336
+ "runno": 2337
 }
