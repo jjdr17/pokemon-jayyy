@@ -26,7 +26,7 @@
   },
   "Amazon.it": {
    "30th Celebration": "non listato",
-   "Storm Emerald (ME06)": "non listato",
+   "Storm Emerald (ME06)": "listato",
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "TCGplayer": {
@@ -133,7 +133,7 @@
    "Phantasmal Flames (ME02)": "esaurito",
    "Pokémon 151": "esaurito",
    "Prismatic Evolutions": "esaurito",
-   "Crown Zenith": "non listato",
+   "Crown Zenith": "listato",
    "Destined Rivals": "esaurito",
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
@@ -297,7 +297,7 @@
    "Pitch Black (ME05)": "irraggiungibile",
    "30th Celebration": "irraggiungibile",
    "Storm Emerald (ME06)": "irraggiungibile",
-   "Chaos Rising (ME04)": "non listato",
+   "Chaos Rising (ME04)": "irraggiungibile",
    "Phantasmal Flames (ME02)": "irraggiungibile",
    "Pokémon 151": "irraggiungibile",
    "Prismatic Evolutions": "irraggiungibile",
@@ -559,15 +559,15 @@
   },
   "LorenZone": {
    "Pitch Black (ME05)": "irraggiungibile",
-   "30th Celebration": "non listato",
-   "Storm Emerald (ME06)": "non listato",
-   "Chaos Rising (ME04)": "non listato",
-   "Phantasmal Flames (ME02)": "non listato",
-   "Pokémon 151": "non listato",
-   "Prismatic Evolutions": "non listato",
-   "Crown Zenith": "non listato",
-   "Destined Rivals": "non listato",
-   "Premium Deck Espeon & Umbreon (30th)": "non listato"
+   "30th Celebration": "irraggiungibile",
+   "Storm Emerald (ME06)": "irraggiungibile",
+   "Chaos Rising (ME04)": "irraggiungibile",
+   "Phantasmal Flames (ME02)": "irraggiungibile",
+   "Pokémon 151": "irraggiungibile",
+   "Prismatic Evolutions": "irraggiungibile",
+   "Crown Zenith": "irraggiungibile",
+   "Destined Rivals": "irraggiungibile",
+   "Premium Deck Espeon & Umbreon (30th)": "irraggiungibile"
   },
   "PokeCardShop": {
    "Pitch Black (ME05)": "esaurito",
@@ -970,7 +970,20 @@
   "Total Cards (UK)|Pitch Black (ME05)": "£4.79",
   "Stoyanov Games|Pitch Black (ME05)": "8.00€"
  },
- "pending": {},
+ "pending": {
+  "SunnyStore|Crown Zenith": [
+   "non listato",
+   1
+  ],
+  "Amazon.it|Storm Emerald (ME06)": [
+   "non listato",
+   1
+  ],
+  "LetsGoTry|Chaos Rising (ME04)": [
+   "listato",
+   1
+  ]
+ },
  "urls": {
   "Rogerz|Pitch Black (ME05)": "https://rogerz.dk/search?q=pitch+black",
   "Packratt (UK)|Chaos Rising (ME04)": "https://packratt.co.uk/search?q=chaos+rising",
@@ -1118,21 +1131,27 @@
   "www.pokemonia.ro": 197,
   "en.tcg-shop.at": 197,
   "pokevend.at": 117,
+  "pokechest.at": 107,
   "bescards.com": 103,
   "itcg.bg": 102,
   "crispycards.de": 85,
   "cardcorner.at": 85,
   "tcgfanshop.nl": 77,
+  "tcgstore.se": 60,
+  "lorenzone.fr": 30,
+  "pokeka.hu": 30,
   "fabscards.at": 25,
+  "www.pokemillon.com": 19,
   "www.deckshop.de": 11,
   "misticards.com": 11,
   "www.poketalk.se": 11,
   "www.blackfire.eu": 9,
-  "tcgstore.se": 3,
   "www.amazon.it": 3,
-  "pokechest.at": 1,
-  "www.pokemillon.com": 1,
-  "pokeka.hu": 1
+  "tradingcard.fi": 1,
+  "www.pokemons.dk": 1,
+  "pokeboxstore.pt": 1,
+  "pikashop.pl": 1,
+  "www.lotticards.de": 1
  },
  "runno": 2331
 }
