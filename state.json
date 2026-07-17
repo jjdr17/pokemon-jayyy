@@ -26,7 +26,7 @@
   },
   "Amazon.it": {
    "30th Celebration": "non listato",
-   "Storm Emerald (ME06)": "non listato",
+   "Storm Emerald (ME06)": "listato",
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "TCGplayer": {
@@ -813,7 +813,7 @@
    "Pitch Black (ME05)": "listato",
    "30th Celebration": "listato",
    "Storm Emerald (ME06)": "listato",
-   "Chaos Rising (ME04)": "non listato",
+   "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "non listato",
    "Prismatic Evolutions": "non listato",
@@ -975,8 +975,12 @@
    "non listato",
    1
   ],
+  "Amazon.it|Storm Emerald (ME06)": [
+   "non listato",
+   1
+  ],
   "LetsGoTry|Chaos Rising (ME04)": [
-   "listato",
+   "non listato",
    1
   ]
  },
@@ -1143,11 +1147,8 @@
   "www.poketalk.se": 10,
   "www.blackfire.eu": 8,
   "www.amazon.it": 1,
-  "pokewoke.store": 1,
-  "pokectcg.cz": 1,
-  "sapphire-cards.de": 1,
-  "extremepokecorner.com": 1,
-  "letsgotry.pl": 1
+  "tcgdistribution.fr": 1,
+  "www.lotticards.de": 1
  },
  "runno": 2323
 }
