@@ -967,7 +967,92 @@
   "Total Cards (UK)|Pitch Black (ME05)": "£4.79",
   "Stoyanov Games|Pitch Black (ME05)": "8.00€"
  },
- "pending": {},
+ "pending": {
+  "Pokechest|Pitch Black (ME05)": [
+   "non listato",
+   1
+  ],
+  "Pokechest|30th Celebration": [
+   "non listato",
+   1
+  ],
+  "Pokechest|Premium Deck Espeon & Umbreon (30th)": [
+   "non listato",
+   1
+  ],
+  "Pokechest|Storm Emerald (ME06)": [
+   "non listato",
+   1
+  ],
+  "Pokechest|Chaos Rising (ME04)": [
+   "non listato",
+   1
+  ],
+  "Pokechest|Phantasmal Flames (ME02)": [
+   "non listato",
+   1
+  ],
+  "Pokechest|Pokémon 151": [
+   "non listato",
+   1
+  ],
+  "Pokechest|Prismatic Evolutions": [
+   "non listato",
+   1
+  ],
+  "Pokechest|Crown Zenith": [
+   "non listato",
+   1
+  ],
+  "Pokechest|Destined Rivals": [
+   "non listato",
+   1
+  ],
+  "TCGFanshop|Pitch Black (ME05)": [
+   "non listato",
+   1
+  ],
+  "TCGFanshop|30th Celebration": [
+   "non listato",
+   1
+  ],
+  "TCGFanshop|Premium Deck Espeon & Umbreon (30th)": [
+   "non listato",
+   1
+  ],
+  "TCGFanshop|Storm Emerald (ME06)": [
+   "non listato",
+   1
+  ],
+  "TCGFanshop|Chaos Rising (ME04)": [
+   "non listato",
+   1
+  ],
+  "TCGFanshop|Phantasmal Flames (ME02)": [
+   "non listato",
+   1
+  ],
+  "TCGFanshop|Pokémon 151": [
+   "listato",
+   1
+  ],
+  "TCGFanshop|Prismatic Evolutions": [
+   "listato",
+   1
+  ],
+  "TCGFanshop|Crown Zenith": [
+   "non listato",
+   1
+  ],
+  "TCGFanshop|Destined Rivals": [
+   "non listato",
+   1
+  ],
+  "God of Cards|Pokémon 151": [
+   "listato",
+   1
+  ]
+ },
  "urls": {
   "Rogerz|Pitch Black (ME05)": "https://rogerz.dk/search?q=pitch+black",
   "Packratt (UK)|Chaos Rising (ME04)": "https://packratt.co.uk/search?q=chaos+rising",
@@ -1113,24 +1198,30 @@
   "www.pokekarty.pl": 201,
   "www.wakuwaku.cz": 200,
   "www.pokemonia.ro": 201,
-  "en.tcg-shop.at": 200,
+  "en.tcg-shop.at": 201,
   "bescards.com": 107,
   "itcg.bg": 106,
   "crispycards.de": 89,
-  "tcgfanshop.nl": 80,
   "tcgstore.se": 64,
   "lorenzone.fr": 33,
   "pokeka.hu": 33,
   "fabscards.at": 29,
   "www.pokemillon.com": 22,
-  "www.deckshop.de": 15,
   "misticards.com": 15,
   "pokevend.at": 5,
   "www.blackfire.eu": 5,
   "www.poketalk.se": 5,
-  "pokechest.at": 4,
   "cardcorner.at": 4,
-  "pokeboxstore.pt": 1
+  "www.amazon.it": 3,
+  "tradingcard.fi": 2,
+  "www.pokemons.dk": 2,
+  "pokeboxstore.pt": 2,
+  "pikashop.pl": 2,
+  "rogerz.dk": 1,
+  "poke-power.eu": 1,
+  "totalcards.net": 1,
+  "outpostbrussels.be": 1,
+  "cardzone.es": 1
  },
- "runno": 2376
+ "runno": 2377
 }
