@@ -26,7 +26,7 @@
   },
   "Amazon.it": {
    "30th Celebration": "non listato",
-   "Storm Emerald (ME06)": "non listato",
+   "Storm Emerald (ME06)": "listato",
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "TCGplayer": {
@@ -133,7 +133,7 @@
    "Phantasmal Flames (ME02)": "esaurito",
    "Pokémon 151": "esaurito",
    "Prismatic Evolutions": "esaurito",
-   "Crown Zenith": "non listato",
+   "Crown Zenith": "listato",
    "Destined Rivals": "esaurito",
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
@@ -297,7 +297,7 @@
    "Pitch Black (ME05)": "irraggiungibile",
    "30th Celebration": "irraggiungibile",
    "Storm Emerald (ME06)": "irraggiungibile",
-   "Chaos Rising (ME04)": "non listato",
+   "Chaos Rising (ME04)": "irraggiungibile",
    "Phantasmal Flames (ME02)": "irraggiungibile",
    "Pokémon 151": "irraggiungibile",
    "Prismatic Evolutions": "irraggiungibile",
@@ -971,167 +971,11 @@
   "Stoyanov Games|Pitch Black (ME05)": "8.00€"
  },
  "pending": {
-  "LetsGoTry|Chaos Rising (ME04)": [
-   "listato",
-   1
-  ],
-  "Total Cards (UK)|Pokémon 151": [
-   "listato",
-   1
-  ],
-  "Total Cards (UK)|Prismatic Evolutions": [
-   "esaurito",
-   1
-  ],
-  "Pokemillon|Pitch Black (ME05)": [
-   "listato",
-   1
-  ],
-  "Pokemillon|30th Celebration": [
-   "listato",
-   1
-  ],
-  "Pokemillon|Premium Deck Espeon & Umbreon (30th)": [
+  "SunnyStore|Crown Zenith": [
    "non listato",
    1
   ],
-  "Pokemillon|Storm Emerald (ME06)": [
-   "listato",
-   1
-  ],
-  "Pokemillon|Chaos Rising (ME04)": [
-   "listato",
-   1
-  ],
-  "Pokemillon|Phantasmal Flames (ME02)": [
-   "listato",
-   1
-  ],
-  "Pokemillon|Pokémon 151": [
-   "listato",
-   1
-  ],
-  "Pokemillon|Prismatic Evolutions": [
-   "non listato",
-   1
-  ],
-  "Pokemillon|Crown Zenith": [
-   "non listato",
-   1
-  ],
-  "Pokemillon|Destined Rivals": [
-   "non listato",
-   1
-  ],
-  "God of Cards|Pokémon 151": [
-   "listato",
-   1
-  ],
-  "LorenZone|Pitch Black (ME05)": [
-   "non listato",
-   1
-  ],
-  "LorenZone|30th Celebration": [
-   "non listato",
-   1
-  ],
-  "LorenZone|Premium Deck Espeon & Umbreon (30th)": [
-   "non listato",
-   1
-  ],
-  "LorenZone|Storm Emerald (ME06)": [
-   "non listato",
-   1
-  ],
-  "LorenZone|Chaos Rising (ME04)": [
-   "non listato",
-   1
-  ],
-  "LorenZone|Phantasmal Flames (ME02)": [
-   "non listato",
-   1
-  ],
-  "LorenZone|Pokémon 151": [
-   "non listato",
-   1
-  ],
-  "LorenZone|Prismatic Evolutions": [
-   "non listato",
-   1
-  ],
-  "LorenZone|Crown Zenith": [
-   "non listato",
-   1
-  ],
-  "LorenZone|Destined Rivals": [
-   "non listato",
-   1
-  ],
-  "Pokechest|Pitch Black (ME05)": [
-   "non listato",
-   1
-  ],
-  "Pokechest|30th Celebration": [
-   "non listato",
-   1
-  ],
-  "Pokechest|Premium Deck Espeon & Umbreon (30th)": [
-   "non listato",
-   1
-  ],
-  "Pokechest|Storm Emerald (ME06)": [
-   "non listato",
-   1
-  ],
-  "Pokechest|Phantasmal Flames (ME02)": [
-   "non listato",
-   1
-  ],
-  "Pokechest|Pokémon 151": [
-   "non listato",
-   1
-  ],
-  "Pokechest|Prismatic Evolutions": [
-   "non listato",
-   1
-  ],
-  "Pokechest|Crown Zenith": [
-   "non listato",
-   1
-  ],
-  "Pokechest|Destined Rivals": [
-   "non listato",
-   1
-  ],
-  "Pokeka.hu|30th Celebration": [
-   "non listato",
-   1
-  ],
-  "Pokeka.hu|Storm Emerald (ME06)": [
-   "non listato",
-   1
-  ],
-  "Pokeka.hu|Chaos Rising (ME04)": [
-   "non listato",
-   1
-  ],
-  "Pokeka.hu|Phantasmal Flames (ME02)": [
-   "non listato",
-   1
-  ],
-  "Pokeka.hu|Pokémon 151": [
-   "non listato",
-   1
-  ],
-  "Pokeka.hu|Prismatic Evolutions": [
-   "non listato",
-   1
-  ],
-  "Pokeka.hu|Crown Zenith": [
-   "non listato",
-   1
-  ],
-  "Pokeka.hu|Destined Rivals": [
+  "Amazon.it|Storm Emerald (ME06)": [
    "non listato",
    1
   ]
@@ -1162,7 +1006,7 @@
   "Pokecollect|Pitch Black (ME05)": "https://pokecollect.pl/?s=pitch+black&post_type=product",
   "Pikashop|Pitch Black (ME05)": "https://pikashop.pl/?s=pitch+black&post_type=product"
  },
- "digest_slot": "2026-07-17-10",
+ "digest_slot": "2026-07-17-15",
  "log": [
   {
    "ts": "05/07 19:55",
@@ -1283,19 +1127,23 @@
   "www.pokemonia.ro": 197,
   "en.tcg-shop.at": 197,
   "pokevend.at": 116,
+  "pokechest.at": 107,
   "bescards.com": 103,
   "itcg.bg": 102,
   "crispycards.de": 85,
   "cardcorner.at": 85,
   "tcgfanshop.nl": 77,
+  "tcgstore.se": 60,
+  "lorenzone.fr": 30,
+  "pokeka.hu": 30,
   "fabscards.at": 25,
+  "www.pokemillon.com": 19,
   "www.deckshop.de": 11,
   "misticards.com": 11,
   "www.poketalk.se": 11,
   "www.blackfire.eu": 9,
-  "tcgstore.se": 3,
-  "www.amazon.it": 2,
-  "pokeboxstore.pt": 2,
+  "www.amazon.it": 3,
+  "tcgdistribution.fr": 1,
   "games-island.eu": 1
  },
  "runno": 2330
