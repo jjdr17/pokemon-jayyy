@@ -571,7 +571,7 @@
   },
   "PokeCardShop": {
    "Pitch Black (ME05)": "esaurito",
-   "30th Celebration": "listato",
+   "30th Celebration": "esaurito",
    "Storm Emerald (ME06)": "non listato",
    "Chaos Rising (ME04)": "esaurito",
    "Phantasmal Flames (ME02)": "esaurito",
@@ -971,8 +971,8 @@
   "Stoyanov Games|Pitch Black (ME05)": "8.00€"
  },
  "pending": {
-  "PokeCardShop|30th Celebration": [
-   "esaurito",
+  "LetsGoTry|Chaos Rising (ME04)": [
+   "non listato",
    1
   ]
  },
@@ -1139,7 +1139,7 @@
   "www.poketalk.se": 6,
   "www.amazon.it": 4,
   "www.blackfire.eu": 4,
-  "tcgdistribution.fr": 1
+  "oppacards.com": 1
  },
  "runno": 2273
 }
