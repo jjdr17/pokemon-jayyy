@@ -133,7 +133,7 @@
    "Phantasmal Flames (ME02)": "esaurito",
    "Pokémon 151": "esaurito",
    "Prismatic Evolutions": "esaurito",
-   "Crown Zenith": "non listato",
+   "Crown Zenith": "listato",
    "Destined Rivals": "esaurito",
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
@@ -422,7 +422,7 @@
    "Pokémon 151": "irraggiungibile",
    "Prismatic Evolutions": "irraggiungibile",
    "Crown Zenith": "irraggiungibile",
-   "Destined Rivals": "esaurito",
+   "Destined Rivals": "irraggiungibile",
    "Premium Deck Espeon & Umbreon (30th)": "irraggiungibile"
   },
   "TCGFanshop": {
@@ -968,36 +968,20 @@
   "Stoyanov Games|Pitch Black (ME05)": "8.00€"
  },
  "pending": {
-  "God of Cards|Pokémon 151": [
-   "listato",
-   1
-  ],
-  "Poketalk|Premium Deck Espeon & Umbreon (30th)": [
+  "SunnyStore|Crown Zenith": [
    "non listato",
    1
   ],
-  "Poketalk|Storm Emerald (ME06)": [
+  "Amazon.it|30th Celebration": [
    "listato",
    1
   ],
-  "Poketalk|Chaos Rising (ME04)": [
-   "esaurito",
+  "Amazon.it|Storm Emerald (ME06)": [
+   "listato",
    1
   ],
-  "Poketalk|Phantasmal Flames (ME02)": [
-   "esaurito",
-   1
-  ],
-  "Poketalk|Pokémon 151": [
-   "esaurito",
-   1
-  ],
-  "Poketalk|Prismatic Evolutions": [
-   "esaurito",
-   1
-  ],
-  "Poketalk|Crown Zenith": [
-   "esaurito",
+  "LetsGoTry|Chaos Rising (ME04)": [
+   "non listato",
    1
   ]
  },
@@ -1139,7 +1123,7 @@
   "www.chaoscards.co.uk": 199,
   "www.waylandgames.co.uk": 199,
   "www.firestormgames.co.uk": 200,
-  "hobbykort.se": 199,
+  "hobbykort.se": 200,
   "rarecards.nl": 199,
   "tcgcompany.nl": 199,
   "www.nerdom.gr": 199,
@@ -1147,7 +1131,6 @@
   "www.wakuwaku.cz": 199,
   "www.pokemonia.ro": 200,
   "en.tcg-shop.at": 199,
-  "pokechest.at": 109,
   "bescards.com": 106,
   "itcg.bg": 104,
   "crispycards.de": 87,
@@ -1161,9 +1144,11 @@
   "www.deckshop.de": 13,
   "misticards.com": 13,
   "pokevend.at": 4,
+  "www.blackfire.eu": 4,
   "pokeboxstore.pt": 3,
-  "www.amazon.it": 3,
-  "www.blackfire.eu": 2
+  "www.poketalk.se": 3,
+  "pokechest.at": 3,
+  "www.amazon.it": 2
  },
- "runno": 2357
+ "runno": 2358
 }
