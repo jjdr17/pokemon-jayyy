@@ -971,6 +971,18 @@
   "LetsGoTry|Chaos Rising (ME04)": [
    "listato",
    1
+  ],
+  "God of Cards|Pokémon 151": [
+   "listato",
+   1
+  ],
+  "Total Cards (UK)|Pokémon 151": [
+   "listato",
+   1
+  ],
+  "Total Cards (UK)|Prismatic Evolutions": [
+   "esaurito",
+   1
   ]
  },
  "urls": {
@@ -999,7 +1011,7 @@
   "Pokecollect|Pitch Black (ME05)": "https://pokecollect.pl/?s=pitch+black&post_type=product",
   "Pikashop|Pitch Black (ME05)": "https://pikashop.pl/?s=pitch+black&post_type=product"
  },
- "digest_slot": "2026-07-18-18",
+ "digest_slot": "2026-07-18-22",
  "log": [
   {
    "ts": "05/07 19:55",
@@ -1110,13 +1122,13 @@
   "geco-shop.de": 216,
   "www.chaoscards.co.uk": 216,
   "www.waylandgames.co.uk": 216,
-  "www.firestormgames.co.uk": 216,
+  "www.firestormgames.co.uk": 217,
   "hobbykort.se": 216,
   "tcgcompany.nl": 216,
   "www.nerdom.gr": 216,
   "www.pokekarty.pl": 216,
   "www.wakuwaku.cz": 216,
-  "www.pokemonia.ro": 216,
+  "www.pokemonia.ro": 217,
   "en.tcg-shop.at": 216,
   "bescards.com": 123,
   "tcgfanshop.nl": 96,
@@ -1136,7 +1148,7 @@
   "cardcorner.at": 6,
   "www.amazon.it": 4,
   "itcg.bg": 4,
-  "games-island.eu": 1
+  "www.blackfire.eu": 1
  },
- "runno": 2560
+ "runno": 2561
 }
