@@ -813,7 +813,7 @@
    "Pitch Black (ME05)": "listato",
    "30th Celebration": "listato",
    "Storm Emerald (ME06)": "listato",
-   "Chaos Rising (ME04)": "listato",
+   "Chaos Rising (ME04)": "non listato",
    "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "non listato",
    "Prismatic Evolutions": "non listato",
@@ -968,68 +968,8 @@
   "Stoyanov Games|Pitch Black (ME05)": "8.00€"
  },
  "pending": {
-  "BESCARDS|Pitch Black (ME05)": [
-   "esaurito",
-   1
-  ],
-  "BESCARDS|30th Celebration": [
-   "disponibile",
-   1
-  ],
-  "BESCARDS|Premium Deck Espeon & Umbreon (30th)": [
-   "non listato",
-   1
-  ],
-  "BESCARDS|Storm Emerald (ME06)": [
-   "listato",
-   1
-  ],
-  "BESCARDS|Chaos Rising (ME04)": [
-   "disponibile",
-   1
-  ],
-  "BESCARDS|Phantasmal Flames (ME02)": [
-   "esaurito",
-   1
-  ],
-  "BESCARDS|Pokémon 151": [
-   "listato",
-   1
-  ],
-  "BESCARDS|Prismatic Evolutions": [
-   "listato",
-   1
-  ],
-  "BESCARDS|Crown Zenith": [
-   "disponibile",
-   1
-  ],
-  "BESCARDS|Destined Rivals": [
-   "esaurito",
-   1
-  ],
   "SunnyStore|Pitch Black (ME05)": [
    "listato",
-   1
-  ],
-  "SunnyStore|Pokémon 151": [
-   "listato",
-   1
-  ],
-  "SunnyStore|Crown Zenith": [
-   "listato",
-   1
-  ],
-  "God of Cards|Pokémon 151": [
-   "listato",
-   1
-  ],
-  "Total Cards (UK)|Pokémon 151": [
-   "listato",
-   1
-  ],
-  "Total Cards (UK)|Prismatic Evolutions": [
-   "esaurito",
    1
   ]
  },
@@ -1170,14 +1110,15 @@
   "geco-shop.de": 207,
   "www.chaoscards.co.uk": 207,
   "www.waylandgames.co.uk": 207,
-  "www.firestormgames.co.uk": 207,
+  "www.firestormgames.co.uk": 208,
   "hobbykort.se": 207,
   "tcgcompany.nl": 207,
   "www.nerdom.gr": 207,
   "www.pokekarty.pl": 207,
   "www.wakuwaku.cz": 207,
-  "www.pokemonia.ro": 207,
+  "www.pokemonia.ro": 208,
   "en.tcg-shop.at": 207,
+  "bescards.com": 114,
   "itcg.bg": 112,
   "crispycards.de": 95,
   "tcgfanshop.nl": 87,
@@ -1196,8 +1137,11 @@
   "kaissagames.com": 4,
   "www.amazon.it": 3,
   "pokeboxstore.pt": 3,
-  "www.blackfire.eu": 2,
+  "www.blackfire.eu": 1,
+  "tradingcard.fi": 1,
+  "www.pokemons.dk": 1,
+  "pikashop.pl": 1,
   "games-island.eu": 1
  },
- "runno": 2452
+ "runno": 2453
 }
