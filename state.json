@@ -967,7 +967,92 @@
   "Total Cards (UK)|Pitch Black (ME05)": "£4.79",
   "Stoyanov Games|Pitch Black (ME05)": "8.00€"
  },
- "pending": {},
+ "pending": {
+  "LetsGoTry|Chaos Rising (ME04)": [
+   "listato",
+   1
+  ],
+  "Poketalk|Pitch Black (ME05)": [
+   "listato",
+   1
+  ],
+  "Poketalk|30th Celebration": [
+   "listato",
+   1
+  ],
+  "Poketalk|Premium Deck Espeon & Umbreon (30th)": [
+   "non listato",
+   1
+  ],
+  "Poketalk|Storm Emerald (ME06)": [
+   "listato",
+   1
+  ],
+  "Poketalk|Chaos Rising (ME04)": [
+   "esaurito",
+   1
+  ],
+  "Poketalk|Phantasmal Flames (ME02)": [
+   "esaurito",
+   1
+  ],
+  "Poketalk|Pokémon 151": [
+   "esaurito",
+   1
+  ],
+  "Poketalk|Prismatic Evolutions": [
+   "esaurito",
+   1
+  ],
+  "Poketalk|Crown Zenith": [
+   "esaurito",
+   1
+  ],
+  "Poketalk|Destined Rivals": [
+   "esaurito",
+   1
+  ],
+  "MistiCards|Pitch Black (ME05)": [
+   "non listato",
+   1
+  ],
+  "MistiCards|30th Celebration": [
+   "listato",
+   1
+  ],
+  "MistiCards|Premium Deck Espeon & Umbreon (30th)": [
+   "non listato",
+   1
+  ],
+  "MistiCards|Storm Emerald (ME06)": [
+   "non listato",
+   1
+  ],
+  "MistiCards|Chaos Rising (ME04)": [
+   "non listato",
+   1
+  ],
+  "MistiCards|Phantasmal Flames (ME02)": [
+   "non listato",
+   1
+  ],
+  "MistiCards|Pokémon 151": [
+   "non listato",
+   1
+  ],
+  "MistiCards|Prismatic Evolutions": [
+   "non listato",
+   1
+  ],
+  "MistiCards|Crown Zenith": [
+   "non listato",
+   1
+  ],
+  "MistiCards|Destined Rivals": [
+   "non listato",
+   1
+  ]
+ },
  "urls": {
   "Rogerz|Pitch Black (ME05)": "https://rogerz.dk/search?q=pitch+black",
   "Packratt (UK)|Chaos Rising (ME04)": "https://packratt.co.uk/search?q=chaos+rising",
@@ -1121,8 +1206,6 @@
   "lorenzone.fr": 40,
   "www.pokemillon.com": 29,
   "www.deckshop.de": 22,
-  "misticards.com": 22,
-  "www.poketalk.se": 12,
   "pokechest.at": 11,
   "cardcorner.at": 11,
   "fabscards.at": 9,
@@ -1133,9 +1216,11 @@
   "www.blackfire.eu": 3,
   "pokeboxstore.pt": 2,
   "www.amazon.it": 1,
-  "sunnystore.es": 1,
-  "outpostbrussels.be": 1,
-  "rogerz.dk": 1
+  "tradingcard.fi": 1,
+  "www.pokemons.dk": 1,
+  "pikashop.pl": 1,
+  "godofcards.com": 1,
+  "oppacards.com": 1
  },
  "runno": 2460
 }
