@@ -25,7 +25,7 @@
    "Premium Deck Espeon & Umbreon (30th)": "irraggiungibile"
   },
   "Amazon.it": {
-   "30th Celebration": "non listato",
+   "30th Celebration": "listato",
    "Storm Emerald (ME06)": "listato",
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
@@ -813,7 +813,7 @@
    "Pitch Black (ME05)": "listato",
    "30th Celebration": "listato",
    "Storm Emerald (ME06)": "listato",
-   "Chaos Rising (ME04)": "non listato",
+   "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "non listato",
    "Prismatic Evolutions": "non listato",
@@ -967,12 +967,7 @@
   "Total Cards (UK)|Pitch Black (ME05)": "£4.79",
   "Stoyanov Games|Pitch Black (ME05)": "8.00€"
  },
- "pending": {
-  "Amazon.it|Storm Emerald (ME06)": [
-   "non listato",
-   1
-  ]
- },
+ "pending": {},
  "urls": {
   "Rogerz|Pitch Black (ME05)": "https://rogerz.dk/search?q=pitch+black",
   "Packratt (UK)|Chaos Rising (ME04)": "https://packratt.co.uk/search?q=chaos+rising",
@@ -1132,11 +1127,10 @@
   "www.pokemillon.com": 11,
   "lorenzone.fr": 11,
   "pokeka.hu": 11,
-  "crispycards.de": 8,
   "cardcorner.at": 8,
   "itcg.bg": 6,
   "www.blackfire.eu": 3,
-  "www.amazon.it": 3
+  "crispycards.de": 3
  },
  "runno": 2581
 }
