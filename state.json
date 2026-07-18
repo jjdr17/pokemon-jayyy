@@ -813,7 +813,7 @@
    "Pitch Black (ME05)": "listato",
    "30th Celebration": "listato",
    "Storm Emerald (ME06)": "listato",
-   "Chaos Rising (ME04)": "listato",
+   "Chaos Rising (ME04)": "non listato",
    "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "non listato",
    "Prismatic Evolutions": "non listato",
@@ -968,6 +968,58 @@
   "Stoyanov Games|Pitch Black (ME05)": "8.00€"
  },
  "pending": {
+  "Total Cards (UK)|Pokémon 151": [
+   "listato",
+   1
+  ],
+  "Total Cards (UK)|Prismatic Evolutions": [
+   "esaurito",
+   1
+  ],
+  "God of Cards|Pokémon 151": [
+   "listato",
+   1
+  ],
+  "Fabscards|Pitch Black (ME05)": [
+   "non listato",
+   1
+  ],
+  "Fabscards|30th Celebration": [
+   "non listato",
+   1
+  ],
+  "Fabscards|Premium Deck Espeon & Umbreon (30th)": [
+   "non listato",
+   1
+  ],
+  "Fabscards|Storm Emerald (ME06)": [
+   "non listato",
+   1
+  ],
+  "Fabscards|Chaos Rising (ME04)": [
+   "non listato",
+   1
+  ],
+  "Fabscards|Phantasmal Flames (ME02)": [
+   "non listato",
+   1
+  ],
+  "Fabscards|Pokémon 151": [
+   "non listato",
+   1
+  ],
+  "Fabscards|Prismatic Evolutions": [
+   "non listato",
+   1
+  ],
+  "Fabscards|Crown Zenith": [
+   "non listato",
+   1
+  ],
+  "Fabscards|Destined Rivals": [
+   "non listato",
+   1
+  ],
   "SunnyStore|Pokémon 151": [
    "listato",
    1
@@ -1109,9 +1161,9 @@
  "down": {
   "www.cardmarket.com": 208,
   "www.gamestop.com": 84,
-  "www.gamelife.it": 208,
-  "pokeseller14.com": 208,
-  "geco-shop.de": 208,
+  "www.gamelife.it": 209,
+  "pokeseller14.com": 209,
+  "geco-shop.de": 209,
   "www.chaoscards.co.uk": 208,
   "www.waylandgames.co.uk": 208,
   "www.firestormgames.co.uk": 209,
@@ -1130,18 +1182,16 @@
   "lorenzone.fr": 41,
   "www.pokemillon.com": 30,
   "www.deckshop.de": 22,
+  "misticards.com": 22,
+  "www.poketalk.se": 12,
   "pokechest.at": 12,
   "cardcorner.at": 11,
-  "fabscards.at": 9,
   "rarecards.nl": 7,
   "pokevend.at": 7,
   "pokeka.hu": 7,
   "kaissagames.com": 5,
   "www.blackfire.eu": 4,
-  "misticards.com": 3,
-  "www.poketalk.se": 3,
-  "www.amazon.it": 3,
-  "pokeboxstore.pt": 2
+  "tcgdistribution.fr": 1
  },
- "runno": 2467
+ "runno": 2468
 }
