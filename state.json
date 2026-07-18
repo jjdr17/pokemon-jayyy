@@ -131,9 +131,9 @@
    "Storm Emerald (ME06)": "non listato",
    "Chaos Rising (ME04)": "esaurito",
    "Phantasmal Flames (ME02)": "esaurito",
-   "Pokémon 151": "listato",
+   "Pokémon 151": "esaurito",
    "Prismatic Evolutions": "esaurito",
-   "Crown Zenith": "listato",
+   "Crown Zenith": "non listato",
    "Destined Rivals": "esaurito",
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
@@ -813,7 +813,7 @@
    "Pitch Black (ME05)": "listato",
    "30th Celebration": "listato",
    "Storm Emerald (ME06)": "listato",
-   "Chaos Rising (ME04)": "listato",
+   "Chaos Rising (ME04)": "non listato",
    "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "non listato",
    "Prismatic Evolutions": "non listato",
@@ -968,96 +968,12 @@
   "Stoyanov Games|Pitch Black (ME05)": "8.00€"
  },
  "pending": {
-  "Pokemillon|Pitch Black (ME05)": [
+  "SunnyStore|Pokémon 151": [
    "listato",
    1
   ],
-  "Pokemillon|30th Celebration": [
+  "SunnyStore|Crown Zenith": [
    "listato",
-   1
-  ],
-  "Pokemillon|Premium Deck Espeon & Umbreon (30th)": [
-   "non listato",
-   1
-  ],
-  "Pokemillon|Storm Emerald (ME06)": [
-   "listato",
-   1
-  ],
-  "Pokemillon|Chaos Rising (ME04)": [
-   "listato",
-   1
-  ],
-  "Pokemillon|Phantasmal Flames (ME02)": [
-   "listato",
-   1
-  ],
-  "Pokemillon|Pokémon 151": [
-   "listato",
-   1
-  ],
-  "Pokemillon|Prismatic Evolutions": [
-   "non listato",
-   1
-  ],
-  "Pokemillon|Crown Zenith": [
-   "non listato",
-   1
-  ],
-  "Pokemillon|Destined Rivals": [
-   "non listato",
-   1
-  ],
-  "LorenZone|Pitch Black (ME05)": [
-   "non listato",
-   1
-  ],
-  "LorenZone|30th Celebration": [
-   "non listato",
-   1
-  ],
-  "LorenZone|Premium Deck Espeon & Umbreon (30th)": [
-   "non listato",
-   1
-  ],
-  "LorenZone|Storm Emerald (ME06)": [
-   "non listato",
-   1
-  ],
-  "LorenZone|Chaos Rising (ME04)": [
-   "non listato",
-   1
-  ],
-  "LorenZone|Phantasmal Flames (ME02)": [
-   "non listato",
-   1
-  ],
-  "LorenZone|Pokémon 151": [
-   "non listato",
-   1
-  ],
-  "LorenZone|Prismatic Evolutions": [
-   "non listato",
-   1
-  ],
-  "LorenZone|Crown Zenith": [
-   "non listato",
-   1
-  ],
-  "LorenZone|Destined Rivals": [
-   "non listato",
-   1
-  ],
-  "Total Cards (UK)|Pokémon 151": [
-   "listato",
-   1
-  ],
-  "Pokeka.hu|Pitch Black (ME05)": [
-   "non listato",
-   1
-  ],
-  "Pokeka.hu|30th Celebration": [
-   "non listato",
    1
   ]
  },
@@ -1211,17 +1127,20 @@
   "crispycards.de": 97,
   "tcgfanshop.nl": 89,
   "tcgstore.se": 72,
+  "lorenzone.fr": 42,
+  "www.pokemillon.com": 31,
   "www.deckshop.de": 23,
   "pokechest.at": 13,
   "cardcorner.at": 12,
   "fabscards.at": 10,
   "rarecards.nl": 7,
   "pokevend.at": 7,
+  "pokeka.hu": 8,
   "kaissagames.com": 6,
-  "www.blackfire.eu": 5,
   "misticards.com": 4,
   "www.poketalk.se": 4,
-  "www.amazon.it": 4
+  "www.amazon.it": 4,
+  "pokeboxstore.pt": 1
  },
  "runno": 2474
 }
