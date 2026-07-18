@@ -25,7 +25,7 @@
    "Premium Deck Espeon & Umbreon (30th)": "irraggiungibile"
   },
   "Amazon.it": {
-   "30th Celebration": "listato",
+   "30th Celebration": "non listato",
    "Storm Emerald (ME06)": "listato",
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
@@ -968,15 +968,7 @@
   "Stoyanov Games|Pitch Black (ME05)": "8.00€"
  },
  "pending": {
-  "CrispyCards|Pokémon 151": [
-   "non listato",
-   1
-  ],
-  "CrispyCards|Prismatic Evolutions": [
-   "listato",
-   1
-  ],
-  "CrispyCards|Crown Zenith": [
+  "Amazon.it|Storm Emerald (ME06)": [
    "non listato",
    1
   ]
@@ -1122,14 +1114,14 @@
   "hobbykort.se": 218,
   "tcgcompany.nl": 218,
   "www.nerdom.gr": 217,
-  "www.pokekarty.pl": 217,
+  "www.pokekarty.pl": 218,
   "www.wakuwaku.cz": 217,
   "www.pokemonia.ro": 218,
   "en.tcg-shop.at": 217,
   "bescards.com": 124,
   "tcgfanshop.nl": 97,
   "tcgstore.se": 81,
-  "www.deckshop.de": 31,
+  "www.deckshop.de": 32,
   "pokechest.at": 21,
   "fabscards.at": 19,
   "rarecards.nl": 16,
@@ -1140,10 +1132,19 @@
   "www.pokemillon.com": 11,
   "lorenzone.fr": 11,
   "pokeka.hu": 11,
+  "crispycards.de": 8,
   "cardcorner.at": 8,
   "itcg.bg": 6,
   "www.blackfire.eu": 3,
-  "www.amazon.it": 1
+  "www.amazon.it": 2,
+  "tradingcard.fi": 1,
+  "www.pokemons.dk": 1,
+  "pikashop.pl": 1,
+  "extremepokecorner.com": 1,
+  "pokectcg.cz": 1,
+  "pokewoke.store": 1,
+  "pokemonworld.lt": 1,
+  "tcgpikas.lt": 1
  },
- "runno": 2578
+ "runno": 2579
 }
