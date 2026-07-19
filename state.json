@@ -131,7 +131,7 @@
    "Storm Emerald (ME06)": "non listato",
    "Chaos Rising (ME04)": "esaurito",
    "Phantasmal Flames (ME02)": "esaurito",
-   "Pokémon 151": "esaurito",
+   "Pokémon 151": "listato",
    "Prismatic Evolutions": "esaurito",
    "Crown Zenith": "listato",
    "Destined Rivals": "esaurito",
@@ -968,8 +968,8 @@
   "Stoyanov Games|Pitch Black (ME05)": "8.00€"
  },
  "pending": {
-  "LetsGoTry|Chaos Rising (ME04)": [
-   "non listato",
+  "SunnyStore|Pokémon 151": [
+   "esaurito",
    1
   ]
  },
@@ -1105,9 +1105,9 @@
  "down": {
   "www.cardmarket.com": 223,
   "www.gamestop.com": 84,
-  "www.gamelife.it": 223,
-  "pokeseller14.com": 223,
-  "geco-shop.de": 223,
+  "www.gamelife.it": 224,
+  "pokeseller14.com": 224,
+  "geco-shop.de": 224,
   "www.chaoscards.co.uk": 223,
   "www.waylandgames.co.uk": 223,
   "www.firestormgames.co.uk": 224,
@@ -1120,7 +1120,7 @@
   "en.tcg-shop.at": 223,
   "bescards.com": 130,
   "tcgstore.se": 86,
-  "fabscards.at": 24,
+  "fabscards.at": 25,
   "rarecards.nl": 22,
   "pokevend.at": 22,
   "kaissagames.com": 20,
@@ -1132,12 +1132,16 @@
   "crispycards.de": 8,
   "pokechest.at": 7,
   "tcgfanshop.nl": 7,
-  "www.amazon.it": 7,
   "www.blackfire.eu": 7,
   "www.deckshop.de": 6,
   "misticards.com": 4,
   "www.poketalk.se": 4,
-  "pokeboxstore.pt": 1
+  "letsgotry.pl": 3,
+  "tradingcard.fi": 1,
+  "www.pokemons.dk": 1,
+  "pikashop.pl": 1,
+  "tcgdistribution.fr": 1,
+  "oppacards.com": 1
  },
- "runno": 2647
+ "runno": 2648
 }
