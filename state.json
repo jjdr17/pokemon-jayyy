@@ -813,7 +813,7 @@
    "Pitch Black (ME05)": "listato",
    "30th Celebration": "listato",
    "Storm Emerald (ME06)": "listato",
-   "Chaos Rising (ME04)": "non listato",
+   "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "non listato",
    "Prismatic Evolutions": "non listato",
@@ -1098,13 +1098,13 @@
   }
  ],
  "down": {
-  "www.cardmarket.com": 219,
+  "www.cardmarket.com": 220,
   "www.gamestop.com": 84,
   "www.gamelife.it": 220,
   "pokeseller14.com": 220,
   "geco-shop.de": 220,
   "www.chaoscards.co.uk": 219,
-  "www.waylandgames.co.uk": 219,
+  "www.waylandgames.co.uk": 220,
   "www.firestormgames.co.uk": 220,
   "hobbykort.se": 220,
   "tcgcompany.nl": 220,
@@ -1114,10 +1114,8 @@
   "www.pokemonia.ro": 220,
   "en.tcg-shop.at": 219,
   "bescards.com": 126,
-  "tcgfanshop.nl": 99,
   "tcgstore.se": 83,
   "www.deckshop.de": 33,
-  "pokechest.at": 23,
   "fabscards.at": 21,
   "rarecards.nl": 18,
   "pokevend.at": 18,
@@ -1127,10 +1125,14 @@
   "www.pokemillon.com": 13,
   "lorenzone.fr": 13,
   "pokeka.hu": 13,
-  "cardcorner.at": 9,
-  "itcg.bg": 7,
-  "crispycards.de": 4,
-  "www.amazon.it": 4
+  "cardcorner.at": 10,
+  "itcg.bg": 8,
+  "crispycards.de": 5,
+  "pokechest.at": 3,
+  "tcgfanshop.nl": 3,
+  "www.amazon.it": 4,
+  "www.blackfire.eu": 3,
+  "pokeboxstore.pt": 3
  },
- "runno": 2601
+ "runno": 2602
 }
