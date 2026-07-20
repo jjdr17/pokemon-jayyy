@@ -126,9 +126,9 @@
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "SunnyStore": {
-   "Pitch Black (ME05)": "non listato",
+   "Pitch Black (ME05)": "listato",
    "30th Celebration": "listato",
-   "Storm Emerald (ME06)": "non listato",
+   "Storm Emerald (ME06)": "listato",
    "Chaos Rising (ME04)": "esaurito",
    "Phantasmal Flames (ME02)": "esaurito",
    "Pokémon 151": "esaurito",
@@ -710,7 +710,7 @@
    "Pokémon 151": "non listato",
    "Prismatic Evolutions": "non listato",
    "Crown Zenith": "non listato",
-   "Destined Rivals": "non listato",
+   "Destined Rivals": "listato",
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "PokemonWorld.lt": {
@@ -972,15 +972,11 @@
    "non listato",
    1
   ],
-  "SunnyStore|Pitch Black (ME05)": [
+  "God of Cards|Pokémon 151": [
    "listato",
    1
   ],
-  "SunnyStore|Storm Emerald (ME06)": [
-   "listato",
-   1
-  ],
-  "MagicBazar|Destined Rivals": [
+  "Total Cards (UK)|Pokémon 151": [
    "listato",
    1
   ]
@@ -1144,12 +1140,15 @@
   "crispycards.de": 9,
   "cardcorner.at": 9,
   "itcg.bg": 9,
-  "bescards.com": 6,
+  "bescards.com": 7,
   "rarecards.nl": 6,
   "pokevend.at": 6,
   "www.amazon.it": 3,
-  "letsgotry.pl": 2,
-  "www.blackfire.eu": 1
+  "letsgotry.pl": 3,
+  "www.blackfire.eu": 2,
+  "tradingcard.fi": 1,
+  "www.pokemons.dk": 1,
+  "pikashop.pl": 1
  },
- "runno": 2763
+ "runno": 2764
 }
