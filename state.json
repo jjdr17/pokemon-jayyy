@@ -813,7 +813,7 @@
    "Pitch Black (ME05)": "listato",
    "30th Celebration": "listato",
    "Storm Emerald (ME06)": "listato",
-   "Chaos Rising (ME04)": "listato",
+   "Chaos Rising (ME04)": "non listato",
    "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "non listato",
    "Prismatic Evolutions": "non listato",
@@ -968,63 +968,7 @@
   "Stoyanov Games|Pitch Black (ME05)": "8.00€"
  },
  "pending": {
-  "TCGFanshop|Pitch Black (ME05)": [
-   "non listato",
-   1
-  ],
-  "TCGFanshop|30th Celebration": [
-   "non listato",
-   1
-  ],
-  "TCGFanshop|Premium Deck Espeon & Umbreon (30th)": [
-   "non listato",
-   1
-  ],
-  "TCGFanshop|Storm Emerald (ME06)": [
-   "non listato",
-   1
-  ],
-  "TCGFanshop|Chaos Rising (ME04)": [
-   "non listato",
-   1
-  ],
-  "TCGFanshop|Phantasmal Flames (ME02)": [
-   "non listato",
-   1
-  ],
-  "TCGFanshop|Pokémon 151": [
-   "listato",
-   1
-  ],
-  "TCGFanshop|Prismatic Evolutions": [
-   "listato",
-   1
-  ],
-  "TCGFanshop|Crown Zenith": [
-   "non listato",
-   1
-  ],
-  "TCGFanshop|Destined Rivals": [
-   "non listato",
-   1
-  ],
-  "Pokechest|Pitch Black (ME05)": [
-   "non listato",
-   1
-  ],
-  "Pokechest|30th Celebration": [
-   "non listato",
-   1
-  ],
-  "Pokechest|Premium Deck Espeon & Umbreon (30th)": [
-   "non listato",
-   1
-  ],
-  "Pokechest|Storm Emerald (ME06)": [
-   "non listato",
-   1
-  ],
-  "Pokechest|Chaos Rising (ME04)": [
+  "SunnyStore|Storm Emerald (ME06)": [
    "non listato",
    1
   ]
@@ -1179,6 +1123,8 @@
   "www.pokemillon.com": 27,
   "lorenzone.fr": 27,
   "pokeka.hu": 27,
+  "pokechest.at": 18,
+  "tcgfanshop.nl": 18,
   "www.deckshop.de": 17,
   "misticards.com": 15,
   "www.poketalk.se": 15,
@@ -1193,14 +1139,10 @@
   "www.blackfire.eu": 3,
   "tradingcard.fi": 1,
   "www.pokemons.dk": 1,
+  "pikashop.pl": 1,
   "pokectcg.cz": 1,
   "pokewoke.store": 1,
-  "pikashop.pl": 1,
-  "sunnystore.es": 1,
-  "godofcards.com": 1,
-  "sapphire-cards.de": 1,
   "www.lotticards.de": 1,
-  "oppacards.com": 1,
   "extremepokecorner.com": 1
  },
  "runno": 2773
