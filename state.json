@@ -128,7 +128,7 @@
   "SunnyStore": {
    "Pitch Black (ME05)": "listato",
    "30th Celebration": "listato",
-   "Storm Emerald (ME06)": "listato",
+   "Storm Emerald (ME06)": "non listato",
    "Chaos Rising (ME04)": "esaurito",
    "Phantasmal Flames (ME02)": "esaurito",
    "Pokémon 151": "esaurito",
@@ -967,12 +967,7 @@
   "Total Cards (UK)|Pitch Black (ME05)": "£4.79",
   "Stoyanov Games|Pitch Black (ME05)": "8.00€"
  },
- "pending": {
-  "SunnyStore|Storm Emerald (ME06)": [
-   "non listato",
-   1
-  ]
- },
+ "pending": {},
  "urls": {
   "Rogerz|Pitch Black (ME05)": "https://rogerz.dk/search?q=pitch+black",
   "Packratt (UK)|Chaos Rising (ME04)": "https://packratt.co.uk/search?q=chaos+rising",
@@ -1137,7 +1132,8 @@
   "pokechest.at": 3,
   "tcgfanshop.nl": 3,
   "www.pokemillon.com": 3,
-  "letsgotry.pl": 2
+  "letsgotry.pl": 3,
+  "pokeboxstore.pt": 1
  },
- "runno": 2778
+ "runno": 2779
 }
