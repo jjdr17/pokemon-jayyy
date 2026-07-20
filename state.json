@@ -570,7 +570,7 @@
    "Premium Deck Espeon & Umbreon (30th)": "irraggiungibile"
   },
   "PokeCardShop": {
-   "Pitch Black (ME05)": "non listato",
+   "Pitch Black (ME05)": "esaurito",
    "30th Celebration": "esaurito",
    "Storm Emerald (ME06)": "non listato",
    "Chaos Rising (ME04)": "esaurito",
@@ -967,16 +967,7 @@
   "Total Cards (UK)|Pitch Black (ME05)": "£4.79",
   "Stoyanov Games|Pitch Black (ME05)": "8.00€"
  },
- "pending": {
-  "PokeCardShop|Pitch Black (ME05)": [
-   "esaurito",
-   1
-  ],
-  "LetsGoTry|Chaos Rising (ME04)": [
-   "listato",
-   1
-  ]
- },
+ "pending": {},
  "urls": {
   "Rogerz|Pitch Black (ME05)": "https://rogerz.dk/search?q=pitch+black",
   "Packratt (UK)|Chaos Rising (ME04)": "https://packratt.co.uk/search?q=chaos+rising",
@@ -1131,7 +1122,7 @@
   "crispycards.de": 19,
   "cardcorner.at": 19,
   "itcg.bg": 19,
-  "bescards.com": 16,
+  "bescards.com": 17,
   "pokevend.at": 16,
   "pokechest.at": 12,
   "tcgfanshop.nl": 12,
@@ -1140,7 +1131,7 @@
   "rarecards.nl": 7,
   "fabscards.at": 5,
   "www.amazon.it": 3,
-  "www.blackfire.eu": 1
+  "www.blackfire.eu": 2
  },
- "runno": 2883
+ "runno": 2884
 }
