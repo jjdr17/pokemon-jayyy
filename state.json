@@ -155,7 +155,7 @@
    "Storm Emerald (ME06)": "non listato",
    "Chaos Rising (ME04)": "non listato",
    "Phantasmal Flames (ME02)": "listato",
-   "Pokémon 151": "irraggiungibile",
+   "Pokémon 151": "listato",
    "Prismatic Evolutions": "listato",
    "Crown Zenith": "non listato",
    "Destined Rivals": "non listato",
@@ -215,7 +215,7 @@
    "Storm Emerald (ME06)": "listato",
    "Chaos Rising (ME04)": "esaurito",
    "Phantasmal Flames (ME02)": "esaurito",
-   "Pokémon 151": "irraggiungibile",
+   "Pokémon 151": "listato",
    "Prismatic Evolutions": "irraggiungibile",
    "Crown Zenith": "esaurito",
    "Destined Rivals": "esaurito",
@@ -972,12 +972,8 @@
    "non listato",
    1
   ],
-  "God of Cards|Pokémon 151": [
-   "listato",
-   1
-  ],
-  "Total Cards (UK)|Pokémon 151": [
-   "listato",
+  "Total Cards (UK)|Prismatic Evolutions": [
+   "esaurito",
    1
   ]
  },
@@ -1118,13 +1114,13 @@
   "geco-shop.de": 233,
   "www.chaoscards.co.uk": 233,
   "www.waylandgames.co.uk": 233,
-  "www.firestormgames.co.uk": 233,
+  "www.firestormgames.co.uk": 234,
   "hobbykort.se": 233,
   "tcgcompany.nl": 233,
   "www.nerdom.gr": 233,
   "www.pokekarty.pl": 233,
   "www.wakuwaku.cz": 233,
-  "www.pokemonia.ro": 233,
+  "www.pokemonia.ro": 234,
   "en.tcg-shop.at": 233,
   "tcgstore.se": 96,
   "kaissagames.com": 30,
@@ -1145,10 +1141,7 @@
   "pokevend.at": 6,
   "www.amazon.it": 3,
   "letsgotry.pl": 3,
-  "www.blackfire.eu": 2,
-  "tradingcard.fi": 1,
-  "www.pokemons.dk": 1,
-  "pikashop.pl": 1
+  "www.blackfire.eu": 3
  },
- "runno": 2764
+ "runno": 2765
 }
