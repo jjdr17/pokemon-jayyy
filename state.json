@@ -967,44 +967,7 @@
   "Total Cards (UK)|Pitch Black (ME05)": "£4.79",
   "Stoyanov Games|Pitch Black (ME05)": "8.00€"
  },
- "pending": {
-  "God of Cards|Phantasmal Flames (ME02)": [
-   "non listato",
-   1
-  ],
-  "Total Cards (UK)|Prismatic Evolutions": [
-   "esaurito",
-   1
-  ],
-  "CardZone|Pokémon 151": [
-   "esaurito",
-   1
-  ],
-  "Fabscards|30th Celebration": [
-   "non listato",
-   1
-  ],
-  "Fabscards|Premium Deck Espeon & Umbreon (30th)": [
-   "non listato",
-   1
-  ],
-  "Fabscards|Storm Emerald (ME06)": [
-   "non listato",
-   1
-  ],
-  "Fabscards|Chaos Rising (ME04)": [
-   "non listato",
-   1
-  ],
-  "Fabscards|Phantasmal Flames (ME02)": [
-   "non listato",
-   1
-  ],
-  "Fabscards|Pokémon 151": [
-   "non listato",
-   1
-  ]
- },
+ "pending": {},
  "urls": {
   "Rogerz|Pitch Black (ME05)": "https://rogerz.dk/search?q=pitch+black",
   "Packratt (UK)|Chaos Rising (ME04)": "https://packratt.co.uk/search?q=chaos+rising",
@@ -1166,8 +1129,14 @@
   "www.pokemillon.com": 16,
   "www.deckshop.de": 15,
   "rarecards.nl": 11,
-  "www.amazon.it": 8,
-  "www.blackfire.eu": 6
+  "fabscards.at": 5,
+  "www.blackfire.eu": 2,
+  "pokectcg.cz": 1,
+  "pokewoke.store": 1,
+  "tcgpikas.lt": 1,
+  "pokemonworld.lt": 1,
+  "tcgdistribution.fr": 1,
+  "extremepokecorner.com": 1
  },
  "runno": 2936
 }
