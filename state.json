@@ -971,6 +971,14 @@
   "CardZone|Pokémon 151": [
    "esaurito",
    1
+  ],
+  "PokeCardShop|30th Celebration": [
+   "non listato",
+   1
+  ],
+  "LetsGoTry|Chaos Rising (ME04)": [
+   "listato",
+   1
   ]
  },
  "urls": {
@@ -1111,7 +1119,7 @@
   "www.chaoscards.co.uk": 257,
   "www.waylandgames.co.uk": 257,
   "www.firestormgames.co.uk": 258,
-  "hobbykort.se": 257,
+  "hobbykort.se": 258,
   "tcgcompany.nl": 257,
   "www.nerdom.gr": 257,
   "www.pokekarty.pl": 257,
@@ -1138,5 +1146,5 @@
   "cardcorner.at": 3,
   "www.blackfire.eu": 3
  },
- "runno": 3053
+ "runno": 3054
 }
