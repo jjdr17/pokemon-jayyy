@@ -975,10 +975,6 @@
   "CardZone|Pokémon 151": [
    "esaurito",
    1
-  ],
-  "LetsGoTry|Chaos Rising (ME04)": [
-   "listato",
-   1
   ]
  },
  "urls": {
@@ -1007,7 +1003,7 @@
   "Pokecollect|Pitch Black (ME05)": "https://pokecollect.pl/?s=pitch+black&post_type=product",
   "Pikashop|Pitch Black (ME05)": "https://pikashop.pl/?s=pitch+black&post_type=product"
  },
- "digest_slot": "2026-07-21-10",
+ "digest_slot": "2026-07-21-15",
  "log": [
   {
    "ts": "05/07 19:55",
@@ -1120,13 +1116,13 @@
   "www.waylandgames.co.uk": 255,
   "www.firestormgames.co.uk": 256,
   "hobbykort.se": 256,
-  "tcgcompany.nl": 255,
+  "tcgcompany.nl": 256,
   "www.nerdom.gr": 255,
   "www.pokekarty.pl": 255,
   "www.wakuwaku.cz": 255,
   "www.pokemonia.ro": 256,
   "en.tcg-shop.at": 255,
-  "tcgstore.se": 118,
+  "tcgstore.se": 119,
   "kaissagames.com": 52,
   "lorenzone.fr": 49,
   "pokeka.hu": 49,
@@ -1143,7 +1139,8 @@
   "rarecards.nl": 19,
   "fabscards.at": 13,
   "www.deckshop.de": 7,
-  "www.blackfire.eu": 3
+  "www.blackfire.eu": 3,
+  "www.amazon.it": 1
  },
- "runno": 3032
+ "runno": 3033
 }
