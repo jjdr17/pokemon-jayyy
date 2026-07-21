@@ -975,6 +975,14 @@
   "CardZone|Pokémon 151": [
    "esaurito",
    1
+  ],
+  "Amazon.it|Storm Emerald (ME06)": [
+   "listato",
+   1
+  ],
+  "LetsGoTry|Chaos Rising (ME04)": [
+   "listato",
+   1
   ]
  },
  "urls": {
@@ -1117,7 +1125,7 @@
   "www.firestormgames.co.uk": 253,
   "hobbykort.se": 253,
   "tcgcompany.nl": 253,
-  "www.nerdom.gr": 252,
+  "www.nerdom.gr": 253,
   "www.pokekarty.pl": 253,
   "www.wakuwaku.cz": 253,
   "www.pokemonia.ro": 253,
@@ -1132,15 +1140,17 @@
   "cardcorner.at": 29,
   "itcg.bg": 29,
   "bescards.com": 26,
-  "pokevend.at": 25,
+  "pokevend.at": 26,
   "pokechest.at": 22,
   "tcgfanshop.nl": 22,
   "www.pokemillon.com": 22,
-  "rarecards.nl": 16,
+  "rarecards.nl": 17,
   "fabscards.at": 10,
   "www.deckshop.de": 5,
   "www.blackfire.eu": 5,
-  "pokebank.es": 1
+  "www.amazon.it": 3,
+  "pokebank.es": 2,
+  "tcgdistribution.fr": 1
  },
- "runno": 3002
+ "runno": 3003
 }
