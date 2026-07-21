@@ -975,6 +975,10 @@
   "CardZone|Pokémon 151": [
    "esaurito",
    1
+  ],
+  "LetsGoTry|Chaos Rising (ME04)": [
+   "non listato",
+   1
   ]
  },
  "urls": {
@@ -1121,7 +1125,7 @@
   "www.pokekarty.pl": 255,
   "www.wakuwaku.cz": 254,
   "www.pokemonia.ro": 255,
-  "en.tcg-shop.at": 254,
+  "en.tcg-shop.at": 255,
   "tcgstore.se": 118,
   "kaissagames.com": 51,
   "lorenzone.fr": 48,
@@ -1133,15 +1137,16 @@
   "itcg.bg": 31,
   "bescards.com": 28,
   "pokevend.at": 27,
-  "pokechest.at": 23,
-  "tcgfanshop.nl": 23,
+  "pokechest.at": 24,
+  "tcgfanshop.nl": 24,
   "www.pokemillon.com": 23,
   "rarecards.nl": 18,
   "fabscards.at": 12,
   "www.deckshop.de": 7,
   "www.blackfire.eu": 6,
   "pokeboxstore.pt": 3,
-  "www.amazon.it": 1
+  "www.amazon.it": 2,
+  "games-island.eu": 1
  },
- "runno": 3024
+ "runno": 3025
 }
