@@ -967,7 +967,20 @@
   "Total Cards (UK)|Pitch Black (ME05)": "£4.79",
   "Stoyanov Games|Pitch Black (ME05)": "8.00€"
  },
- "pending": {},
+ "pending": {
+  "Total Cards (UK)|Prismatic Evolutions": [
+   "esaurito",
+   1
+  ],
+  "God of Cards|Phantasmal Flames (ME02)": [
+   "non listato",
+   1
+  ],
+  "CardZone|Pokémon 151": [
+   "esaurito",
+   1
+  ]
+ },
  "urls": {
   "Rogerz|Pitch Black (ME05)": "https://rogerz.dk/search?q=pitch+black",
   "Packratt (UK)|Chaos Rising (ME04)": "https://packratt.co.uk/search?q=chaos+rising",
@@ -1109,7 +1122,7 @@
   "hobbykort.se": 251,
   "tcgcompany.nl": 251,
   "www.nerdom.gr": 250,
-  "www.pokekarty.pl": 250,
+  "www.pokekarty.pl": 251,
   "www.wakuwaku.cz": 250,
   "www.pokemonia.ro": 251,
   "en.tcg-shop.at": 250,
@@ -1127,11 +1140,10 @@
   "pokechest.at": 19,
   "tcgfanshop.nl": 19,
   "www.pokemillon.com": 19,
-  "www.deckshop.de": 18,
   "rarecards.nl": 14,
   "fabscards.at": 8,
   "www.amazon.it": 5,
   "www.blackfire.eu": 3
  },
- "runno": 2974
+ "runno": 2975
 }
