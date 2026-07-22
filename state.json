@@ -707,7 +707,7 @@
    "Storm Emerald (ME06)": "non listato",
    "Chaos Rising (ME04)": "non listato",
    "Phantasmal Flames (ME02)": "non listato",
-   "Pokémon 151": "non listato",
+   "Pokémon 151": "listato",
    "Prismatic Evolutions": "non listato",
    "Crown Zenith": "non listato",
    "Destined Rivals": "listato",
@@ -973,7 +973,11 @@
    1
   ],
   "MagicBazar|Pokémon 151": [
-   "listato",
+   "non listato",
+   1
+  ],
+  "LetsGoTry|Chaos Rising (ME04)": [
+   "non listato",
    1
   ]
  },
@@ -1141,12 +1145,7 @@
   "pokeka.hu": 8,
   "www.blackfire.eu": 7,
   "www.amazon.it": 6,
-  "tradingcard.fi": 2,
-  "www.pokemons.dk": 2,
-  "pikashop.pl": 2,
-  "pokectcg.cz": 1,
-  "pokewoke.store": 1,
-  "extremepokecorner.com": 1
+  "pokeboxstore.pt": 1
  },
  "runno": 3147
 }
