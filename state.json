@@ -968,8 +968,12 @@
   "Stoyanov Games|Pitch Black (ME05)": "8.00€"
  },
  "pending": {
-  "Amazon.it|Storm Emerald (ME06)": [
-   "listato",
+  "MagicBazar|Pokémon 151": [
+   "non listato",
+   1
+  ],
+  "LetsGoTry|Chaos Rising (ME04)": [
+   "non listato",
    1
   ]
  },
@@ -999,7 +1003,7 @@
   "Pokecollect|Pitch Black (ME05)": "https://pokecollect.pl/?s=pitch+black&post_type=product",
   "Pikashop|Pitch Black (ME05)": "https://pikashop.pl/?s=pitch+black&post_type=product"
  },
- "digest_slot": "2026-07-21-22",
+ "digest_slot": "2026-07-22-10",
  "log": [
   {
    "ts": "05/07 19:55",
@@ -1110,13 +1114,13 @@
   "geco-shop.de": 270,
   "www.chaoscards.co.uk": 270,
   "www.waylandgames.co.uk": 270,
-  "www.firestormgames.co.uk": 270,
+  "www.firestormgames.co.uk": 271,
   "hobbykort.se": 270,
   "tcgcompany.nl": 270,
   "www.nerdom.gr": 270,
   "www.pokekarty.pl": 270,
   "www.wakuwaku.cz": 270,
-  "www.pokemonia.ro": 270,
+  "www.pokemonia.ro": 271,
   "en.tcg-shop.at": 270,
   "tcgstore.se": 133,
   "kaissagames.com": 67,
@@ -1136,7 +1140,10 @@
   "www.poketalk.se": 4,
   "crispycards.de": 3,
   "pokeboxstore.pt": 3,
-  "godofcards.com": 1
+  "www.blackfire.eu": 1,
+  "tradingcard.fi": 1,
+  "www.pokemons.dk": 1,
+  "pikashop.pl": 1
  },
- "runno": 3208
+ "runno": 3209
 }
