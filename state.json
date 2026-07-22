@@ -813,7 +813,7 @@
    "Pitch Black (ME05)": "listato",
    "30th Celebration": "listato",
    "Storm Emerald (ME06)": "listato",
-   "Chaos Rising (ME04)": "non listato",
+   "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "non listato",
    "Prismatic Evolutions": "non listato",
@@ -975,6 +975,22 @@
   "SunnyStore|Pokémon 151": [
    "listato",
    1
+  ],
+  "LorenZone|Prismatic Evolutions": [
+   "non listato",
+   1
+  ],
+  "LorenZone|Crown Zenith": [
+   "non listato",
+   1
+  ],
+  "LorenZone|Destined Rivals": [
+   "non listato",
+   1
+  ],
+  "MagicBazar|Pokémon 151": [
+   "listato",
+   1
   ]
  },
  "urls": {
@@ -1124,7 +1140,6 @@
   "en.tcg-shop.at": 266,
   "tcgstore.se": 129,
   "kaissagames.com": 63,
-  "lorenzone.fr": 60,
   "misticards.com": 47,
   "www.poketalk.se": 47,
   "crispycards.de": 42,
@@ -1143,7 +1158,9 @@
   "www.amazon.it": 7,
   "tradingcard.fi": 3,
   "www.pokemons.dk": 3,
-  "pokeboxstore.pt": 1
+  "pokeboxstore.pt": 1,
+  "rogerz.dk": 1,
+  "godofcards.com": 1
  },
  "runno": 3158
 }
