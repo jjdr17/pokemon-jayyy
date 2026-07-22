@@ -707,7 +707,7 @@
    "Storm Emerald (ME06)": "non listato",
    "Chaos Rising (ME04)": "non listato",
    "Phantasmal Flames (ME02)": "non listato",
-   "Pokémon 151": "listato",
+   "Pokémon 151": "non listato",
    "Prismatic Evolutions": "non listato",
    "Crown Zenith": "non listato",
    "Destined Rivals": "listato",
@@ -971,6 +971,10 @@
   "Amazon.it|30th Celebration": [
    "listato",
    1
+  ],
+  "MagicBazar|Pokémon 151": [
+   "listato",
+   1
   ]
  },
  "urls": {
@@ -1113,7 +1117,7 @@
   "www.firestormgames.co.uk": 265,
   "hobbykort.se": 265,
   "tcgcompany.nl": 265,
-  "www.nerdom.gr": 264,
+  "www.nerdom.gr": 265,
   "www.pokekarty.pl": 265,
   "www.wakuwaku.cz": 265,
   "www.pokemonia.ro": 265,
@@ -1126,17 +1130,23 @@
   "crispycards.de": 41,
   "itcg.bg": 41,
   "bescards.com": 38,
-  "pokevend.at": 37,
+  "pokevend.at": 38,
   "pokechest.at": 34,
   "tcgfanshop.nl": 34,
   "www.pokemillon.com": 34,
-  "rarecards.nl": 28,
+  "rarecards.nl": 29,
   "fabscards.at": 22,
   "www.deckshop.de": 17,
   "cardcorner.at": 11,
   "pokeka.hu": 8,
   "www.blackfire.eu": 7,
-  "www.amazon.it": 6
+  "www.amazon.it": 6,
+  "tradingcard.fi": 2,
+  "www.pokemons.dk": 2,
+  "pikashop.pl": 2,
+  "pokectcg.cz": 1,
+  "pokewoke.store": 1,
+  "extremepokecorner.com": 1
  },
- "runno": 3146
+ "runno": 3147
 }
