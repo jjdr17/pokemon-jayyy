@@ -813,7 +813,7 @@
    "Pitch Black (ME05)": "listato",
    "30th Celebration": "listato",
    "Storm Emerald (ME06)": "listato",
-   "Chaos Rising (ME04)": "listato",
+   "Chaos Rising (ME04)": "non listato",
    "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "non listato",
    "Prismatic Evolutions": "non listato",
@@ -958,7 +958,7 @@
   "papelinho.pt": "https://papelinho.pt/?s={q}&post_type=product"
  },
  "alerts": {
-  "PokeCardShop|30th Celebration": 1784821930.2702591
+  "PokeCardShop|30th Celebration": 1784821103.1019025
  },
  "prices": {
   "Packratt (UK)|Chaos Rising (ME04)": "£10.01",
@@ -970,12 +970,7 @@
   "Stoyanov Games|Pitch Black (ME05)": "8.00€",
   "PokeCardShop|30th Celebration": "€8.95"
  },
- "pending": {
-  "LetsGoTry|Chaos Rising (ME04)": [
-   "non listato",
-   1
-  ]
- },
+ "pending": {},
  "urls": {
   "Rogerz|Pitch Black (ME05)": "https://rogerz.dk/search?q=pitch+black",
   "Packratt (UK)|Chaos Rising (ME04)": "https://packratt.co.uk/search?q=chaos+rising",
@@ -1106,7 +1101,7 @@
    "url": "https://pokewoke.store/?s=pokemon+151&post_type=product"
   },
   {
-   "ts": "23/07 17:52",
+   "ts": "23/07 17:38",
    "title": "🚨 RESTOCK: 30th Celebration — PokeCardShop",
    "url": "https://www.pokecardshop.be/search?q=30th+celebration"
   }
@@ -1145,7 +1140,8 @@
   "pokeka.hu": 6,
   "www.amazon.it": 6,
   "pokechest.at": 5,
-  "lorenzone.fr": 4
+  "lorenzone.fr": 4,
+  "tcgdistribution.fr": 1
  },
  "runno": 3478
 }
