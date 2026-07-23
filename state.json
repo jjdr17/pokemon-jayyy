@@ -968,8 +968,32 @@
   "Stoyanov Games|Pitch Black (ME05)": "8.00€"
  },
  "pending": {
-  "LetsGoTry|Chaos Rising (ME04)": [
+  "Poketalk|Pitch Black (ME05)": [
+   "listato",
+   1
+  ],
+  "Poketalk|30th Celebration": [
    "non listato",
+   1
+  ],
+  "Poketalk|Premium Deck Espeon & Umbreon (30th)": [
+   "non listato",
+   1
+  ],
+  "Poketalk|Storm Emerald (ME06)": [
+   "listato",
+   1
+  ],
+  "Poketalk|Chaos Rising (ME04)": [
+   "esaurito",
+   1
+  ],
+  "Poketalk|Phantasmal Flames (ME02)": [
+   "esaurito",
+   1
+  ],
+  "Poketalk|Pokémon 151": [
+   "esaurito",
    1
   ]
  },
@@ -999,7 +1023,7 @@
   "Pokecollect|Pitch Black (ME05)": "https://pokecollect.pl/?s=pitch+black&post_type=product",
   "Pikashop|Pitch Black (ME05)": "https://pikashop.pl/?s=pitch+black&post_type=product"
  },
- "digest_slot": "2026-07-22-22",
+ "digest_slot": "2026-07-23-10",
  "log": [
   {
    "ts": "05/07 19:55",
@@ -1108,7 +1132,7 @@
   "www.gamelife.it": 287,
   "pokeseller14.com": 287,
   "geco-shop.de": 287,
-  "www.chaoscards.co.uk": 286,
+  "www.chaoscards.co.uk": 287,
   "www.waylandgames.co.uk": 287,
   "www.firestormgames.co.uk": 287,
   "hobbykort.se": 287,
@@ -1126,8 +1150,7 @@
   "www.deckshop.de": 39,
   "cardcorner.at": 33,
   "lorenzone.fr": 23,
-  "misticards.com": 20,
-  "www.poketalk.se": 20,
+  "misticards.com": 21,
   "crispycards.de": 17,
   "papelinho.pt": 14,
   "pokevend.at": 13,
@@ -1137,7 +1160,13 @@
   "www.blackfire.eu": 5,
   "www.amazon.it": 4,
   "www.pokemillon.com": 3,
-  "pokeka.hu": 3
+  "pokeka.hu": 3,
+  "extremepokecorner.com": 1,
+  "cardzone.es": 1,
+  "pokectcg.cz": 1,
+  "pokewoke.store": 1,
+  "tcgpikas.lt": 1,
+  "pokemonworld.lt": 1
  },
- "runno": 3407
+ "runno": 3408
 }
