@@ -571,7 +571,7 @@
   },
   "PokeCardShop": {
    "Pitch Black (ME05)": "esaurito",
-   "30th Celebration": "esaurito",
+   "30th Celebration": "disponibile",
    "Storm Emerald (ME06)": "non listato",
    "Chaos Rising (ME04)": "esaurito",
    "Phantasmal Flames (ME02)": "esaurito",
@@ -813,7 +813,7 @@
    "Pitch Black (ME05)": "listato",
    "30th Celebration": "listato",
    "Storm Emerald (ME06)": "listato",
-   "Chaos Rising (ME04)": "listato",
+   "Chaos Rising (ME04)": "non listato",
    "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "non listato",
    "Prismatic Evolutions": "non listato",
@@ -957,7 +957,9 @@
   "bescards.com": "https://bescards.com/search?q={q}",
   "papelinho.pt": "https://papelinho.pt/?s={q}&post_type=product"
  },
- "alerts": {},
+ "alerts": {
+  "PokeCardShop|30th Celebration": 1784821103.1019025
+ },
  "prices": {
   "Packratt (UK)|Chaos Rising (ME04)": "£10.01",
   "Packratt (UK)|Pokémon 151": "£29.99",
@@ -965,7 +967,8 @@
   "MagicBazar|Pitch Black (ME05)": "$84",
   "SunnyStore|Pokémon 151": "€26,90",
   "Total Cards (UK)|Pitch Black (ME05)": "£4.79",
-  "Stoyanov Games|Pitch Black (ME05)": "8.00€"
+  "Stoyanov Games|Pitch Black (ME05)": "8.00€",
+  "PokeCardShop|30th Celebration": "€8.95"
  },
  "pending": {},
  "urls": {
@@ -992,7 +995,8 @@
   "Total Cards (UK)|30th Celebration": "https://totalcards.net/products/pokemon-30th-celebration-booster-bundle?_pos=2&_sid=904be7d3d&_ss=r",
   "Pokewoke|Pokémon 151": "https://pokewoke.store/?s=pokemon+151&post_type=product",
   "Pokecollect|Pitch Black (ME05)": "https://pokecollect.pl/?s=pitch+black&post_type=product",
-  "Pikashop|Pitch Black (ME05)": "https://pikashop.pl/?s=pitch+black&post_type=product"
+  "Pikashop|Pitch Black (ME05)": "https://pikashop.pl/?s=pitch+black&post_type=product",
+  "PokeCardShop|30th Celebration": "https://www.pokecardshop.be/search?q=30th+celebration"
  },
  "digest_slot": "2026-07-23-15",
  "log": [
@@ -1095,6 +1099,11 @@
    "ts": "10/07 15:41",
    "title": "🚨 DISPONIBILE/PREORDER: Pokémon 151 — Pokewoke",
    "url": "https://pokewoke.store/?s=pokemon+151&post_type=product"
+  },
+  {
+   "ts": "23/07 17:38",
+   "title": "🚨 RESTOCK: 30th Celebration — PokeCardShop",
+   "url": "https://www.pokecardshop.be/search?q=30th+celebration"
   }
  ],
  "down": {
