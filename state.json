@@ -813,7 +813,7 @@
    "Pitch Black (ME05)": "listato",
    "30th Celebration": "listato",
    "Storm Emerald (ME06)": "listato",
-   "Chaos Rising (ME04)": "listato",
+   "Chaos Rising (ME04)": "non listato",
    "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "non listato",
    "Prismatic Evolutions": "non listato",
@@ -967,132 +967,7 @@
   "Total Cards (UK)|Pitch Black (ME05)": "£4.79",
   "Stoyanov Games|Pitch Black (ME05)": "8.00€"
  },
- "pending": {
-  "Pokemillon|Pitch Black (ME05)": [
-   "listato",
-   1
-  ],
-  "Pokemillon|30th Celebration": [
-   "listato",
-   1
-  ],
-  "Pokemillon|Premium Deck Espeon & Umbreon (30th)": [
-   "non listato",
-   1
-  ],
-  "Pokemillon|Storm Emerald (ME06)": [
-   "listato",
-   1
-  ],
-  "Pokemillon|Chaos Rising (ME04)": [
-   "listato",
-   1
-  ],
-  "Pokemillon|Phantasmal Flames (ME02)": [
-   "listato",
-   1
-  ],
-  "Pokemillon|Pokémon 151": [
-   "listato",
-   1
-  ],
-  "Pokemillon|Prismatic Evolutions": [
-   "non listato",
-   1
-  ],
-  "Pokemillon|Crown Zenith": [
-   "listato",
-   1
-  ],
-  "Pokemillon|Destined Rivals": [
-   "non listato",
-   1
-  ],
-  "LorenZone|Pitch Black (ME05)": [
-   "non listato",
-   1
-  ],
-  "LorenZone|30th Celebration": [
-   "non listato",
-   1
-  ],
-  "LorenZone|Premium Deck Espeon & Umbreon (30th)": [
-   "non listato",
-   1
-  ],
-  "LorenZone|Storm Emerald (ME06)": [
-   "non listato",
-   1
-  ],
-  "LorenZone|Chaos Rising (ME04)": [
-   "non listato",
-   1
-  ],
-  "LorenZone|Phantasmal Flames (ME02)": [
-   "non listato",
-   1
-  ],
-  "LorenZone|Pokémon 151": [
-   "non listato",
-   1
-  ],
-  "LorenZone|Prismatic Evolutions": [
-   "non listato",
-   1
-  ],
-  "LorenZone|Crown Zenith": [
-   "non listato",
-   1
-  ],
-  "LorenZone|Destined Rivals": [
-   "non listato",
-   1
-  ],
-  "Pokeka.hu|Pitch Black (ME05)": [
-   "non listato",
-   1
-  ],
-  "Pokeka.hu|30th Celebration": [
-   "non listato",
-   1
-  ],
-  "Pokeka.hu|Premium Deck Espeon & Umbreon (30th)": [
-   "non listato",
-   1
-  ],
-  "Pokeka.hu|Storm Emerald (ME06)": [
-   "non listato",
-   1
-  ],
-  "Pokeka.hu|Chaos Rising (ME04)": [
-   "non listato",
-   1
-  ],
-  "Pokeka.hu|Phantasmal Flames (ME02)": [
-   "non listato",
-   1
-  ],
-  "Pokeka.hu|Pokémon 151": [
-   "non listato",
-   1
-  ],
-  "Pokeka.hu|Prismatic Evolutions": [
-   "non listato",
-   1
-  ],
-  "Pokeka.hu|Destined Rivals": [
-   "non listato",
-   1
-  ],
-  "CardZone|Pokémon 151": [
-   "esaurito",
-   1
-  ],
-  "Total Cards (UK)|Prismatic Evolutions": [
-   "esaurito",
-   1
-  ]
- },
+ "pending": {},
  "urls": {
   "Rogerz|Pitch Black (ME05)": "https://rogerz.dk/search?q=pitch+black",
   "Packratt (UK)|Chaos Rising (ME04)": "https://packratt.co.uk/search?q=chaos+rising",
@@ -1233,7 +1108,7 @@
   "www.firestormgames.co.uk": 286,
   "hobbykort.se": 286,
   "tcgcompany.nl": 286,
-  "www.nerdom.gr": 285,
+  "www.nerdom.gr": 286,
   "www.pokekarty.pl": 286,
   "www.wakuwaku.cz": 286,
   "www.pokemonia.ro": 286,
@@ -1245,19 +1120,22 @@
   "tcgfanshop.nl": 55,
   "www.deckshop.de": 38,
   "cardcorner.at": 32,
+  "lorenzone.fr": 23,
   "misticards.com": 20,
   "www.poketalk.se": 20,
   "crispycards.de": 16,
   "papelinho.pt": 13,
-  "pokevend.at": 12,
-  "rarecards.nl": 12,
+  "pokevend.at": 13,
+  "rarecards.nl": 13,
   "fabscards.at": 12,
   "tcgstore.se": 6,
   "www.blackfire.eu": 5,
-  "www.lotticards.de": 2,
+  "www.amazon.it": 3,
   "tradingcard.fi": 1,
   "www.pokemons.dk": 1,
-  "pikashop.pl": 1
+  "www.pokemillon.com": 1,
+  "pikashop.pl": 1,
+  "pokeka.hu": 1
  },
- "runno": 3398
+ "runno": 3399
 }
