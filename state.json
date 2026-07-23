@@ -958,7 +958,7 @@
   "papelinho.pt": "https://papelinho.pt/?s={q}&post_type=product"
  },
  "alerts": {
-  "PokeCardShop|30th Celebration": 1784821930.2702591
+  "PokeCardShop|30th Celebration": 1784821103.1019025
  },
  "prices": {
   "Packratt (UK)|Chaos Rising (ME04)": "£10.01",
@@ -970,7 +970,12 @@
   "Stoyanov Games|Pitch Black (ME05)": "8.00€",
   "PokeCardShop|30th Celebration": "€8.95"
  },
- "pending": {},
+ "pending": {
+  "LetsGoTry|Chaos Rising (ME04)": [
+   "non listato",
+   1
+  ]
+ },
  "urls": {
   "Rogerz|Pitch Black (ME05)": "https://rogerz.dk/search?q=pitch+black",
   "Packratt (UK)|Chaos Rising (ME04)": "https://packratt.co.uk/search?q=chaos+rising",
@@ -1101,7 +1106,7 @@
    "url": "https://pokewoke.store/?s=pokemon+151&post_type=product"
   },
   {
-   "ts": "23/07 17:52",
+   "ts": "23/07 17:38",
    "title": "🚨 RESTOCK: 30th Celebration — PokeCardShop",
    "url": "https://www.pokecardshop.be/search?q=30th+celebration"
   }
@@ -1140,11 +1145,7 @@
   "pokeka.hu": 6,
   "www.amazon.it": 6,
   "pokechest.at": 5,
-  "lorenzone.fr": 4,
-  "tcgdistribution.fr": 2,
-  "tradingcard.fi": 1,
-  "www.pokemons.dk": 1,
-  "pikashop.pl": 1
+  "lorenzone.fr": 4
  },
  "runno": 3477
 }
