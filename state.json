@@ -813,7 +813,7 @@
    "Pitch Black (ME05)": "listato",
    "30th Celebration": "listato",
    "Storm Emerald (ME06)": "listato",
-   "Chaos Rising (ME04)": "non listato",
+   "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "non listato",
    "Prismatic Evolutions": "non listato",
@@ -1008,8 +1008,44 @@
    "non listato",
    1
   ],
-  "Total Cards (UK)|Prismatic Evolutions": [
-   "esaurito",
+  "LorenZone|Pitch Black (ME05)": [
+   "non listato",
+   1
+  ],
+  "LorenZone|30th Celebration": [
+   "non listato",
+   1
+  ],
+  "LorenZone|Premium Deck Espeon & Umbreon (30th)": [
+   "non listato",
+   1
+  ],
+  "LorenZone|Storm Emerald (ME06)": [
+   "non listato",
+   1
+  ],
+  "LorenZone|Chaos Rising (ME04)": [
+   "non listato",
+   1
+  ],
+  "LorenZone|Phantasmal Flames (ME02)": [
+   "non listato",
+   1
+  ],
+  "LorenZone|Pokémon 151": [
+   "non listato",
+   1
+  ],
+  "LorenZone|Prismatic Evolutions": [
+   "non listato",
+   1
+  ],
+  "LorenZone|Crown Zenith": [
+   "non listato",
+   1
+  ],
+  "LorenZone|Destined Rivals": [
+   "non listato",
    1
   ],
   "Pokeka.hu|Pitch Black (ME05)": [
@@ -1030,6 +1066,30 @@
   ],
   "Pokeka.hu|Chaos Rising (ME04)": [
    "non listato",
+   1
+  ],
+  "Pokeka.hu|Phantasmal Flames (ME02)": [
+   "non listato",
+   1
+  ],
+  "Pokeka.hu|Pokémon 151": [
+   "non listato",
+   1
+  ],
+  "Pokeka.hu|Prismatic Evolutions": [
+   "non listato",
+   1
+  ],
+  "Pokeka.hu|Destined Rivals": [
+   "non listato",
+   1
+  ],
+  "CardZone|Pokémon 151": [
+   "esaurito",
+   1
+  ],
+  "Total Cards (UK)|Prismatic Evolutions": [
+   "esaurito",
    1
   ]
  },
@@ -1185,7 +1245,6 @@
   "tcgfanshop.nl": 55,
   "www.deckshop.de": 38,
   "cardcorner.at": 32,
-  "lorenzone.fr": 23,
   "misticards.com": 20,
   "www.poketalk.se": 20,
   "crispycards.de": 16,
@@ -1195,7 +1254,10 @@
   "fabscards.at": 12,
   "tcgstore.se": 6,
   "www.blackfire.eu": 5,
-  "www.amazon.it": 3
+  "www.lotticards.de": 2,
+  "tradingcard.fi": 1,
+  "www.pokemons.dk": 1,
+  "pikashop.pl": 1
  },
  "runno": 3398
 }
