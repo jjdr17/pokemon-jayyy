@@ -813,7 +813,7 @@
    "Pitch Black (ME05)": "listato",
    "30th Celebration": "listato",
    "Storm Emerald (ME06)": "listato",
-   "Chaos Rising (ME04)": "non listato",
+   "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "non listato",
    "Prismatic Evolutions": "non listato",
@@ -958,7 +958,7 @@
   "papelinho.pt": "https://papelinho.pt/?s={q}&post_type=product"
  },
  "alerts": {
-  "PokeCardShop|30th Celebration": 1784821103.1019025
+  "PokeCardShop|30th Celebration": 1784821930.2702591
  },
  "prices": {
   "Packratt (UK)|Chaos Rising (ME04)": "£10.01",
@@ -970,12 +970,7 @@
   "Stoyanov Games|Pitch Black (ME05)": "8.00€",
   "PokeCardShop|30th Celebration": "€8.95"
  },
- "pending": {
-  "LetsGoTry|Chaos Rising (ME04)": [
-   "listato",
-   1
-  ]
- },
+ "pending": {},
  "urls": {
   "Rogerz|Pitch Black (ME05)": "https://rogerz.dk/search?q=pitch+black",
   "Packratt (UK)|Chaos Rising (ME04)": "https://packratt.co.uk/search?q=chaos+rising",
@@ -1106,7 +1101,7 @@
    "url": "https://pokewoke.store/?s=pokemon+151&post_type=product"
   },
   {
-   "ts": "23/07 17:38",
+   "ts": "23/07 17:52",
    "title": "🚨 RESTOCK: 30th Celebration — PokeCardShop",
    "url": "https://www.pokecardshop.be/search?q=30th+celebration"
   }
@@ -1114,9 +1109,9 @@
  "down": {
   "www.cardmarket.com": 292,
   "www.gamestop.com": 84,
-  "www.gamelife.it": 292,
-  "pokeseller14.com": 292,
-  "geco-shop.de": 292,
+  "www.gamelife.it": 293,
+  "pokeseller14.com": 293,
+  "geco-shop.de": 293,
   "www.chaoscards.co.uk": 292,
   "www.waylandgames.co.uk": 292,
   "www.firestormgames.co.uk": 293,
@@ -1137,15 +1132,17 @@
   "crispycards.de": 22,
   "pokevend.at": 19,
   "rarecards.nl": 19,
-  "fabscards.at": 18,
+  "fabscards.at": 19,
   "tcgstore.se": 12,
   "www.poketalk.se": 8,
   "www.blackfire.eu": 7,
   "www.pokemillon.com": 6,
   "pokeka.hu": 6,
-  "www.amazon.it": 5,
+  "www.amazon.it": 6,
   "pokechest.at": 5,
-  "lorenzone.fr": 4
+  "lorenzone.fr": 4,
+  "pokeboxstore.pt": 1,
+  "tcgdistribution.fr": 1
  },
- "runno": 3475
+ "runno": 3476
 }
