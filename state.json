@@ -971,8 +971,24 @@
   "PokeCardShop|30th Celebration": "€8.95"
  },
  "pending": {
-  "LetsGoTry|Chaos Rising (ME04)": [
+  "Total Cards (UK)|Prismatic Evolutions": [
+   "esaurito",
+   1
+  ],
+  "BESCARDS|30th Celebration": [
+   "disponibile",
+   1
+  ],
+  "BESCARDS|Premium Deck Espeon & Umbreon (30th)": [
+   "non listato",
+   1
+  ],
+  "BESCARDS|Storm Emerald (ME06)": [
    "listato",
+   1
+  ],
+  "BESCARDS|Chaos Rising (ME04)": [
+   "disponibile",
    1
   ]
  },
@@ -1129,7 +1145,6 @@
   "en.tcg-shop.at": 294,
   "kaissagames.com": 91,
   "itcg.bg": 70,
-  "bescards.com": 67,
   "tcgfanshop.nl": 63,
   "www.deckshop.de": 46,
   "cardcorner.at": 40,
@@ -1145,7 +1160,11 @@
   "pokechest.at": 7,
   "lorenzone.fr": 6,
   "www.blackfire.eu": 4,
-  "www.amazon.it": 3
+  "www.amazon.it": 3,
+  "pokeboxstore.pt": 1,
+  "godofcards.com": 1,
+  "alldaytcg.com": 1,
+  "outpostbrussels.be": 1
  },
- "runno": 3495
+ "runno": 3496
 }
