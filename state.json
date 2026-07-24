@@ -570,14 +570,14 @@
    "Premium Deck Espeon & Umbreon (30th)": "irraggiungibile"
   },
   "PokeCardShop": {
-   "Pitch Black (ME05)": "esaurito",
-   "30th Celebration": "disponibile",
+   "Pitch Black (ME05)": "non listato",
+   "30th Celebration": "non listato",
    "Storm Emerald (ME06)": "non listato",
-   "Chaos Rising (ME04)": "esaurito",
-   "Phantasmal Flames (ME02)": "esaurito",
+   "Chaos Rising (ME04)": "non listato",
+   "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "listato",
    "Prismatic Evolutions": "listato",
-   "Crown Zenith": "listato",
+   "Crown Zenith": "non listato",
    "Destined Rivals": "esaurito",
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
@@ -971,23 +971,39 @@
   "PokeCardShop|30th Celebration": "€8.95"
  },
  "pending": {
-  "PokeCardShop|Pitch Black (ME05)": [
+  "Pikashop|Pitch Black (ME05)": [
    "non listato",
    1
   ],
-  "PokeCardShop|30th Celebration": [
+  "Pikashop|30th Celebration": [
    "non listato",
    1
   ],
-  "PokeCardShop|Chaos Rising (ME04)": [
+  "Pikashop|Storm Emerald (ME06)": [
    "non listato",
    1
   ],
-  "PokeCardShop|Phantasmal Flames (ME02)": [
+  "Pikashop|Chaos Rising (ME04)": [
    "non listato",
    1
   ],
-  "PokeCardShop|Crown Zenith": [
+  "Pikashop|Phantasmal Flames (ME02)": [
+   "non listato",
+   1
+  ],
+  "Pikashop|Pokémon 151": [
+   "non listato",
+   1
+  ],
+  "Pikashop|Prismatic Evolutions": [
+   "non listato",
+   1
+  ],
+  "Pikashop|Crown Zenith": [
+   "non listato",
+   1
+  ],
+  "Pikashop|Destined Rivals": [
    "non listato",
    1
   ]
@@ -1139,7 +1155,7 @@
   "hobbykort.se": 309,
   "tcgcompany.nl": 309,
   "www.nerdom.gr": 308,
-  "www.pokekarty.pl": 308,
+  "www.pokekarty.pl": 309,
   "www.wakuwaku.cz": 308,
   "www.pokemonia.ro": 309,
   "en.tcg-shop.at": 308,
@@ -1154,7 +1170,7 @@
   "lorenzone.fr": 20,
   "bescards.com": 17,
   "tcgstore.se": 16,
-  "www.deckshop.de": 9,
+  "www.deckshop.de": 10,
   "rarecards.nl": 9,
   "pokevend.at": 9,
   "crispycards.de": 10,
@@ -1162,5 +1178,5 @@
   "tcgfanshop.nl": 5,
   "www.blackfire.eu": 5
  },
- "runno": 3670
+ "runno": 3671
 }
