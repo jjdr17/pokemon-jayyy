@@ -822,15 +822,15 @@
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "Pikashop": {
-   "Pitch Black (ME05)": "non listato",
-   "30th Celebration": "non listato",
-   "Storm Emerald (ME06)": "non listato",
-   "Chaos Rising (ME04)": "non listato",
-   "Phantasmal Flames (ME02)": "non listato",
-   "Pokémon 151": "non listato",
-   "Prismatic Evolutions": "non listato",
-   "Crown Zenith": "non listato",
-   "Destined Rivals": "non listato",
+   "Pitch Black (ME05)": "disponibile",
+   "30th Celebration": "listato",
+   "Storm Emerald (ME06)": "listato",
+   "Chaos Rising (ME04)": "esaurito",
+   "Phantasmal Flames (ME02)": "listato",
+   "Pokémon 151": "listato",
+   "Prismatic Evolutions": "listato",
+   "Crown Zenith": "listato",
+   "Destined Rivals": "listato",
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "ExtremePokeCorner": {
@@ -970,48 +970,7 @@
   "Stoyanov Games|Pitch Black (ME05)": "8.00€",
   "PokeCardShop|30th Celebration": "€8.95"
  },
- "pending": {
-  "Pikashop|Pitch Black (ME05)": [
-   "disponibile",
-   1
-  ],
-  "Pikashop|30th Celebration": [
-   "listato",
-   1
-  ],
-  "Pikashop|Storm Emerald (ME06)": [
-   "listato",
-   1
-  ],
-  "Pikashop|Chaos Rising (ME04)": [
-   "esaurito",
-   1
-  ],
-  "Pikashop|Phantasmal Flames (ME02)": [
-   "listato",
-   1
-  ],
-  "Pikashop|Pokémon 151": [
-   "listato",
-   1
-  ],
-  "Pikashop|Prismatic Evolutions": [
-   "listato",
-   1
-  ],
-  "Pikashop|Crown Zenith": [
-   "listato",
-   1
-  ],
-  "Pikashop|Destined Rivals": [
-   "listato",
-   1
-  ],
-  "LetsGoTry|Chaos Rising (ME04)": [
-   "non listato",
-   1
-  ]
- },
+ "pending": {},
  "urls": {
   "Rogerz|Pitch Black (ME05)": "https://rogerz.dk/search?q=pitch+black",
   "Packratt (UK)|Chaos Rising (ME04)": "https://packratt.co.uk/search?q=chaos+rising",
@@ -1156,7 +1115,7 @@
   "www.chaoscards.co.uk": 307,
   "www.waylandgames.co.uk": 307,
   "www.firestormgames.co.uk": 308,
-  "hobbykort.se": 307,
+  "hobbykort.se": 308,
   "tcgcompany.nl": 307,
   "www.nerdom.gr": 307,
   "www.pokekarty.pl": 307,
@@ -1181,7 +1140,9 @@
   "pokechest.at": 4,
   "tcgfanshop.nl": 4,
   "www.amazon.it": 3,
-  "www.blackfire.eu": 4
+  "www.blackfire.eu": 4,
+  "pokeboxstore.pt": 1,
+  "games-island.eu": 1
  },
- "runno": 3653
+ "runno": 3654
 }
