@@ -971,8 +971,8 @@
   "PokeCardShop|30th Celebration": "€8.95"
  },
  "pending": {
-  "PokeCardShop|Pitch Black (ME05)": [
-   "non listato",
+  "LetsGoTry|Chaos Rising (ME04)": [
+   "listato",
    1
   ]
  },
@@ -1119,13 +1119,13 @@
   "geco-shop.de": 303,
   "www.chaoscards.co.uk": 303,
   "www.waylandgames.co.uk": 303,
-  "www.firestormgames.co.uk": 303,
+  "www.firestormgames.co.uk": 304,
   "hobbykort.se": 303,
   "tcgcompany.nl": 303,
   "www.nerdom.gr": 303,
   "www.pokekarty.pl": 303,
   "www.wakuwaku.cz": 303,
-  "www.pokemonia.ro": 303,
+  "www.pokemonia.ro": 304,
   "en.tcg-shop.at": 303,
   "kaissagames.com": 100,
   "itcg.bg": 79,
@@ -1145,7 +1145,8 @@
   "rarecards.nl": 4,
   "pokevend.at": 4,
   "crispycards.de": 4,
-  "www.blackfire.eu": 2
+  "www.blackfire.eu": 3,
+  "pokeboxstore.pt": 1
  },
- "runno": 3604
+ "runno": 3605
 }
