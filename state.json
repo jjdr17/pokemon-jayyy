@@ -974,6 +974,14 @@
   "PokeCardShop|Phantasmal Flames (ME02)": [
    "esaurito",
    1
+  ],
+  "SunnyStore|Storm Emerald (ME06)": [
+   "non listato",
+   1
+  ],
+  "LetsGoTry|Chaos Rising (ME04)": [
+   "listato",
+   1
   ]
  },
  "urls": {
@@ -1112,13 +1120,13 @@
   }
  ],
  "down": {
-  "www.cardmarket.com": 306,
+  "www.cardmarket.com": 307,
   "www.gamestop.com": 84,
   "www.gamelife.it": 307,
   "pokeseller14.com": 307,
   "geco-shop.de": 307,
   "www.chaoscards.co.uk": 306,
-  "www.waylandgames.co.uk": 306,
+  "www.waylandgames.co.uk": 307,
   "www.firestormgames.co.uk": 307,
   "hobbykort.se": 307,
   "tcgcompany.nl": 307,
@@ -1128,8 +1136,8 @@
   "www.pokemonia.ro": 307,
   "en.tcg-shop.at": 306,
   "kaissagames.com": 103,
-  "itcg.bg": 82,
-  "cardcorner.at": 52,
+  "itcg.bg": 83,
+  "cardcorner.at": 53,
   "misticards.com": 40,
   "fabscards.at": 33,
   "www.poketalk.se": 22,
@@ -1141,12 +1149,15 @@
   "www.deckshop.de": 7,
   "rarecards.nl": 7,
   "pokevend.at": 7,
-  "crispycards.de": 7,
+  "crispycards.de": 8,
   "pokechest.at": 3,
   "tcgfanshop.nl": 3,
-  "www.amazon.it": 1,
-  "tcgdistribution.fr": 1,
-  "godofcards.com": 1
+  "www.amazon.it": 2,
+  "www.blackfire.eu": 1,
+  "pokeboxstore.pt": 1,
+  "outpostbrussels.be": 1,
+  "totalcards.net": 1,
+  "www.pokecardshop.be": 1
  },
- "runno": 3645
+ "runno": 3646
 }
