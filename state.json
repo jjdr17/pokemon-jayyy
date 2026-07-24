@@ -25,7 +25,7 @@
    "Premium Deck Espeon & Umbreon (30th)": "irraggiungibile"
   },
   "Amazon.it": {
-   "30th Celebration": "listato",
+   "30th Celebration": "non listato",
    "Storm Emerald (ME06)": "non listato",
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
@@ -813,7 +813,7 @@
    "Pitch Black (ME05)": "listato",
    "30th Celebration": "listato",
    "Storm Emerald (ME06)": "listato",
-   "Chaos Rising (ME04)": "non listato",
+   "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "non listato",
    "Prismatic Evolutions": "non listato",
@@ -973,10 +973,6 @@
  "pending": {
   "God of Cards|Crown Zenith": [
    "listato",
-   1
-  ],
-  "Amazon.it|30th Celebration": [
-   "non listato",
    1
   ]
  },
@@ -1148,12 +1144,7 @@
   "lorenzone.fr": 12,
   "bescards.com": 9,
   "tcgstore.se": 8,
-  "www.blackfire.eu": 3,
-  "extremepokecorner.com": 2,
-  "pokectcg.cz": 2,
-  "pokewoke.store": 2,
-  "tcgpikas.lt": 2,
-  "pokemonworld.lt": 2
+  "www.blackfire.eu": 3
  },
  "runno": 3577
 }
