@@ -971,8 +971,28 @@
   "PokeCardShop|30th Celebration": "€8.95"
  },
  "pending": {
-  "PokeCardShop|Pokémon 151": [
+  "Amazon.it|Storm Emerald (ME06)": [
    "listato",
+   1
+  ],
+  "PokeCardShop|Pitch Black (ME05)": [
+   "non listato",
+   1
+  ],
+  "PokeCardShop|30th Celebration": [
+   "non listato",
+   1
+  ],
+  "PokeCardShop|Chaos Rising (ME04)": [
+   "non listato",
+   1
+  ],
+  "PokeCardShop|Phantasmal Flames (ME02)": [
+   "non listato",
+   1
+  ],
+  "PokeCardShop|Destined Rivals": [
+   "non listato",
    1
   ]
  },
@@ -1124,13 +1144,13 @@
   "geco-shop.de": 312,
   "www.chaoscards.co.uk": 312,
   "www.waylandgames.co.uk": 312,
-  "www.firestormgames.co.uk": 312,
+  "www.firestormgames.co.uk": 313,
   "hobbykort.se": 312,
   "tcgcompany.nl": 312,
   "www.nerdom.gr": 312,
   "www.pokekarty.pl": 312,
   "www.wakuwaku.cz": 312,
-  "www.pokemonia.ro": 312,
+  "www.pokemonia.ro": 313,
   "en.tcg-shop.at": 312,
   "kaissagames.com": 109,
   "itcg.bg": 88,
@@ -1149,7 +1169,9 @@
   "crispycards.de": 13,
   "pokechest.at": 9,
   "tcgfanshop.nl": 9,
-  "www.amazon.it": 1
+  "www.amazon.it": 3,
+  "www.blackfire.eu": 3,
+  "oppacards.com": 1
  },
- "runno": 3712
+ "runno": 3713
 }
