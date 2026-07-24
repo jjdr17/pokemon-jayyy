@@ -157,7 +157,7 @@
    "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "listato",
    "Prismatic Evolutions": "listato",
-   "Crown Zenith": "non listato",
+   "Crown Zenith": "listato",
    "Destined Rivals": "non listato",
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
@@ -234,8 +234,8 @@
    "Premium Deck Espeon & Umbreon (30th)": "irraggiungibile"
   },
   "CrispyCards": {
-   "Pitch Black (ME05)": "irraggiungibile",
-   "30th Celebration": "irraggiungibile",
+   "Pitch Black (ME05)": "listato",
+   "30th Celebration": "non listato",
    "Storm Emerald (ME06)": "irraggiungibile",
    "Chaos Rising (ME04)": "irraggiungibile",
    "Phantasmal Flames (ME02)": "irraggiungibile",
@@ -243,7 +243,7 @@
    "Prismatic Evolutions": "irraggiungibile",
    "Crown Zenith": "irraggiungibile",
    "Destined Rivals": "irraggiungibile",
-   "Premium Deck Espeon & Umbreon (30th)": "irraggiungibile"
+   "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "Packratt (UK)": {
    "Pitch Black (ME05)": "listato",
@@ -813,7 +813,7 @@
    "Pitch Black (ME05)": "listato",
    "30th Celebration": "listato",
    "Storm Emerald (ME06)": "listato",
-   "Chaos Rising (ME04)": "listato",
+   "Chaos Rising (ME04)": "non listato",
    "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "non listato",
    "Prismatic Evolutions": "non listato",
@@ -971,24 +971,36 @@
   "PokeCardShop|30th Celebration": "€8.95"
  },
  "pending": {
-  "God of Cards|Crown Zenith": [
+  "CrispyCards|Storm Emerald (ME06)": [
+   "non listato",
+   1
+  ],
+  "CrispyCards|Chaos Rising (ME04)": [
+   "non listato",
+   1
+  ],
+  "CrispyCards|Phantasmal Flames (ME02)": [
+   "non listato",
+   1
+  ],
+  "CrispyCards|Pokémon 151": [
+   "non listato",
+   1
+  ],
+  "CrispyCards|Prismatic Evolutions": [
    "listato",
    1
   ],
-  "CrispyCards|Pitch Black (ME05)": [
-   "listato",
-   1
-  ],
-  "CrispyCards|30th Celebration": [
+  "CrispyCards|Crown Zenith": [
    "non listato",
    1
   ],
-  "CrispyCards|Premium Deck Espeon & Umbreon (30th)": [
+  "CrispyCards|Destined Rivals": [
    "non listato",
    1
   ],
-  "LetsGoTry|Chaos Rising (ME04)": [
-   "non listato",
+  "Total Cards (UK)|Prismatic Evolutions": [
+   "esaurito",
    1
   ]
  },
@@ -1139,14 +1151,13 @@
   "hobbykort.se": 302,
   "tcgcompany.nl": 302,
   "www.nerdom.gr": 301,
-  "www.pokekarty.pl": 301,
+  "www.pokekarty.pl": 302,
   "www.wakuwaku.cz": 301,
   "www.pokemonia.ro": 302,
   "en.tcg-shop.at": 301,
   "kaissagames.com": 98,
   "itcg.bg": 78,
   "tcgfanshop.nl": 70,
-  "www.deckshop.de": 53,
   "cardcorner.at": 48,
   "misticards.com": 35,
   "pokevend.at": 28,
@@ -1161,10 +1172,14 @@
   "tcgstore.se": 9,
   "www.blackfire.eu": 4,
   "alldaytcg.com": 3,
-  "www.amazon.it": 1,
-  "pokeboxstore.pt": 1,
-  "cardzone.es": 1,
-  "godofcards.com": 1
+  "www.amazon.it": 2,
+  "tradingcard.fi": 1,
+  "www.pokemons.dk": 1,
+  "extremepokecorner.com": 1,
+  "pokectcg.cz": 1,
+  "pokewoke.store": 1,
+  "tcgpikas.lt": 1,
+  "pokemonworld.lt": 1
  },
- "runno": 3586
+ "runno": 3587
 }
