@@ -570,7 +570,7 @@
    "Premium Deck Espeon & Umbreon (30th)": "irraggiungibile"
   },
   "PokeCardShop": {
-   "Pitch Black (ME05)": "non listato",
+   "Pitch Black (ME05)": "esaurito",
    "30th Celebration": "disponibile",
    "Storm Emerald (ME06)": "non listato",
    "Chaos Rising (ME04)": "esaurito",
@@ -822,15 +822,15 @@
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "Pikashop": {
-   "Pitch Black (ME05)": "non listato",
-   "30th Celebration": "non listato",
-   "Storm Emerald (ME06)": "non listato",
-   "Chaos Rising (ME04)": "non listato",
-   "Phantasmal Flames (ME02)": "non listato",
-   "Pokémon 151": "non listato",
-   "Prismatic Evolutions": "non listato",
-   "Crown Zenith": "non listato",
-   "Destined Rivals": "non listato",
+   "Pitch Black (ME05)": "disponibile",
+   "30th Celebration": "listato",
+   "Storm Emerald (ME06)": "listato",
+   "Chaos Rising (ME04)": "esaurito",
+   "Phantasmal Flames (ME02)": "listato",
+   "Pokémon 151": "listato",
+   "Prismatic Evolutions": "listato",
+   "Crown Zenith": "listato",
+   "Destined Rivals": "listato",
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "ExtremePokeCorner": {
@@ -971,40 +971,24 @@
   "PokeCardShop|30th Celebration": "€8.95"
  },
  "pending": {
-  "Pikashop|Pitch Black (ME05)": [
-   "disponibile",
+  "PokeCardShop|Pitch Black (ME05)": [
+   "non listato",
    1
   ],
-  "Pikashop|30th Celebration": [
-   "listato",
+  "PokeCardShop|30th Celebration": [
+   "non listato",
    1
   ],
-  "Pikashop|Storm Emerald (ME06)": [
-   "listato",
+  "PokeCardShop|Chaos Rising (ME04)": [
+   "non listato",
    1
   ],
-  "Pikashop|Chaos Rising (ME04)": [
-   "esaurito",
+  "PokeCardShop|Phantasmal Flames (ME02)": [
+   "non listato",
    1
   ],
-  "Pikashop|Phantasmal Flames (ME02)": [
-   "listato",
-   1
-  ],
-  "Pikashop|Pokémon 151": [
-   "listato",
-   1
-  ],
-  "Pikashop|Prismatic Evolutions": [
-   "listato",
-   1
-  ],
-  "Pikashop|Crown Zenith": [
-   "listato",
-   1
-  ],
-  "Pikashop|Destined Rivals": [
-   "listato",
+  "PokeCardShop|Crown Zenith": [
+   "non listato",
    1
   ]
  },
@@ -1144,13 +1128,13 @@
   }
  ],
  "down": {
-  "www.cardmarket.com": 308,
+  "www.cardmarket.com": 309,
   "www.gamestop.com": 84,
   "www.gamelife.it": 309,
   "pokeseller14.com": 309,
   "geco-shop.de": 309,
   "www.chaoscards.co.uk": 308,
-  "www.waylandgames.co.uk": 308,
+  "www.waylandgames.co.uk": 309,
   "www.firestormgames.co.uk": 309,
   "hobbykort.se": 309,
   "tcgcompany.nl": 309,
@@ -1160,8 +1144,8 @@
   "www.pokemonia.ro": 309,
   "en.tcg-shop.at": 308,
   "kaissagames.com": 105,
-  "itcg.bg": 84,
-  "cardcorner.at": 54,
+  "itcg.bg": 85,
+  "cardcorner.at": 55,
   "misticards.com": 42,
   "fabscards.at": 35,
   "www.poketalk.se": 24,
@@ -1173,12 +1157,10 @@
   "www.deckshop.de": 9,
   "rarecards.nl": 9,
   "pokevend.at": 9,
-  "crispycards.de": 9,
+  "crispycards.de": 10,
   "pokechest.at": 5,
   "tcgfanshop.nl": 5,
-  "www.amazon.it": 5,
-  "www.blackfire.eu": 5,
-  "pokeboxstore.pt": 2
+  "www.blackfire.eu": 5
  },
- "runno": 3669
+ "runno": 3670
 }
