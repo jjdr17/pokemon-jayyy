@@ -974,6 +974,10 @@
   "Amazon.it|30th Celebration": [
    "listato",
    1
+  ],
+  "PokeCardShop|Pokémon 151": [
+   "non listato",
+   1
   ]
  },
  "urls": {
@@ -1121,7 +1125,7 @@
   "www.waylandgames.co.uk": 305,
   "www.firestormgames.co.uk": 306,
   "hobbykort.se": 306,
-  "tcgcompany.nl": 305,
+  "tcgcompany.nl": 306,
   "www.nerdom.gr": 305,
   "www.pokekarty.pl": 305,
   "www.wakuwaku.cz": 305,
@@ -1139,13 +1143,14 @@
   "pokechest.at": 18,
   "lorenzone.fr": 17,
   "bescards.com": 14,
-  "tcgstore.se": 12,
+  "tcgstore.se": 13,
   "www.deckshop.de": 6,
   "rarecards.nl": 6,
   "pokevend.at": 6,
   "crispycards.de": 6,
   "www.blackfire.eu": 3,
-  "pokeboxstore.pt": 1
+  "pokeboxstore.pt": 2,
+  "www.amazon.it": 1
  },
- "runno": 3632
+ "runno": 3633
 }
