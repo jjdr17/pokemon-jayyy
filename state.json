@@ -822,15 +822,15 @@
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "Pikashop": {
-   "Pitch Black (ME05)": "disponibile",
-   "30th Celebration": "listato",
-   "Storm Emerald (ME06)": "listato",
-   "Chaos Rising (ME04)": "esaurito",
-   "Phantasmal Flames (ME02)": "listato",
-   "Pokémon 151": "listato",
-   "Prismatic Evolutions": "listato",
-   "Crown Zenith": "listato",
-   "Destined Rivals": "listato",
+   "Pitch Black (ME05)": "non listato",
+   "30th Celebration": "non listato",
+   "Storm Emerald (ME06)": "non listato",
+   "Chaos Rising (ME04)": "non listato",
+   "Phantasmal Flames (ME02)": "non listato",
+   "Pokémon 151": "non listato",
+   "Prismatic Evolutions": "non listato",
+   "Crown Zenith": "non listato",
+   "Destined Rivals": "non listato",
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "ExtremePokeCorner": {
@@ -971,40 +971,24 @@
   "PokeCardShop|30th Celebration": "€8.95"
  },
  "pending": {
-  "Pikashop|Pitch Black (ME05)": [
-   "non listato",
+  "PokeCardShop|30th Celebration": [
+   "disponibile",
    1
   ],
-  "Pikashop|30th Celebration": [
-   "non listato",
+  "PokeCardShop|Chaos Rising (ME04)": [
+   "esaurito",
    1
   ],
-  "Pikashop|Storm Emerald (ME06)": [
-   "non listato",
+  "PokeCardShop|Phantasmal Flames (ME02)": [
+   "esaurito",
    1
   ],
-  "Pikashop|Chaos Rising (ME04)": [
-   "non listato",
+  "PokeCardShop|Crown Zenith": [
+   "listato",
    1
   ],
-  "Pikashop|Phantasmal Flames (ME02)": [
-   "non listato",
-   1
-  ],
-  "Pikashop|Pokémon 151": [
-   "non listato",
-   1
-  ],
-  "Pikashop|Prismatic Evolutions": [
-   "non listato",
-   1
-  ],
-  "Pikashop|Crown Zenith": [
-   "non listato",
-   1
-  ],
-  "Pikashop|Destined Rivals": [
-   "non listato",
+  "LetsGoTry|Chaos Rising (ME04)": [
+   "listato",
    1
   ]
  },
@@ -1149,7 +1133,7 @@
   "www.gamelife.it": 309,
   "pokeseller14.com": 309,
   "geco-shop.de": 309,
-  "www.chaoscards.co.uk": 308,
+  "www.chaoscards.co.uk": 309,
   "www.waylandgames.co.uk": 309,
   "www.firestormgames.co.uk": 309,
   "hobbykort.se": 309,
@@ -1162,9 +1146,9 @@
   "kaissagames.com": 105,
   "itcg.bg": 85,
   "cardcorner.at": 55,
-  "misticards.com": 42,
+  "misticards.com": 43,
   "fabscards.at": 35,
-  "www.poketalk.se": 24,
+  "www.poketalk.se": 25,
   "www.pokemillon.com": 22,
   "pokeka.hu": 22,
   "lorenzone.fr": 20,
@@ -1178,5 +1162,5 @@
   "tcgfanshop.nl": 5,
   "www.blackfire.eu": 5
  },
- "runno": 3671
+ "runno": 3672
 }
