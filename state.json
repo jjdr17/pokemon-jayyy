@@ -971,31 +971,7 @@
   "PokeCardShop|30th Celebration": "€8.95"
  },
  "pending": {
-  "Amazon.it|Storm Emerald (ME06)": [
-   "listato",
-   1
-  ],
-  "Amazon.it|30th Celebration": [
-   "listato",
-   1
-  ],
   "LetsGoTry|Chaos Rising (ME04)": [
-   "non listato",
-   1
-  ],
-  "Fabscards|Pitch Black (ME05)": [
-   "non listato",
-   1
-  ],
-  "Fabscards|30th Celebration": [
-   "non listato",
-   1
-  ],
-  "Fabscards|Premium Deck Espeon & Umbreon (30th)": [
-   "non listato",
-   1
-  ],
-  "Fabscards|Storm Emerald (ME06)": [
    "non listato",
    1
   ]
@@ -1160,6 +1136,7 @@
   "crispycards.de": 28,
   "pokevend.at": 25,
   "rarecards.nl": 25,
+  "fabscards.at": 25,
   "www.poketalk.se": 14,
   "www.pokemillon.com": 12,
   "pokeka.hu": 12,
@@ -1168,8 +1145,7 @@
   "bescards.com": 7,
   "www.blackfire.eu": 6,
   "tcgstore.se": 5,
-  "pokebank.es": 4,
-  "totalcards.net": 1
+  "pokebank.es": 4
  },
  "runno": 3548
 }
