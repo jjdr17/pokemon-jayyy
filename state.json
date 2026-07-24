@@ -970,7 +970,68 @@
   "Stoyanov Games|Pitch Black (ME05)": "8.00€",
   "PokeCardShop|30th Celebration": "€8.95"
  },
- "pending": {},
+ "pending": {
+  "CrispyCards|Storm Emerald (ME06)": [
+   "non listato",
+   1
+  ],
+  "CrispyCards|Chaos Rising (ME04)": [
+   "non listato",
+   1
+  ],
+  "CrispyCards|Phantasmal Flames (ME02)": [
+   "non listato",
+   1
+  ],
+  "CrispyCards|Pokémon 151": [
+   "non listato",
+   1
+  ],
+  "CrispyCards|Prismatic Evolutions": [
+   "listato",
+   1
+  ],
+  "CrispyCards|Crown Zenith": [
+   "non listato",
+   1
+  ],
+  "CrispyCards|Destined Rivals": [
+   "non listato",
+   1
+  ],
+  "RareCards.nl|Pitch Black (ME05)": [
+   "non listato",
+   1
+  ],
+  "RareCards.nl|30th Celebration": [
+   "non listato",
+   1
+  ],
+  "RareCards.nl|Premium Deck Espeon & Umbreon (30th)": [
+   "non listato",
+   1
+  ],
+  "RareCards.nl|Storm Emerald (ME06)": [
+   "non listato",
+   1
+  ],
+  "RareCards.nl|Chaos Rising (ME04)": [
+   "non listato",
+   1
+  ],
+  "Pokevend|30th Celebration": [
+   "listato",
+   1
+  ],
+  "Pokevend|Premium Deck Espeon & Umbreon (30th)": [
+   "non listato",
+   1
+  ],
+  "Pokevend|Storm Emerald (ME06)": [
+   "non listato",
+   1
+  ]
+ },
  "urls": {
   "Rogerz|Pitch Black (ME05)": "https://rogerz.dk/search?q=pitch+black",
   "Packratt (UK)|Chaos Rising (ME04)": "https://packratt.co.uk/search?q=chaos+rising",
@@ -1117,7 +1178,7 @@
   "www.firestormgames.co.uk": 302,
   "hobbykort.se": 302,
   "tcgcompany.nl": 302,
-  "www.nerdom.gr": 301,
+  "www.nerdom.gr": 302,
   "www.pokekarty.pl": 302,
   "www.wakuwaku.cz": 302,
   "www.pokemonia.ro": 302,
@@ -1127,8 +1188,6 @@
   "tcgfanshop.nl": 71,
   "cardcorner.at": 48,
   "misticards.com": 36,
-  "pokevend.at": 28,
-  "rarecards.nl": 28,
   "fabscards.at": 28,
   "www.poketalk.se": 18,
   "www.pokemillon.com": 16,
@@ -1142,9 +1201,7 @@
   "www.amazon.it": 3,
   "tradingcard.fi": 3,
   "www.pokemons.dk": 3,
-  "www.deckshop.de": 3,
-  "www.butticards.at": 1,
-  "oppacards.com": 1
+  "www.deckshop.de": 3
  },
- "runno": 3590
+ "runno": 3591
 }
