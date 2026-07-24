@@ -974,6 +974,22 @@
   "God of Cards|Crown Zenith": [
    "listato",
    1
+  ],
+  "CrispyCards|Pitch Black (ME05)": [
+   "listato",
+   1
+  ],
+  "CrispyCards|30th Celebration": [
+   "non listato",
+   1
+  ],
+  "CrispyCards|Premium Deck Espeon & Umbreon (30th)": [
+   "non listato",
+   1
+  ],
+  "LetsGoTry|Chaos Rising (ME04)": [
+   "non listato",
+   1
   ]
  },
  "urls": {
@@ -1112,13 +1128,13 @@
   }
  ],
  "down": {
-  "www.cardmarket.com": 301,
+  "www.cardmarket.com": 302,
   "www.gamestop.com": 84,
   "www.gamelife.it": 302,
   "pokeseller14.com": 302,
   "geco-shop.de": 302,
   "www.chaoscards.co.uk": 301,
-  "www.waylandgames.co.uk": 301,
+  "www.waylandgames.co.uk": 302,
   "www.firestormgames.co.uk": 302,
   "hobbykort.se": 302,
   "tcgcompany.nl": 302,
@@ -1128,12 +1144,11 @@
   "www.pokemonia.ro": 302,
   "en.tcg-shop.at": 301,
   "kaissagames.com": 98,
-  "itcg.bg": 77,
+  "itcg.bg": 78,
   "tcgfanshop.nl": 70,
   "www.deckshop.de": 53,
-  "cardcorner.at": 47,
+  "cardcorner.at": 48,
   "misticards.com": 35,
-  "crispycards.de": 31,
   "pokevend.at": 28,
   "rarecards.nl": 28,
   "fabscards.at": 28,
@@ -1145,7 +1160,11 @@
   "bescards.com": 10,
   "tcgstore.se": 9,
   "www.blackfire.eu": 4,
-  "alldaytcg.com": 3
+  "alldaytcg.com": 3,
+  "www.amazon.it": 1,
+  "pokeboxstore.pt": 1,
+  "cardzone.es": 1,
+  "godofcards.com": 1
  },
- "runno": 3585
+ "runno": 3586
 }
