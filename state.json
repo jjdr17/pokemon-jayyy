@@ -971,8 +971,40 @@
   "PokeCardShop|30th Celebration": "€8.95"
  },
  "pending": {
-  "PokeCardShop|Pitch Black (ME05)": [
-   "non listato",
+  "Pikashop|Pitch Black (ME05)": [
+   "disponibile",
+   1
+  ],
+  "Pikashop|30th Celebration": [
+   "listato",
+   1
+  ],
+  "Pikashop|Storm Emerald (ME06)": [
+   "listato",
+   1
+  ],
+  "Pikashop|Chaos Rising (ME04)": [
+   "esaurito",
+   1
+  ],
+  "Pikashop|Phantasmal Flames (ME02)": [
+   "listato",
+   1
+  ],
+  "Pikashop|Pokémon 151": [
+   "listato",
+   1
+  ],
+  "Pikashop|Prismatic Evolutions": [
+   "listato",
+   1
+  ],
+  "Pikashop|Crown Zenith": [
+   "listato",
+   1
+  ],
+  "Pikashop|Destined Rivals": [
+   "listato",
    1
   ],
   "LetsGoTry|Chaos Rising (ME04)": [
@@ -1125,7 +1157,7 @@
   "www.waylandgames.co.uk": 308,
   "www.firestormgames.co.uk": 309,
   "hobbykort.se": 309,
-  "tcgcompany.nl": 308,
+  "tcgcompany.nl": 309,
   "www.nerdom.gr": 308,
   "www.pokekarty.pl": 308,
   "www.wakuwaku.cz": 308,
@@ -1141,16 +1173,15 @@
   "pokeka.hu": 22,
   "lorenzone.fr": 20,
   "bescards.com": 17,
-  "tcgstore.se": 15,
+  "tcgstore.se": 16,
   "www.deckshop.de": 9,
   "rarecards.nl": 9,
   "pokevend.at": 9,
   "crispycards.de": 9,
   "pokechest.at": 5,
   "tcgfanshop.nl": 5,
-  "www.amazon.it": 5,
   "www.blackfire.eu": 5,
   "pokeboxstore.pt": 1
  },
- "runno": 3668
+ "runno": 3669
 }
