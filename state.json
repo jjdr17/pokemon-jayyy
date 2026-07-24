@@ -157,7 +157,7 @@
    "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "listato",
    "Prismatic Evolutions": "listato",
-   "Crown Zenith": "non listato",
+   "Crown Zenith": "listato",
    "Destined Rivals": "non listato",
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
@@ -243,7 +243,7 @@
    "Prismatic Evolutions": "irraggiungibile",
    "Crown Zenith": "irraggiungibile",
    "Destined Rivals": "irraggiungibile",
-   "Premium Deck Espeon & Umbreon (30th)": "irraggiungibile"
+   "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "Packratt (UK)": {
    "Pitch Black (ME05)": "listato",
@@ -813,7 +813,7 @@
    "Pitch Black (ME05)": "listato",
    "30th Celebration": "listato",
    "Storm Emerald (ME06)": "listato",
-   "Chaos Rising (ME04)": "listato",
+   "Chaos Rising (ME04)": "non listato",
    "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "non listato",
    "Prismatic Evolutions": "non listato",
@@ -971,7 +971,7 @@
   "PokeCardShop|30th Celebration": "€8.95"
  },
  "pending": {
-  "God of Cards|Crown Zenith": [
+  "LetsGoTry|Chaos Rising (ME04)": [
    "listato",
    1
   ]
@@ -1117,7 +1117,7 @@
   "www.gamelife.it": 302,
   "pokeseller14.com": 302,
   "geco-shop.de": 302,
-  "www.chaoscards.co.uk": 301,
+  "www.chaoscards.co.uk": 302,
   "www.waylandgames.co.uk": 302,
   "www.firestormgames.co.uk": 302,
   "hobbykort.se": 302,
@@ -1130,13 +1130,12 @@
   "kaissagames.com": 98,
   "itcg.bg": 78,
   "tcgfanshop.nl": 70,
-  "www.deckshop.de": 54,
   "cardcorner.at": 48,
-  "misticards.com": 35,
+  "misticards.com": 36,
   "pokevend.at": 28,
   "rarecards.nl": 28,
   "fabscards.at": 28,
-  "www.poketalk.se": 17,
+  "www.poketalk.se": 18,
   "www.pokemillon.com": 15,
   "pokeka.hu": 15,
   "pokechest.at": 14,
@@ -1145,7 +1144,11 @@
   "tcgstore.se": 9,
   "www.blackfire.eu": 4,
   "alldaytcg.com": 3,
-  "pokeboxstore.pt": 2
+  "www.amazon.it": 3,
+  "tradingcard.fi": 2,
+  "www.pokemons.dk": 2,
+  "www.deckshop.de": 1,
+  "pokeboxstore.pt": 1
  },
- "runno": 3587
+ "runno": 3588
 }
