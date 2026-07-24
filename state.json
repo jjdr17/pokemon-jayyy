@@ -571,13 +571,13 @@
   },
   "PokeCardShop": {
    "Pitch Black (ME05)": "non listato",
-   "30th Celebration": "non listato",
+   "30th Celebration": "esaurito",
    "Storm Emerald (ME06)": "non listato",
-   "Chaos Rising (ME04)": "non listato",
-   "Phantasmal Flames (ME02)": "non listato",
+   "Chaos Rising (ME04)": "esaurito",
+   "Phantasmal Flames (ME02)": "esaurito",
    "Pokémon 151": "listato",
    "Prismatic Evolutions": "listato",
-   "Crown Zenith": "non listato",
+   "Crown Zenith": "listato",
    "Destined Rivals": "esaurito",
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
@@ -813,7 +813,7 @@
    "Pitch Black (ME05)": "listato",
    "30th Celebration": "listato",
    "Storm Emerald (ME06)": "listato",
-   "Chaos Rising (ME04)": "non listato",
+   "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "non listato",
    "Prismatic Evolutions": "non listato",
@@ -971,24 +971,8 @@
   "PokeCardShop|30th Celebration": "€8.95"
  },
  "pending": {
-  "PokeCardShop|30th Celebration": [
-   "disponibile",
-   1
-  ],
-  "PokeCardShop|Chaos Rising (ME04)": [
+  "PokeCardShop|Pitch Black (ME05)": [
    "esaurito",
-   1
-  ],
-  "PokeCardShop|Phantasmal Flames (ME02)": [
-   "esaurito",
-   1
-  ],
-  "PokeCardShop|Crown Zenith": [
-   "listato",
-   1
-  ],
-  "LetsGoTry|Chaos Rising (ME04)": [
-   "listato",
    1
   ]
  },
@@ -1142,7 +1126,7 @@
   "www.pokekarty.pl": 309,
   "www.wakuwaku.cz": 308,
   "www.pokemonia.ro": 309,
-  "en.tcg-shop.at": 308,
+  "en.tcg-shop.at": 309,
   "kaissagames.com": 105,
   "itcg.bg": 85,
   "cardcorner.at": 55,
@@ -1158,9 +1142,9 @@
   "rarecards.nl": 9,
   "pokevend.at": 9,
   "crispycards.de": 10,
-  "pokechest.at": 5,
-  "tcgfanshop.nl": 5,
+  "pokechest.at": 6,
+  "tcgfanshop.nl": 6,
   "www.blackfire.eu": 5
  },
- "runno": 3672
+ "runno": 3673
 }
