@@ -578,7 +578,7 @@
    "Pokémon 151": "listato",
    "Prismatic Evolutions": "listato",
    "Crown Zenith": "listato",
-   "Destined Rivals": "non listato",
+   "Destined Rivals": "esaurito",
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "Kaissa Games": {
@@ -972,10 +972,6 @@
  },
  "pending": {
   "PokeCardShop|Destined Rivals": [
-   "esaurito",
-   1
-  ],
-  "LetsGoTry|Chaos Rising (ME04)": [
    "non listato",
    1
   ]
@@ -1155,8 +1151,7 @@
   "rarecards.nl": 8,
   "pokevend.at": 8,
   "tcgstore.se": 7,
-  "tradingcard.fi": 1,
-  "www.pokemons.dk": 1
+  "pokeboxstore.pt": 3
  },
  "runno": 3832
 }
