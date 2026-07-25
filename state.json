@@ -813,7 +813,7 @@
    "Pitch Black (ME05)": "listato",
    "30th Celebration": "listato",
    "Storm Emerald (ME06)": "listato",
-   "Chaos Rising (ME04)": "non listato",
+   "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "non listato",
    "Prismatic Evolutions": "non listato",
@@ -971,8 +971,8 @@
   "PokeCardShop|30th Celebration": "€8.95"
  },
  "pending": {
-  "LetsGoTry|Chaos Rising (ME04)": [
-   "listato",
+  "PokeCardShop|30th Celebration": [
+   "non listato",
    1
   ]
  },
@@ -1150,8 +1150,7 @@
   "crispycards.de": 9,
   "rarecards.nl": 7,
   "pokevend.at": 7,
-  "tcgstore.se": 7,
-  "cardzone.es": 1
+  "tcgstore.se": 7
  },
  "runno": 3825
 }
