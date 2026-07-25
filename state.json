@@ -822,15 +822,15 @@
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "Pikashop": {
-   "Pitch Black (ME05)": "non listato",
-   "30th Celebration": "non listato",
-   "Storm Emerald (ME06)": "non listato",
-   "Chaos Rising (ME04)": "non listato",
-   "Phantasmal Flames (ME02)": "non listato",
-   "Pokémon 151": "non listato",
-   "Prismatic Evolutions": "non listato",
-   "Crown Zenith": "non listato",
-   "Destined Rivals": "non listato",
+   "Pitch Black (ME05)": "disponibile",
+   "30th Celebration": "listato",
+   "Storm Emerald (ME06)": "listato",
+   "Chaos Rising (ME04)": "esaurito",
+   "Phantasmal Flames (ME02)": "listato",
+   "Pokémon 151": "listato",
+   "Prismatic Evolutions": "listato",
+   "Crown Zenith": "listato",
+   "Destined Rivals": "listato",
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "ExtremePokeCorner": {
@@ -970,48 +970,7 @@
   "Stoyanov Games|Pitch Black (ME05)": "8.00€",
   "PokeCardShop|30th Celebration": "€8.95"
  },
- "pending": {
-  "Pikashop|Pitch Black (ME05)": [
-   "disponibile",
-   1
-  ],
-  "Pikashop|30th Celebration": [
-   "listato",
-   1
-  ],
-  "Pikashop|Storm Emerald (ME06)": [
-   "listato",
-   1
-  ],
-  "Pikashop|Chaos Rising (ME04)": [
-   "esaurito",
-   1
-  ],
-  "Pikashop|Phantasmal Flames (ME02)": [
-   "listato",
-   1
-  ],
-  "Pikashop|Pokémon 151": [
-   "listato",
-   1
-  ],
-  "Pikashop|Prismatic Evolutions": [
-   "listato",
-   1
-  ],
-  "Pikashop|Crown Zenith": [
-   "listato",
-   1
-  ],
-  "Pikashop|Destined Rivals": [
-   "listato",
-   1
-  ],
-  "LetsGoTry|Chaos Rising (ME04)": [
-   "non listato",
-   1
-  ]
- },
+ "pending": {},
  "urls": {
   "Rogerz|Pitch Black (ME05)": "https://rogerz.dk/search?q=pitch+black",
   "Packratt (UK)|Chaos Rising (ME04)": "https://packratt.co.uk/search?q=chaos+rising",
@@ -1153,13 +1112,13 @@
   }
  ],
  "down": {
-  "www.cardmarket.com": 320,
+  "www.cardmarket.com": 321,
   "www.gamestop.com": 84,
   "www.gamelife.it": 321,
   "pokeseller14.com": 321,
   "geco-shop.de": 321,
   "www.chaoscards.co.uk": 320,
-  "www.waylandgames.co.uk": 320,
+  "www.waylandgames.co.uk": 321,
   "www.firestormgames.co.uk": 321,
   "hobbykort.se": 321,
   "tcgcompany.nl": 321,
@@ -1169,8 +1128,8 @@
   "www.pokemonia.ro": 321,
   "en.tcg-shop.at": 320,
   "kaissagames.com": 117,
-  "itcg.bg": 96,
-  "cardcorner.at": 66,
+  "itcg.bg": 97,
+  "cardcorner.at": 67,
   "misticards.com": 54,
   "fabscards.at": 47,
   "www.poketalk.se": 36,
@@ -1183,11 +1142,11 @@
   "tcgfanshop.nl": 17,
   "www.blackfire.eu": 10,
   "www.amazon.it": 10,
-  "crispycards.de": 8,
+  "crispycards.de": 9,
   "rarecards.nl": 6,
   "pokevend.at": 6,
   "tcgstore.se": 6,
-  "pokeboxstore.pt": 1
+  "www.lotticards.de": 1
  },
- "runno": 3813
+ "runno": 3814
 }
