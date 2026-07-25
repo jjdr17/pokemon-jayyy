@@ -971,8 +971,8 @@
   "PokeCardShop|30th Celebration": "€8.95"
  },
  "pending": {
-  "SunnyStore|Pitch Black (ME05)": [
-   "listato",
+  "PokeCardShop|30th Celebration": [
+   "non listato",
    1
   ]
  },
@@ -1124,13 +1124,13 @@
   "geco-shop.de": 318,
   "www.chaoscards.co.uk": 318,
   "www.waylandgames.co.uk": 318,
-  "www.firestormgames.co.uk": 318,
+  "www.firestormgames.co.uk": 319,
   "hobbykort.se": 318,
   "tcgcompany.nl": 318,
   "www.nerdom.gr": 318,
   "www.pokekarty.pl": 318,
   "www.wakuwaku.cz": 318,
-  "www.pokemonia.ro": 318,
+  "www.pokemonia.ro": 319,
   "en.tcg-shop.at": 318,
   "kaissagames.com": 115,
   "itcg.bg": 94,
@@ -1153,5 +1153,5 @@
   "pokevend.at": 4,
   "tcgstore.se": 3
  },
- "runno": 3784
+ "runno": 3785
 }
