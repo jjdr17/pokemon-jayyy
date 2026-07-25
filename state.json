@@ -971,90 +971,6 @@
   "PokeCardShop|30th Celebration": "€8.95"
  },
  "pending": {
-  "RareCards.nl|Pitch Black (ME05)": [
-   "non listato",
-   1
-  ],
-  "RareCards.nl|30th Celebration": [
-   "non listato",
-   1
-  ],
-  "RareCards.nl|Premium Deck Espeon & Umbreon (30th)": [
-   "non listato",
-   1
-  ],
-  "RareCards.nl|Storm Emerald (ME06)": [
-   "non listato",
-   1
-  ],
-  "RareCards.nl|Chaos Rising (ME04)": [
-   "non listato",
-   1
-  ],
-  "RareCards.nl|Phantasmal Flames (ME02)": [
-   "non listato",
-   1
-  ],
-  "RareCards.nl|Pokémon 151": [
-   "non listato",
-   1
-  ],
-  "RareCards.nl|Prismatic Evolutions": [
-   "non listato",
-   1
-  ],
-  "RareCards.nl|Crown Zenith": [
-   "non listato",
-   1
-  ],
-  "RareCards.nl|Destined Rivals": [
-   "non listato",
-   1
-  ],
-  "Pokevend|Pitch Black (ME05)": [
-   "non listato",
-   1
-  ],
-  "Pokevend|30th Celebration": [
-   "listato",
-   1
-  ],
-  "Pokevend|Premium Deck Espeon & Umbreon (30th)": [
-   "non listato",
-   1
-  ],
-  "Pokevend|Storm Emerald (ME06)": [
-   "non listato",
-   1
-  ],
-  "Pokevend|Chaos Rising (ME04)": [
-   "non listato",
-   1
-  ],
-  "Pokevend|Phantasmal Flames (ME02)": [
-   "non listato",
-   1
-  ],
-  "Pokevend|Pokémon 151": [
-   "esaurito",
-   1
-  ],
-  "Pokevend|Prismatic Evolutions": [
-   "non listato",
-   1
-  ],
-  "Pokevend|Crown Zenith": [
-   "non listato",
-   1
-  ],
-  "Pokevend|Destined Rivals": [
-   "non listato",
-   1
-  ],
-  "Total Cards (UK)|Prismatic Evolutions": [
-   "esaurito",
-   1
-  ],
   "LetsGoTry|Chaos Rising (ME04)": [
    "listato",
    1
@@ -1225,15 +1141,24 @@
   "www.pokemillon.com": 31,
   "pokeka.hu": 31,
   "lorenzone.fr": 29,
-  "bescards.com": 25,
+  "bescards.com": 26,
   "tcgstore.se": 24,
   "www.deckshop.de": 18,
+  "rarecards.nl": 18,
+  "pokevend.at": 18,
   "pokechest.at": 14,
   "tcgfanshop.nl": 14,
   "www.blackfire.eu": 7,
   "www.amazon.it": 6,
   "crispycards.de": 5,
-  "pokeboxstore.pt": 3
+  "pokeboxstore.pt": 3,
+  "tradingcard.fi": 2,
+  "www.pokemons.dk": 2,
+  "extremepokecorner.com": 1,
+  "pokectcg.cz": 1,
+  "pokewoke.store": 1,
+  "tcgpikas.lt": 1,
+  "pokemonworld.lt": 1
  },
- "runno": 3771
+ "runno": 3772
 }
