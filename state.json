@@ -578,7 +578,7 @@
    "Pokémon 151": "listato",
    "Prismatic Evolutions": "listato",
    "Crown Zenith": "listato",
-   "Destined Rivals": "esaurito",
+   "Destined Rivals": "non listato",
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "Kaissa Games": {
@@ -970,7 +970,16 @@
   "Stoyanov Games|Pitch Black (ME05)": "8.00€",
   "PokeCardShop|30th Celebration": "€8.95"
  },
- "pending": {},
+ "pending": {
+  "PokeCardShop|Destined Rivals": [
+   "esaurito",
+   1
+  ],
+  "LetsGoTry|Chaos Rising (ME04)": [
+   "non listato",
+   1
+  ]
+ },
  "urls": {
   "Rogerz|Pitch Black (ME05)": "https://rogerz.dk/search?q=pitch+black",
   "Packratt (UK)|Chaos Rising (ME04)": "https://packratt.co.uk/search?q=chaos+rising",
@@ -1136,7 +1145,7 @@
   "www.pokemillon.com": 36,
   "pokeka.hu": 36,
   "lorenzone.fr": 34,
-  "bescards.com": 30,
+  "bescards.com": 31,
   "www.deckshop.de": 23,
   "pokechest.at": 19,
   "tcgfanshop.nl": 19,
@@ -1146,7 +1155,8 @@
   "rarecards.nl": 8,
   "pokevend.at": 8,
   "tcgstore.se": 7,
-  "pokeboxstore.pt": 3
+  "tradingcard.fi": 1,
+  "www.pokemons.dk": 1
  },
- "runno": 3831
+ "runno": 3832
 }
