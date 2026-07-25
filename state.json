@@ -270,16 +270,16 @@
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "Fabscards": {
-   "Pitch Black (ME05)": "irraggiungibile",
-   "30th Celebration": "irraggiungibile",
-   "Storm Emerald (ME06)": "irraggiungibile",
-   "Chaos Rising (ME04)": "irraggiungibile",
-   "Phantasmal Flames (ME02)": "irraggiungibile",
-   "Pokémon 151": "irraggiungibile",
-   "Prismatic Evolutions": "irraggiungibile",
-   "Crown Zenith": "irraggiungibile",
-   "Destined Rivals": "irraggiungibile",
-   "Premium Deck Espeon & Umbreon (30th)": "irraggiungibile"
+   "Pitch Black (ME05)": "non listato",
+   "30th Celebration": "non listato",
+   "Storm Emerald (ME06)": "non listato",
+   "Chaos Rising (ME04)": "non listato",
+   "Phantasmal Flames (ME02)": "non listato",
+   "Pokémon 151": "non listato",
+   "Prismatic Evolutions": "non listato",
+   "Crown Zenith": "non listato",
+   "Destined Rivals": "non listato",
+   "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "MistiCards": {
    "Pitch Black (ME05)": "irraggiungibile",
@@ -970,48 +970,7 @@
   "Stoyanov Games|Pitch Black (ME05)": "8.00€",
   "PokeCardShop|30th Celebration": "€8.95"
  },
- "pending": {
-  "Fabscards|Pitch Black (ME05)": [
-   "non listato",
-   1
-  ],
-  "Fabscards|30th Celebration": [
-   "non listato",
-   1
-  ],
-  "Fabscards|Premium Deck Espeon & Umbreon (30th)": [
-   "non listato",
-   1
-  ],
-  "Fabscards|Storm Emerald (ME06)": [
-   "non listato",
-   1
-  ],
-  "Fabscards|Chaos Rising (ME04)": [
-   "non listato",
-   1
-  ],
-  "Fabscards|Phantasmal Flames (ME02)": [
-   "non listato",
-   1
-  ],
-  "Fabscards|Pokémon 151": [
-   "non listato",
-   1
-  ],
-  "Fabscards|Prismatic Evolutions": [
-   "non listato",
-   1
-  ],
-  "Fabscards|Crown Zenith": [
-   "non listato",
-   1
-  ],
-  "Fabscards|Destined Rivals": [
-   "non listato",
-   1
-  ]
- },
+ "pending": {},
  "urls": {
   "Rogerz|Pitch Black (ME05)": "https://rogerz.dk/search?q=pitch+black",
   "Packratt (UK)|Chaos Rising (ME04)": "https://packratt.co.uk/search?q=chaos+rising",
@@ -1162,7 +1121,7 @@
   "www.waylandgames.co.uk": 322,
   "www.firestormgames.co.uk": 323,
   "hobbykort.se": 323,
-  "tcgcompany.nl": 322,
+  "tcgcompany.nl": 323,
   "www.nerdom.gr": 322,
   "www.pokekarty.pl": 322,
   "www.wakuwaku.cz": 322,
@@ -1184,9 +1143,8 @@
   "crispycards.de": 10,
   "rarecards.nl": 8,
   "pokevend.at": 8,
-  "tcgstore.se": 7,
-  "pokeboxstore.pt": 1,
-  "tcgdistribution.fr": 1
+  "tcgstore.se": 8,
+  "www.amazon.it": 1
  },
- "runno": 3836
+ "runno": 3837
 }
