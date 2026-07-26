@@ -978,6 +978,18 @@
   "Amazon.it|Storm Emerald (ME06)": [
    "listato",
    1
+  ],
+  "PokeCardShop|Premium Deck Espeon & Umbreon (30th)": [
+   "listato",
+   1
+  ],
+  "PokeCardShop|Phantasmal Flames (ME02)": [
+   "esaurito",
+   1
+  ],
+  "LetsGoTry|Chaos Rising (ME04)": [
+   "listato",
+   1
   ]
  },
  "urls": {
@@ -1129,7 +1141,7 @@
   "www.chaoscards.co.uk": 336,
   "www.waylandgames.co.uk": 336,
   "www.firestormgames.co.uk": 337,
-  "hobbykort.se": 336,
+  "hobbykort.se": 337,
   "tcgcompany.nl": 336,
   "www.nerdom.gr": 336,
   "www.pokekarty.pl": 336,
@@ -1154,8 +1166,7 @@
   "pokevend.at": 9,
   "www.blackfire.eu": 7,
   "www.amazon.it": 5,
-  "pokebank.es": 3,
-  "tcgdistribution.fr": 1
+  "pokebank.es": 3
  },
- "runno": 4001
+ "runno": 4002
 }
