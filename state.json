@@ -813,7 +813,7 @@
    "Pitch Black (ME05)": "listato",
    "30th Celebration": "listato",
    "Storm Emerald (ME06)": "listato",
-   "Chaos Rising (ME04)": "listato",
+   "Chaos Rising (ME04)": "non listato",
    "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "non listato",
    "Prismatic Evolutions": "non listato",
@@ -971,7 +971,7 @@
   "PokeCardShop|30th Celebration": "€8.95"
  },
  "pending": {
-  "LetsGoTry|Chaos Rising (ME04)": [
+  "PokeCardShop|Crown Zenith": [
    "non listato",
    1
   ]
@@ -1003,7 +1003,7 @@
   "Pikashop|Pitch Black (ME05)": "https://pikashop.pl/?s=pitch+black&post_type=product",
   "PokeCardShop|30th Celebration": "https://www.pokecardshop.be/search?q=30th+celebration"
  },
- "digest_slot": "2026-07-25-22",
+ "digest_slot": "2026-07-26-10",
  "log": [
   {
    "ts": "05/07 19:55",
@@ -1140,7 +1140,7 @@
   "www.pokemillon.com": 43,
   "pokeka.hu": 43,
   "lorenzone.fr": 41,
-  "bescards.com": 37,
+  "bescards.com": 38,
   "www.deckshop.de": 30,
   "pokechest.at": 26,
   "tcgfanshop.nl": 26,
@@ -1150,7 +1150,12 @@
   "www.amazon.it": 5,
   "tcgstore.se": 4,
   "pokeboxstore.pt": 3,
-  "www.blackfire.eu": 4
+  "www.blackfire.eu": 4,
+  "extremepokecorner.com": 1,
+  "pokectcg.cz": 1,
+  "pokewoke.store": 1,
+  "tcgpikas.lt": 1,
+  "pokemonworld.lt": 1
  },
- "runno": 3915
+ "runno": 3916
 }
