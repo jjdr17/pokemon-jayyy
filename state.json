@@ -970,12 +970,7 @@
   "Stoyanov Games|Pitch Black (ME05)": "8.00€",
   "PokeCardShop|30th Celebration": "€8.95"
  },
- "pending": {
-  "LetsGoTry|Chaos Rising (ME04)": [
-   "listato",
-   1
-  ]
- },
+ "pending": {},
  "urls": {
   "Rogerz|Pitch Black (ME05)": "https://rogerz.dk/search?q=pitch+black",
   "Packratt (UK)|Chaos Rising (ME04)": "https://packratt.co.uk/search?q=chaos+rising",
@@ -1117,13 +1112,13 @@
   }
  ],
  "down": {
-  "www.cardmarket.com": 329,
+  "www.cardmarket.com": 330,
   "www.gamestop.com": 84,
   "www.gamelife.it": 330,
   "pokeseller14.com": 330,
   "geco-shop.de": 330,
   "www.chaoscards.co.uk": 329,
-  "www.waylandgames.co.uk": 329,
+  "www.waylandgames.co.uk": 330,
   "www.firestormgames.co.uk": 330,
   "hobbykort.se": 330,
   "tcgcompany.nl": 330,
@@ -1133,8 +1128,8 @@
   "www.pokemonia.ro": 330,
   "en.tcg-shop.at": 329,
   "kaissagames.com": 126,
-  "itcg.bg": 105,
-  "cardcorner.at": 75,
+  "itcg.bg": 106,
+  "cardcorner.at": 76,
   "misticards.com": 63,
   "www.poketalk.se": 45,
   "www.pokemillon.com": 43,
@@ -1144,18 +1139,14 @@
   "www.deckshop.de": 30,
   "pokechest.at": 26,
   "tcgfanshop.nl": 26,
-  "crispycards.de": 17,
+  "crispycards.de": 18,
   "rarecards.nl": 6,
   "pokevend.at": 6,
   "www.amazon.it": 6,
   "tcgstore.se": 5,
   "pokeboxstore.pt": 4,
   "www.blackfire.eu": 4,
-  "extremepokecorner.com": 2,
-  "pokectcg.cz": 2,
-  "pokewoke.store": 2,
-  "tcgpikas.lt": 2,
-  "pokemonworld.lt": 2
+  "www.lotticards.de": 1
  },
- "runno": 3921
+ "runno": 3922
 }
