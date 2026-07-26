@@ -813,7 +813,7 @@
    "Pitch Black (ME05)": "listato",
    "30th Celebration": "listato",
    "Storm Emerald (ME06)": "listato",
-   "Chaos Rising (ME04)": "listato",
+   "Chaos Rising (ME04)": "non listato",
    "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "non listato",
    "Prismatic Evolutions": "non listato",
@@ -1144,7 +1144,11 @@
   "pokevend.at": 6,
   "www.amazon.it": 6,
   "tcgstore.se": 5,
-  "pokeboxstore.pt": 4
+  "pokeboxstore.pt": 4,
+  "www.blackfire.eu": 5,
+  "tradingcard.fi": 1,
+  "www.pokemons.dk": 1,
+  "games-island.eu": 1
  },
  "runno": 3926
 }
