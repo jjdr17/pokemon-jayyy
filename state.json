@@ -978,6 +978,14 @@
   "Amazon.it|Storm Emerald (ME06)": [
    "listato",
    1
+  ],
+  "LetsGoTry|Chaos Rising (ME04)": [
+   "listato",
+   1
+  ],
+  "PokeCardShop|Premium Deck Espeon & Umbreon (30th)": [
+   "non listato",
+   1
   ]
  },
  "urls": {
@@ -1123,9 +1131,9 @@
  "down": {
   "www.cardmarket.com": 340,
   "www.gamestop.com": 84,
-  "www.gamelife.it": 340,
-  "pokeseller14.com": 340,
-  "geco-shop.de": 340,
+  "www.gamelife.it": 341,
+  "pokeseller14.com": 341,
+  "geco-shop.de": 341,
   "www.chaoscards.co.uk": 340,
   "www.waylandgames.co.uk": 340,
   "www.firestormgames.co.uk": 341,
@@ -1152,9 +1160,9 @@
   "tcgstore.se": 15,
   "pokevend.at": 13,
   "www.blackfire.eu": 11,
-  "www.amazon.it": 9,
+  "www.amazon.it": 10,
   "itcg.bg": 6,
-  "tcgdistribution.fr": 1
+  "tcgdistribution.fr": 2
  },
- "runno": 4051
+ "runno": 4052
 }
