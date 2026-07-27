@@ -824,13 +824,13 @@
   "Pikashop": {
    "Pitch Black (ME05)": "disponibile",
    "30th Celebration": "listato",
-   "Storm Emerald (ME06)": "non listato",
-   "Chaos Rising (ME04)": "non listato",
-   "Phantasmal Flames (ME02)": "non listato",
-   "Pokémon 151": "non listato",
-   "Prismatic Evolutions": "non listato",
-   "Crown Zenith": "non listato",
-   "Destined Rivals": "non listato",
+   "Storm Emerald (ME06)": "listato",
+   "Chaos Rising (ME04)": "esaurito",
+   "Phantasmal Flames (ME02)": "listato",
+   "Pokémon 151": "listato",
+   "Prismatic Evolutions": "listato",
+   "Crown Zenith": "listato",
+   "Destined Rivals": "listato",
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "ExtremePokeCorner": {
@@ -972,34 +972,6 @@
  },
  "pending": {
   "CardZone|Pokémon 151": [
-   "listato",
-   1
-  ],
-  "Pikashop|Storm Emerald (ME06)": [
-   "listato",
-   1
-  ],
-  "Pikashop|Chaos Rising (ME04)": [
-   "esaurito",
-   1
-  ],
-  "Pikashop|Phantasmal Flames (ME02)": [
-   "listato",
-   1
-  ],
-  "Pikashop|Pokémon 151": [
-   "listato",
-   1
-  ],
-  "Pikashop|Prismatic Evolutions": [
-   "listato",
-   1
-  ],
-  "Pikashop|Crown Zenith": [
-   "listato",
-   1
-  ],
-  "Pikashop|Destined Rivals": [
    "listato",
    1
   ]
@@ -1155,7 +1127,7 @@
   "www.firestormgames.co.uk": 348,
   "hobbykort.se": 348,
   "tcgcompany.nl": 348,
-  "www.nerdom.gr": 347,
+  "www.nerdom.gr": 348,
   "www.pokekarty.pl": 348,
   "www.wakuwaku.cz": 348,
   "www.pokemonia.ro": 348,
@@ -1170,14 +1142,14 @@
   "pokechest.at": 45,
   "tcgfanshop.nl": 45,
   "crispycards.de": 36,
-  "rarecards.nl": 24,
+  "rarecards.nl": 25,
   "tcgstore.se": 23,
-  "pokevend.at": 20,
+  "pokevend.at": 21,
   "itcg.bg": 14,
   "www.amazon.it": 8,
   "cardcorner.at": 8,
   "www.blackfire.eu": 6,
   "www.deckshop.de": 3
  },
- "runno": 4142
+ "runno": 4143
 }
