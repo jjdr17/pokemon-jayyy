@@ -971,8 +971,12 @@
   "PokeCardShop|30th Celebration": "€8.95"
  },
  "pending": {
-  "PokeCardShop|Premium Deck Espeon & Umbreon (30th)": [
-   "listato",
+  "PokeCardShop|Pokémon 151": [
+   "non listato",
+   1
+  ],
+  "LetsGoTry|Chaos Rising (ME04)": [
+   "non listato",
    1
   ]
  },
@@ -1138,7 +1142,7 @@
   "www.pokemillon.com": 61,
   "pokeka.hu": 61,
   "lorenzone.fr": 59,
-  "bescards.com": 55,
+  "bescards.com": 56,
   "www.deckshop.de": 48,
   "pokechest.at": 44,
   "tcgfanshop.nl": 44,
@@ -1150,7 +1154,8 @@
   "www.amazon.it": 7,
   "cardcorner.at": 7,
   "www.blackfire.eu": 5,
-  "pokeboxstore.pt": 1
+  "tcgdistribution.fr": 1,
+  "www.lotticards.de": 1
  },
- "runno": 4131
+ "runno": 4132
 }
