@@ -119,7 +119,7 @@
    "Storm Emerald (ME06)": "listato",
    "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "listato",
-   "Pokémon 151": "esaurito",
+   "Pokémon 151": "listato",
    "Prismatic Evolutions": "listato",
    "Crown Zenith": "listato",
    "Destined Rivals": "listato",
@@ -970,20 +970,7 @@
   "Stoyanov Games|Pitch Black (ME05)": "8.00€",
   "PokeCardShop|30th Celebration": "€8.95"
  },
- "pending": {
-  "CardZone|Pokémon 151": [
-   "listato",
-   1
-  ],
-  "PokeCardShop|Premium Deck Espeon & Umbreon (30th)": [
-   "non listato",
-   1
-  ],
-  "LetsGoTry|Chaos Rising (ME04)": [
-   "listato",
-   1
-  ]
- },
+ "pending": {},
  "urls": {
   "Rogerz|Pitch Black (ME05)": "https://rogerz.dk/search?q=pitch+black",
   "Packratt (UK)|Chaos Rising (ME04)": "https://packratt.co.uk/search?q=chaos+rising",
@@ -1011,7 +998,7 @@
   "Pikashop|Pitch Black (ME05)": "https://pikashop.pl/?s=pitch+black&post_type=product",
   "PokeCardShop|30th Celebration": "https://www.pokecardshop.be/search?q=30th+celebration"
  },
- "digest_slot": "2026-07-27-18",
+ "digest_slot": "2026-07-27-22",
  "log": [
   {
    "ts": "05/07 19:55",
@@ -1127,9 +1114,9 @@
  "down": {
   "www.cardmarket.com": 348,
   "www.gamestop.com": 84,
-  "www.gamelife.it": 348,
-  "pokeseller14.com": 348,
-  "geco-shop.de": 348,
+  "www.gamelife.it": 349,
+  "pokeseller14.com": 349,
+  "geco-shop.de": 349,
   "www.chaoscards.co.uk": 348,
   "www.waylandgames.co.uk": 348,
   "www.firestormgames.co.uk": 349,
@@ -1154,10 +1141,13 @@
   "tcgstore.se": 23,
   "pokevend.at": 21,
   "itcg.bg": 14,
-  "www.amazon.it": 8,
+  "www.amazon.it": 9,
   "cardcorner.at": 8,
   "www.blackfire.eu": 6,
-  "www.deckshop.de": 3
+  "www.deckshop.de": 3,
+  "alldaytcg.com": 1,
+  "outpostbrussels.be": 1,
+  "totalcards.net": 1
  },
- "runno": 4147
+ "runno": 4148
 }
