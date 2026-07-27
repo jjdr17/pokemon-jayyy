@@ -971,7 +971,7 @@
   "PokeCardShop|30th Celebration": "€8.95"
  },
  "pending": {
-  "LetsGoTry|Chaos Rising (ME04)": [
+  "CardCorner.at|Chaos Rising (ME04)": [
    "non listato",
    1
   ]
@@ -1117,13 +1117,13 @@
   }
  ],
  "down": {
-  "www.cardmarket.com": 342,
+  "www.cardmarket.com": 343,
   "www.gamestop.com": 84,
   "www.gamelife.it": 343,
   "pokeseller14.com": 343,
   "geco-shop.de": 343,
   "www.chaoscards.co.uk": 342,
-  "www.waylandgames.co.uk": 342,
+  "www.waylandgames.co.uk": 343,
   "www.firestormgames.co.uk": 343,
   "hobbykort.se": 343,
   "tcgcompany.nl": 343,
@@ -1133,7 +1133,6 @@
   "www.pokemonia.ro": 343,
   "en.tcg-shop.at": 342,
   "kaissagames.com": 139,
-  "cardcorner.at": 88,
   "misticards.com": 76,
   "www.poketalk.se": 58,
   "www.pokemillon.com": 56,
@@ -1143,12 +1142,14 @@
   "www.deckshop.de": 43,
   "pokechest.at": 39,
   "tcgfanshop.nl": 39,
-  "crispycards.de": 30,
+  "crispycards.de": 31,
   "rarecards.nl": 19,
   "tcgstore.se": 18,
   "pokevend.at": 15,
-  "itcg.bg": 8,
-  "www.blackfire.eu": 4
+  "itcg.bg": 9,
+  "www.blackfire.eu": 4,
+  "www.amazon.it": 1,
+  "tcgdistribution.fr": 1
  },
- "runno": 4077
+ "runno": 4078
 }
