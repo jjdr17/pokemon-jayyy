@@ -979,10 +979,6 @@
    "listato",
    1
   ],
-  "LetsGoTry|Chaos Rising (ME04)": [
-   "non listato",
-   1
-  ],
   "Pikashop|Pitch Black (ME05)": [
    "disponibile",
    1
@@ -1017,6 +1013,10 @@
   ],
   "Pikashop|Destined Rivals": [
    "listato",
+   1
+  ],
+  "LetsGoTry|Chaos Rising (ME04)": [
+   "non listato",
    1
   ]
  },
@@ -1173,16 +1173,16 @@
   "tcgcompany.nl": 339,
   "www.nerdom.gr": 338,
   "www.pokekarty.pl": 339,
-  "www.wakuwaku.cz": 338,
+  "www.wakuwaku.cz": 339,
   "www.pokemonia.ro": 339,
   "en.tcg-shop.at": 339,
-  "kaissagames.com": 135,
+  "kaissagames.com": 136,
   "cardcorner.at": 85,
   "misticards.com": 73,
   "www.poketalk.se": 55,
-  "www.pokemillon.com": 52,
-  "pokeka.hu": 52,
-  "lorenzone.fr": 50,
+  "www.pokemillon.com": 53,
+  "pokeka.hu": 53,
+  "lorenzone.fr": 51,
   "bescards.com": 47,
   "www.deckshop.de": 40,
   "pokechest.at": 36,
@@ -1191,9 +1191,18 @@
   "rarecards.nl": 15,
   "tcgstore.se": 14,
   "pokevend.at": 11,
-  "www.blackfire.eu": 9,
+  "www.blackfire.eu": 10,
   "www.amazon.it": 8,
-  "itcg.bg": 5
+  "itcg.bg": 5,
+  "tradingcard.fi": 1,
+  "www.pokemons.dk": 1,
+  "pokeboxstore.pt": 1,
+  "sapphire-cards.de": 1,
+  "extremepokecorner.com": 1,
+  "pokectcg.cz": 1,
+  "pokewoke.store": 1,
+  "tcgpikas.lt": 1,
+  "pokemonworld.lt": 1
  },
- "runno": 4033
+ "runno": 4034
 }
