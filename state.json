@@ -813,7 +813,7 @@
    "Pitch Black (ME05)": "listato",
    "30th Celebration": "listato",
    "Storm Emerald (ME06)": "listato",
-   "Chaos Rising (ME04)": "non listato",
+   "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "non listato",
    "Prismatic Evolutions": "non listato",
@@ -822,15 +822,15 @@
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "Pikashop": {
-   "Pitch Black (ME05)": "non listato",
-   "30th Celebration": "non listato",
-   "Storm Emerald (ME06)": "non listato",
-   "Chaos Rising (ME04)": "non listato",
-   "Phantasmal Flames (ME02)": "non listato",
-   "Pokémon 151": "non listato",
-   "Prismatic Evolutions": "non listato",
-   "Crown Zenith": "non listato",
-   "Destined Rivals": "non listato",
+   "Pitch Black (ME05)": "disponibile",
+   "30th Celebration": "listato",
+   "Storm Emerald (ME06)": "listato",
+   "Chaos Rising (ME04)": "esaurito",
+   "Phantasmal Flames (ME02)": "listato",
+   "Pokémon 151": "listato",
+   "Prismatic Evolutions": "listato",
+   "Crown Zenith": "listato",
+   "Destined Rivals": "listato",
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "ExtremePokeCorner": {
@@ -970,48 +970,7 @@
   "Stoyanov Games|Pitch Black (ME05)": "8.00€",
   "PokeCardShop|30th Celebration": "€8.95"
  },
- "pending": {
-  "Pikashop|Pitch Black (ME05)": [
-   "disponibile",
-   1
-  ],
-  "Pikashop|30th Celebration": [
-   "listato",
-   1
-  ],
-  "Pikashop|Storm Emerald (ME06)": [
-   "listato",
-   1
-  ],
-  "Pikashop|Chaos Rising (ME04)": [
-   "esaurito",
-   1
-  ],
-  "Pikashop|Phantasmal Flames (ME02)": [
-   "listato",
-   1
-  ],
-  "Pikashop|Pokémon 151": [
-   "listato",
-   1
-  ],
-  "Pikashop|Prismatic Evolutions": [
-   "listato",
-   1
-  ],
-  "Pikashop|Crown Zenith": [
-   "listato",
-   1
-  ],
-  "Pikashop|Destined Rivals": [
-   "listato",
-   1
-  ],
-  "LetsGoTry|Chaos Rising (ME04)": [
-   "listato",
-   1
-  ]
- },
+ "pending": {},
  "urls": {
   "Rogerz|Pitch Black (ME05)": "https://rogerz.dk/search?q=pitch+black",
   "Packratt (UK)|Chaos Rising (ME04)": "https://packratt.co.uk/search?q=chaos+rising",
@@ -1165,15 +1124,15 @@
   "tcgcompany.nl": 347,
   "www.nerdom.gr": 346,
   "www.pokekarty.pl": 347,
-  "www.wakuwaku.cz": 346,
+  "www.wakuwaku.cz": 347,
   "www.pokemonia.ro": 347,
   "en.tcg-shop.at": 347,
-  "kaissagames.com": 143,
+  "kaissagames.com": 144,
   "misticards.com": 81,
   "www.poketalk.se": 63,
-  "www.pokemillon.com": 60,
-  "pokeka.hu": 60,
-  "lorenzone.fr": 58,
+  "www.pokemillon.com": 61,
+  "pokeka.hu": 61,
+  "lorenzone.fr": 59,
   "bescards.com": 55,
   "www.deckshop.de": 48,
   "pokechest.at": 44,
@@ -1185,7 +1144,8 @@
   "itcg.bg": 13,
   "www.amazon.it": 7,
   "cardcorner.at": 7,
-  "www.blackfire.eu": 4
+  "www.blackfire.eu": 5,
+  "tcgdistribution.fr": 1
  },
- "runno": 4129
+ "runno": 4130
 }
