@@ -974,6 +974,14 @@
   "PokeCardShop|Premium Deck Espeon & Umbreon (30th)": [
    "listato",
    1
+  ],
+  "PokeCardShop|Chaos Rising (ME04)": [
+   "non listato",
+   1
+  ],
+  "PokeCardShop|Phantasmal Flames (ME02)": [
+   "non listato",
+   1
   ]
  },
  "urls": {
@@ -1117,13 +1125,13 @@
   }
  ],
  "down": {
-  "www.cardmarket.com": 343,
+  "www.cardmarket.com": 344,
   "www.gamestop.com": 84,
   "www.gamelife.it": 344,
   "pokeseller14.com": 344,
   "geco-shop.de": 344,
   "www.chaoscards.co.uk": 343,
-  "www.waylandgames.co.uk": 343,
+  "www.waylandgames.co.uk": 344,
   "www.firestormgames.co.uk": 344,
   "hobbykort.se": 344,
   "tcgcompany.nl": 344,
@@ -1142,15 +1150,14 @@
   "www.deckshop.de": 44,
   "pokechest.at": 40,
   "tcgfanshop.nl": 40,
-  "crispycards.de": 31,
+  "crispycards.de": 32,
   "rarecards.nl": 20,
   "tcgstore.se": 19,
   "pokevend.at": 16,
-  "itcg.bg": 9,
-  "cardcorner.at": 3,
-  "www.blackfire.eu": 3,
-  "www.amazon.it": 1,
-  "pokeboxstore.pt": 1
+  "itcg.bg": 10,
+  "www.amazon.it": 4,
+  "cardcorner.at": 4,
+  "www.blackfire.eu": 3
  },
- "runno": 4089
+ "runno": 4090
 }
