@@ -971,11 +971,43 @@
   "PokeCardShop|30th Celebration": "€8.95"
  },
  "pending": {
-  "Amazon.it|Storm Emerald (ME06)": [
-   "listato",
+  "Pikashop|Pitch Black (ME05)": [
+   "non listato",
    1
   ],
-  "LetsGoTry|Chaos Rising (ME04)": [
+  "Pikashop|30th Celebration": [
+   "non listato",
+   1
+  ],
+  "Pikashop|Storm Emerald (ME06)": [
+   "non listato",
+   1
+  ],
+  "Pikashop|Chaos Rising (ME04)": [
+   "non listato",
+   1
+  ],
+  "Pikashop|Phantasmal Flames (ME02)": [
+   "non listato",
+   1
+  ],
+  "Pikashop|Pokémon 151": [
+   "non listato",
+   1
+  ],
+  "Pikashop|Prismatic Evolutions": [
+   "non listato",
+   1
+  ],
+  "Pikashop|Crown Zenith": [
+   "non listato",
+   1
+  ],
+  "Pikashop|Destined Rivals": [
+   "non listato",
+   1
+  ],
+  "PokeCardShop|Premium Deck Espeon & Umbreon (30th)": [
    "listato",
    1
   ]
@@ -1152,12 +1184,8 @@
   "tcgstore.se": 17,
   "pokevend.at": 14,
   "itcg.bg": 8,
-  "www.blackfire.eu": 1,
-  "extremepokecorner.com": 1,
-  "pokectcg.cz": 1,
-  "pokewoke.store": 1,
-  "tcgpikas.lt": 1,
-  "pokemonworld.lt": 1
+  "www.amazon.it": 2,
+  "www.blackfire.eu": 1
  },
  "runno": 4066
 }
