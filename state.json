@@ -971,8 +971,8 @@
   "PokeCardShop|30th Celebration": "€8.95"
  },
  "pending": {
-  "CardCorner.at|Chaos Rising (ME04)": [
-   "non listato",
+  "PokeCardShop|Premium Deck Espeon & Umbreon (30th)": [
+   "listato",
    1
   ]
  },
@@ -1128,7 +1128,7 @@
   "hobbykort.se": 343,
   "tcgcompany.nl": 343,
   "www.nerdom.gr": 342,
-  "www.pokekarty.pl": 342,
+  "www.pokekarty.pl": 343,
   "www.wakuwaku.cz": 342,
   "www.pokemonia.ro": 343,
   "en.tcg-shop.at": 342,
@@ -1139,7 +1139,7 @@
   "pokeka.hu": 56,
   "lorenzone.fr": 54,
   "bescards.com": 51,
-  "www.deckshop.de": 43,
+  "www.deckshop.de": 44,
   "pokechest.at": 39,
   "tcgfanshop.nl": 39,
   "crispycards.de": 31,
@@ -1148,8 +1148,9 @@
   "pokevend.at": 15,
   "itcg.bg": 9,
   "www.blackfire.eu": 4,
-  "www.amazon.it": 1,
-  "tcgdistribution.fr": 1
+  "www.amazon.it": 2,
+  "tcgdistribution.fr": 2,
+  "cardcorner.at": 1
  },
- "runno": 4078
+ "runno": 4079
 }
