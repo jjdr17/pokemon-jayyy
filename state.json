@@ -813,7 +813,7 @@
    "Pitch Black (ME05)": "listato",
    "30th Celebration": "listato",
    "Storm Emerald (ME06)": "listato",
-   "Chaos Rising (ME04)": "non listato",
+   "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "non listato",
    "Prismatic Evolutions": "non listato",
@@ -970,7 +970,52 @@
   "Stoyanov Games|Pitch Black (ME05)": "8.00€",
   "PokeCardShop|30th Celebration": "€8.95"
  },
- "pending": {},
+ "pending": {
+  "Pikashop|Pitch Black (ME05)": [
+   "non listato",
+   1
+  ],
+  "Pikashop|30th Celebration": [
+   "non listato",
+   1
+  ],
+  "Pikashop|Storm Emerald (ME06)": [
+   "non listato",
+   1
+  ],
+  "Pikashop|Chaos Rising (ME04)": [
+   "non listato",
+   1
+  ],
+  "Pikashop|Phantasmal Flames (ME02)": [
+   "non listato",
+   1
+  ],
+  "Pikashop|Pokémon 151": [
+   "non listato",
+   1
+  ],
+  "Pikashop|Prismatic Evolutions": [
+   "non listato",
+   1
+  ],
+  "Pikashop|Crown Zenith": [
+   "non listato",
+   1
+  ],
+  "Pikashop|Destined Rivals": [
+   "non listato",
+   1
+  ],
+  "PokeCardShop|Premium Deck Espeon & Umbreon (30th)": [
+   "non listato",
+   1
+  ],
+  "LetsGoTry|Chaos Rising (ME04)": [
+   "non listato",
+   1
+  ]
+ },
  "urls": {
   "Rogerz|Pitch Black (ME05)": "https://rogerz.dk/search?q=pitch+black",
   "Packratt (UK)|Chaos Rising (ME04)": "https://packratt.co.uk/search?q=chaos+rising",
@@ -1126,7 +1171,7 @@
   "www.pokekarty.pl": 346,
   "www.wakuwaku.cz": 345,
   "www.pokemonia.ro": 346,
-  "en.tcg-shop.at": 345,
+  "en.tcg-shop.at": 346,
   "kaissagames.com": 142,
   "misticards.com": 80,
   "www.poketalk.se": 62,
@@ -1135,8 +1180,8 @@
   "lorenzone.fr": 57,
   "bescards.com": 54,
   "www.deckshop.de": 47,
-  "pokechest.at": 42,
-  "tcgfanshop.nl": 42,
+  "pokechest.at": 43,
+  "tcgfanshop.nl": 43,
   "crispycards.de": 34,
   "rarecards.nl": 22,
   "tcgstore.se": 21,
@@ -1144,8 +1189,7 @@
   "itcg.bg": 12,
   "www.amazon.it": 6,
   "cardcorner.at": 6,
-  "www.blackfire.eu": 3,
-  "pokeboxstore.pt": 1
+  "www.blackfire.eu": 3
  },
- "runno": 4116
+ "runno": 4117
 }
