@@ -971,6 +971,10 @@
   "PokeCardShop|30th Celebration": "€8.95"
  },
  "pending": {
+  "Kerailykortti|Destined Rivals": [
+   "non listato",
+   1
+  ],
   "LetsGoTry|Chaos Rising (ME04)": [
    "listato",
    1
@@ -1125,7 +1129,7 @@
   "www.chaoscards.co.uk": 351,
   "www.waylandgames.co.uk": 351,
   "www.firestormgames.co.uk": 352,
-  "hobbykort.se": 351,
+  "hobbykort.se": 352,
   "tcgcompany.nl": 351,
   "www.nerdom.gr": 351,
   "www.pokekarty.pl": 351,
@@ -1148,15 +1152,25 @@
   "itcg.bg": 17,
   "www.amazon.it": 11,
   "cardcorner.at": 11,
+  "www.blackfire.eu": 9,
   "www.deckshop.de": 6,
-  "sunnystore.es": 4,
-  "rogerz.dk": 3,
-  "cardzone.es": 4,
-  "outpostbrussels.be": 3,
-  "godofcards.com": 4,
-  "alldaytcg.com": 3,
   "poke-power.eu": 4,
-  "totalcards.net": 3
+  "godofcards.com": 4,
+  "cardzone.es": 4,
+  "rogerz.dk": 4,
+  "totalcards.net": 4,
+  "outpostbrussels.be": 4,
+  "alldaytcg.com": 4,
+  "sunnystore.es": 3,
+  "pokeboxstore.pt": 2,
+  "www.pokemons.dk": 1,
+  "sapphire-cards.de": 1,
+  "www.lotticards.de": 1,
+  "extremepokecorner.com": 1,
+  "pokectcg.cz": 1,
+  "pokewoke.store": 1,
+  "tcgpikas.lt": 1,
+  "pokemonworld.lt": 1
  },
- "runno": 4181
+ "runno": 4182
 }
