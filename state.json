@@ -571,7 +571,7 @@
   },
   "PokeCardShop": {
    "Pitch Black (ME05)": "esaurito",
-   "30th Celebration": "esaurito",
+   "30th Celebration": "disponibile",
    "Storm Emerald (ME06)": "non listato",
    "Chaos Rising (ME04)": "esaurito",
    "Phantasmal Flames (ME02)": "esaurito",
@@ -971,10 +971,6 @@
   "PokeCardShop|30th Celebration": "€8.95"
  },
  "pending": {
-  "PokeCardShop|30th Celebration": [
-   "disponibile",
-   1
-  ],
   "Pikashop|Pitch Black (ME05)": [
    "disponibile",
    1
@@ -1009,6 +1005,10 @@
   ],
   "Pikashop|Destined Rivals": [
    "listato",
+   1
+  ],
+  "LetsGoTry|Chaos Rising (ME04)": [
+   "non listato",
    1
   ]
  },
@@ -1174,7 +1174,7 @@
   "www.pokemillon.com": 70,
   "pokeka.hu": 70,
   "lorenzone.fr": 68,
-  "bescards.com": 64,
+  "bescards.com": 65,
   "pokechest.at": 53,
   "tcgfanshop.nl": 53,
   "crispycards.de": 44,
@@ -1194,7 +1194,8 @@
   "www.amazon.it": 6,
   "sunnystore.es": 6,
   "www.blackfire.eu": 6,
-  "pokeboxstore.pt": 3
+  "pokeboxstore.pt": 3,
+  "tcgdistribution.fr": 1
  },
- "runno": 4239
+ "runno": 4240
 }
