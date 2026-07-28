@@ -570,7 +570,7 @@
    "Premium Deck Espeon & Umbreon (30th)": "irraggiungibile"
   },
   "PokeCardShop": {
-   "Pitch Black (ME05)": "non listato",
+   "Pitch Black (ME05)": "esaurito",
    "30th Celebration": "disponibile",
    "Storm Emerald (ME06)": "non listato",
    "Chaos Rising (ME04)": "esaurito",
@@ -971,19 +971,35 @@
   "PokeCardShop|30th Celebration": "€8.95"
  },
  "pending": {
-  "Vinticards|Phantasmal Flames (ME02)": [
-   "non listato",
+  "Vinticards|Pitch Black (ME05)": [
+   "listato",
+   1
+  ],
+  "Vinticards|30th Celebration": [
+   "listato",
+   1
+  ],
+  "Vinticards|Chaos Rising (ME04)": [
+   "listato",
    1
   ],
   "Vinticards|Pokémon 151": [
    "non listato",
    1
   ],
-  "Vinticards|Prismatic Evolutions": [
+  "Vinticards|Crown Zenith": [
    "non listato",
    1
   ],
-  "Vinticards|Crown Zenith": [
+  "Vinticards|Destined Rivals": [
+   "listato",
+   1
+  ],
+  "PokeCardShop|Phantasmal Flames (ME02)": [
+   "non listato",
+   1
+  ],
+  "LetsGoTry|Chaos Rising (ME04)": [
    "non listato",
    1
   ]
@@ -1138,7 +1154,7 @@
   "www.waylandgames.co.uk": 355,
   "www.firestormgames.co.uk": 356,
   "hobbykort.se": 356,
-  "tcgcompany.nl": 355,
+  "tcgcompany.nl": 356,
   "www.nerdom.gr": 355,
   "www.pokekarty.pl": 355,
   "www.wakuwaku.cz": 355,
@@ -1155,12 +1171,14 @@
   "tcgfanshop.nl": 52,
   "crispycards.de": 43,
   "rarecards.nl": 32,
+  "tcgstore.se": 31,
   "pokevend.at": 28,
   "itcg.bg": 21,
   "cardcorner.at": 15,
   "www.deckshop.de": 10,
   "poke-power.eu": 8,
   "godofcards.com": 8,
+  "cardzone.es": 8,
   "rogerz.dk": 8,
   "totalcards.net": 8,
   "outpostbrussels.be": 8,
@@ -1168,8 +1186,13 @@
   "www.amazon.it": 6,
   "sunnystore.es": 5,
   "www.blackfire.eu": 5,
-  "tcgstore.se": 3,
-  "cardzone.es": 3
+  "pokeboxstore.pt": 3,
+  "tcgdistribution.fr": 1,
+  "extremepokecorner.com": 1,
+  "pokectcg.cz": 1,
+  "pokewoke.store": 1,
+  "tcgpikas.lt": 1,
+  "pokemonworld.lt": 1
  },
- "runno": 4232
+ "runno": 4233
 }
