@@ -970,7 +970,12 @@
   "Stoyanov Games|Pitch Black (ME05)": "8.00€",
   "PokeCardShop|30th Celebration": "€8.95"
  },
- "pending": {},
+ "pending": {
+  "PokeCardShop|Premium Deck Espeon & Umbreon (30th)": [
+   "listato",
+   1
+  ]
+ },
  "urls": {
   "Rogerz|Pitch Black (ME05)": "https://rogerz.dk/search?q=pitch+black",
   "Packratt (UK)|Chaos Rising (ME04)": "https://packratt.co.uk/search?q=chaos+rising",
@@ -1138,14 +1143,12 @@
   "tcgfanshop.nl": 52,
   "crispycards.de": 43,
   "rarecards.nl": 32,
-  "tcgstore.se": 30,
   "pokevend.at": 28,
   "itcg.bg": 21,
   "cardcorner.at": 15,
   "www.deckshop.de": 10,
   "poke-power.eu": 8,
   "godofcards.com": 8,
-  "cardzone.es": 8,
   "rogerz.dk": 7,
   "totalcards.net": 7,
   "outpostbrussels.be": 7,
@@ -1153,7 +1156,8 @@
   "www.amazon.it": 5,
   "sunnystore.es": 5,
   "www.blackfire.eu": 5,
-  "pokeboxstore.pt": 1
+  "tcgstore.se": 3,
+  "cardzone.es": 3
  },
  "runno": 4229
 }
