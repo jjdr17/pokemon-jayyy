@@ -579,7 +579,7 @@
    "Prismatic Evolutions": "listato",
    "Crown Zenith": "listato",
    "Destined Rivals": "esaurito",
-   "Premium Deck Espeon & Umbreon (30th)": "non listato"
+   "Premium Deck Espeon & Umbreon (30th)": "listato"
   },
   "Kaissa Games": {
    "Pitch Black (ME05)": "listato",
@@ -794,7 +794,7 @@
    "Pokémon 151": "non listato",
    "Prismatic Evolutions": "non listato",
    "Crown Zenith": "non listato",
-   "Destined Rivals": "non listato",
+   "Destined Rivals": "listato",
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "Fuji-Store": {
@@ -813,7 +813,7 @@
    "Pitch Black (ME05)": "listato",
    "30th Celebration": "listato",
    "Storm Emerald (ME06)": "listato",
-   "Chaos Rising (ME04)": "non listato",
+   "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "non listato",
    "Prismatic Evolutions": "non listato",
@@ -971,8 +971,8 @@
   "PokeCardShop|30th Celebration": "€8.95"
  },
  "pending": {
-  "Kerailykortti|Destined Rivals": [
-   "listato",
+  "LetsGoTry|Chaos Rising (ME04)": [
+   "non listato",
    1
   ]
  },
@@ -1122,7 +1122,7 @@
   "www.gamelife.it": 354,
   "pokeseller14.com": 354,
   "geco-shop.de": 354,
-  "www.chaoscards.co.uk": 353,
+  "www.chaoscards.co.uk": 354,
   "www.waylandgames.co.uk": 354,
   "www.firestormgames.co.uk": 354,
   "hobbykort.se": 354,
@@ -1133,8 +1133,8 @@
   "www.pokemonia.ro": 354,
   "en.tcg-shop.at": 353,
   "kaissagames.com": 150,
-  "misticards.com": 87,
-  "www.poketalk.se": 69,
+  "misticards.com": 88,
+  "www.poketalk.se": 70,
   "www.pokemillon.com": 67,
   "pokeka.hu": 67,
   "lorenzone.fr": 65,
@@ -1150,15 +1150,17 @@
   "www.deckshop.de": 9,
   "poke-power.eu": 6,
   "godofcards.com": 6,
-  "cardzone.es": 6,
+  "cardzone.es": 7,
   "rogerz.dk": 6,
   "totalcards.net": 6,
   "outpostbrussels.be": 6,
   "alldaytcg.com": 6,
   "pokeboxstore.pt": 5,
   "www.amazon.it": 4,
-  "sunnystore.es": 3,
-  "www.blackfire.eu": 3
+  "sunnystore.es": 4,
+  "www.blackfire.eu": 3,
+  "tcgdistribution.fr": 1,
+  "games-island.eu": 1
  },
- "runno": 4211
+ "runno": 4212
 }
