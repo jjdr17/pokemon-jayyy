@@ -970,12 +970,7 @@
   "Stoyanov Games|Pitch Black (ME05)": "8.00€",
   "PokeCardShop|30th Celebration": "€8.95"
  },
- "pending": {
-  "PokeCardShop|Premium Deck Espeon & Umbreon (30th)": [
-   "listato",
-   1
-  ]
- },
+ "pending": {},
  "urls": {
   "Rogerz|Pitch Black (ME05)": "https://rogerz.dk/search?q=pitch+black",
   "Packratt (UK)|Chaos Rising (ME04)": "https://packratt.co.uk/search?q=chaos+rising",
@@ -1003,7 +998,7 @@
   "Pikashop|Pitch Black (ME05)": "https://pikashop.pl/?s=pitch+black&post_type=product",
   "PokeCardShop|30th Celebration": "https://www.pokecardshop.be/search?q=30th+celebration"
  },
- "digest_slot": "2026-07-27-22",
+ "digest_slot": "2026-07-28-10",
  "log": [
   {
    "ts": "05/07 19:55",
@@ -1122,7 +1117,7 @@
   "www.gamelife.it": 353,
   "pokeseller14.com": 353,
   "geco-shop.de": 353,
-  "www.chaoscards.co.uk": 352,
+  "www.chaoscards.co.uk": 353,
   "www.waylandgames.co.uk": 353,
   "www.firestormgames.co.uk": 353,
   "hobbykort.se": 353,
@@ -1133,8 +1128,8 @@
   "www.pokemonia.ro": 353,
   "en.tcg-shop.at": 352,
   "kaissagames.com": 149,
-  "misticards.com": 86,
-  "www.poketalk.se": 68,
+  "misticards.com": 87,
+  "www.poketalk.se": 69,
   "www.pokemillon.com": 66,
   "pokeka.hu": 66,
   "lorenzone.fr": 64,
@@ -1151,14 +1146,14 @@
   "www.deckshop.de": 8,
   "poke-power.eu": 5,
   "godofcards.com": 5,
-  "cardzone.es": 5,
+  "cardzone.es": 6,
   "rogerz.dk": 5,
   "totalcards.net": 5,
   "outpostbrussels.be": 5,
   "alldaytcg.com": 5,
-  "sunnystore.es": 4,
+  "sunnystore.es": 5,
   "pokeboxstore.pt": 4,
-  "www.amazon.it": 3
+  "www.amazon.it": 1
  },
- "runno": 4199
+ "runno": 4200
 }
