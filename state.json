@@ -813,7 +813,7 @@
    "Pitch Black (ME05)": "listato",
    "30th Celebration": "listato",
    "Storm Emerald (ME06)": "listato",
-   "Chaos Rising (ME04)": "listato",
+   "Chaos Rising (ME04)": "non listato",
    "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "non listato",
    "Prismatic Evolutions": "non listato",
@@ -958,7 +958,7 @@
   "papelinho.pt": "https://papelinho.pt/?s={q}&post_type=product"
  },
  "alerts": {
-  "PokeCardShop|30th Celebration": 1785273842.7000687
+  "PokeCardShop|30th Celebration": 1784905852.8958256
  },
  "prices": {
   "Packratt (UK)|Chaos Rising (ME04)": "£10.01",
@@ -971,8 +971,8 @@
   "PokeCardShop|30th Celebration": "€8.95"
  },
  "pending": {
-  "LetsGoTry|Chaos Rising (ME04)": [
-   "non listato",
+  "PokeCardShop|Premium Deck Espeon & Umbreon (30th)": [
+   "listato",
    1
   ]
  },
@@ -1114,11 +1114,6 @@
    "ts": "24/07 17:10",
    "title": "🚨 RESTOCK: 30th Celebration — PokeCardShop",
    "url": "https://www.pokecardshop.be/search?q=30th+celebration"
-  },
-  {
-   "ts": "28/07 23:24",
-   "title": "🚨 RESTOCK: 30th Celebration — PokeCardShop",
-   "url": "https://www.pokecardshop.be/search?q=30th+celebration"
   }
  ],
  "down": {
@@ -1130,7 +1125,7 @@
   "www.chaoscards.co.uk": 356,
   "www.waylandgames.co.uk": 356,
   "www.firestormgames.co.uk": 357,
-  "hobbykort.se": 356,
+  "hobbykort.se": 357,
   "tcgcompany.nl": 356,
   "www.nerdom.gr": 356,
   "www.pokekarty.pl": 356,
@@ -1156,14 +1151,17 @@
   "poke-power.eu": 9,
   "godofcards.com": 9,
   "cardzone.es": 9,
-  "rogerz.dk": 8,
-  "totalcards.net": 8,
-  "outpostbrussels.be": 8,
-  "alldaytcg.com": 8,
+  "rogerz.dk": 9,
+  "totalcards.net": 9,
+  "outpostbrussels.be": 9,
+  "alldaytcg.com": 9,
   "www.amazon.it": 6,
   "sunnystore.es": 6,
   "www.blackfire.eu": 6,
-  "pokeboxstore.pt": 3
+  "pokeboxstore.pt": 3,
+  "pokebank.es": 1,
+  "tcgdistribution.fr": 1,
+  "www.magicbazar.fr": 1
  },
- "runno": 4241
+ "runno": 4242
 }
