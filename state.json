@@ -579,7 +579,7 @@
    "Prismatic Evolutions": "listato",
    "Crown Zenith": "listato",
    "Destined Rivals": "esaurito",
-   "Premium Deck Espeon & Umbreon (30th)": "non listato"
+   "Premium Deck Espeon & Umbreon (30th)": "listato"
   },
   "Kaissa Games": {
    "Pitch Black (ME05)": "listato",
@@ -958,7 +958,7 @@
   "papelinho.pt": "https://papelinho.pt/?s={q}&post_type=product"
  },
  "alerts": {
-  "PokeCardShop|30th Celebration": 1785273842.7000687
+  "PokeCardShop|30th Celebration": 1784905852.8958256
  },
  "prices": {
   "Packratt (UK)|Chaos Rising (ME04)": "£10.01",
@@ -971,8 +971,8 @@
   "PokeCardShop|30th Celebration": "€8.95"
  },
  "pending": {
-  "LetsGoTry|Chaos Rising (ME04)": [
-   "listato",
+  "PokeCardShop|Premium Deck Espeon & Umbreon (30th)": [
+   "non listato",
    1
   ]
  },
@@ -1114,19 +1114,14 @@
    "ts": "24/07 17:10",
    "title": "🚨 RESTOCK: 30th Celebration — PokeCardShop",
    "url": "https://www.pokecardshop.be/search?q=30th+celebration"
-  },
-  {
-   "ts": "28/07 23:24",
-   "title": "🚨 RESTOCK: 30th Celebration — PokeCardShop",
-   "url": "https://www.pokecardshop.be/search?q=30th+celebration"
   }
  ],
  "down": {
   "www.cardmarket.com": 356,
   "www.gamestop.com": 84,
-  "www.gamelife.it": 356,
-  "pokeseller14.com": 356,
-  "geco-shop.de": 356,
+  "www.gamelife.it": 357,
+  "pokeseller14.com": 357,
+  "geco-shop.de": 357,
   "www.chaoscards.co.uk": 356,
   "www.waylandgames.co.uk": 356,
   "www.firestormgames.co.uk": 357,
@@ -1160,10 +1155,11 @@
   "totalcards.net": 9,
   "outpostbrussels.be": 9,
   "alldaytcg.com": 9,
-  "www.amazon.it": 6,
+  "www.amazon.it": 7,
   "sunnystore.es": 6,
   "www.blackfire.eu": 6,
-  "pokebank.es": 2
+  "pokebank.es": 3,
+  "games-island.eu": 1
  },
- "runno": 4243
+ "runno": 4244
 }
