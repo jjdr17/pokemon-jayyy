@@ -579,7 +579,7 @@
    "Prismatic Evolutions": "listato",
    "Crown Zenith": "listato",
    "Destined Rivals": "esaurito",
-   "Premium Deck Espeon & Umbreon (30th)": "non listato"
+   "Premium Deck Espeon & Umbreon (30th)": "listato"
   },
   "Kaissa Games": {
    "Pitch Black (ME05)": "listato",
@@ -690,7 +690,7 @@
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "TCGPikas": {
-   "Pitch Black (ME05)": "non listato",
+   "Pitch Black (ME05)": "listato",
    "30th Celebration": "non listato",
    "Storm Emerald (ME06)": "non listato",
    "Chaos Rising (ME04)": "listato",
@@ -970,16 +970,7 @@
   "Stoyanov Games|Pitch Black (ME05)": "8.00€",
   "PokeCardShop|30th Celebration": "€8.95"
  },
- "pending": {
-  "Kerailykortti|Destined Rivals": [
-   "non listato",
-   1
-  ],
-  "PokeCardShop|Premium Deck Espeon & Umbreon (30th)": [
-   "listato",
-   1
-  ]
- },
+ "pending": {},
  "urls": {
   "Rogerz|Pitch Black (ME05)": "https://rogerz.dk/search?q=pitch+black",
   "Packratt (UK)|Chaos Rising (ME04)": "https://packratt.co.uk/search?q=chaos+rising",
@@ -1129,7 +1120,7 @@
   "www.chaoscards.co.uk": 353,
   "www.waylandgames.co.uk": 353,
   "www.firestormgames.co.uk": 354,
-  "hobbykort.se": 353,
+  "hobbykort.se": 354,
   "tcgcompany.nl": 353,
   "www.nerdom.gr": 353,
   "www.pokekarty.pl": 353,
@@ -1155,22 +1146,18 @@
   "poke-power.eu": 6,
   "godofcards.com": 6,
   "cardzone.es": 6,
-  "rogerz.dk": 5,
-  "totalcards.net": 5,
-  "outpostbrussels.be": 5,
-  "alldaytcg.com": 5,
+  "rogerz.dk": 6,
+  "totalcards.net": 6,
+  "outpostbrussels.be": 6,
+  "alldaytcg.com": 6,
   "pokeboxstore.pt": 4,
   "www.amazon.it": 3,
   "sunnystore.es": 3,
-  "www.blackfire.eu": 3,
-  "www.pokemons.dk": 1,
-  "sapphire-cards.de": 1,
+  "tcgdistribution.fr": 2,
+  "www.blackfire.eu": 1,
+  "pikashop.pl": 1,
   "www.lotticards.de": 1,
-  "extremepokecorner.com": 1,
-  "pokectcg.cz": 1,
-  "pokewoke.store": 1,
-  "tcgpikas.lt": 1,
-  "pokemonworld.lt": 1
+  "games-island.eu": 1
  },
- "runno": 4205
+ "runno": 4206
 }
