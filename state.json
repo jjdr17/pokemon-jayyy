@@ -579,7 +579,7 @@
    "Prismatic Evolutions": "listato",
    "Crown Zenith": "listato",
    "Destined Rivals": "esaurito",
-   "Premium Deck Espeon & Umbreon (30th)": "listato"
+   "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "Kaissa Games": {
    "Pitch Black (ME05)": "listato",
@@ -971,50 +971,6 @@
   "PokeCardShop|30th Celebration": "€8.95"
  },
  "pending": {
-  "Kerailykortti|Destined Rivals": [
-   "non listato",
-   1
-  ],
-  "Pokemons.dk|Pitch Black (ME05)": [
-   "non listato",
-   1
-  ],
-  "Pokemons.dk|30th Celebration": [
-   "non listato",
-   1
-  ],
-  "Pokemons.dk|Storm Emerald (ME06)": [
-   "non listato",
-   1
-  ],
-  "Pokemons.dk|Chaos Rising (ME04)": [
-   "non listato",
-   1
-  ],
-  "Pokemons.dk|Phantasmal Flames (ME02)": [
-   "non listato",
-   1
-  ],
-  "Pokemons.dk|Pokémon 151": [
-   "non listato",
-   1
-  ],
-  "Pokemons.dk|Prismatic Evolutions": [
-   "non listato",
-   1
-  ],
-  "Pokemons.dk|Crown Zenith": [
-   "non listato",
-   1
-  ],
-  "Pokemons.dk|Destined Rivals": [
-   "non listato",
-   1
-  ],
-  "PokeCardShop|Premium Deck Espeon & Umbreon (30th)": [
-   "non listato",
-   1
-  ],
   "LetsGoTry|Chaos Rising (ME04)": [
    "listato",
    1
@@ -1169,7 +1125,7 @@
   "www.chaoscards.co.uk": 362,
   "www.waylandgames.co.uk": 362,
   "www.firestormgames.co.uk": 363,
-  "hobbykort.se": 362,
+  "hobbykort.se": 363,
   "tcgcompany.nl": 362,
   "www.nerdom.gr": 362,
   "www.pokekarty.pl": 362,
@@ -1195,20 +1151,14 @@
   "poke-power.eu": 15,
   "godofcards.com": 15,
   "cardzone.es": 15,
-  "rogerz.dk": 14,
-  "totalcards.net": 14,
-  "outpostbrussels.be": 14,
-  "alldaytcg.com": 14,
+  "rogerz.dk": 15,
+  "totalcards.net": 15,
+  "outpostbrussels.be": 15,
+  "alldaytcg.com": 15,
   "sunnystore.es": 12,
   "www.blackfire.eu": 12,
-  "www.amazon.it": 2,
-  "pokeboxstore.pt": 2,
-  "extremepokecorner.com": 2,
-  "pokectcg.cz": 2,
-  "pokewoke.store": 2,
-  "tcgpikas.lt": 2,
-  "pokemonworld.lt": 2,
-  "www.lotticards.de": 1
+  "www.amazon.it": 4,
+  "tcgdistribution.fr": 1
  },
- "runno": 4313
+ "runno": 4314
 }
