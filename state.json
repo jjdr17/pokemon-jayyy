@@ -579,7 +579,7 @@
    "Prismatic Evolutions": "listato",
    "Crown Zenith": "listato",
    "Destined Rivals": "esaurito",
-   "Premium Deck Espeon & Umbreon (30th)": "listato"
+   "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "Kaissa Games": {
    "Pitch Black (ME05)": "listato",
@@ -970,12 +970,7 @@
   "Stoyanov Games|Pitch Black (ME05)": "8.00€",
   "PokeCardShop|30th Celebration": "€8.95"
  },
- "pending": {
-  "PokeCardShop|Premium Deck Espeon & Umbreon (30th)": [
-   "non listato",
-   1
-  ]
- },
+ "pending": {},
  "urls": {
   "Rogerz|Pitch Black (ME05)": "https://rogerz.dk/search?q=pitch+black",
   "Packratt (UK)|Chaos Rising (ME04)": "https://packratt.co.uk/search?q=chaos+rising",
@@ -1126,7 +1121,7 @@
   "www.waylandgames.co.uk": 361,
   "www.firestormgames.co.uk": 362,
   "hobbykort.se": 362,
-  "tcgcompany.nl": 361,
+  "tcgcompany.nl": 362,
   "www.nerdom.gr": 361,
   "www.pokekarty.pl": 361,
   "www.wakuwaku.cz": 361,
@@ -1143,7 +1138,7 @@
   "tcgfanshop.nl": 58,
   "crispycards.de": 49,
   "rarecards.nl": 38,
-  "tcgstore.se": 36,
+  "tcgstore.se": 37,
   "pokevend.at": 34,
   "itcg.bg": 27,
   "cardcorner.at": 21,
@@ -1156,7 +1151,8 @@
   "outpostbrussels.be": 14,
   "alldaytcg.com": 14,
   "sunnystore.es": 11,
-  "www.blackfire.eu": 11
+  "www.blackfire.eu": 11,
+  "www.amazon.it": 4
  },
- "runno": 4304
+ "runno": 4305
 }
