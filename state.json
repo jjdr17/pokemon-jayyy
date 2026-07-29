@@ -611,9 +611,9 @@
    "Storm Emerald (ME06)": "non listato",
    "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "listato",
-   "Pokémon 151": "listato",
+   "Pokémon 151": "non listato",
    "Prismatic Evolutions": "listato",
-   "Crown Zenith": "listato",
+   "Crown Zenith": "non listato",
    "Destined Rivals": "listato",
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
@@ -971,10 +971,6 @@
   "PokeCardShop|30th Celebration": "€8.95"
  },
  "pending": {
-  "Amazon.it|30th Celebration": [
-   "listato",
-   1
-  ],
   "Kerailykortti|Destined Rivals": [
    "non listato",
    1
@@ -1012,22 +1008,6 @@
    1
   ],
   "Pokemons.dk|Destined Rivals": [
-   "non listato",
-   1
-  ],
-  "Vinticards|Pokémon 151": [
-   "non listato",
-   1
-  ],
-  "Vinticards|Crown Zenith": [
-   "non listato",
-   1
-  ],
-  "PokeCardShop|Premium Deck Espeon & Umbreon (30th)": [
-   "listato",
-   1
-  ],
-  "PokeCardShop|Destined Rivals": [
    "non listato",
    1
   ]
@@ -1173,13 +1153,13 @@
   }
  ],
  "down": {
-  "www.cardmarket.com": 359,
+  "www.cardmarket.com": 360,
   "www.gamestop.com": 84,
   "www.gamelife.it": 360,
   "pokeseller14.com": 360,
   "geco-shop.de": 360,
   "www.chaoscards.co.uk": 359,
-  "www.waylandgames.co.uk": 359,
+  "www.waylandgames.co.uk": 360,
   "www.firestormgames.co.uk": 360,
   "hobbykort.se": 360,
   "tcgcompany.nl": 360,
@@ -1197,12 +1177,12 @@
   "bescards.com": 68,
   "pokechest.at": 56,
   "tcgfanshop.nl": 56,
-  "crispycards.de": 47,
+  "crispycards.de": 48,
   "rarecards.nl": 36,
   "tcgstore.se": 35,
   "pokevend.at": 32,
-  "itcg.bg": 25,
-  "cardcorner.at": 19,
+  "itcg.bg": 26,
+  "cardcorner.at": 20,
   "www.deckshop.de": 14,
   "poke-power.eu": 12,
   "godofcards.com": 12,
@@ -1213,9 +1193,7 @@
   "alldaytcg.com": 12,
   "sunnystore.es": 9,
   "www.blackfire.eu": 9,
-  "www.amazon.it": 5,
-  "pokeboxstore.pt": 1,
-  "papelinho.pt": 1,
+  "pokebank.es": 6,
   "www.lotticards.de": 1,
   "extremepokecorner.com": 1,
   "pokectcg.cz": 1,
@@ -1223,5 +1201,5 @@
   "tcgpikas.lt": 1,
   "pokemonworld.lt": 1
  },
- "runno": 4281
+ "runno": 4282
 }
