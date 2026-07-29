@@ -510,15 +510,15 @@
    "Premium Deck Espeon & Umbreon (30th)": "irraggiungibile"
   },
   "Pokemons.dk": {
-   "Pitch Black (ME05)": "non listato",
-   "30th Celebration": "non listato",
-   "Storm Emerald (ME06)": "non listato",
-   "Chaos Rising (ME04)": "non listato",
-   "Phantasmal Flames (ME02)": "non listato",
-   "Pokémon 151": "non listato",
-   "Prismatic Evolutions": "non listato",
-   "Crown Zenith": "non listato",
-   "Destined Rivals": "non listato",
+   "Pitch Black (ME05)": "listato",
+   "30th Celebration": "listato",
+   "Storm Emerald (ME06)": "listato",
+   "Chaos Rising (ME04)": "listato",
+   "Phantasmal Flames (ME02)": "listato",
+   "Pokémon 151": "listato",
+   "Prismatic Evolutions": "listato",
+   "Crown Zenith": "listato",
+   "Destined Rivals": "listato",
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "Papelinho": {
@@ -579,7 +579,7 @@
    "Prismatic Evolutions": "listato",
    "Crown Zenith": "listato",
    "Destined Rivals": "esaurito",
-   "Premium Deck Espeon & Umbreon (30th)": "listato"
+   "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "Kaissa Games": {
    "Pitch Black (ME05)": "listato",
@@ -611,9 +611,9 @@
    "Storm Emerald (ME06)": "non listato",
    "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "listato",
-   "Pokémon 151": "listato",
+   "Pokémon 151": "non listato",
    "Prismatic Evolutions": "listato",
-   "Crown Zenith": "listato",
+   "Crown Zenith": "non listato",
    "Destined Rivals": "listato",
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
@@ -794,7 +794,7 @@
    "Pokémon 151": "non listato",
    "Prismatic Evolutions": "non listato",
    "Crown Zenith": "non listato",
-   "Destined Rivals": "non listato",
+   "Destined Rivals": "listato",
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "Fuji-Store": {
@@ -971,7 +971,11 @@
   "PokeCardShop|30th Celebration": "€8.95"
  },
  "pending": {
-  "Amazon.it|30th Celebration": [
+  "Vinticards|Pokémon 151": [
+   "listato",
+   1
+  ],
+  "Vinticards|Crown Zenith": [
    "listato",
    1
   ]
@@ -1128,7 +1132,7 @@
   "hobbykort.se": 360,
   "tcgcompany.nl": 360,
   "www.nerdom.gr": 359,
-  "www.pokekarty.pl": 359,
+  "www.pokekarty.pl": 360,
   "www.wakuwaku.cz": 359,
   "www.pokemonia.ro": 360,
   "en.tcg-shop.at": 359,
@@ -1147,7 +1151,7 @@
   "pokevend.at": 32,
   "itcg.bg": 26,
   "cardcorner.at": 20,
-  "www.deckshop.de": 14,
+  "www.deckshop.de": 15,
   "poke-power.eu": 12,
   "godofcards.com": 12,
   "cardzone.es": 12,
@@ -1157,8 +1161,9 @@
   "alldaytcg.com": 12,
   "sunnystore.es": 9,
   "www.blackfire.eu": 9,
-  "www.amazon.it": 5,
-  "pokeboxstore.pt": 2
+  "pokebank.es": 6,
+  "www.amazon.it": 1,
+  "papelinho.pt": 1
  },
- "runno": 4282
+ "runno": 4283
 }
