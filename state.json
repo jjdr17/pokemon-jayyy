@@ -579,7 +579,7 @@
    "Prismatic Evolutions": "listato",
    "Crown Zenith": "listato",
    "Destined Rivals": "esaurito",
-   "Premium Deck Espeon & Umbreon (30th)": "listato"
+   "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "Kaissa Games": {
    "Pitch Black (ME05)": "listato",
@@ -794,7 +794,7 @@
    "Pokémon 151": "non listato",
    "Prismatic Evolutions": "non listato",
    "Crown Zenith": "non listato",
-   "Destined Rivals": "non listato",
+   "Destined Rivals": "listato",
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "Fuji-Store": {
@@ -813,7 +813,7 @@
    "Pitch Black (ME05)": "listato",
    "30th Celebration": "listato",
    "Storm Emerald (ME06)": "listato",
-   "Chaos Rising (ME04)": "non listato",
+   "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "non listato",
    "Prismatic Evolutions": "non listato",
@@ -970,16 +970,7 @@
   "Stoyanov Games|Pitch Black (ME05)": "8.00€",
   "PokeCardShop|30th Celebration": "€8.95"
  },
- "pending": {
-  "Amazon.it|30th Celebration": [
-   "listato",
-   1
-  ],
-  "Kerailykortti|Destined Rivals": [
-   "listato",
-   1
-  ]
- },
+ "pending": {},
  "urls": {
   "Rogerz|Pitch Black (ME05)": "https://rogerz.dk/search?q=pitch+black",
   "Packratt (UK)|Chaos Rising (ME04)": "https://packratt.co.uk/search?q=chaos+rising",
@@ -1135,7 +1126,7 @@
   "www.pokekarty.pl": 360,
   "www.wakuwaku.cz": 359,
   "www.pokemonia.ro": 360,
-  "en.tcg-shop.at": 359,
+  "en.tcg-shop.at": 360,
   "kaissagames.com": 156,
   "misticards.com": 94,
   "www.poketalk.se": 76,
@@ -1143,8 +1134,8 @@
   "pokeka.hu": 73,
   "lorenzone.fr": 71,
   "bescards.com": 68,
-  "pokechest.at": 56,
-  "tcgfanshop.nl": 56,
+  "pokechest.at": 57,
+  "tcgfanshop.nl": 57,
   "crispycards.de": 48,
   "rarecards.nl": 36,
   "tcgstore.se": 35,
@@ -1152,8 +1143,8 @@
   "itcg.bg": 26,
   "cardcorner.at": 20,
   "www.deckshop.de": 15,
-  "poke-power.eu": 12,
-  "godofcards.com": 12,
+  "poke-power.eu": 13,
+  "godofcards.com": 13,
   "cardzone.es": 13,
   "rogerz.dk": 12,
   "totalcards.net": 12,
@@ -1161,8 +1152,8 @@
   "alldaytcg.com": 12,
   "sunnystore.es": 10,
   "www.blackfire.eu": 9,
-  "www.amazon.it": 5,
-  "pokeboxstore.pt": 3
+  "pokeboxstore.pt": 2,
+  "www.amazon.it": 1
  },
- "runno": 4284
+ "runno": 4285
 }
