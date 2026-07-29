@@ -579,7 +579,7 @@
    "Prismatic Evolutions": "listato",
    "Crown Zenith": "listato",
    "Destined Rivals": "esaurito",
-   "Premium Deck Espeon & Umbreon (30th)": "listato"
+   "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "Kaissa Games": {
    "Pitch Black (ME05)": "listato",
@@ -813,7 +813,7 @@
    "Pitch Black (ME05)": "listato",
    "30th Celebration": "listato",
    "Storm Emerald (ME06)": "listato",
-   "Chaos Rising (ME04)": "non listato",
+   "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "non listato",
    "Prismatic Evolutions": "non listato",
@@ -970,7 +970,16 @@
   "Stoyanov Games|Pitch Black (ME05)": "8.00€",
   "PokeCardShop|30th Celebration": "€8.95"
  },
- "pending": {},
+ "pending": {
+  "PokeCardShop|Premium Deck Espeon & Umbreon (30th)": [
+   "listato",
+   1
+  ],
+  "LetsGoTry|Chaos Rising (ME04)": [
+   "non listato",
+   1
+  ]
+ },
  "urls": {
   "Rogerz|Pitch Black (ME05)": "https://rogerz.dk/search?q=pitch+black",
   "Packratt (UK)|Chaos Rising (ME04)": "https://packratt.co.uk/search?q=chaos+rising",
@@ -1117,7 +1126,7 @@
   "www.gamelife.it": 362,
   "pokeseller14.com": 362,
   "geco-shop.de": 362,
-  "www.chaoscards.co.uk": 361,
+  "www.chaoscards.co.uk": 362,
   "www.waylandgames.co.uk": 362,
   "www.firestormgames.co.uk": 362,
   "hobbykort.se": 362,
@@ -1128,8 +1137,8 @@
   "www.pokemonia.ro": 362,
   "en.tcg-shop.at": 361,
   "kaissagames.com": 158,
-  "misticards.com": 95,
-  "www.poketalk.se": 77,
+  "misticards.com": 96,
+  "www.poketalk.se": 78,
   "www.pokemillon.com": 75,
   "pokeka.hu": 75,
   "lorenzone.fr": 73,
@@ -1145,13 +1154,14 @@
   "www.deckshop.de": 17,
   "poke-power.eu": 14,
   "godofcards.com": 14,
-  "cardzone.es": 14,
+  "cardzone.es": 15,
   "rogerz.dk": 14,
   "totalcards.net": 14,
   "outpostbrussels.be": 14,
   "alldaytcg.com": 14,
-  "sunnystore.es": 11,
-  "www.blackfire.eu": 11
+  "sunnystore.es": 12,
+  "www.blackfire.eu": 11,
+  "www.amazon.it": 4
  },
- "runno": 4307
+ "runno": 4308
 }
