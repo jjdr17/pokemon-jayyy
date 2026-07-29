@@ -579,7 +579,7 @@
    "Prismatic Evolutions": "listato",
    "Crown Zenith": "listato",
    "Destined Rivals": "esaurito",
-   "Premium Deck Espeon & Umbreon (30th)": "non listato"
+   "Premium Deck Espeon & Umbreon (30th)": "listato"
   },
   "Kaissa Games": {
    "Pitch Black (ME05)": "listato",
@@ -813,7 +813,7 @@
    "Pitch Black (ME05)": "listato",
    "30th Celebration": "listato",
    "Storm Emerald (ME06)": "listato",
-   "Chaos Rising (ME04)": "listato",
+   "Chaos Rising (ME04)": "non listato",
    "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "non listato",
    "Prismatic Evolutions": "non listato",
@@ -974,6 +974,18 @@
   "Amazon.it|30th Celebration": [
    "listato",
    1
+  ],
+  "Amazon.it|Storm Emerald (ME06)": [
+   "listato",
+   1
+  ],
+  "PokeCardShop|Premium Deck Espeon & Umbreon (30th)": [
+   "non listato",
+   1
+  ],
+  "LetsGoTry|Chaos Rising (ME04)": [
+   "listato",
+   1
   ]
  },
  "urls": {
@@ -1122,7 +1134,7 @@
   "www.gamelife.it": 358,
   "pokeseller14.com": 358,
   "geco-shop.de": 358,
-  "www.chaoscards.co.uk": 357,
+  "www.chaoscards.co.uk": 358,
   "www.waylandgames.co.uk": 358,
   "www.firestormgames.co.uk": 358,
   "hobbykort.se": 358,
@@ -1133,8 +1145,8 @@
   "www.pokemonia.ro": 358,
   "en.tcg-shop.at": 357,
   "kaissagames.com": 154,
-  "misticards.com": 91,
-  "www.poketalk.se": 73,
+  "misticards.com": 92,
+  "www.poketalk.se": 74,
   "www.pokemillon.com": 71,
   "pokeka.hu": 71,
   "lorenzone.fr": 69,
@@ -1150,21 +1162,15 @@
   "www.deckshop.de": 13,
   "poke-power.eu": 10,
   "godofcards.com": 10,
-  "cardzone.es": 10,
+  "cardzone.es": 11,
   "rogerz.dk": 10,
   "totalcards.net": 10,
   "outpostbrussels.be": 10,
   "alldaytcg.com": 10,
-  "sunnystore.es": 7,
+  "sunnystore.es": 8,
   "www.blackfire.eu": 7,
   "pokebank.es": 4,
-  "pokeboxstore.pt": 4,
-  "www.amazon.it": 3,
-  "extremepokecorner.com": 1,
-  "pokewoke.store": 1,
-  "pokectcg.cz": 1,
-  "tcgpikas.lt": 1,
-  "pokemonworld.lt": 1
+  "pokeboxstore.pt": 4
  },
- "runno": 4259
+ "runno": 4260
 }
