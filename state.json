@@ -510,15 +510,15 @@
    "Premium Deck Espeon & Umbreon (30th)": "irraggiungibile"
   },
   "Pokemons.dk": {
-   "Pitch Black (ME05)": "non listato",
-   "30th Celebration": "non listato",
-   "Storm Emerald (ME06)": "non listato",
-   "Chaos Rising (ME04)": "non listato",
-   "Phantasmal Flames (ME02)": "non listato",
-   "Pokémon 151": "non listato",
-   "Prismatic Evolutions": "non listato",
-   "Crown Zenith": "non listato",
-   "Destined Rivals": "non listato",
+   "Pitch Black (ME05)": "listato",
+   "30th Celebration": "listato",
+   "Storm Emerald (ME06)": "listato",
+   "Chaos Rising (ME04)": "listato",
+   "Phantasmal Flames (ME02)": "listato",
+   "Pokémon 151": "listato",
+   "Prismatic Evolutions": "listato",
+   "Crown Zenith": "listato",
+   "Destined Rivals": "listato",
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "Papelinho": {
@@ -579,7 +579,7 @@
    "Prismatic Evolutions": "listato",
    "Crown Zenith": "listato",
    "Destined Rivals": "esaurito",
-   "Premium Deck Espeon & Umbreon (30th)": "listato"
+   "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "Kaissa Games": {
    "Pitch Black (ME05)": "listato",
@@ -794,7 +794,7 @@
    "Pokémon 151": "non listato",
    "Prismatic Evolutions": "non listato",
    "Crown Zenith": "non listato",
-   "Destined Rivals": "non listato",
+   "Destined Rivals": "listato",
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "Fuji-Store": {
@@ -974,46 +974,6 @@
   "Amazon.it|30th Celebration": [
    "listato",
    1
-  ],
-  "Pokemons.dk|Pitch Black (ME05)": [
-   "listato",
-   1
-  ],
-  "Pokemons.dk|30th Celebration": [
-   "listato",
-   1
-  ],
-  "Pokemons.dk|Storm Emerald (ME06)": [
-   "listato",
-   1
-  ],
-  "Pokemons.dk|Chaos Rising (ME04)": [
-   "listato",
-   1
-  ],
-  "Pokemons.dk|Phantasmal Flames (ME02)": [
-   "listato",
-   1
-  ],
-  "Pokemons.dk|Pokémon 151": [
-   "listato",
-   1
-  ],
-  "Pokemons.dk|Prismatic Evolutions": [
-   "listato",
-   1
-  ],
-  "Pokemons.dk|Crown Zenith": [
-   "listato",
-   1
-  ],
-  "Pokemons.dk|Destined Rivals": [
-   "listato",
-   1
-  ],
-  "Kerailykortti|Destined Rivals": [
-   "listato",
-   1
   ]
  },
  "urls": {
@@ -1043,7 +1003,7 @@
   "Pikashop|Pitch Black (ME05)": "https://pikashop.pl/?s=pitch+black&post_type=product",
   "PokeCardShop|30th Celebration": "https://www.pokecardshop.be/search?q=30th+celebration"
  },
- "digest_slot": "2026-07-29-10",
+ "digest_slot": "2026-07-29-15",
  "log": [
   {
    "ts": "05/07 19:55",
@@ -1164,13 +1124,13 @@
   "geco-shop.de": 360,
   "www.chaoscards.co.uk": 360,
   "www.waylandgames.co.uk": 360,
-  "www.firestormgames.co.uk": 360,
+  "www.firestormgames.co.uk": 361,
   "hobbykort.se": 360,
   "tcgcompany.nl": 360,
   "www.nerdom.gr": 360,
   "www.pokekarty.pl": 360,
   "www.wakuwaku.cz": 360,
-  "www.pokemonia.ro": 360,
+  "www.pokemonia.ro": 361,
   "en.tcg-shop.at": 360,
   "kaissagames.com": 157,
   "misticards.com": 94,
@@ -1197,9 +1157,11 @@
   "alldaytcg.com": 12,
   "sunnystore.es": 10,
   "www.blackfire.eu": 10,
-  "www.amazon.it": 5,
   "pokeboxstore.pt": 3,
-  "games-island.eu": 1
+  "www.amazon.it": 1,
+  "pokectcg.cz": 1,
+  "pokewoke.store": 1,
+  "extremepokecorner.com": 1
  },
- "runno": 4288
+ "runno": 4289
 }
