@@ -25,7 +25,7 @@
    "Premium Deck Espeon & Umbreon (30th)": "irraggiungibile"
   },
   "Amazon.it": {
-   "30th Celebration": "non listato",
+   "30th Celebration": "listato",
    "Storm Emerald (ME06)": "non listato",
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
@@ -971,7 +971,7 @@
   "PokeCardShop|30th Celebration": "€8.95"
  },
  "pending": {
-  "Amazon.it|30th Celebration": [
+  "PokeCardShop|Premium Deck Espeon & Umbreon (30th)": [
    "listato",
    1
   ],
@@ -1132,7 +1132,7 @@
   "hobbykort.se": 366,
   "tcgcompany.nl": 366,
   "www.nerdom.gr": 365,
-  "www.pokekarty.pl": 365,
+  "www.pokekarty.pl": 366,
   "www.wakuwaku.cz": 365,
   "www.pokemonia.ro": 366,
   "en.tcg-shop.at": 365,
@@ -1151,7 +1151,7 @@
   "pokevend.at": 38,
   "itcg.bg": 32,
   "cardcorner.at": 26,
-  "www.deckshop.de": 20,
+  "www.deckshop.de": 21,
   "poke-power.eu": 18,
   "godofcards.com": 18,
   "cardzone.es": 18,
@@ -1163,7 +1163,7 @@
   "www.blackfire.eu": 15,
   "pokeboxstore.pt": 5,
   "games-island.eu": 3,
-  "www.amazon.it": 2
+  "www.lotticards.de": 1
  },
- "runno": 4354
+ "runno": 4355
 }
