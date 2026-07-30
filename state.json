@@ -25,7 +25,7 @@
    "Premium Deck Espeon & Umbreon (30th)": "irraggiungibile"
   },
   "Amazon.it": {
-   "30th Celebration": "non listato",
+   "30th Celebration": "listato",
    "Storm Emerald (ME06)": "non listato",
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
@@ -579,7 +579,7 @@
    "Prismatic Evolutions": "listato",
    "Crown Zenith": "listato",
    "Destined Rivals": "esaurito",
-   "Premium Deck Espeon & Umbreon (30th)": "listato"
+   "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "Kaissa Games": {
    "Pitch Black (ME05)": "listato",
@@ -813,7 +813,7 @@
    "Pitch Black (ME05)": "listato",
    "30th Celebration": "listato",
    "Storm Emerald (ME06)": "listato",
-   "Chaos Rising (ME04)": "listato",
+   "Chaos Rising (ME04)": "non listato",
    "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "non listato",
    "Prismatic Evolutions": "non listato",
@@ -972,18 +972,10 @@
  },
  "pending": {
   "Amazon.it|30th Celebration": [
-   "listato",
-   1
-  ],
-  "PokeCardShop|Premium Deck Espeon & Umbreon (30th)": [
    "non listato",
    1
   ],
-  "PokeCardShop|Pokémon 151": [
-   "non listato",
-   1
-  ],
-  "LetsGoTry|Chaos Rising (ME04)": [
+  "PokeCardShop|Phantasmal Flames (ME02)": [
    "non listato",
    1
   ]
@@ -1143,7 +1135,7 @@
   "www.pokekarty.pl": 367,
   "www.wakuwaku.cz": 366,
   "www.pokemonia.ro": 367,
-  "en.tcg-shop.at": 366,
+  "en.tcg-shop.at": 367,
   "kaissagames.com": 163,
   "misticards.com": 101,
   "www.poketalk.se": 83,
@@ -1151,8 +1143,8 @@
   "pokeka.hu": 80,
   "lorenzone.fr": 78,
   "bescards.com": 75,
-  "pokechest.at": 63,
-  "tcgfanshop.nl": 63,
+  "pokechest.at": 64,
+  "tcgfanshop.nl": 64,
   "crispycards.de": 55,
   "rarecards.nl": 43,
   "tcgstore.se": 42,
@@ -1160,8 +1152,8 @@
   "itcg.bg": 33,
   "cardcorner.at": 27,
   "www.deckshop.de": 22,
-  "poke-power.eu": 19,
-  "godofcards.com": 19,
+  "poke-power.eu": 20,
+  "godofcards.com": 20,
   "cardzone.es": 20,
   "rogerz.dk": 19,
   "totalcards.net": 19,
@@ -1169,9 +1161,10 @@
   "alldaytcg.com": 19,
   "sunnystore.es": 17,
   "www.blackfire.eu": 16,
+  "pokeboxstore.pt": 6,
+  "games-island.eu": 4,
   "www.amazon.it": 4,
-  "eurotcg.com": 4,
-  "pokeboxstore.pt": 1
+  "eurotcg.com": 4
  },
- "runno": 4368
+ "runno": 4369
 }
