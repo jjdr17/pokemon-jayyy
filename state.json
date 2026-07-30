@@ -25,7 +25,7 @@
    "Premium Deck Espeon & Umbreon (30th)": "irraggiungibile"
   },
   "Amazon.it": {
-   "30th Celebration": "non listato",
+   "30th Celebration": "listato",
    "Storm Emerald (ME06)": "non listato",
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
@@ -579,7 +579,7 @@
    "Prismatic Evolutions": "listato",
    "Crown Zenith": "listato",
    "Destined Rivals": "esaurito",
-   "Premium Deck Espeon & Umbreon (30th)": "listato"
+   "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "Kaissa Games": {
    "Pitch Black (ME05)": "listato",
@@ -813,7 +813,7 @@
    "Pitch Black (ME05)": "listato",
    "30th Celebration": "listato",
    "Storm Emerald (ME06)": "listato",
-   "Chaos Rising (ME04)": "listato",
+   "Chaos Rising (ME04)": "non listato",
    "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "non listato",
    "Prismatic Evolutions": "non listato",
@@ -972,6 +972,50 @@
  },
  "pending": {
   "Amazon.it|30th Celebration": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Pitch Black (ME05)": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|30th Celebration": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Storm Emerald (ME06)": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Chaos Rising (ME04)": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Phantasmal Flames (ME02)": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Pokémon 151": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Prismatic Evolutions": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Crown Zenith": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Destined Rivals": [
+   "non listato",
+   1
+  ],
+  "Kerailykortti|Destined Rivals": [
+   "non listato",
+   1
+  ],
+  "PokeCardShop|Premium Deck Espeon & Umbreon (30th)": [
    "listato",
    1
   ]
@@ -1003,7 +1047,7 @@
   "Pikashop|Pitch Black (ME05)": "https://pikashop.pl/?s=pitch+black&post_type=product",
   "PokeCardShop|30th Celebration": "https://www.pokecardshop.be/search?q=30th+celebration"
  },
- "digest_slot": "2026-07-30-15",
+ "digest_slot": "2026-07-30-18",
  "log": [
   {
    "ts": "05/07 19:55",
@@ -1138,7 +1182,7 @@
   "www.pokemillon.com": 81,
   "pokeka.hu": 81,
   "lorenzone.fr": 79,
-  "bescards.com": 75,
+  "bescards.com": 76,
   "pokechest.at": 64,
   "tcgfanshop.nl": 64,
   "crispycards.de": 55,
@@ -1157,9 +1201,15 @@
   "alldaytcg.com": 19,
   "sunnystore.es": 17,
   "www.blackfire.eu": 17,
+  "pokeboxstore.pt": 6,
+  "games-island.eu": 4,
   "www.amazon.it": 4,
   "eurotcg.com": 4,
-  "tcgdistribution.fr": 1
+  "extremepokecorner.com": 1,
+  "pokectcg.cz": 1,
+  "pokewoke.store": 1,
+  "pokemonworld.lt": 1,
+  "tcgpikas.lt": 1
  },
- "runno": 4371
+ "runno": 4372
 }
