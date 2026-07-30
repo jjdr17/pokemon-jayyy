@@ -25,7 +25,7 @@
    "Premium Deck Espeon & Umbreon (30th)": "irraggiungibile"
   },
   "Amazon.it": {
-   "30th Celebration": "non listato",
+   "30th Celebration": "listato",
    "Storm Emerald (ME06)": "non listato",
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
@@ -971,12 +971,48 @@
   "PokeCardShop|30th Celebration": "€8.95"
  },
  "pending": {
-  "Amazon.it|30th Celebration": [
-   "listato",
+  "Kerailykortti|Destined Rivals": [
+   "non listato",
    1
   ],
-  "LetsGoTry|Chaos Rising (ME04)": [
+  "Pokemons.dk|Pitch Black (ME05)": [
    "non listato",
+   1
+  ],
+  "Pokemons.dk|30th Celebration": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Storm Emerald (ME06)": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Chaos Rising (ME04)": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Phantasmal Flames (ME02)": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Pokémon 151": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Prismatic Evolutions": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Crown Zenith": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Destined Rivals": [
+   "non listato",
+   1
+  ],
+  "PokeCardShop|Premium Deck Espeon & Umbreon (30th)": [
+   "listato",
    1
   ]
  },
@@ -1121,13 +1157,13 @@
   }
  ],
  "down": {
-  "www.cardmarket.com": 363,
+  "www.cardmarket.com": 364,
   "www.gamestop.com": 84,
   "www.gamelife.it": 364,
   "pokeseller14.com": 364,
   "geco-shop.de": 364,
   "www.chaoscards.co.uk": 363,
-  "www.waylandgames.co.uk": 363,
+  "www.waylandgames.co.uk": 364,
   "www.firestormgames.co.uk": 364,
   "hobbykort.se": 364,
   "tcgcompany.nl": 364,
@@ -1145,12 +1181,12 @@
   "bescards.com": 72,
   "pokechest.at": 60,
   "tcgfanshop.nl": 60,
-  "crispycards.de": 51,
+  "crispycards.de": 52,
   "rarecards.nl": 40,
   "tcgstore.se": 39,
   "pokevend.at": 36,
-  "itcg.bg": 29,
-  "cardcorner.at": 23,
+  "itcg.bg": 30,
+  "cardcorner.at": 24,
   "www.deckshop.de": 18,
   "poke-power.eu": 16,
   "godofcards.com": 16,
@@ -1162,7 +1198,12 @@
   "sunnystore.es": 13,
   "www.blackfire.eu": 13,
   "www.amazon.it": 1,
-  "pokeboxstore.pt": 1
+  "pokeboxstore.pt": 1,
+  "extremepokecorner.com": 1,
+  "pokectcg.cz": 1,
+  "pokewoke.store": 1,
+  "tcgpikas.lt": 1,
+  "pokemonworld.lt": 1
  },
- "runno": 4329
+ "runno": 4330
 }
