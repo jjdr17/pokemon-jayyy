@@ -25,7 +25,7 @@
    "Premium Deck Espeon & Umbreon (30th)": "irraggiungibile"
   },
   "Amazon.it": {
-   "30th Celebration": "non listato",
+   "30th Celebration": "listato",
    "Storm Emerald (ME06)": "non listato",
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
@@ -579,7 +579,7 @@
    "Prismatic Evolutions": "listato",
    "Crown Zenith": "listato",
    "Destined Rivals": "esaurito",
-   "Premium Deck Espeon & Umbreon (30th)": "listato"
+   "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "Kaissa Games": {
    "Pitch Black (ME05)": "listato",
@@ -813,7 +813,7 @@
    "Pitch Black (ME05)": "listato",
    "30th Celebration": "listato",
    "Storm Emerald (ME06)": "listato",
-   "Chaos Rising (ME04)": "listato",
+   "Chaos Rising (ME04)": "non listato",
    "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "non listato",
    "Prismatic Evolutions": "non listato",
@@ -972,6 +972,14 @@
  },
  "pending": {
   "Amazon.it|30th Celebration": [
+   "non listato",
+   1
+  ],
+  "PokeCardShop|Pokémon 151": [
+   "non listato",
+   1
+  ],
+  "LetsGoTry|Chaos Rising (ME04)": [
    "listato",
    1
   ]
@@ -1122,7 +1130,7 @@
   "www.gamelife.it": 367,
   "pokeseller14.com": 367,
   "geco-shop.de": 367,
-  "www.chaoscards.co.uk": 366,
+  "www.chaoscards.co.uk": 367,
   "www.waylandgames.co.uk": 367,
   "www.firestormgames.co.uk": 367,
   "hobbykort.se": 367,
@@ -1133,8 +1141,8 @@
   "www.pokemonia.ro": 367,
   "en.tcg-shop.at": 366,
   "kaissagames.com": 163,
-  "misticards.com": 100,
-  "www.poketalk.se": 82,
+  "misticards.com": 101,
+  "www.poketalk.se": 83,
   "www.pokemillon.com": 80,
   "pokeka.hu": 80,
   "lorenzone.fr": 78,
@@ -1150,15 +1158,17 @@
   "www.deckshop.de": 22,
   "poke-power.eu": 19,
   "godofcards.com": 19,
-  "cardzone.es": 19,
+  "cardzone.es": 20,
   "rogerz.dk": 19,
   "totalcards.net": 19,
   "outpostbrussels.be": 19,
   "alldaytcg.com": 19,
-  "sunnystore.es": 16,
+  "sunnystore.es": 17,
   "www.blackfire.eu": 16,
+  "pokeboxstore.pt": 6,
+  "games-island.eu": 4,
   "www.amazon.it": 4,
   "eurotcg.com": 4
  },
- "runno": 4367
+ "runno": 4368
 }
