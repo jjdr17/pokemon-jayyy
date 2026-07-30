@@ -241,7 +241,7 @@
    "Phantasmal Flames (ME02)": "irraggiungibile",
    "Pokémon 151": "irraggiungibile",
    "Prismatic Evolutions": "irraggiungibile",
-   "Crown Zenith": "irraggiungibile",
+   "Crown Zenith": "listato",
    "Destined Rivals": "irraggiungibile",
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
@@ -285,7 +285,7 @@
    "Pitch Black (ME05)": "irraggiungibile",
    "30th Celebration": "irraggiungibile",
    "Storm Emerald (ME06)": "irraggiungibile",
-   "Chaos Rising (ME04)": "irraggiungibile",
+   "Chaos Rising (ME04)": "non listato",
    "Phantasmal Flames (ME02)": "irraggiungibile",
    "Pokémon 151": "irraggiungibile",
    "Prismatic Evolutions": "irraggiungibile",
@@ -350,7 +350,7 @@
    "Pokémon 151": "irraggiungibile",
    "Prismatic Evolutions": "irraggiungibile",
    "Crown Zenith": "irraggiungibile",
-   "Destined Rivals": "non listato",
+   "Destined Rivals": "irraggiungibile",
    "Premium Deck Espeon & Umbreon (30th)": "irraggiungibile"
   },
   "BESCARDS": {
@@ -571,7 +571,7 @@
   },
   "PokeCardShop": {
    "Pitch Black (ME05)": "esaurito",
-   "30th Celebration": "disponibile",
+   "30th Celebration": "listato",
    "Storm Emerald (ME06)": "non listato",
    "Chaos Rising (ME04)": "esaurito",
    "Phantasmal Flames (ME02)": "esaurito",
@@ -751,7 +751,7 @@
   },
   "iTCG.bg": {
    "Pitch Black (ME05)": "irraggiungibile",
-   "30th Celebration": "irraggiungibile",
+   "30th Celebration": "listato",
    "Storm Emerald (ME06)": "irraggiungibile",
    "Chaos Rising (ME04)": "irraggiungibile",
    "Phantasmal Flames (ME02)": "irraggiungibile",
@@ -975,39 +975,79 @@
    "non listato",
    1
   ],
-  "RareCards.nl|Pitch Black (ME05)": [
+  "PokeCardShop|30th Celebration": [
+   "disponibile",
+   1
+  ],
+  "Kerailykortti|Destined Rivals": [
    "non listato",
    1
   ],
-  "RareCards.nl|30th Celebration": [
+  "Pokemons.dk|Pitch Black (ME05)": [
    "non listato",
    1
   ],
-  "Pokemillon|Phantasmal Flames (ME02)": [
-   "listato",
-   1
-  ],
-  "Pokemillon|Pokémon 151": [
-   "listato",
-   1
-  ],
-  "Pokemillon|Crown Zenith": [
-   "listato",
-   1
-  ],
-  "Pokeka.hu|Pokémon 151": [
+  "Pokemons.dk|30th Celebration": [
    "non listato",
    1
   ],
-  "Pokeka.hu|Destined Rivals": [
+  "Pokemons.dk|Storm Emerald (ME06)": [
    "non listato",
    1
   ],
-  "LorenZone|Storm Emerald (ME06)": [
+  "Pokemons.dk|Chaos Rising (ME04)": [
    "non listato",
    1
   ],
-  "LorenZone|Destined Rivals": [
+  "Pokemons.dk|Phantasmal Flames (ME02)": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Pokémon 151": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Prismatic Evolutions": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Crown Zenith": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Destined Rivals": [
+   "non listato",
+   1
+  ],
+  "CrispyCards|Storm Emerald (ME06)": [
+   "non listato",
+   1
+  ],
+  "CrispyCards|Pokémon 151": [
+   "non listato",
+   1
+  ],
+  "RareCards.nl|Storm Emerald (ME06)": [
+   "non listato",
+   1
+  ],
+  "RareCards.nl|Destined Rivals": [
+   "non listato",
+   1
+  ],
+  "TCGStore.se|Destined Rivals": [
+   "non listato",
+   1
+  ],
+  "CardCorner.at|Crown Zenith": [
+   "non listato",
+   1
+  ],
+  "Poketalk|Premium Deck Espeon & Umbreon (30th)": [
+   "non listato",
+   1
+  ],
+  "BESCARDS|Premium Deck Espeon & Umbreon (30th)": [
    "non listato",
    1
   ]
@@ -1169,33 +1209,22 @@
   "www.pokemonia.ro": 369,
   "en.tcg-shop.at": 368,
   "kaissagames.com": 165,
-  "misticards.com": 102,
-  "www.poketalk.se": 84,
+  "www.pokemillon.com": 82,
+  "pokeka.hu": 82,
+  "lorenzone.fr": 80,
   "pokechest.at": 65,
   "tcgfanshop.nl": 65,
-  "crispycards.de": 56,
-  "tcgstore.se": 43,
   "pokevend.at": 41,
-  "itcg.bg": 34,
-  "cardcorner.at": 28,
-  "www.deckshop.de": 23,
   "poke-power.eu": 21,
   "godofcards.com": 21,
-  "cardzone.es": 21,
   "rogerz.dk": 20,
   "totalcards.net": 20,
   "outpostbrussels.be": 20,
   "alldaytcg.com": 20,
-  "sunnystore.es": 18,
   "www.blackfire.eu": 18,
   "www.amazon.it": 5,
   "eurotcg.com": 5,
-  "pokeboxstore.pt": 2,
-  "games-island.eu": 2,
-  "tcgdistribution.fr": 1,
-  "www.lotticards.de": 1,
-  "letsgotry.pl": 1,
-  "bescards.com": 1
+  "itcg.bg": 1
  },
  "runno": 4385
 }
