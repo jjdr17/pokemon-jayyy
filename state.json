@@ -350,7 +350,7 @@
    "Pokémon 151": "irraggiungibile",
    "Prismatic Evolutions": "irraggiungibile",
    "Crown Zenith": "irraggiungibile",
-   "Destined Rivals": "irraggiungibile",
+   "Destined Rivals": "non listato",
    "Premium Deck Espeon & Umbreon (30th)": "irraggiungibile"
   },
   "BESCARDS": {
@@ -579,7 +579,7 @@
    "Prismatic Evolutions": "listato",
    "Crown Zenith": "listato",
    "Destined Rivals": "esaurito",
-   "Premium Deck Espeon & Umbreon (30th)": "non listato"
+   "Premium Deck Espeon & Umbreon (30th)": "listato"
   },
   "Kaissa Games": {
    "Pitch Black (ME05)": "listato",
@@ -975,72 +975,36 @@
    "non listato",
    1
   ],
-  "iTCG.bg|30th Celebration": [
-   "listato",
-   1
-  ],
-  "iTCG.bg|Chaos Rising (ME04)": [
-   "listato",
-   1
-  ],
-  "iTCG.bg|Phantasmal Flames (ME02)": [
-   "listato",
-   1
-  ],
-  "iTCG.bg|Pokémon 151": [
-   "listato",
-   1
-  ],
-  "CardCorner.at|Pitch Black (ME05)": [
+  "PokeCardShop|Premium Deck Espeon & Umbreon (30th)": [
    "non listato",
    1
   ],
-  "CardCorner.at|30th Celebration": [
+  "LorenZone|Chaos Rising (ME04)": [
    "non listato",
    1
   ],
-  "CardCorner.at|Chaos Rising (ME04)": [
+  "Pokeka.hu|Phantasmal Flames (ME02)": [
    "non listato",
    1
   ],
-  "CardCorner.at|Crown Zenith": [
+  "Pokeka.hu|Prismatic Evolutions": [
    "non listato",
    1
   ],
-  "CrispyCards|Crown Zenith": [
+  "RareCards.nl|Chaos Rising (ME04)": [
+   "non listato",
+   1
+  ],
+  "BESCARDS|Premium Deck Espeon & Umbreon (30th)": [
+   "non listato",
+   1
+  ],
+  "Pokemillon|30th Celebration": [
    "listato",
    1
   ],
-  "CrispyCards|Destined Rivals": [
+  "Pokemillon|Prismatic Evolutions": [
    "non listato",
-   1
-  ],
-  "TCGStore.se|Chaos Rising (ME04)": [
-   "esaurito",
-   1
-  ],
-  "TCGStore.se|Pokémon 151": [
-   "listato",
-   1
-  ],
-  "MistiCards|30th Celebration": [
-   "listato",
-   1
-  ],
-  "RareCards.nl|Premium Deck Espeon & Umbreon (30th)": [
-   "non listato",
-   1
-  ],
-  "Poketalk|30th Celebration": [
-   "listato",
-   1
-  ],
-  "Poketalk|Premium Deck Espeon & Umbreon (30th)": [
-   "non listato",
-   1
-  ],
-  "Poketalk|Crown Zenith": [
-   "esaurito",
    1
   ]
  },
@@ -1201,23 +1165,29 @@
   "www.pokemonia.ro": 368,
   "en.tcg-shop.at": 368,
   "kaissagames.com": 165,
-  "www.pokemillon.com": 82,
-  "pokeka.hu": 82,
-  "lorenzone.fr": 80,
-  "bescards.com": 76,
+  "misticards.com": 102,
+  "www.poketalk.se": 84,
   "pokechest.at": 65,
   "tcgfanshop.nl": 65,
+  "crispycards.de": 56,
+  "tcgstore.se": 43,
   "pokevend.at": 41,
+  "itcg.bg": 34,
+  "cardcorner.at": 28,
+  "www.deckshop.de": 23,
   "poke-power.eu": 21,
   "godofcards.com": 21,
+  "cardzone.es": 21,
   "rogerz.dk": 20,
   "totalcards.net": 20,
   "outpostbrussels.be": 20,
   "alldaytcg.com": 20,
+  "sunnystore.es": 18,
   "www.blackfire.eu": 18,
   "www.amazon.it": 5,
   "eurotcg.com": 5,
-  "www.lotticards.de": 2
+  "pokeboxstore.pt": 1,
+  "games-island.eu": 1
  },
- "runno": 4383
+ "runno": 4384
 }
