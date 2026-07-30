@@ -25,7 +25,7 @@
    "Premium Deck Espeon & Umbreon (30th)": "irraggiungibile"
   },
   "Amazon.it": {
-   "30th Celebration": "non listato",
+   "30th Celebration": "listato",
    "Storm Emerald (ME06)": "non listato",
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
@@ -579,7 +579,7 @@
    "Prismatic Evolutions": "listato",
    "Crown Zenith": "listato",
    "Destined Rivals": "esaurito",
-   "Premium Deck Espeon & Umbreon (30th)": "non listato"
+   "Premium Deck Espeon & Umbreon (30th)": "listato"
   },
   "Kaissa Games": {
    "Pitch Black (ME05)": "listato",
@@ -972,6 +972,10 @@
  },
  "pending": {
   "Amazon.it|30th Celebration": [
+   "non listato",
+   1
+  ],
+  "LetsGoTry|Chaos Rising (ME04)": [
    "listato",
    1
   ]
@@ -1119,9 +1123,9 @@
  "down": {
   "www.cardmarket.com": 366,
   "www.gamestop.com": 84,
-  "www.gamelife.it": 366,
-  "pokeseller14.com": 366,
-  "geco-shop.de": 366,
+  "www.gamelife.it": 367,
+  "pokeseller14.com": 367,
+  "geco-shop.de": 367,
   "www.chaoscards.co.uk": 366,
   "www.waylandgames.co.uk": 366,
   "www.firestormgames.co.uk": 367,
@@ -1157,10 +1161,10 @@
   "alldaytcg.com": 19,
   "sunnystore.es": 16,
   "www.blackfire.eu": 16,
-  "www.amazon.it": 3,
-  "eurotcg.com": 3,
-  "www.butticards.at": 1,
-  "oppacards.com": 1
+  "pokeboxstore.pt": 6,
+  "games-island.eu": 4,
+  "www.amazon.it": 4,
+  "eurotcg.com": 3
  },
- "runno": 4363
+ "runno": 4364
 }
