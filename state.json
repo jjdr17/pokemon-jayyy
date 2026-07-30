@@ -25,7 +25,7 @@
    "Premium Deck Espeon & Umbreon (30th)": "irraggiungibile"
   },
   "Amazon.it": {
-   "30th Celebration": "non listato",
+   "30th Celebration": "listato",
    "Storm Emerald (ME06)": "non listato",
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
@@ -813,7 +813,7 @@
    "Pitch Black (ME05)": "listato",
    "30th Celebration": "listato",
    "Storm Emerald (ME06)": "listato",
-   "Chaos Rising (ME04)": "listato",
+   "Chaos Rising (ME04)": "non listato",
    "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "non listato",
    "Prismatic Evolutions": "non listato",
@@ -972,7 +972,7 @@
  },
  "pending": {
   "Amazon.it|30th Celebration": [
-   "listato",
+   "non listato",
    1
   ]
  },
@@ -1003,7 +1003,7 @@
   "Pikashop|Pitch Black (ME05)": "https://pikashop.pl/?s=pitch+black&post_type=product",
   "PokeCardShop|30th Celebration": "https://www.pokecardshop.be/search?q=30th+celebration"
  },
- "digest_slot": "2026-07-30-10",
+ "digest_slot": "2026-07-30-15",
  "log": [
   {
    "ts": "05/07 19:55",
@@ -1125,7 +1125,7 @@
   "www.chaoscards.co.uk": 366,
   "www.waylandgames.co.uk": 366,
   "www.firestormgames.co.uk": 367,
-  "hobbykort.se": 366,
+  "hobbykort.se": 367,
   "tcgcompany.nl": 366,
   "www.nerdom.gr": 366,
   "www.pokekarty.pl": 366,
@@ -1151,15 +1151,16 @@
   "poke-power.eu": 19,
   "godofcards.com": 19,
   "cardzone.es": 19,
-  "rogerz.dk": 18,
-  "totalcards.net": 18,
-  "outpostbrussels.be": 18,
-  "alldaytcg.com": 18,
+  "rogerz.dk": 19,
+  "totalcards.net": 19,
+  "outpostbrussels.be": 19,
+  "alldaytcg.com": 19,
   "sunnystore.es": 16,
   "www.blackfire.eu": 16,
   "pokeboxstore.pt": 5,
+  "games-island.eu": 4,
   "www.amazon.it": 3,
   "eurotcg.com": 1
  },
- "runno": 4361
+ "runno": 4362
 }
