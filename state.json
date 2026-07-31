@@ -445,7 +445,7 @@
    "Phantasmal Flames (ME02)": "irraggiungibile",
    "Pokémon 151": "listato",
    "Prismatic Evolutions": "irraggiungibile",
-   "Crown Zenith": "irraggiungibile",
+   "Crown Zenith": "non listato",
    "Destined Rivals": "non listato",
    "Premium Deck Espeon & Umbreon (30th)": "irraggiungibile"
   },
@@ -503,7 +503,7 @@
    "Storm Emerald (ME06)": "irraggiungibile",
    "Chaos Rising (ME04)": "irraggiungibile",
    "Phantasmal Flames (ME02)": "listato",
-   "Pokémon 151": "non listato",
+   "Pokémon 151": "irraggiungibile",
    "Prismatic Evolutions": "irraggiungibile",
    "Crown Zenith": "irraggiungibile",
    "Destined Rivals": "irraggiungibile",
@@ -973,51 +973,43 @@
    "esaurito",
    1
   ],
-  "Kerailykortti|Destined Rivals": [
-   "non listato",
-   1
-  ],
-  "Pokemons.dk|Pitch Black (ME05)": [
-   "non listato",
-   1
-  ],
-  "Pokemons.dk|30th Celebration": [
-   "non listato",
-   1
-  ],
-  "Pokemons.dk|Storm Emerald (ME06)": [
-   "non listato",
-   1
-  ],
-  "Pokemons.dk|Chaos Rising (ME04)": [
-   "non listato",
-   1
-  ],
-  "Pokemons.dk|Phantasmal Flames (ME02)": [
-   "non listato",
-   1
-  ],
-  "Pokemons.dk|Pokémon 151": [
-   "non listato",
-   1
-  ],
-  "Pokemons.dk|Prismatic Evolutions": [
-   "non listato",
-   1
-  ],
-  "Pokemons.dk|Crown Zenith": [
-   "non listato",
-   1
-  ],
-  "Pokemons.dk|Destined Rivals": [
-   "non listato",
-   1
-  ],
   "LetsGoTry|Chaos Rising (ME04)": [
    "non listato",
    1
   ],
-  "LorenZone|Chaos Rising (ME04)": [
+  "Poketalk|Pitch Black (ME05)": [
+   "esaurito",
+   1
+  ],
+  "Poketalk|Premium Deck Espeon & Umbreon (30th)": [
+   "non listato",
+   1
+  ],
+  "Poketalk|Chaos Rising (ME04)": [
+   "esaurito",
+   1
+  ],
+  "Poketalk|Crown Zenith": [
+   "esaurito",
+   1
+  ],
+  "God of Cards|Storm Emerald (ME06)": [
+   "non listato",
+   1
+  ],
+  "LorenZone|Destined Rivals": [
+   "non listato",
+   1
+  ],
+  "Pokechest|Phantasmal Flames (ME02)": [
+   "non listato",
+   1
+  ],
+  "CardCorner.at|30th Celebration": [
+   "non listato",
+   1
+  ],
+  "CardCorner.at|Premium Deck Espeon & Umbreon (30th)": [
    "non listato",
    1
   ]
@@ -1184,6 +1176,7 @@
   "www.blackfire.eu": 20,
   "eurotcg.com": 7,
   "rarecards.nl": 5,
+  "pokeboxstore.pt": 5,
   "bescards.com": 4,
   "www.amazon.it": 4,
   "itcg.bg": 3,
@@ -1191,15 +1184,9 @@
   "crispycards.de": 3,
   "cardzone.es": 3,
   "sunnystore.es": 3,
-  "alldaytcg.com": 3,
-  "www.poketalk.se": 3,
-  "pokeboxstore.pt": 1,
-  "totalcards.net": 1,
-  "poke-power.eu": 1,
-  "godofcards.com": 1,
-  "www.deckshop.de": 1,
-  "cardcorner.at": 1,
-  "tcgstore.se": 1
+  "www.deckshop.de": 3,
+  "poke-power.eu": 2,
+  "outpostbrussels.be": 1
  },
  "runno": 4412
 }
