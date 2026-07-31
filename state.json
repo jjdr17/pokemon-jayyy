@@ -445,7 +445,7 @@
    "Phantasmal Flames (ME02)": "irraggiungibile",
    "Pokémon 151": "listato",
    "Prismatic Evolutions": "irraggiungibile",
-   "Crown Zenith": "irraggiungibile",
+   "Crown Zenith": "non listato",
    "Destined Rivals": "non listato",
    "Premium Deck Espeon & Umbreon (30th)": "irraggiungibile"
   },
@@ -969,27 +969,71 @@
   "PokeCardShop|30th Celebration": "€8.95"
  },
  "pending": {
-  "TCGStore.se|Crown Zenith": [
-   "non listato",
-   1
-  ],
-  "Pokemillon|Chaos Rising (ME04)": [
-   "listato",
-   1
-  ],
   "God of Cards|Destined Rivals": [
    "listato",
    1
   ],
-  "CardCorner.at|Chaos Rising (ME04)": [
+  "Pokemillon|Storm Emerald (ME06)": [
+   "listato",
+   1
+  ],
+  "Pokemillon|Crown Zenith": [
+   "listato",
+   1
+  ],
+  "Total Cards (UK)|Prismatic Evolutions": [
+   "esaurito",
+   1
+  ],
+  "TCGStore.se|Premium Deck Espeon & Umbreon (30th)": [
    "non listato",
    1
   ],
-  "CardCorner.at|Crown Zenith": [
+  "TCGStore.se|Prismatic Evolutions": [
+   "esaurito",
+   1
+  ],
+  "CrispyCards|Storm Emerald (ME06)": [
    "non listato",
    1
   ],
-  "LorenZone|Pokémon 151": [
+  "CrispyCards|Destined Rivals": [
+   "non listato",
+   1
+  ],
+  "Pokechest|Phantasmal Flames (ME02)": [
+   "non listato",
+   1
+  ],
+  "CardCorner.at|Storm Emerald (ME06)": [
+   "non listato",
+   1
+  ],
+  "CardCorner.at|Phantasmal Flames (ME02)": [
+   "non listato",
+   1
+  ],
+  "iTCG.bg|Pitch Black (ME05)": [
+   "non listato",
+   1
+  ],
+  "iTCG.bg|Pokémon 151": [
+   "listato",
+   1
+  ],
+  "iTCG.bg|Crown Zenith": [
+   "non listato",
+   1
+  ],
+  "LorenZone|Premium Deck Espeon & Umbreon (30th)": [
+   "non listato",
+   1
+  ],
+  "LorenZone|Chaos Rising (ME04)": [
+   "non listato",
+   1
+  ],
+  "LorenZone|Prismatic Evolutions": [
    "non listato",
    1
   ]
@@ -1021,7 +1065,7 @@
   "Pikashop|Pitch Black (ME05)": "https://pikashop.pl/?s=pitch+black&post_type=product",
   "PokeCardShop|30th Celebration": "https://www.pokecardshop.be/search?q=30th+celebration"
  },
- "digest_slot": "2026-07-30-22",
+ "digest_slot": "2026-07-31-22",
  "log": [
   {
    "ts": "05/07 19:55",
@@ -1135,13 +1179,13 @@
   }
  ],
  "down": {
-  "www.cardmarket.com": 370,
+  "www.cardmarket.com": 371,
   "www.gamestop.com": 84,
   "www.gamelife.it": 371,
   "pokeseller14.com": 371,
   "geco-shop.de": 371,
   "www.chaoscards.co.uk": 370,
-  "www.waylandgames.co.uk": 370,
+  "www.waylandgames.co.uk": 371,
   "www.firestormgames.co.uk": 371,
   "hobbykort.se": 371,
   "tcgcompany.nl": 371,
@@ -1154,20 +1198,16 @@
   "misticards.com": 104,
   "pokevend.at": 43,
   "www.blackfire.eu": 20,
-  "eurotcg.com": 7,
+  "eurotcg.com": 8,
   "rarecards.nl": 5,
   "bescards.com": 4,
   "www.amazon.it": 4,
-  "itcg.bg": 3,
   "pokeka.hu": 3,
-  "crispycards.de": 3,
   "cardzone.es": 3,
   "sunnystore.es": 3,
   "alldaytcg.com": 3,
   "www.poketalk.se": 3,
-  "tcgdistribution.fr": 1,
-  "www.lotticards.de": 1,
-  "pokechest.at": 1
+  "godofcards.com": 1
  },
- "runno": 4413
+ "runno": 4414
 }
