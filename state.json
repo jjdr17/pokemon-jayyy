@@ -211,7 +211,7 @@
   },
   "Total Cards (UK)": {
    "Pitch Black (ME05)": "esaurito",
-   "30th Celebration": "listato",
+   "30th Celebration": "esaurito",
    "Storm Emerald (ME06)": "listato",
    "Chaos Rising (ME04)": "esaurito",
    "Phantasmal Flames (ME02)": "esaurito",
@@ -445,7 +445,7 @@
    "Phantasmal Flames (ME02)": "irraggiungibile",
    "Pokémon 151": "listato",
    "Prismatic Evolutions": "irraggiungibile",
-   "Crown Zenith": "non listato",
+   "Crown Zenith": "irraggiungibile",
    "Destined Rivals": "non listato",
    "Premium Deck Espeon & Umbreon (30th)": "irraggiungibile"
   },
@@ -503,7 +503,7 @@
    "Storm Emerald (ME06)": "irraggiungibile",
    "Chaos Rising (ME04)": "irraggiungibile",
    "Phantasmal Flames (ME02)": "listato",
-   "Pokémon 151": "irraggiungibile",
+   "Pokémon 151": "non listato",
    "Prismatic Evolutions": "irraggiungibile",
    "Crown Zenith": "irraggiungibile",
    "Destined Rivals": "irraggiungibile",
@@ -969,47 +969,27 @@
   "PokeCardShop|30th Celebration": "€8.95"
  },
  "pending": {
-  "Total Cards (UK)|30th Celebration": [
-   "esaurito",
-   1
-  ],
-  "LetsGoTry|Chaos Rising (ME04)": [
+  "TCGStore.se|Crown Zenith": [
    "non listato",
    1
   ],
-  "Poketalk|Pitch Black (ME05)": [
-   "esaurito",
+  "Pokemillon|Chaos Rising (ME04)": [
+   "listato",
    1
   ],
-  "Poketalk|Premium Deck Espeon & Umbreon (30th)": [
+  "God of Cards|Destined Rivals": [
+   "listato",
+   1
+  ],
+  "CardCorner.at|Chaos Rising (ME04)": [
    "non listato",
    1
   ],
-  "Poketalk|Chaos Rising (ME04)": [
-   "esaurito",
-   1
-  ],
-  "Poketalk|Crown Zenith": [
-   "esaurito",
-   1
-  ],
-  "God of Cards|Storm Emerald (ME06)": [
+  "CardCorner.at|Crown Zenith": [
    "non listato",
    1
   ],
-  "LorenZone|Destined Rivals": [
-   "non listato",
-   1
-  ],
-  "Pokechest|Phantasmal Flames (ME02)": [
-   "non listato",
-   1
-  ],
-  "CardCorner.at|30th Celebration": [
-   "non listato",
-   1
-  ],
-  "CardCorner.at|Premium Deck Espeon & Umbreon (30th)": [
+  "LorenZone|Pokémon 151": [
    "non listato",
    1
   ]
@@ -1164,7 +1144,7 @@
   "www.waylandgames.co.uk": 370,
   "www.firestormgames.co.uk": 371,
   "hobbykort.se": 371,
-  "tcgcompany.nl": 370,
+  "tcgcompany.nl": 371,
   "www.nerdom.gr": 370,
   "www.pokekarty.pl": 370,
   "www.wakuwaku.cz": 370,
@@ -1176,7 +1156,6 @@
   "www.blackfire.eu": 20,
   "eurotcg.com": 7,
   "rarecards.nl": 5,
-  "pokeboxstore.pt": 5,
   "bescards.com": 4,
   "www.amazon.it": 4,
   "itcg.bg": 3,
@@ -1184,9 +1163,11 @@
   "crispycards.de": 3,
   "cardzone.es": 3,
   "sunnystore.es": 3,
-  "www.deckshop.de": 3,
-  "poke-power.eu": 2,
-  "outpostbrussels.be": 1
+  "alldaytcg.com": 3,
+  "www.poketalk.se": 3,
+  "tcgdistribution.fr": 1,
+  "www.lotticards.de": 1,
+  "pokechest.at": 1
  },
- "runno": 4412
+ "runno": 4413
 }
