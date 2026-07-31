@@ -211,7 +211,7 @@
   },
   "Total Cards (UK)": {
    "Pitch Black (ME05)": "esaurito",
-   "30th Celebration": "listato",
+   "30th Celebration": "esaurito",
    "Storm Emerald (ME06)": "listato",
    "Chaos Rising (ME04)": "esaurito",
    "Phantasmal Flames (ME02)": "esaurito",
@@ -335,7 +335,7 @@
    "Storm Emerald (ME06)": "irraggiungibile",
    "Chaos Rising (ME04)": "irraggiungibile",
    "Phantasmal Flames (ME02)": "irraggiungibile",
-   "Pokémon 151": "irraggiungibile",
+   "Pokémon 151": "non listato",
    "Prismatic Evolutions": "irraggiungibile",
    "Crown Zenith": "irraggiungibile",
    "Destined Rivals": "irraggiungibile",
@@ -969,40 +969,76 @@
   "PokeCardShop|30th Celebration": "€8.95"
  },
  "pending": {
-  "CardCorner.at|Pokémon 151": [
+  "Kerailykortti|Destined Rivals": [
    "non listato",
    1
   ],
-  "CardCorner.at|Prismatic Evolutions": [
+  "Pokemons.dk|Pitch Black (ME05)": [
    "non listato",
    1
   ],
-  "Poketalk|Pitch Black (ME05)": [
-   "esaurito",
-   1
-  ],
-  "Poketalk|Phantasmal Flames (ME02)": [
-   "esaurito",
-   1
-  ],
-  "Poketalk|Destined Rivals": [
-   "esaurito",
-   1
-  ],
-  "Total Cards (UK)|30th Celebration": [
-   "esaurito",
-   1
-  ],
-  "LorenZone|Premium Deck Espeon & Umbreon (30th)": [
+  "Pokemons.dk|30th Celebration": [
    "non listato",
    1
   ],
-  "LorenZone|Destined Rivals": [
+  "Pokemons.dk|Storm Emerald (ME06)": [
    "non listato",
    1
   ],
-  "TCGStore.se|Prismatic Evolutions": [
-   "esaurito",
+  "Pokemons.dk|Chaos Rising (ME04)": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Phantasmal Flames (ME02)": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Pokémon 151": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Prismatic Evolutions": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Crown Zenith": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Destined Rivals": [
+   "non listato",
+   1
+  ],
+  "LetsGoTry|Chaos Rising (ME04)": [
+   "non listato",
+   1
+  ],
+  "Poketalk|30th Celebration": [
+   "non listato",
+   1
+  ],
+  "TCGStore.se|Premium Deck Espeon & Umbreon (30th)": [
+   "non listato",
+   1
+  ],
+  "Pokemillon|Pitch Black (ME05)": [
+   "listato",
+   1
+  ],
+  "Pokemillon|Chaos Rising (ME04)": [
+   "listato",
+   1
+  ],
+  "Pokechest|Prismatic Evolutions": [
+   "non listato",
+   1
+  ],
+  "CardCorner.at|Destined Rivals": [
+   "non listato",
+   1
+  ],
+  "LorenZone|Chaos Rising (ME04)": [
+   "non listato",
    1
   ]
  },
@@ -1155,7 +1191,7 @@
   "www.chaoscards.co.uk": 370,
   "www.waylandgames.co.uk": 370,
   "www.firestormgames.co.uk": 371,
-  "hobbykort.se": 370,
+  "hobbykort.se": 371,
   "tcgcompany.nl": 370,
   "www.nerdom.gr": 370,
   "www.pokekarty.pl": 370,
@@ -1176,8 +1212,9 @@
   "crispycards.de": 3,
   "cardzone.es": 3,
   "sunnystore.es": 3,
-  "poke-power.eu": 1,
-  "www.deckshop.de": 1
+  "tcgdistribution.fr": 1,
+  "outpostbrussels.be": 1,
+  "tcgfanshop.nl": 1
  },
- "runno": 4409
+ "runno": 4410
 }
