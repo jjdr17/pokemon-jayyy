@@ -503,7 +503,7 @@
    "Storm Emerald (ME06)": "irraggiungibile",
    "Chaos Rising (ME04)": "irraggiungibile",
    "Phantasmal Flames (ME02)": "listato",
-   "Pokémon 151": "irraggiungibile",
+   "Pokémon 151": "non listato",
    "Prismatic Evolutions": "irraggiungibile",
    "Crown Zenith": "irraggiungibile",
    "Destined Rivals": "irraggiungibile",
@@ -973,20 +973,52 @@
    "esaurito",
    1
   ],
-  "TCGStore.se|Pitch Black (ME05)": [
-   "listato",
-   1
-  ],
-  "TCGStore.se|Crown Zenith": [
+  "Kerailykortti|Destined Rivals": [
    "non listato",
    1
   ],
-  "Poketalk|Phantasmal Flames (ME02)": [
-   "esaurito",
+  "Pokemons.dk|Pitch Black (ME05)": [
+   "non listato",
    1
   ],
-  "Pokemillon|Pitch Black (ME05)": [
-   "listato",
+  "Pokemons.dk|30th Celebration": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Storm Emerald (ME06)": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Chaos Rising (ME04)": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Phantasmal Flames (ME02)": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Pokémon 151": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Prismatic Evolutions": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Crown Zenith": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Destined Rivals": [
+   "non listato",
+   1
+  ],
+  "LetsGoTry|Chaos Rising (ME04)": [
+   "non listato",
+   1
+  ],
+  "LorenZone|Chaos Rising (ME04)": [
+   "non listato",
    1
   ]
  },
@@ -1133,9 +1165,9 @@
  "down": {
   "www.cardmarket.com": 370,
   "www.gamestop.com": 84,
-  "www.gamelife.it": 370,
-  "pokeseller14.com": 370,
-  "geco-shop.de": 370,
+  "www.gamelife.it": 371,
+  "pokeseller14.com": 371,
+  "geco-shop.de": 371,
   "www.chaoscards.co.uk": 370,
   "www.waylandgames.co.uk": 370,
   "www.firestormgames.co.uk": 371,
@@ -1152,22 +1184,22 @@
   "www.blackfire.eu": 20,
   "eurotcg.com": 7,
   "rarecards.nl": 5,
-  "pokeboxstore.pt": 5,
   "bescards.com": 4,
-  "www.amazon.it": 3,
+  "www.amazon.it": 4,
   "itcg.bg": 3,
   "pokeka.hu": 3,
   "crispycards.de": 3,
   "cardzone.es": 3,
   "sunnystore.es": 3,
-  "www.deckshop.de": 3,
-  "alldaytcg.com": 2,
-  "pokechest.at": 2,
-  "lorenzone.fr": 2,
+  "alldaytcg.com": 3,
+  "www.poketalk.se": 3,
+  "pokeboxstore.pt": 1,
+  "totalcards.net": 1,
   "poke-power.eu": 1,
-  "rogerz.dk": 1,
+  "godofcards.com": 1,
+  "www.deckshop.de": 1,
   "cardcorner.at": 1,
-  "tcgfanshop.nl": 1
+  "tcgstore.se": 1
  },
- "runno": 4411
+ "runno": 4412
 }
