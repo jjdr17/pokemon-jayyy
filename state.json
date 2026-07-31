@@ -301,7 +301,7 @@
    "Phantasmal Flames (ME02)": "irraggiungibile",
    "Pokémon 151": "irraggiungibile",
    "Prismatic Evolutions": "irraggiungibile",
-   "Crown Zenith": "non listato",
+   "Crown Zenith": "irraggiungibile",
    "Destined Rivals": "irraggiungibile",
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
@@ -418,7 +418,7 @@
    "30th Celebration": "irraggiungibile",
    "Storm Emerald (ME06)": "irraggiungibile",
    "Chaos Rising (ME04)": "irraggiungibile",
-   "Phantasmal Flames (ME02)": "esaurito",
+   "Phantasmal Flames (ME02)": "irraggiungibile",
    "Pokémon 151": "irraggiungibile",
    "Prismatic Evolutions": "irraggiungibile",
    "Crown Zenith": "irraggiungibile",
@@ -559,7 +559,7 @@
   },
   "LorenZone": {
    "Pitch Black (ME05)": "irraggiungibile",
-   "30th Celebration": "non listato",
+   "30th Celebration": "irraggiungibile",
    "Storm Emerald (ME06)": "irraggiungibile",
    "Chaos Rising (ME04)": "irraggiungibile",
    "Phantasmal Flames (ME02)": "non listato",
@@ -753,9 +753,9 @@
    "Pitch Black (ME05)": "irraggiungibile",
    "30th Celebration": "irraggiungibile",
    "Storm Emerald (ME06)": "irraggiungibile",
-   "Chaos Rising (ME04)": "listato",
-   "Phantasmal Flames (ME02)": "listato",
-   "Pokémon 151": "listato",
+   "Chaos Rising (ME04)": "irraggiungibile",
+   "Phantasmal Flames (ME02)": "irraggiungibile",
+   "Pokémon 151": "irraggiungibile",
    "Prismatic Evolutions": "irraggiungibile",
    "Crown Zenith": "irraggiungibile",
    "Destined Rivals": "irraggiungibile",
@@ -975,59 +975,15 @@
    "non listato",
    1
   ],
-  "Kerailykortti|Destined Rivals": [
+  "PokeCardShop|Premium Deck Espeon & Umbreon (30th)": [
    "non listato",
    1
   ],
-  "Pokemons.dk|Pitch Black (ME05)": [
-   "non listato",
-   1
-  ],
-  "Pokemons.dk|30th Celebration": [
-   "non listato",
-   1
-  ],
-  "Pokemons.dk|Storm Emerald (ME06)": [
-   "non listato",
-   1
-  ],
-  "Pokemons.dk|Chaos Rising (ME04)": [
-   "non listato",
-   1
-  ],
-  "Pokemons.dk|Phantasmal Flames (ME02)": [
-   "non listato",
-   1
-  ],
-  "Pokemons.dk|Pokémon 151": [
-   "non listato",
-   1
-  ],
-  "Pokemons.dk|Prismatic Evolutions": [
-   "non listato",
-   1
-  ],
-  "Pokemons.dk|Crown Zenith": [
-   "non listato",
-   1
-  ],
-  "Pokemons.dk|Destined Rivals": [
-   "non listato",
+  "Pokemillon|Pitch Black (ME05)": [
+   "listato",
    1
   ],
   "LorenZone|Pitch Black (ME05)": [
-   "non listato",
-   1
-  ],
-  "LorenZone|Premium Deck Espeon & Umbreon (30th)": [
-   "non listato",
-   1
-  ],
-  "LorenZone|Pokémon 151": [
-   "non listato",
-   1
-  ],
-  "Pokevend|Destined Rivals": [
    "non listato",
    1
   ]
@@ -1190,9 +1146,11 @@
   "en.tcg-shop.at": 369,
   "kaissagames.com": 166,
   "misticards.com": 103,
-  "tcgfanshop.nl": 66,
   "tcgstore.se": 44,
+  "pokevend.at": 42,
   "cardcorner.at": 29,
+  "poke-power.eu": 22,
+  "godofcards.com": 22,
   "cardzone.es": 22,
   "rogerz.dk": 21,
   "totalcards.net": 21,
@@ -1204,17 +1162,13 @@
   "eurotcg.com": 6,
   "bescards.com": 3,
   "rarecards.nl": 4,
-  "godofcards.com": 2,
+  "pokeboxstore.pt": 3,
   "crispycards.de": 2,
-  "extremepokecorner.com": 1,
-  "pokectcg.cz": 1,
-  "pokewoke.store": 1,
-  "tcgpikas.lt": 1,
-  "poke-power.eu": 1,
-  "www.poketalk.se": 1,
-  "www.pokemillon.com": 1,
+  "www.poketalk.se": 2,
+  "tcgdistribution.fr": 1,
   "pokeka.hu": 1,
-  "pokemonworld.lt": 1
+  "itcg.bg": 1,
+  "games-island.eu": 1
  },
  "runno": 4395
 }
