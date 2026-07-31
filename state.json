@@ -242,7 +242,7 @@
    "Pokémon 151": "irraggiungibile",
    "Prismatic Evolutions": "irraggiungibile",
    "Crown Zenith": "irraggiungibile",
-   "Destined Rivals": "irraggiungibile",
+   "Destined Rivals": "non listato",
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "Packratt (UK)": {
@@ -503,7 +503,7 @@
    "Storm Emerald (ME06)": "irraggiungibile",
    "Chaos Rising (ME04)": "irraggiungibile",
    "Phantasmal Flames (ME02)": "irraggiungibile",
-   "Pokémon 151": "irraggiungibile",
+   "Pokémon 151": "non listato",
    "Prismatic Evolutions": "irraggiungibile",
    "Crown Zenith": "irraggiungibile",
    "Destined Rivals": "irraggiungibile",
@@ -558,7 +558,7 @@
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "LorenZone": {
-   "Pitch Black (ME05)": "irraggiungibile",
+   "Pitch Black (ME05)": "non listato",
    "30th Celebration": "irraggiungibile",
    "Storm Emerald (ME06)": "irraggiungibile",
    "Chaos Rising (ME04)": "irraggiungibile",
@@ -971,64 +971,32 @@
   "PokeCardShop|30th Celebration": "€8.95"
  },
  "pending": {
-  "TCGStore.se|Chaos Rising (ME04)": [
-   "esaurito",
-   1
-  ],
-  "TCGStore.se|Phantasmal Flames (ME02)": [
-   "non listato",
-   1
-  ],
-  "TCGStore.se|Destined Rivals": [
-   "non listato",
-   1
-  ],
-  "Pokemillon|Pitch Black (ME05)": [
+  "Pokemillon|30th Celebration": [
    "listato",
    1
   ],
-  "Pokemillon|Storm Emerald (ME06)": [
+  "Pokemillon|Chaos Rising (ME04)": [
    "listato",
    1
   ],
-  "Pokemillon|Pokémon 151": [
+  "Pokechest|Crown Zenith": [
    "non listato",
    1
   ],
-  "LorenZone|30th Celebration": [
-   "non listato",
-   1
-  ],
-  "LorenZone|Prismatic Evolutions": [
-   "non listato",
-   1
-  ],
-  "Pokeka.hu|Storm Emerald (ME06)": [
-   "non listato",
-   1
-  ],
-  "Pokeka.hu|Phantasmal Flames (ME02)": [
-   "non listato",
-   1
-  ],
-  "Pokechest|Prismatic Evolutions": [
-   "non listato",
-   1
-  ],
-  "CardCorner.at|Storm Emerald (ME06)": [
-   "non listato",
-   1
-  ],
-  "iTCG.bg|Pokémon 151": [
+  "TCGStore.se|Pitch Black (ME05)": [
    "listato",
    1
   ],
-  "iTCG.bg|Prismatic Evolutions": [
-   "listato",
+  "Pokeka.hu|Premium Deck Espeon & Umbreon (30th)": [
+   "non listato",
    1
   ],
-  "iTCG.bg|Destined Rivals": [
-   "listato",
+  "Pokeka.hu|Destined Rivals": [
+   "non listato",
+   1
+  ],
+  "iTCG.bg|Crown Zenith": [
+   "non listato",
    1
   ]
  },
@@ -1184,7 +1152,7 @@
   "hobbykort.se": 370,
   "tcgcompany.nl": 370,
   "www.nerdom.gr": 369,
-  "www.pokekarty.pl": 369,
+  "www.pokekarty.pl": 370,
   "www.wakuwaku.cz": 369,
   "www.pokemonia.ro": 370,
   "en.tcg-shop.at": 369,
@@ -1202,8 +1170,10 @@
   "www.poketalk.se": 3,
   "pokebank.es": 3,
   "bescards.com": 3,
-  "www.amazon.it": 2,
-  "alldaytcg.com": 1
+  "www.amazon.it": 1,
+  "games-island.eu": 1,
+  "rogerz.dk": 1,
+  "cardcorner.at": 1
  },
- "runno": 4402
+ "runno": 4403
 }
