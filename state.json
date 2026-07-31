@@ -558,7 +558,7 @@
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "LorenZone": {
-   "Pitch Black (ME05)": "non listato",
+   "Pitch Black (ME05)": "irraggiungibile",
    "30th Celebration": "irraggiungibile",
    "Storm Emerald (ME06)": "irraggiungibile",
    "Chaos Rising (ME04)": "irraggiungibile",
@@ -579,7 +579,7 @@
    "Prismatic Evolutions": "listato",
    "Crown Zenith": "listato",
    "Destined Rivals": "esaurito",
-   "Premium Deck Espeon & Umbreon (30th)": "non listato"
+   "Premium Deck Espeon & Umbreon (30th)": "listato"
   },
   "Kaissa Games": {
    "Pitch Black (ME05)": "listato",
@@ -702,7 +702,7 @@
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "MagicBazar": {
-   "Pitch Black (ME05)": "non listato",
+   "Pitch Black (ME05)": "listato",
    "30th Celebration": "non listato",
    "Storm Emerald (ME06)": "non listato",
    "Chaos Rising (ME04)": "non listato",
@@ -971,27 +971,31 @@
   "PokeCardShop|30th Celebration": "€8.95"
  },
  "pending": {
-  "PokeCardShop|Premium Deck Espeon & Umbreon (30th)": [
-   "listato",
+  "TCGStore.se|Chaos Rising (ME04)": [
+   "esaurito",
    1
   ],
-  "MagicBazar|Pitch Black (ME05)": [
-   "listato",
-   1
-  ],
-  "LetsGoTry|Chaos Rising (ME04)": [
+  "TCGStore.se|Phantasmal Flames (ME02)": [
    "non listato",
    1
   ],
-  "CrispyCards|Chaos Rising (ME04)": [
+  "TCGStore.se|Destined Rivals": [
    "non listato",
    1
   ],
-  "CrispyCards|Prismatic Evolutions": [
+  "Pokemillon|Pitch Black (ME05)": [
    "listato",
    1
   ],
-  "CrispyCards|Destined Rivals": [
+  "Pokemillon|Storm Emerald (ME06)": [
+   "listato",
+   1
+  ],
+  "Pokemillon|Pokémon 151": [
+   "non listato",
+   1
+  ],
+  "LorenZone|30th Celebration": [
    "non listato",
    1
   ],
@@ -999,19 +1003,31 @@
    "non listato",
    1
   ],
-  "CardCorner.at|30th Celebration": [
+  "Pokeka.hu|Storm Emerald (ME06)": [
    "non listato",
    1
   ],
-  "Pokemillon|Pokémon 151": [
+  "Pokeka.hu|Phantasmal Flames (ME02)": [
    "non listato",
    1
   ],
-  "Pokeka.hu|Chaos Rising (ME04)": [
+  "Pokechest|Prismatic Evolutions": [
    "non listato",
+   1
+  ],
+  "CardCorner.at|Storm Emerald (ME06)": [
+   "non listato",
+   1
+  ],
+  "iTCG.bg|Pokémon 151": [
+   "listato",
    1
   ],
   "iTCG.bg|Prismatic Evolutions": [
+   "listato",
+   1
+  ],
+  "iTCG.bg|Destined Rivals": [
    "listato",
    1
   ]
@@ -1186,12 +1202,8 @@
   "www.poketalk.se": 3,
   "pokebank.es": 3,
   "bescards.com": 3,
-  "totalcards.net": 2,
-  "alldaytcg.com": 1,
-  "www.deckshop.de": 1,
-  "pokechest.at": 1,
-  "tcgstore.se": 1,
-  "tcgfanshop.nl": 1
+  "www.amazon.it": 2,
+  "alldaytcg.com": 1
  },
  "runno": 4402
 }
