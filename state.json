@@ -445,7 +445,7 @@
    "Phantasmal Flames (ME02)": "irraggiungibile",
    "Pokémon 151": "listato",
    "Prismatic Evolutions": "irraggiungibile",
-   "Crown Zenith": "irraggiungibile",
+   "Crown Zenith": "non listato",
    "Destined Rivals": "non listato",
    "Premium Deck Espeon & Umbreon (30th)": "irraggiungibile"
   },
@@ -973,20 +973,56 @@
    "listato",
    1
   ],
-  "Pokechest|Destined Rivals": [
+  "Kerailykortti|Destined Rivals": [
    "non listato",
    1
   ],
-  "CrispyCards|Chaos Rising (ME04)": [
+  "Pokemons.dk|Pitch Black (ME05)": [
    "non listato",
    1
   ],
-  "CardCorner.at|Phantasmal Flames (ME02)": [
+  "Pokemons.dk|30th Celebration": [
    "non listato",
    1
   ],
-  "iTCG.bg|Pokémon 151": [
+  "Pokemons.dk|Storm Emerald (ME06)": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Chaos Rising (ME04)": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Phantasmal Flames (ME02)": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Pokémon 151": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Prismatic Evolutions": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Crown Zenith": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Destined Rivals": [
+   "non listato",
+   1
+  ],
+  "Pokemillon|Pitch Black (ME05)": [
    "listato",
+   1
+  ],
+  "Pokemillon|30th Celebration": [
+   "listato",
+   1
+  ],
+  "LetsGoTry|Chaos Rising (ME04)": [
+   "non listato",
    1
   ]
  },
@@ -1142,7 +1178,7 @@
   "hobbykort.se": 371,
   "tcgcompany.nl": 371,
   "www.nerdom.gr": 370,
-  "www.pokekarty.pl": 370,
+  "www.pokekarty.pl": 371,
   "www.wakuwaku.cz": 370,
   "www.pokemonia.ro": 371,
   "en.tcg-shop.at": 370,
@@ -1159,11 +1195,21 @@
   "sunnystore.es": 3,
   "alldaytcg.com": 3,
   "www.poketalk.se": 3,
-  "outpostbrussels.be": 1,
-  "godofcards.com": 1,
+  "godofcards.com": 2,
+  "crispycards.de": 1,
+  "pokeboxstore.pt": 1,
+  "cardcorner.at": 1,
+  "lorenzone.fr": 1,
   "tcgfanshop.nl": 1,
-  "www.pokemillon.com": 1,
-  "lorenzone.fr": 1
+  "tcgstore.se": 1,
+  "itcg.bg": 1,
+  "pokechest.at": 1,
+  "games-island.eu": 1,
+  "extremepokecorner.com": 1,
+  "pokectcg.cz": 1,
+  "pokewoke.store": 1,
+  "tcgpikas.lt": 1,
+  "pokemonworld.lt": 1
  },
- "runno": 4414
+ "runno": 4415
 }
