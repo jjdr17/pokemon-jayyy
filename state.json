@@ -445,7 +445,7 @@
    "Phantasmal Flames (ME02)": "irraggiungibile",
    "Pokémon 151": "listato",
    "Prismatic Evolutions": "irraggiungibile",
-   "Crown Zenith": "non listato",
+   "Crown Zenith": "irraggiungibile",
    "Destined Rivals": "non listato",
    "Premium Deck Espeon & Umbreon (30th)": "irraggiungibile"
   },
@@ -1013,16 +1013,28 @@
    "non listato",
    1
   ],
-  "Pokemillon|Pitch Black (ME05)": [
-   "listato",
-   1
-  ],
-  "Pokemillon|30th Celebration": [
-   "listato",
-   1
-  ],
-  "LetsGoTry|Chaos Rising (ME04)": [
+  "Pokechest|Phantasmal Flames (ME02)": [
    "non listato",
+   1
+  ],
+  "Pokechest|Crown Zenith": [
+   "non listato",
+   1
+  ],
+  "CrispyCards|Pokémon 151": [
+   "non listato",
+   1
+  ],
+  "CardCorner.at|30th Celebration": [
+   "non listato",
+   1
+  ],
+  "LorenZone|Prismatic Evolutions": [
+   "non listato",
+   1
+  ],
+  "iTCG.bg|Chaos Rising (ME04)": [
+   "listato",
    1
   ]
  },
@@ -1195,21 +1207,13 @@
   "sunnystore.es": 3,
   "alldaytcg.com": 3,
   "www.poketalk.se": 3,
+  "outpostbrussels.be": 2,
   "godofcards.com": 2,
-  "crispycards.de": 1,
+  "tcgfanshop.nl": 2,
   "pokeboxstore.pt": 1,
-  "cardcorner.at": 1,
-  "lorenzone.fr": 1,
-  "tcgfanshop.nl": 1,
-  "tcgstore.se": 1,
-  "itcg.bg": 1,
-  "pokechest.at": 1,
-  "games-island.eu": 1,
-  "extremepokecorner.com": 1,
-  "pokectcg.cz": 1,
-  "pokewoke.store": 1,
-  "tcgpikas.lt": 1,
-  "pokemonworld.lt": 1
+  "rogerz.dk": 1,
+  "www.deckshop.de": 1,
+  "tcgstore.se": 1
  },
  "runno": 4415
 }
