@@ -558,7 +558,7 @@
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "LorenZone": {
-   "Pitch Black (ME05)": "irraggiungibile",
+   "Pitch Black (ME05)": "non listato",
    "30th Celebration": "irraggiungibile",
    "Storm Emerald (ME06)": "irraggiungibile",
    "Chaos Rising (ME04)": "irraggiungibile",
@@ -979,19 +979,39 @@
    "listato",
    1
   ],
-  "Pokechest|Crown Zenith": [
+  "LetsGoTry|Chaos Rising (ME04)": [
    "non listato",
    1
   ],
-  "TCGStore.se|Premium Deck Espeon & Umbreon (30th)": [
+  "CrispyCards|Chaos Rising (ME04)": [
    "non listato",
    1
   ],
-  "TCGStore.se|Prismatic Evolutions": [
-   "esaurito",
+  "CrispyCards|Prismatic Evolutions": [
+   "listato",
    1
   ],
-  "iTCG.bg|30th Celebration": [
+  "CrispyCards|Destined Rivals": [
+   "non listato",
+   1
+  ],
+  "LorenZone|Prismatic Evolutions": [
+   "non listato",
+   1
+  ],
+  "CardCorner.at|30th Celebration": [
+   "non listato",
+   1
+  ],
+  "Pokemillon|Pokémon 151": [
+   "non listato",
+   1
+  ],
+  "Pokeka.hu|Chaos Rising (ME04)": [
+   "non listato",
+   1
+  ],
+  "iTCG.bg|Prismatic Evolutions": [
    "listato",
    1
   ]
@@ -1137,13 +1157,13 @@
   }
  ],
  "down": {
-  "www.cardmarket.com": 369,
+  "www.cardmarket.com": 370,
   "www.gamestop.com": 84,
   "www.gamelife.it": 370,
   "pokeseller14.com": 370,
   "geco-shop.de": 370,
   "www.chaoscards.co.uk": 369,
-  "www.waylandgames.co.uk": 369,
+  "www.waylandgames.co.uk": 370,
   "www.firestormgames.co.uk": 370,
   "hobbykort.se": 370,
   "tcgcompany.nl": 370,
@@ -1155,25 +1175,23 @@
   "kaissagames.com": 166,
   "misticards.com": 103,
   "pokevend.at": 42,
-  "cardcorner.at": 29,
   "poke-power.eu": 22,
   "godofcards.com": 22,
   "cardzone.es": 22,
   "sunnystore.es": 19,
   "www.blackfire.eu": 19,
-  "eurotcg.com": 6,
+  "eurotcg.com": 7,
   "rarecards.nl": 4,
   "pokeboxstore.pt": 4,
-  "crispycards.de": 3,
   "www.poketalk.se": 3,
-  "papelinho.pt": 3,
   "pokebank.es": 3,
   "bescards.com": 3,
-  "www.deckshop.de": 2,
-  "www.pokemillon.com": 2,
-  "lorenzone.fr": 2,
-  "pokeka.hu": 2,
-  "www.amazon.it": 1
+  "totalcards.net": 2,
+  "alldaytcg.com": 1,
+  "www.deckshop.de": 1,
+  "pokechest.at": 1,
+  "tcgstore.se": 1,
+  "tcgfanshop.nl": 1
  },
- "runno": 4401
+ "runno": 4402
 }
