@@ -301,7 +301,7 @@
    "Phantasmal Flames (ME02)": "irraggiungibile",
    "Pokémon 151": "irraggiungibile",
    "Prismatic Evolutions": "irraggiungibile",
-   "Crown Zenith": "irraggiungibile",
+   "Crown Zenith": "non listato",
    "Destined Rivals": "irraggiungibile",
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
@@ -418,7 +418,7 @@
    "30th Celebration": "irraggiungibile",
    "Storm Emerald (ME06)": "irraggiungibile",
    "Chaos Rising (ME04)": "irraggiungibile",
-   "Phantasmal Flames (ME02)": "irraggiungibile",
+   "Phantasmal Flames (ME02)": "esaurito",
    "Pokémon 151": "irraggiungibile",
    "Prismatic Evolutions": "irraggiungibile",
    "Crown Zenith": "irraggiungibile",
@@ -559,7 +559,7 @@
   },
   "LorenZone": {
    "Pitch Black (ME05)": "irraggiungibile",
-   "30th Celebration": "irraggiungibile",
+   "30th Celebration": "non listato",
    "Storm Emerald (ME06)": "irraggiungibile",
    "Chaos Rising (ME04)": "irraggiungibile",
    "Phantasmal Flames (ME02)": "non listato",
@@ -579,7 +579,7 @@
    "Prismatic Evolutions": "listato",
    "Crown Zenith": "listato",
    "Destined Rivals": "esaurito",
-   "Premium Deck Espeon & Umbreon (30th)": "listato"
+   "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "Kaissa Games": {
    "Pitch Black (ME05)": "listato",
@@ -753,9 +753,9 @@
    "Pitch Black (ME05)": "irraggiungibile",
    "30th Celebration": "irraggiungibile",
    "Storm Emerald (ME06)": "irraggiungibile",
-   "Chaos Rising (ME04)": "irraggiungibile",
-   "Phantasmal Flames (ME02)": "irraggiungibile",
-   "Pokémon 151": "irraggiungibile",
+   "Chaos Rising (ME04)": "listato",
+   "Phantasmal Flames (ME02)": "listato",
+   "Pokémon 151": "listato",
    "Prismatic Evolutions": "irraggiungibile",
    "Crown Zenith": "irraggiungibile",
    "Destined Rivals": "irraggiungibile",
@@ -976,27 +976,11 @@
    1
   ],
   "PokeCardShop|Premium Deck Espeon & Umbreon (30th)": [
-   "non listato",
+   "listato",
    1
   ],
-  "PokeCardShop|Chaos Rising (ME04)": [
-   "non listato",
-   1
-  ],
-  "Pokeka.hu|30th Celebration": [
-   "non listato",
-   1
-  ],
-  "Pokeka.hu|Phantasmal Flames (ME02)": [
-   "non listato",
-   1
-  ],
-  "LorenZone|Pitch Black (ME05)": [
-   "non listato",
-   1
-  ],
-  "iTCG.bg|Pitch Black (ME05)": [
-   "non listato",
+  "Pokemillon|Crown Zenith": [
+   "listato",
    1
   ]
  },
@@ -1149,7 +1133,7 @@
   "www.chaoscards.co.uk": 369,
   "www.waylandgames.co.uk": 369,
   "www.firestormgames.co.uk": 370,
-  "hobbykort.se": 369,
+  "hobbykort.se": 370,
   "tcgcompany.nl": 369,
   "www.nerdom.gr": 369,
   "www.pokekarty.pl": 369,
@@ -1158,29 +1142,29 @@
   "en.tcg-shop.at": 369,
   "kaissagames.com": 166,
   "misticards.com": 103,
+  "tcgfanshop.nl": 66,
   "tcgstore.se": 44,
-  "pokevend.at": 42,
   "cardcorner.at": 29,
-  "poke-power.eu": 22,
-  "godofcards.com": 22,
   "cardzone.es": 22,
-  "rogerz.dk": 21,
-  "totalcards.net": 21,
-  "outpostbrussels.be": 21,
-  "alldaytcg.com": 21,
+  "alldaytcg.com": 22,
   "sunnystore.es": 19,
   "www.blackfire.eu": 19,
   "www.amazon.it": 6,
   "eurotcg.com": 6,
+  "bescards.com": 4,
   "rarecards.nl": 4,
-  "pokeboxstore.pt": 3,
-  "crispycards.de": 3,
-  "www.poketalk.se": 3,
+  "godofcards.com": 3,
+  "pokeka.hu": 3,
+  "itcg.bg": 3,
+  "pokebank.es": 2,
   "papelinho.pt": 2,
-  "pokebank.es": 1,
+  "crispycards.de": 2,
+  "www.poketalk.se": 2,
+  "lorenzone.fr": 2,
+  "tcgdistribution.fr": 1,
+  "www.deckshop.de": 1,
   "pokechest.at": 1,
-  "www.pokemillon.com": 1,
-  "bescards.com": 1
+  "pokevend.at": 1
  },
- "runno": 4397
+ "runno": 4398
 }
