@@ -302,7 +302,7 @@
    "Pokémon 151": "irraggiungibile",
    "Prismatic Evolutions": "irraggiungibile",
    "Crown Zenith": "irraggiungibile",
-   "Destined Rivals": "irraggiungibile",
+   "Destined Rivals": "non listato",
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "Geco-Shop": {
@@ -813,7 +813,7 @@
    "Pitch Black (ME05)": "listato",
    "30th Celebration": "listato",
    "Storm Emerald (ME06)": "listato",
-   "Chaos Rising (ME04)": "non listato",
+   "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "non listato",
    "Prismatic Evolutions": "non listato",
@@ -973,19 +973,39 @@
    "listato",
    1
   ],
-  "PokeCardShop|Premium Deck Espeon & Umbreon (30th)": [
-   "listato",
-   1
-  ],
-  "PokeCardShop|Crown Zenith": [
+  "Pokechest|Pokémon 151": [
    "non listato",
    1
   ],
-  "CardCorner.at|Premium Deck Espeon & Umbreon (30th)": [
+  "MistiCards|Premium Deck Espeon & Umbreon (30th)": [
    "non listato",
    1
   ],
-  "CardCorner.at|Crown Zenith": [
+  "MistiCards|Pokémon 151": [
+   "non listato",
+   1
+  ],
+  "MistiCards|Prismatic Evolutions": [
+   "non listato",
+   1
+  ],
+  "MistiCards|Crown Zenith": [
+   "non listato",
+   1
+  ],
+  "SunnyStore|Pokémon 151": [
+   "esaurito",
+   1
+  ],
+  "CardCorner.at|Chaos Rising (ME04)": [
+   "non listato",
+   1
+  ],
+  "CardCorner.at|Pokémon 151": [
+   "non listato",
+   1
+  ],
+  "Pokevend|Pitch Black (ME05)": [
    "non listato",
    1
   ],
@@ -993,8 +1013,20 @@
    "non listato",
    1
   ],
+  "Pokevend|Storm Emerald (ME06)": [
+   "non listato",
+   1
+  ],
   "Pokevend|Prismatic Evolutions": [
    "non listato",
+   1
+  ],
+  "Poketalk|Premium Deck Espeon & Umbreon (30th)": [
+   "non listato",
+   1
+  ],
+  "Poketalk|Chaos Rising (ME04)": [
+   "esaurito",
    1
   ]
  },
@@ -1166,14 +1198,7 @@
   "tcgfanshop.nl": 3,
   "tcgstore.se": 3,
   "itcg.bg": 3,
-  "pokeboxstore.pt": 2,
-  "poke-power.eu": 1,
-  "cardzone.es": 1,
   "www.deckshop.de": 1,
-  "pokechest.at": 1,
-  "misticards.com": 1,
-  "www.poketalk.se": 1,
-  "www.pokemillon.com": 1,
   "lorenzone.fr": 1,
   "pokeka.hu": 1
  },
