@@ -415,7 +415,7 @@
   },
   "Poketalk": {
    "Pitch Black (ME05)": "irraggiungibile",
-   "30th Celebration": "non listato",
+   "30th Celebration": "irraggiungibile",
    "Storm Emerald (ME06)": "listato",
    "Chaos Rising (ME04)": "irraggiungibile",
    "Phantasmal Flames (ME02)": "irraggiungibile",
@@ -510,15 +510,15 @@
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "Pokemons.dk": {
-   "Pitch Black (ME05)": "listato",
-   "30th Celebration": "listato",
-   "Storm Emerald (ME06)": "listato",
-   "Chaos Rising (ME04)": "listato",
-   "Phantasmal Flames (ME02)": "listato",
-   "Pokémon 151": "listato",
-   "Prismatic Evolutions": "listato",
-   "Crown Zenith": "listato",
-   "Destined Rivals": "listato",
+   "Pitch Black (ME05)": "non listato",
+   "30th Celebration": "non listato",
+   "Storm Emerald (ME06)": "non listato",
+   "Chaos Rising (ME04)": "non listato",
+   "Phantasmal Flames (ME02)": "non listato",
+   "Pokémon 151": "non listato",
+   "Prismatic Evolutions": "non listato",
+   "Crown Zenith": "non listato",
+   "Destined Rivals": "non listato",
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "Papelinho": {
@@ -794,7 +794,7 @@
    "Pokémon 151": "non listato",
    "Prismatic Evolutions": "non listato",
    "Crown Zenith": "non listato",
-   "Destined Rivals": "listato",
+   "Destined Rivals": "non listato",
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "Fuji-Store": {
@@ -813,7 +813,7 @@
    "Pitch Black (ME05)": "listato",
    "30th Celebration": "listato",
    "Storm Emerald (ME06)": "listato",
-   "Chaos Rising (ME04)": "non listato",
+   "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "non listato",
    "Prismatic Evolutions": "non listato",
@@ -973,51 +973,59 @@
    "listato",
    1
   ],
-  "PokeCardShop|30th Celebration": [
-   "non listato",
+  "Pokemons.dk|Pitch Black (ME05)": [
+   "listato",
    1
   ],
-  "PokeCardShop|Premium Deck Espeon & Umbreon (30th)": [
-   "non listato",
+  "Pokemons.dk|30th Celebration": [
+   "listato",
    1
   ],
-  "Total Cards (UK)|Prismatic Evolutions": [
-   "esaurito",
+  "Pokemons.dk|Storm Emerald (ME06)": [
+   "listato",
    1
   ],
-  "CardCorner.at|Chaos Rising (ME04)": [
-   "non listato",
+  "Pokemons.dk|Chaos Rising (ME04)": [
+   "listato",
    1
   ],
-  "CardCorner.at|Pokémon 151": [
-   "non listato",
+  "Pokemons.dk|Phantasmal Flames (ME02)": [
+   "listato",
+   1
+  ],
+  "Pokemons.dk|Pokémon 151": [
+   "listato",
+   1
+  ],
+  "Pokemons.dk|Prismatic Evolutions": [
+   "listato",
+   1
+  ],
+  "Pokemons.dk|Crown Zenith": [
+   "listato",
+   1
+  ],
+  "Pokemons.dk|Destined Rivals": [
+   "listato",
+   1
+  ],
+  "Kerailykortti|Destined Rivals": [
+   "listato",
+   1
+  ],
+  "Pokemillon|30th Celebration": [
+   "listato",
    1
   ],
   "Pokemillon|Storm Emerald (ME06)": [
    "listato",
    1
   ],
-  "Pokemillon|Chaos Rising (ME04)": [
-   "listato",
-   1
-  ],
-  "Pokemillon|Crown Zenith": [
-   "listato",
-   1
-  ],
-  "LorenZone|Chaos Rising (ME04)": [
+  "Pokemillon|Prismatic Evolutions": [
    "non listato",
    1
   ],
-  "LorenZone|Destined Rivals": [
-   "non listato",
-   1
-  ],
-  "Pokeka.hu|30th Celebration": [
-   "non listato",
-   1
-  ],
-  "Pokeka.hu|Premium Deck Espeon & Umbreon (30th)": [
+  "Pokeka.hu|Pokémon 151": [
    "non listato",
    1
   ]
@@ -1184,16 +1192,23 @@
   "rarecards.nl": 6,
   "bescards.com": 5,
   "www.amazon.it": 4,
+  "alldaytcg.com": 4,
   "godofcards.com": 4,
   "crispycards.de": 3,
   "tcgfanshop.nl": 3,
   "tcgstore.se": 3,
   "itcg.bg": 3,
+  "misticards.com": 2,
   "pokeboxstore.pt": 1,
   "sunnystore.es": 1,
+  "cardzone.es": 1,
   "outpostbrussels.be": 1,
-  "misticards.com": 1,
-  "pokevend.at": 1
+  "poke-power.eu": 1,
+  "www.deckshop.de": 1,
+  "cardcorner.at": 1,
+  "pokevend.at": 1,
+  "www.poketalk.se": 1,
+  "lorenzone.fr": 1
  },
- "runno": 4422
+ "runno": 4423
 }
