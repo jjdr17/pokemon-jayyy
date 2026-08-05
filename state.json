@@ -812,8 +812,8 @@
   "LetsGoTry": {
    "Pitch Black (ME05)": "listato",
    "30th Celebration": "listato",
-   "Storm Emerald (ME06)": "listato",
-   "Chaos Rising (ME04)": "listato",
+   "Storm Emerald (ME06)": "non listato",
+   "Chaos Rising (ME04)": "non listato",
    "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "non listato",
    "Prismatic Evolutions": "non listato",
@@ -969,8 +969,44 @@
   "PokeCardShop|30th Celebration": "€8.95"
  },
  "pending": {
-  "PokeCardShop|Premium Deck Espeon & Umbreon (30th)": [
-   "listato",
+  "Kerailykortti|Destined Rivals": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Pitch Black (ME05)": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|30th Celebration": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Storm Emerald (ME06)": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Chaos Rising (ME04)": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Phantasmal Flames (ME02)": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Pokémon 151": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Prismatic Evolutions": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Crown Zenith": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Destined Rivals": [
+   "non listato",
    1
   ]
  },
@@ -1126,7 +1162,7 @@
   "hobbykort.se": 379,
   "tcgcompany.nl": 379,
   "www.nerdom.gr": 378,
-  "www.pokekarty.pl": 378,
+  "www.pokekarty.pl": 379,
   "www.wakuwaku.cz": 378,
   "www.pokemonia.ro": 379,
   "en.tcg-shop.at": 378,
@@ -1137,7 +1173,7 @@
   "crispycards.de": 11,
   "itcg.bg": 11,
   "misticards.com": 9,
-  "www.deckshop.de": 9,
+  "www.deckshop.de": 10,
   "lorenzone.fr": 9,
   "tcgfanshop.nl": 9,
   "tcgstore.se": 10,
@@ -1147,10 +1183,15 @@
   "cardcorner.at": 10,
   "pokevend.at": 9,
   "pokeka.hu": 7,
+  "pokeboxstore.pt": 5,
   "www.blackfire.eu": 5,
-  "pokeboxstore.pt": 3,
-  "www.amazon.it": 1,
-  "tcgdistribution.fr": 1
+  "www.amazon.it": 3,
+  "extremepokecorner.com": 2,
+  "pokectcg.cz": 2,
+  "pokewoke.store": 2,
+  "tcgpikas.lt": 2,
+  "pokemonworld.lt": 2,
+  "www.lotticards.de": 1
  },
- "runno": 4510
+ "runno": 4511
 }
