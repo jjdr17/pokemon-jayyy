@@ -812,7 +812,7 @@
   "LetsGoTry": {
    "Pitch Black (ME05)": "listato",
    "30th Celebration": "listato",
-   "Storm Emerald (ME06)": "listato",
+   "Storm Emerald (ME06)": "non listato",
    "Chaos Rising (ME04)": "non listato",
    "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "non listato",
@@ -969,8 +969,48 @@
   "PokeCardShop|30th Celebration": "€8.95"
  },
  "pending": {
-  "SunnyStore|Crown Zenith": [
+  "Poketalk|Prismatic Evolutions": [
+   "esaurito",
+   1
+  ],
+  "Poketalk|Crown Zenith": [
+   "esaurito",
+   1
+  ],
+  "Poketalk|Destined Rivals": [
+   "esaurito",
+   1
+  ],
+  "CardCorner.at|30th Celebration": [
    "non listato",
+   1
+  ],
+  "CardCorner.at|Premium Deck Espeon & Umbreon (30th)": [
+   "non listato",
+   1
+  ],
+  "CardCorner.at|Storm Emerald (ME06)": [
+   "non listato",
+   1
+  ],
+  "CardCorner.at|Chaos Rising (ME04)": [
+   "non listato",
+   1
+  ],
+  "CardCorner.at|Pokémon 151": [
+   "non listato",
+   1
+  ],
+  "CardCorner.at|Prismatic Evolutions": [
+   "non listato",
+   1
+  ],
+  "CardCorner.at|Crown Zenith": [
+   "non listato",
+   1
+  ],
+  "LetsGoTry|Chaos Rising (ME04)": [
+   "listato",
    1
   ]
  },
@@ -1120,7 +1160,7 @@
   "www.gamelife.it": 377,
   "pokeseller14.com": 377,
   "geco-shop.de": 377,
-  "www.chaoscards.co.uk": 376,
+  "www.chaoscards.co.uk": 377,
   "www.waylandgames.co.uk": 377,
   "www.firestormgames.co.uk": 377,
   "hobbykort.se": 377,
@@ -1136,27 +1176,18 @@
   "bescards.com": 10,
   "crispycards.de": 9,
   "itcg.bg": 9,
-  "misticards.com": 7,
+  "misticards.com": 8,
   "www.deckshop.de": 8,
   "lorenzone.fr": 7,
   "tcgfanshop.nl": 7,
   "tcgstore.se": 8,
-  "www.poketalk.se": 7,
   "www.pokemillon.com": 7,
   "pokechest.at": 7,
-  "cardcorner.at": 8,
   "pokevend.at": 7,
   "pokeka.hu": 5,
   "pokeboxstore.pt": 3,
   "tcgdistribution.fr": 3,
-  "www.blackfire.eu": 3,
-  "www.amazon.it": 2,
-  "papelinho.pt": 1,
-  "extremepokecorner.com": 1,
-  "pokectcg.cz": 1,
-  "pokewoke.store": 1,
-  "pokemonworld.lt": 1,
-  "tcgpikas.lt": 1
+  "www.blackfire.eu": 1
  },
- "runno": 4487
+ "runno": 4488
 }
