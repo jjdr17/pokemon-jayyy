@@ -47,7 +47,7 @@
    "Storm Emerald (ME06)": "non listato",
    "Chaos Rising (ME04)": "non listato",
    "Phantasmal Flames (ME02)": "non listato",
-   "Pokémon 151": "non listato",
+   "Pokémon 151": "listato",
    "Prismatic Evolutions": "non listato",
    "Crown Zenith": "non listato",
    "Destined Rivals": "non listato",
@@ -813,7 +813,7 @@
    "Pitch Black (ME05)": "listato",
    "30th Celebration": "listato",
    "Storm Emerald (ME06)": "non listato",
-   "Chaos Rising (ME04)": "non listato",
+   "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "non listato",
    "Prismatic Evolutions": "non listato",
@@ -973,47 +973,11 @@
    "non listato",
    1
   ],
-  "Kerailykortti|Destined Rivals": [
+  "Blackfire|Pokémon 151": [
    "non listato",
    1
   ],
-  "Pokemons.dk|Pitch Black (ME05)": [
-   "non listato",
-   1
-  ],
-  "Pokemons.dk|30th Celebration": [
-   "non listato",
-   1
-  ],
-  "Pokemons.dk|Storm Emerald (ME06)": [
-   "non listato",
-   1
-  ],
-  "Pokemons.dk|Chaos Rising (ME04)": [
-   "non listato",
-   1
-  ],
-  "Pokemons.dk|Phantasmal Flames (ME02)": [
-   "non listato",
-   1
-  ],
-  "Pokemons.dk|Pokémon 151": [
-   "non listato",
-   1
-  ],
-  "Pokemons.dk|Prismatic Evolutions": [
-   "non listato",
-   1
-  ],
-  "Pokemons.dk|Crown Zenith": [
-   "non listato",
-   1
-  ],
-  "Pokemons.dk|Destined Rivals": [
-   "non listato",
-   1
-  ],
-  "LetsGoTry|Chaos Rising (ME04)": [
+  "LetsGoTry|Storm Emerald (ME06)": [
    "listato",
    1
   ]
@@ -1169,14 +1133,14 @@
   "www.firestormgames.co.uk": 374,
   "hobbykort.se": 374,
   "tcgcompany.nl": 374,
-  "www.nerdom.gr": 373,
+  "www.nerdom.gr": 374,
   "www.pokekarty.pl": 374,
   "www.wakuwaku.cz": 374,
   "www.pokemonia.ro": 374,
   "en.tcg-shop.at": 374,
   "kaissagames.com": 171,
   "eurotcg.com": 11,
-  "rarecards.nl": 8,
+  "rarecards.nl": 9,
   "bescards.com": 7,
   "crispycards.de": 6,
   "itcg.bg": 6,
@@ -1184,20 +1148,16 @@
   "misticards.com": 5,
   "www.deckshop.de": 5,
   "lorenzone.fr": 5,
-  "pokeka.hu": 5,
   "tcgfanshop.nl": 5,
   "tcgstore.se": 5,
   "www.poketalk.se": 5,
   "www.pokemillon.com": 5,
   "pokechest.at": 5,
   "cardcorner.at": 5,
-  "pokevend.at": 4,
+  "pokevend.at": 5,
   "pokeboxstore.pt": 4,
-  "extremepokecorner.com": 1,
-  "pokectcg.cz": 1,
-  "pokewoke.store": 1,
-  "tcgpikas.lt": 1,
-  "pokemonworld.lt": 1
+  "www.blackfire.eu": 4,
+  "pokeka.hu": 1
  },
- "runno": 4454
+ "runno": 4455
 }
