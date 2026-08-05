@@ -969,12 +969,72 @@
   "PokeCardShop|30th Celebration": "€8.95"
  },
  "pending": {
-  "SunnyStore|Crown Zenith": [
+  "Kerailykortti|Destined Rivals": [
    "non listato",
    1
   ],
-  "PokeCardShop|Premium Deck Espeon & Umbreon (30th)": [
+  "Pokemons.dk|Pitch Black (ME05)": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|30th Celebration": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Storm Emerald (ME06)": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Chaos Rising (ME04)": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Phantasmal Flames (ME02)": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Pokémon 151": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Prismatic Evolutions": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Crown Zenith": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Destined Rivals": [
+   "non listato",
+   1
+  ],
+  "CardCorner.at|Storm Emerald (ME06)": [
+   "non listato",
+   1
+  ],
+  "CardCorner.at|Chaos Rising (ME04)": [
+   "non listato",
+   1
+  ],
+  "CardCorner.at|Pokémon 151": [
+   "non listato",
+   1
+  ],
+  "CardCorner.at|Prismatic Evolutions": [
+   "non listato",
+   1
+  ],
+  "CardCorner.at|Crown Zenith": [
+   "non listato",
+   1
+  ],
+  "LetsGoTry|Storm Emerald (ME06)": [
    "listato",
+   1
+  ],
+  "LetsGoTry|Chaos Rising (ME04)": [
+   "non listato",
    1
   ]
  },
@@ -1119,13 +1179,13 @@
   }
  ],
  "down": {
-  "www.cardmarket.com": 376,
+  "www.cardmarket.com": 377,
   "www.gamestop.com": 84,
   "www.gamelife.it": 377,
   "pokeseller14.com": 377,
   "geco-shop.de": 377,
   "www.chaoscards.co.uk": 376,
-  "www.waylandgames.co.uk": 376,
+  "www.waylandgames.co.uk": 377,
   "www.firestormgames.co.uk": 377,
   "hobbykort.se": 377,
   "tcgcompany.nl": 377,
@@ -1135,11 +1195,11 @@
   "www.pokemonia.ro": 377,
   "en.tcg-shop.at": 376,
   "kaissagames.com": 173,
-  "eurotcg.com": 13,
+  "eurotcg.com": 14,
   "rarecards.nl": 11,
   "bescards.com": 10,
-  "crispycards.de": 8,
-  "itcg.bg": 8,
+  "crispycards.de": 9,
+  "itcg.bg": 9,
   "misticards.com": 7,
   "www.deckshop.de": 7,
   "lorenzone.fr": 7,
@@ -1148,12 +1208,16 @@
   "www.poketalk.se": 7,
   "www.pokemillon.com": 7,
   "pokechest.at": 7,
-  "cardcorner.at": 7,
   "pokevend.at": 7,
   "pokeka.hu": 5,
   "pokeboxstore.pt": 3,
   "tcgdistribution.fr": 3,
-  "www.blackfire.eu": 1
+  "www.amazon.it": 1,
+  "extremepokecorner.com": 1,
+  "pokectcg.cz": 1,
+  "pokewoke.store": 1,
+  "tcgpikas.lt": 1,
+  "pokemonworld.lt": 1
  },
- "runno": 4485
+ "runno": 4486
 }
