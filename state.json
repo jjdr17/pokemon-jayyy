@@ -812,8 +812,8 @@
   "LetsGoTry": {
    "Pitch Black (ME05)": "listato",
    "30th Celebration": "listato",
-   "Storm Emerald (ME06)": "listato",
-   "Chaos Rising (ME04)": "non listato",
+   "Storm Emerald (ME06)": "non listato",
+   "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "non listato",
    "Prismatic Evolutions": "non listato",
@@ -973,6 +973,10 @@
    "non listato",
    1
   ],
+  "Blackfire|Pokémon 151": [
+   "non listato",
+   1
+  ],
   "Pokemons.dk|Pitch Black (ME05)": [
    "listato",
    1
@@ -1011,6 +1015,10 @@
   ],
   "Kerailykortti|Destined Rivals": [
    "listato",
+   1
+  ],
+  "LetsGoTry|Chaos Rising (ME04)": [
+   "non listato",
    1
   ]
  },
@@ -1171,10 +1179,9 @@
   "www.pokemonia.ro": 373,
   "en.tcg-shop.at": 373,
   "kaissagames.com": 170,
-  "www.blackfire.eu": 23,
   "eurotcg.com": 10,
   "rarecards.nl": 8,
-  "bescards.com": 6,
+  "bescards.com": 7,
   "crispycards.de": 5,
   "itcg.bg": 5,
   "www.amazon.it": 4,
@@ -1190,11 +1197,7 @@
   "cardcorner.at": 4,
   "pokevend.at": 4,
   "pokeboxstore.pt": 3,
-  "extremepokecorner.com": 3,
-  "pokewoke.store": 3,
-  "pokectcg.cz": 3,
-  "tcgpikas.lt": 3,
-  "pokemonworld.lt": 3
+  "www.blackfire.eu": 2
  },
- "runno": 4443
+ "runno": 4444
 }
