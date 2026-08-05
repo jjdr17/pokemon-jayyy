@@ -47,7 +47,7 @@
    "Storm Emerald (ME06)": "non listato",
    "Chaos Rising (ME04)": "non listato",
    "Phantasmal Flames (ME02)": "non listato",
-   "Pokémon 151": "listato",
+   "Pokémon 151": "non listato",
    "Prismatic Evolutions": "non listato",
    "Crown Zenith": "non listato",
    "Destined Rivals": "non listato",
@@ -973,8 +973,8 @@
    "non listato",
    1
   ],
-  "Blackfire|Pokémon 151": [
-   "non listato",
+  "PokeCardShop|Premium Deck Espeon & Umbreon (30th)": [
+   "listato",
    1
   ]
  },
@@ -1131,10 +1131,10 @@
   "tcgcompany.nl": 375,
   "www.nerdom.gr": 374,
   "www.pokekarty.pl": 375,
-  "www.wakuwaku.cz": 374,
+  "www.wakuwaku.cz": 375,
   "www.pokemonia.ro": 375,
   "en.tcg-shop.at": 375,
-  "kaissagames.com": 171,
+  "kaissagames.com": 172,
   "eurotcg.com": 12,
   "rarecards.nl": 9,
   "bescards.com": 8,
@@ -1142,21 +1142,23 @@
   "itcg.bg": 7,
   "misticards.com": 6,
   "www.deckshop.de": 6,
-  "lorenzone.fr": 5,
+  "lorenzone.fr": 6,
   "tcgfanshop.nl": 6,
   "tcgstore.se": 6,
   "www.poketalk.se": 6,
-  "www.pokemillon.com": 5,
+  "www.pokemillon.com": 6,
   "pokechest.at": 6,
   "cardcorner.at": 6,
   "pokevend.at": 5,
   "pokeboxstore.pt": 5,
-  "www.blackfire.eu": 4,
-  "pokeka.hu": 3,
-  "pokectcg.cz": 1,
-  "pokewoke.store": 1,
-  "pokemonworld.lt": 1,
-  "tcgpikas.lt": 1
+  "pokeka.hu": 4,
+  "pokectcg.cz": 2,
+  "pokewoke.store": 2,
+  "pokemonworld.lt": 2,
+  "tcgpikas.lt": 2,
+  "www.amazon.it": 1,
+  "tcgdistribution.fr": 1,
+  "extremepokecorner.com": 1
  },
- "runno": 4465
+ "runno": 4466
 }
