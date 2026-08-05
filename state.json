@@ -128,7 +128,7 @@
   "SunnyStore": {
    "Pitch Black (ME05)": "listato",
    "30th Celebration": "listato",
-   "Storm Emerald (ME06)": "non listato",
+   "Storm Emerald (ME06)": "listato",
    "Chaos Rising (ME04)": "esaurito",
    "Phantasmal Flames (ME02)": "esaurito",
    "Pokémon 151": "esaurito",
@@ -812,7 +812,7 @@
   "LetsGoTry": {
    "Pitch Black (ME05)": "listato",
    "30th Celebration": "listato",
-   "Storm Emerald (ME06)": "listato",
+   "Storm Emerald (ME06)": "non listato",
    "Chaos Rising (ME04)": "non listato",
    "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "non listato",
@@ -972,10 +972,6 @@
   "SunnyStore|Crown Zenith": [
    "non listato",
    1
-  ],
-  "SunnyStore|Storm Emerald (ME06)": [
-   "listato",
-   1
   ]
  },
  "urls": {
@@ -1127,7 +1123,7 @@
   "www.chaoscards.co.uk": 372,
   "www.waylandgames.co.uk": 372,
   "www.firestormgames.co.uk": 373,
-  "hobbykort.se": 372,
+  "hobbykort.se": 373,
   "tcgcompany.nl": 372,
   "www.nerdom.gr": 372,
   "www.pokekarty.pl": 372,
@@ -1139,7 +1135,6 @@
   "eurotcg.com": 9,
   "rarecards.nl": 7,
   "bescards.com": 6,
-  "alldaytcg.com": 4,
   "crispycards.de": 4,
   "itcg.bg": 4,
   "pokeboxstore.pt": 3,
@@ -1152,9 +1147,10 @@
   "tcgstore.se": 3,
   "www.poketalk.se": 3,
   "www.pokemillon.com": 3,
-  "pokechest.at": 2,
-  "cardcorner.at": 2,
-  "pokevend.at": 2
+  "pokechest.at": 3,
+  "cardcorner.at": 3,
+  "pokevend.at": 3,
+  "games-island.eu": 1
  },
- "runno": 4433
+ "runno": 4434
 }
