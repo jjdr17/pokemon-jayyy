@@ -510,15 +510,15 @@
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "Pokemons.dk": {
-   "Pitch Black (ME05)": "listato",
-   "30th Celebration": "listato",
-   "Storm Emerald (ME06)": "listato",
-   "Chaos Rising (ME04)": "listato",
-   "Phantasmal Flames (ME02)": "listato",
-   "Pokémon 151": "listato",
-   "Prismatic Evolutions": "listato",
-   "Crown Zenith": "listato",
-   "Destined Rivals": "listato",
+   "Pitch Black (ME05)": "non listato",
+   "30th Celebration": "non listato",
+   "Storm Emerald (ME06)": "non listato",
+   "Chaos Rising (ME04)": "non listato",
+   "Phantasmal Flames (ME02)": "non listato",
+   "Pokémon 151": "non listato",
+   "Prismatic Evolutions": "non listato",
+   "Crown Zenith": "non listato",
+   "Destined Rivals": "non listato",
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "Papelinho": {
@@ -794,7 +794,7 @@
    "Pokémon 151": "non listato",
    "Prismatic Evolutions": "non listato",
    "Crown Zenith": "non listato",
-   "Destined Rivals": "listato",
+   "Destined Rivals": "non listato",
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "Fuji-Store": {
@@ -813,7 +813,7 @@
    "Pitch Black (ME05)": "listato",
    "30th Celebration": "listato",
    "Storm Emerald (ME06)": "non listato",
-   "Chaos Rising (ME04)": "non listato",
+   "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "non listato",
    "Prismatic Evolutions": "non listato",
@@ -973,7 +973,11 @@
    "non listato",
    1
   ],
-  "LetsGoTry|Chaos Rising (ME04)": [
+  "Amazon.it|30th Celebration": [
+   "listato",
+   1
+  ],
+  "LetsGoTry|Storm Emerald (ME06)": [
    "listato",
    1
   ]
@@ -1126,13 +1130,13 @@
   "geco-shop.de": 375,
   "www.chaoscards.co.uk": 375,
   "www.waylandgames.co.uk": 375,
-  "www.firestormgames.co.uk": 375,
+  "www.firestormgames.co.uk": 376,
   "hobbykort.se": 375,
   "tcgcompany.nl": 375,
   "www.nerdom.gr": 375,
   "www.pokekarty.pl": 375,
   "www.wakuwaku.cz": 375,
-  "www.pokemonia.ro": 375,
+  "www.pokemonia.ro": 376,
   "en.tcg-shop.at": 375,
   "kaissagames.com": 172,
   "eurotcg.com": 12,
@@ -1152,7 +1156,13 @@
   "pokevend.at": 6,
   "pokeboxstore.pt": 5,
   "pokeka.hu": 4,
-  "games-island.eu": 1
+  "pokectcg.cz": 2,
+  "pokewoke.store": 2,
+  "tcgpikas.lt": 2,
+  "pokemonworld.lt": 2,
+  "www.blackfire.eu": 1,
+  "sapphire-cards.de": 1,
+  "extremepokecorner.com": 1
  },
- "runno": 4468
+ "runno": 4469
 }
