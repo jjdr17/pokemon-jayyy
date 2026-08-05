@@ -969,8 +969,8 @@
   "PokeCardShop|30th Celebration": "€8.95"
  },
  "pending": {
-  "LetsGoTry|Chaos Rising (ME04)": [
-   "non listato",
+  "LetsGoTry|Storm Emerald (ME06)": [
+   "listato",
    1
   ]
  },
@@ -1001,7 +1001,7 @@
   "Pikashop|Pitch Black (ME05)": "https://pikashop.pl/?s=pitch+black&post_type=product",
   "PokeCardShop|30th Celebration": "https://www.pokecardshop.be/search?q=30th+celebration"
  },
- "digest_slot": "2026-08-05-18",
+ "digest_slot": "2026-08-05-22",
  "log": [
   {
    "ts": "05/07 19:55",
@@ -1133,7 +1133,7 @@
   "kaissagames.com": 178,
   "eurotcg.com": 18,
   "rarecards.nl": 16,
-  "bescards.com": 14,
+  "bescards.com": 15,
   "crispycards.de": 13,
   "itcg.bg": 13,
   "misticards.com": 12,
@@ -1148,9 +1148,7 @@
   "pokevend.at": 12,
   "pokeka.hu": 10,
   "www.amazon.it": 4,
-  "www.blackfire.eu": 4,
-  "pokeboxstore.pt": 2,
-  "tcgdistribution.fr": 1
+  "www.blackfire.eu": 2
  },
- "runno": 4539
+ "runno": 4540
 }
