@@ -969,8 +969,12 @@
   "PokeCardShop|30th Celebration": "€8.95"
  },
  "pending": {
-  "LetsGoTry|Chaos Rising (ME04)": [
-   "non listato",
+  "PokeCardShop|Premium Deck Espeon & Umbreon (30th)": [
+   "listato",
+   1
+  ],
+  "LetsGoTry|Storm Emerald (ME06)": [
+   "listato",
    1
   ]
  },
@@ -1117,9 +1121,9 @@
  "down": {
   "www.cardmarket.com": 379,
   "www.gamestop.com": 84,
-  "www.gamelife.it": 379,
-  "pokeseller14.com": 379,
-  "geco-shop.de": 379,
+  "www.gamelife.it": 380,
+  "pokeseller14.com": 380,
+  "geco-shop.de": 380,
   "www.chaoscards.co.uk": 379,
   "www.waylandgames.co.uk": 379,
   "www.firestormgames.co.uk": 380,
@@ -1148,8 +1152,7 @@
   "pokevend.at": 10,
   "pokeka.hu": 8,
   "www.blackfire.eu": 6,
-  "www.amazon.it": 3,
   "www.efantasy.gr": 3
  },
- "runno": 4519
+ "runno": 4520
 }
