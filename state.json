@@ -812,7 +812,7 @@
   "LetsGoTry": {
    "Pitch Black (ME05)": "listato",
    "30th Celebration": "listato",
-   "Storm Emerald (ME06)": "non listato",
+   "Storm Emerald (ME06)": "listato",
    "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "non listato",
@@ -969,8 +969,48 @@
   "PokeCardShop|30th Celebration": "€8.95"
  },
  "pending": {
-  "LetsGoTry|Storm Emerald (ME06)": [
-   "listato",
+  "Kerailykortti|Destined Rivals": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Pitch Black (ME05)": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|30th Celebration": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Storm Emerald (ME06)": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Chaos Rising (ME04)": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Phantasmal Flames (ME02)": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Pokémon 151": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Prismatic Evolutions": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Crown Zenith": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Destined Rivals": [
+   "non listato",
+   1
+  ],
+  "LetsGoTry|Chaos Rising (ME04)": [
+   "non listato",
    1
   ]
  },
@@ -1127,10 +1167,10 @@
   "tcgcompany.nl": 383,
   "www.nerdom.gr": 382,
   "www.pokekarty.pl": 383,
-  "www.wakuwaku.cz": 382,
+  "www.wakuwaku.cz": 383,
   "www.pokemonia.ro": 383,
   "en.tcg-shop.at": 383,
-  "kaissagames.com": 179,
+  "kaissagames.com": 180,
   "eurotcg.com": 20,
   "rarecards.nl": 17,
   "bescards.com": 16,
@@ -1138,19 +1178,25 @@
   "itcg.bg": 15,
   "misticards.com": 14,
   "www.deckshop.de": 14,
-  "lorenzone.fr": 13,
+  "lorenzone.fr": 14,
   "tcgfanshop.nl": 14,
   "tcgstore.se": 14,
   "www.poketalk.se": 14,
-  "www.pokemillon.com": 13,
+  "www.pokemillon.com": 14,
   "pokechest.at": 14,
   "cardcorner.at": 14,
   "pokevend.at": 13,
-  "pokeka.hu": 11,
+  "pokeka.hu": 12,
   "www.amazon.it": 6,
-  "www.blackfire.eu": 4,
+  "www.blackfire.eu": 5,
   "pokebank.es": 4,
-  "pokeboxstore.pt": 4
+  "pokeboxstore.pt": 4,
+  "www.lotticards.de": 1,
+  "extremepokecorner.com": 1,
+  "pokectcg.cz": 1,
+  "pokewoke.store": 1,
+  "tcgpikas.lt": 1,
+  "pokemonworld.lt": 1
  },
- "runno": 4561
+ "runno": 4562
 }
