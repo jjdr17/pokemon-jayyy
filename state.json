@@ -128,7 +128,7 @@
   "SunnyStore": {
    "Pitch Black (ME05)": "listato",
    "30th Celebration": "listato",
-   "Storm Emerald (ME06)": "non listato",
+   "Storm Emerald (ME06)": "listato",
    "Chaos Rising (ME04)": "esaurito",
    "Phantasmal Flames (ME02)": "esaurito",
    "Pokémon 151": "esaurito",
@@ -812,7 +812,7 @@
   "LetsGoTry": {
    "Pitch Black (ME05)": "listato",
    "30th Celebration": "listato",
-   "Storm Emerald (ME06)": "listato",
+   "Storm Emerald (ME06)": "non listato",
    "Chaos Rising (ME04)": "non listato",
    "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "non listato",
@@ -973,10 +973,6 @@
    "non listato",
    1
   ],
-  "SunnyStore|Storm Emerald (ME06)": [
-   "listato",
-   1
-  ],
   "Kerailykortti|Destined Rivals": [
    "non listato",
    1
@@ -1017,8 +1013,8 @@
    "non listato",
    1
   ],
-  "LetsGoTry|Storm Emerald (ME06)": [
-   "non listato",
+  "LetsGoTry|Chaos Rising (ME04)": [
+   "listato",
    1
   ]
  },
@@ -1185,7 +1181,6 @@
   "bescards.com": 6,
   "crispycards.de": 4,
   "itcg.bg": 4,
-  "pokeboxstore.pt": 3,
   "www.amazon.it": 3,
   "misticards.com": 3,
   "www.deckshop.de": 3,
@@ -1197,7 +1192,8 @@
   "www.pokemillon.com": 3,
   "pokechest.at": 3,
   "cardcorner.at": 3,
-  "pokevend.at": 3
+  "pokevend.at": 3,
+  "games-island.eu": 2
  },
- "runno": 4434
+ "runno": 4435
 }
