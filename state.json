@@ -812,8 +812,8 @@
   "LetsGoTry": {
    "Pitch Black (ME05)": "listato",
    "30th Celebration": "listato",
-   "Storm Emerald (ME06)": "listato",
-   "Chaos Rising (ME04)": "listato",
+   "Storm Emerald (ME06)": "non listato",
+   "Chaos Rising (ME04)": "non listato",
    "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "non listato",
    "Prismatic Evolutions": "non listato",
@@ -969,12 +969,8 @@
   "PokeCardShop|30th Celebration": "€8.95"
  },
  "pending": {
-  "PokeCardShop|Premium Deck Espeon & Umbreon (30th)": [
+  "LetsGoTry|Chaos Rising (ME04)": [
    "listato",
-   1
-  ],
-  "LetsGoTry|Storm Emerald (ME06)": [
-   "non listato",
    1
   ]
  },
@@ -1151,8 +1147,9 @@
   "cardcorner.at": 12,
   "pokevend.at": 12,
   "pokeka.hu": 10,
-  "www.amazon.it": 5,
-  "www.blackfire.eu": 3
+  "www.blackfire.eu": 4,
+  "www.amazon.it": 1,
+  "games-island.eu": 1
  },
  "runno": 4545
 }
