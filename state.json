@@ -813,7 +813,7 @@
    "Pitch Black (ME05)": "listato",
    "30th Celebration": "listato",
    "Storm Emerald (ME06)": "non listato",
-   "Chaos Rising (ME04)": "listato",
+   "Chaos Rising (ME04)": "non listato",
    "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "non listato",
    "Prismatic Evolutions": "non listato",
@@ -968,20 +968,7 @@
   "Stoyanov Games|Pitch Black (ME05)": "8.00€",
   "PokeCardShop|30th Celebration": "€8.95"
  },
- "pending": {
-  "LetsGoTry|Storm Emerald (ME06)": [
-   "listato",
-   1
-  ],
-  "LetsGoTry|Chaos Rising (ME04)": [
-   "non listato",
-   1
-  ],
-  "PokeCardShop|Crown Zenith": [
-   "non listato",
-   1
-  ]
- },
+ "pending": {},
  "urls": {
   "Rogerz|Pitch Black (ME05)": "https://rogerz.dk/search?q=pitch+black",
   "Packratt (UK)|Chaos Rising (ME04)": "https://packratt.co.uk/search?q=chaos+rising",
@@ -1123,13 +1110,13 @@
   }
  ],
  "down": {
-  "www.cardmarket.com": 378,
+  "www.cardmarket.com": 379,
   "www.gamestop.com": 84,
   "www.gamelife.it": 379,
   "pokeseller14.com": 379,
   "geco-shop.de": 379,
   "www.chaoscards.co.uk": 378,
-  "www.waylandgames.co.uk": 378,
+  "www.waylandgames.co.uk": 379,
   "www.firestormgames.co.uk": 379,
   "hobbykort.se": 379,
   "tcgcompany.nl": 379,
@@ -1139,11 +1126,11 @@
   "www.pokemonia.ro": 379,
   "en.tcg-shop.at": 378,
   "kaissagames.com": 175,
-  "eurotcg.com": 15,
+  "eurotcg.com": 16,
   "rarecards.nl": 13,
   "bescards.com": 12,
-  "crispycards.de": 10,
-  "itcg.bg": 10,
+  "crispycards.de": 11,
+  "itcg.bg": 11,
   "misticards.com": 9,
   "www.deckshop.de": 9,
   "lorenzone.fr": 9,
@@ -1152,11 +1139,17 @@
   "www.poketalk.se": 9,
   "www.pokemillon.com": 9,
   "pokechest.at": 9,
-  "cardcorner.at": 9,
+  "cardcorner.at": 10,
   "pokevend.at": 9,
   "pokeka.hu": 7,
+  "pokeboxstore.pt": 5,
   "www.blackfire.eu": 5,
-  "pokeboxstore.pt": 2
+  "www.amazon.it": 2,
+  "extremepokecorner.com": 1,
+  "pokectcg.cz": 1,
+  "pokewoke.store": 1,
+  "tcgpikas.lt": 1,
+  "pokemonworld.lt": 1
  },
- "runno": 4509
+ "runno": 4510
 }
