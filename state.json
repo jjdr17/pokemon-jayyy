@@ -968,7 +968,52 @@
   "Stoyanov Games|Pitch Black (ME05)": "8.00€",
   "PokeCardShop|30th Celebration": "€8.95"
  },
- "pending": {},
+ "pending": {
+  "Kerailykortti|Destined Rivals": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Pitch Black (ME05)": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|30th Celebration": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Storm Emerald (ME06)": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Chaos Rising (ME04)": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Phantasmal Flames (ME02)": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Pokémon 151": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Prismatic Evolutions": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Crown Zenith": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Destined Rivals": [
+   "non listato",
+   1
+  ],
+  "PokeCardShop|Premium Deck Espeon & Umbreon (30th)": [
+   "listato",
+   1
+  ]
+ },
  "urls": {
   "Rogerz|Pitch Black (ME05)": "https://rogerz.dk/search?q=pitch+black",
   "Packratt (UK)|Chaos Rising (ME04)": "https://packratt.co.uk/search?q=chaos+rising",
@@ -1115,7 +1160,7 @@
   "www.gamelife.it": 385,
   "pokeseller14.com": 385,
   "geco-shop.de": 385,
-  "www.chaoscards.co.uk": 384,
+  "www.chaoscards.co.uk": 385,
   "www.waylandgames.co.uk": 385,
   "www.firestormgames.co.uk": 385,
   "hobbykort.se": 385,
@@ -1131,12 +1176,12 @@
   "bescards.com": 18,
   "crispycards.de": 17,
   "itcg.bg": 17,
-  "misticards.com": 15,
+  "misticards.com": 16,
   "www.deckshop.de": 16,
   "lorenzone.fr": 15,
   "tcgfanshop.nl": 15,
   "tcgstore.se": 16,
-  "www.poketalk.se": 15,
+  "www.poketalk.se": 16,
   "www.pokemillon.com": 15,
   "pokechest.at": 15,
   "cardcorner.at": 16,
@@ -1146,8 +1191,12 @@
   "www.blackfire.eu": 6,
   "pokebank.es": 5,
   "pokeboxstore.pt": 6,
-  "www.lotticards.de": 1,
-  "games-island.eu": 1
+  "games-island.eu": 2,
+  "extremepokecorner.com": 1,
+  "pokectcg.cz": 1,
+  "pokewoke.store": 1,
+  "tcgpikas.lt": 1,
+  "pokemonworld.lt": 1
  },
- "runno": 4583
+ "runno": 4584
 }
