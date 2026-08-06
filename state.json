@@ -812,7 +812,7 @@
   "LetsGoTry": {
    "Pitch Black (ME05)": "listato",
    "30th Celebration": "listato",
-   "Storm Emerald (ME06)": "listato",
+   "Storm Emerald (ME06)": "non listato",
    "Chaos Rising (ME04)": "non listato",
    "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "non listato",
@@ -823,14 +823,14 @@
   },
   "Pikashop": {
    "Pitch Black (ME05)": "non listato",
-   "30th Celebration": "non listato",
-   "Storm Emerald (ME06)": "non listato",
-   "Chaos Rising (ME04)": "non listato",
-   "Phantasmal Flames (ME02)": "non listato",
-   "Pokémon 151": "non listato",
-   "Prismatic Evolutions": "non listato",
-   "Crown Zenith": "non listato",
-   "Destined Rivals": "non listato",
+   "30th Celebration": "disponibile",
+   "Storm Emerald (ME06)": "listato",
+   "Chaos Rising (ME04)": "esaurito",
+   "Phantasmal Flames (ME02)": "listato",
+   "Pokémon 151": "listato",
+   "Prismatic Evolutions": "listato",
+   "Crown Zenith": "listato",
+   "Destined Rivals": "listato",
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "ExtremePokeCorner": {
@@ -969,40 +969,12 @@
   "PokeCardShop|30th Celebration": "€8.95"
  },
  "pending": {
+  "LetsGoTry|Chaos Rising (ME04)": [
+   "listato",
+   1
+  ],
   "Pikashop|Pitch Black (ME05)": [
    "disponibile",
-   1
-  ],
-  "Pikashop|30th Celebration": [
-   "disponibile",
-   1
-  ],
-  "Pikashop|Storm Emerald (ME06)": [
-   "listato",
-   1
-  ],
-  "Pikashop|Chaos Rising (ME04)": [
-   "esaurito",
-   1
-  ],
-  "Pikashop|Phantasmal Flames (ME02)": [
-   "listato",
-   1
-  ],
-  "Pikashop|Pokémon 151": [
-   "listato",
-   1
-  ],
-  "Pikashop|Prismatic Evolutions": [
-   "listato",
-   1
-  ],
-  "Pikashop|Crown Zenith": [
-   "listato",
-   1
-  ],
-  "Pikashop|Destined Rivals": [
-   "listato",
    1
   ]
  },
@@ -1161,8 +1133,9 @@
   "www.pokekarty.pl": 387,
   "www.wakuwaku.cz": 386,
   "www.pokemonia.ro": 387,
-  "en.tcg-shop.at": 386,
+  "en.tcg-shop.at": 387,
   "kaissagames.com": 183,
+  "eurotcg.com": 24,
   "rarecards.nl": 21,
   "bescards.com": 20,
   "crispycards.de": 19,
@@ -1170,17 +1143,18 @@
   "misticards.com": 18,
   "www.deckshop.de": 18,
   "lorenzone.fr": 17,
-  "tcgfanshop.nl": 17,
+  "tcgfanshop.nl": 18,
   "tcgstore.se": 18,
   "www.poketalk.se": 18,
   "www.pokemillon.com": 17,
-  "pokechest.at": 17,
+  "pokechest.at": 18,
   "cardcorner.at": 18,
   "pokevend.at": 17,
   "pokeka.hu": 15,
   "www.blackfire.eu": 3,
   "www.amazon.it": 3,
-  "pokeboxstore.pt": 3
+  "pokeboxstore.pt": 3,
+  "tcgdistribution.fr": 1
  },
- "runno": 4608
+ "runno": 4609
 }
