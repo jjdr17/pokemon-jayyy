@@ -571,9 +571,9 @@
   },
   "PokeCardShop": {
    "Pitch Black (ME05)": "esaurito",
-   "30th Celebration": "disponibile",
+   "30th Celebration": "esaurito",
    "Storm Emerald (ME06)": "non listato",
-   "Chaos Rising (ME04)": "esaurito",
+   "Chaos Rising (ME04)": "disponibile",
    "Phantasmal Flames (ME02)": "esaurito",
    "Pokémon 151": "listato",
    "Prismatic Evolutions": "listato",
@@ -812,7 +812,7 @@
   "LetsGoTry": {
    "Pitch Black (ME05)": "listato",
    "30th Celebration": "listato",
-   "Storm Emerald (ME06)": "non listato",
+   "Storm Emerald (ME06)": "listato",
    "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "non listato",
@@ -957,7 +957,9 @@
   "bescards.com": "https://bescards.com/search?q={q}",
   "papelinho.pt": "https://papelinho.pt/?s={q}&post_type=product"
  },
- "alerts": {},
+ "alerts": {
+  "PokeCardShop|Chaos Rising (ME04)": 1786006626.100306
+ },
  "prices": {
   "Packratt (UK)|Chaos Rising (ME04)": "£10.01",
   "Packratt (UK)|Pokémon 151": "£29.99",
@@ -969,12 +971,8 @@
   "PokeCardShop|30th Celebration": "€8.95"
  },
  "pending": {
-  "PokeCardShop|30th Celebration": [
-   "esaurito",
-   1
-  ],
-  "PokeCardShop|Chaos Rising (ME04)": [
-   "disponibile",
+  "LetsGoTry|Storm Emerald (ME06)": [
+   "non listato",
    1
   ]
  },
@@ -1116,6 +1114,11 @@
    "ts": "24/07 17:10",
    "title": "🚨 RESTOCK: 30th Celebration — PokeCardShop",
    "url": "https://www.pokecardshop.be/search?q=30th+celebration"
+  },
+  {
+   "ts": "06/08 10:57",
+   "title": "🚨 RESTOCK: Chaos Rising (ME04) — PokeCardShop",
+   "url": "https://www.pokecardshop.be/search?q=chaos+rising"
   }
  ],
  "down": {
@@ -1152,9 +1155,7 @@
   "pokevend.at": 18,
   "pokeka.hu": 16,
   "www.amazon.it": 3,
-  "pokeboxstore.pt": 3,
-  "www.blackfire.eu": 3,
-  "games-island.eu": 1
+  "pokeboxstore.pt": 4
  },
- "runno": 4614
+ "runno": 4615
 }
