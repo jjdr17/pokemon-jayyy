@@ -812,8 +812,8 @@
   "LetsGoTry": {
    "Pitch Black (ME05)": "listato",
    "30th Celebration": "listato",
-   "Storm Emerald (ME06)": "non listato",
-   "Chaos Rising (ME04)": "listato",
+   "Storm Emerald (ME06)": "listato",
+   "Chaos Rising (ME04)": "non listato",
    "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "non listato",
    "Prismatic Evolutions": "non listato",
@@ -981,6 +981,10 @@
   ],
   "God of Cards|Storm Emerald (ME06)": [
    "non listato",
+   1
+  ],
+  "Pokebox|Chaos Rising (ME04)": [
+   "listato",
    1
   ]
  },
@@ -1160,7 +1164,6 @@
   "cardcorner.at": 22,
   "pokevend.at": 22,
   "pokeka.hu": 20,
-  "pokeboxstore.pt": 5,
   "tcgstore.se": 3,
   "www.amazon.it": 3,
   "www.blackfire.eu": 3,
