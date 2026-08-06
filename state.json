@@ -969,7 +969,15 @@
   "PokeCardShop|30th Celebration": "€8.95"
  },
  "pending": {
-  "LetsGoTry|Storm Emerald (ME06)": [
+  "PokeCardShop|Premium Deck Espeon & Umbreon (30th)": [
+   "listato",
+   1
+  ],
+  "PokeCardShop|Chaos Rising (ME04)": [
+   "disponibile",
+   1
+  ],
+  "LetsGoTry|Chaos Rising (ME04)": [
    "listato",
    1
   ]
@@ -1115,13 +1123,13 @@
   }
  ],
  "down": {
-  "www.cardmarket.com": 387,
+  "www.cardmarket.com": 388,
   "www.gamestop.com": 84,
   "www.gamelife.it": 388,
   "pokeseller14.com": 388,
   "geco-shop.de": 388,
   "www.chaoscards.co.uk": 387,
-  "www.waylandgames.co.uk": 387,
+  "www.waylandgames.co.uk": 388,
   "www.firestormgames.co.uk": 388,
   "hobbykort.se": 388,
   "tcgcompany.nl": 388,
@@ -1131,11 +1139,10 @@
   "www.pokemonia.ro": 388,
   "en.tcg-shop.at": 387,
   "kaissagames.com": 184,
-  "eurotcg.com": 24,
   "rarecards.nl": 22,
   "bescards.com": 21,
-  "crispycards.de": 19,
-  "itcg.bg": 19,
+  "crispycards.de": 20,
+  "itcg.bg": 20,
   "misticards.com": 18,
   "www.deckshop.de": 18,
   "lorenzone.fr": 18,
@@ -1144,17 +1151,12 @@
   "www.poketalk.se": 18,
   "www.pokemillon.com": 18,
   "pokechest.at": 18,
-  "cardcorner.at": 18,
+  "cardcorner.at": 19,
   "pokevend.at": 18,
   "pokeka.hu": 16,
   "www.blackfire.eu": 3,
-  "www.amazon.it": 1,
-  "games-island.eu": 1,
-  "extremepokecorner.com": 1,
-  "pokectcg.cz": 1,
-  "pokewoke.store": 1,
-  "tcgpikas.lt": 1,
-  "pokemonworld.lt": 1
+  "www.amazon.it": 2,
+  "pokeboxstore.pt": 1
  },
- "runno": 4617
+ "runno": 4618
 }
