@@ -978,6 +978,26 @@
   "Amazon.it|Storm Emerald (ME06)": [
    "listato",
    1
+  ],
+  "PokeCardShop|Pitch Black (ME05)": [
+   "esaurito",
+   1
+  ],
+  "PokeCardShop|Chaos Rising (ME04)": [
+   "disponibile",
+   1
+  ],
+  "PokeCardShop|Pokémon 151": [
+   "listato",
+   1
+  ],
+  "LetsGoTry|Storm Emerald (ME06)": [
+   "listato",
+   1
+  ],
+  "LetsGoTry|Chaos Rising (ME04)": [
+   "non listato",
+   1
   ]
  },
  "urls": {
@@ -1140,7 +1160,7 @@
   "www.pokekarty.pl": 390,
   "www.wakuwaku.cz": 389,
   "www.pokemonia.ro": 390,
-  "en.tcg-shop.at": 389,
+  "en.tcg-shop.at": 390,
   "kaissagames.com": 186,
   "rarecards.nl": 24,
   "bescards.com": 23,
@@ -1149,11 +1169,11 @@
   "misticards.com": 21,
   "www.deckshop.de": 21,
   "lorenzone.fr": 20,
-  "tcgfanshop.nl": 20,
+  "tcgfanshop.nl": 21,
   "tcgstore.se": 21,
   "www.poketalk.se": 21,
   "www.pokemillon.com": 20,
-  "pokechest.at": 20,
+  "pokechest.at": 21,
   "cardcorner.at": 21,
   "pokevend.at": 20,
   "pokeka.hu": 18,
@@ -1163,5 +1183,5 @@
   "pokeboxstore.pt": 3,
   "papelinho.pt": 3
  },
- "runno": 4644
+ "runno": 4645
 }
