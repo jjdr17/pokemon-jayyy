@@ -971,15 +971,11 @@
   "PokeCardShop|30th Celebration": "€8.95"
  },
  "pending": {
-  "Amazon.it|30th Celebration": [
-   "listato",
-   1
-  ],
   "TCGStore.se|Destined Rivals": [
    "esaurito",
    1
   ],
-  "LetsGoTry|Storm Emerald (ME06)": [
+  "PokeCardShop|Destined Rivals": [
    "non listato",
    1
   ]
@@ -1141,7 +1137,7 @@
   "hobbykort.se": 391,
   "tcgcompany.nl": 391,
   "www.nerdom.gr": 390,
-  "www.pokekarty.pl": 390,
+  "www.pokekarty.pl": 391,
   "www.wakuwaku.cz": 390,
   "www.pokemonia.ro": 391,
   "en.tcg-shop.at": 390,
@@ -1151,7 +1147,7 @@
   "crispycards.de": 23,
   "itcg.bg": 23,
   "misticards.com": 21,
-  "www.deckshop.de": 21,
+  "www.deckshop.de": 22,
   "lorenzone.fr": 21,
   "tcgfanshop.nl": 21,
   "www.poketalk.se": 21,
@@ -1162,8 +1158,8 @@
   "pokeka.hu": 19,
   "pokeboxstore.pt": 4,
   "www.blackfire.eu": 3,
-  "www.amazon.it": 1,
-  "tcgstore.se": 1
+  "tcgstore.se": 2,
+  "tcgdistribution.fr": 1
  },
- "runno": 4654
+ "runno": 4655
 }
