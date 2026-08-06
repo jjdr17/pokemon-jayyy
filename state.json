@@ -823,14 +823,14 @@
   },
   "Pikashop": {
    "Pitch Black (ME05)": "non listato",
-   "30th Celebration": "disponibile",
-   "Storm Emerald (ME06)": "listato",
-   "Chaos Rising (ME04)": "esaurito",
-   "Phantasmal Flames (ME02)": "listato",
-   "Pokémon 151": "listato",
-   "Prismatic Evolutions": "listato",
-   "Crown Zenith": "listato",
-   "Destined Rivals": "listato",
+   "30th Celebration": "non listato",
+   "Storm Emerald (ME06)": "non listato",
+   "Chaos Rising (ME04)": "non listato",
+   "Phantasmal Flames (ME02)": "non listato",
+   "Pokémon 151": "non listato",
+   "Prismatic Evolutions": "non listato",
+   "Crown Zenith": "non listato",
+   "Destined Rivals": "non listato",
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "ExtremePokeCorner": {
@@ -969,40 +969,8 @@
   "PokeCardShop|30th Celebration": "€8.95"
  },
  "pending": {
-  "Pikashop|30th Celebration": [
+  "LetsGoTry|Chaos Rising (ME04)": [
    "non listato",
-   1
-  ],
-  "Pikashop|Storm Emerald (ME06)": [
-   "non listato",
-   1
-  ],
-  "Pikashop|Chaos Rising (ME04)": [
-   "non listato",
-   1
-  ],
-  "Pikashop|Phantasmal Flames (ME02)": [
-   "non listato",
-   1
-  ],
-  "Pikashop|Pokémon 151": [
-   "non listato",
-   1
-  ],
-  "Pikashop|Prismatic Evolutions": [
-   "non listato",
-   1
-  ],
-  "Pikashop|Crown Zenith": [
-   "non listato",
-   1
-  ],
-  "Pikashop|Destined Rivals": [
-   "non listato",
-   1
-  ],
-  "PokeCardShop|Premium Deck Espeon & Umbreon (30th)": [
-   "listato",
    1
   ]
  },
@@ -1033,7 +1001,7 @@
   "Pikashop|Pitch Black (ME05)": "https://pikashop.pl/?s=pitch+black&post_type=product",
   "PokeCardShop|30th Celebration": "https://www.pokecardshop.be/search?q=30th+celebration"
  },
- "digest_slot": "2026-08-05-22",
+ "digest_slot": "2026-08-06-10",
  "log": [
   {
    "ts": "05/07 19:55",
@@ -1157,14 +1125,14 @@
   "www.firestormgames.co.uk": 387,
   "hobbykort.se": 387,
   "tcgcompany.nl": 387,
-  "www.nerdom.gr": 386,
+  "www.nerdom.gr": 387,
   "www.pokekarty.pl": 387,
   "www.wakuwaku.cz": 387,
   "www.pokemonia.ro": 387,
   "en.tcg-shop.at": 387,
   "kaissagames.com": 184,
   "eurotcg.com": 24,
-  "rarecards.nl": 21,
+  "rarecards.nl": 22,
   "bescards.com": 20,
   "crispycards.de": 19,
   "itcg.bg": 19,
@@ -1177,10 +1145,12 @@
   "www.pokemillon.com": 18,
   "pokechest.at": 18,
   "cardcorner.at": 18,
-  "pokevend.at": 17,
+  "pokevend.at": 18,
   "pokeka.hu": 16,
   "www.amazon.it": 3,
-  "pokeboxstore.pt": 3
+  "pokeboxstore.pt": 3,
+  "www.blackfire.eu": 1,
+  "tcgdistribution.fr": 1
  },
- "runno": 4610
+ "runno": 4611
 }
