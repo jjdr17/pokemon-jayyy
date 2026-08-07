@@ -970,7 +970,12 @@
   "Stoyanov Games|Pitch Black (ME05)": "8.00€",
   "PokeCardShop|30th Celebration": "€8.95"
  },
- "pending": {},
+ "pending": {
+  "PokeCardShop|30th Celebration": [
+   "non listato",
+   1
+  ]
+ },
  "urls": {
   "Rogerz|Pitch Black (ME05)": "https://rogerz.dk/search?q=pitch+black",
   "Packratt (UK)|Chaos Rising (ME04)": "https://packratt.co.uk/search?q=chaos+rising",
@@ -998,7 +1003,7 @@
   "Pikashop|Pitch Black (ME05)": "https://pikashop.pl/?s=pitch+black&post_type=product",
   "PokeCardShop|30th Celebration": "https://www.pokecardshop.be/search?q=30th+celebration"
  },
- "digest_slot": "2026-08-07-18",
+ "digest_slot": "2026-08-07-22",
  "log": [
   {
    "ts": "05/07 19:55",
@@ -1131,17 +1136,17 @@
   "www.pokekarty.pl": 403,
   "www.wakuwaku.cz": 402,
   "www.pokemonia.ro": 403,
-  "en.tcg-shop.at": 402,
+  "en.tcg-shop.at": 403,
   "kaissagames.com": 199,
   "rarecards.nl": 37,
   "bescards.com": 36,
   "itcg.bg": 35,
   "misticards.com": 34,
   "www.deckshop.de": 34,
-  "tcgfanshop.nl": 33,
+  "tcgfanshop.nl": 34,
   "www.poketalk.se": 34,
   "www.pokemillon.com": 33,
-  "pokechest.at": 33,
+  "pokechest.at": 34,
   "pokevend.at": 33,
   "pokeka.hu": 31,
   "lorenzone.fr": 10,
@@ -1152,5 +1157,5 @@
   "www.blackfire.eu": 3,
   "www.magicbazar.fr": 3
  },
- "runno": 4800
+ "runno": 4801
 }
