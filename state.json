@@ -794,7 +794,7 @@
    "Pokémon 151": "non listato",
    "Prismatic Evolutions": "non listato",
    "Crown Zenith": "non listato",
-   "Destined Rivals": "listato",
+   "Destined Rivals": "non listato",
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "Fuji-Store": {
@@ -975,10 +975,6 @@
    "esaurito",
    1
   ],
-  "Kerailykortti|Destined Rivals": [
-   "non listato",
-   1
-  ],
   "Pokemons.dk|Pitch Black (ME05)": [
    "non listato",
    1
@@ -1012,10 +1008,6 @@
    1
   ],
   "Pokemons.dk|Destined Rivals": [
-   "non listato",
-   1
-  ],
-  "LetsGoTry|Chaos Rising (ME04)": [
    "non listato",
    1
   ]
@@ -1195,10 +1187,16 @@
   "pokeka.hu": 30,
   "tcgstore.se": 13,
   "lorenzone.fr": 9,
+  "www.blackfire.eu": 9,
   "cardcorner.at": 7,
   "www.amazon.it": 5,
   "crispycards.de": 5,
-  "pokeboxstore.pt": 3
+  "pokeboxstore.pt": 3,
+  "extremepokecorner.com": 1,
+  "pokectcg.cz": 1,
+  "pokewoke.store": 1,
+  "tcgpikas.lt": 1,
+  "pokemonworld.lt": 1
  },
  "runno": 4779
 }
