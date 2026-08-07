@@ -978,10 +978,6 @@
   "SunnyStore|Crown Zenith": [
    "non listato",
    1
-  ],
-  "PokeCardShop|Premium Deck Espeon & Umbreon (30th)": [
-   "listato",
-   1
   ]
  },
  "urls": {
@@ -1130,13 +1126,13 @@
   }
  ],
  "down": {
-  "www.cardmarket.com": 393,
+  "www.cardmarket.com": 394,
   "www.gamestop.com": 84,
   "www.gamelife.it": 394,
   "pokeseller14.com": 394,
   "geco-shop.de": 394,
   "www.chaoscards.co.uk": 393,
-  "www.waylandgames.co.uk": 393,
+  "www.waylandgames.co.uk": 394,
   "www.firestormgames.co.uk": 394,
   "hobbykort.se": 394,
   "tcgcompany.nl": 394,
@@ -1148,8 +1144,8 @@
   "kaissagames.com": 190,
   "rarecards.nl": 28,
   "bescards.com": 27,
-  "crispycards.de": 25,
-  "itcg.bg": 25,
+  "crispycards.de": 26,
+  "itcg.bg": 26,
   "misticards.com": 24,
   "www.deckshop.de": 24,
   "lorenzone.fr": 24,
@@ -1157,13 +1153,19 @@
   "www.poketalk.se": 24,
   "www.pokemillon.com": 24,
   "pokechest.at": 24,
-  "cardcorner.at": 24,
+  "cardcorner.at": 25,
   "pokevend.at": 24,
   "pokeka.hu": 22,
   "tcgstore.se": 6,
   "pokebank.es": 5,
   "www.amazon.it": 5,
-  "www.blackfire.eu": 4
+  "www.blackfire.eu": 4,
+  "extremepokecorner.com": 1,
+  "pokeboxstore.pt": 1,
+  "pokectcg.cz": 1,
+  "pokewoke.store": 1,
+  "tcgpikas.lt": 1,
+  "pokemonworld.lt": 1
  },
- "runno": 4689
+ "runno": 4690
 }
