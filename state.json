@@ -510,15 +510,15 @@
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "Pokemons.dk": {
-   "Pitch Black (ME05)": "listato",
-   "30th Celebration": "listato",
-   "Storm Emerald (ME06)": "listato",
-   "Chaos Rising (ME04)": "listato",
-   "Phantasmal Flames (ME02)": "listato",
-   "Pokémon 151": "listato",
-   "Prismatic Evolutions": "listato",
-   "Crown Zenith": "listato",
-   "Destined Rivals": "listato",
+   "Pitch Black (ME05)": "non listato",
+   "30th Celebration": "non listato",
+   "Storm Emerald (ME06)": "non listato",
+   "Chaos Rising (ME04)": "non listato",
+   "Phantasmal Flames (ME02)": "non listato",
+   "Pokémon 151": "non listato",
+   "Prismatic Evolutions": "non listato",
+   "Crown Zenith": "non listato",
+   "Destined Rivals": "non listato",
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "Papelinho": {
@@ -794,7 +794,7 @@
    "Pokémon 151": "non listato",
    "Prismatic Evolutions": "non listato",
    "Crown Zenith": "non listato",
-   "Destined Rivals": "listato",
+   "Destined Rivals": "non listato",
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "Fuji-Store": {
@@ -970,7 +970,16 @@
   "Stoyanov Games|Pitch Black (ME05)": "8.00€",
   "PokeCardShop|30th Celebration": "€8.95"
  },
- "pending": {},
+ "pending": {
+  "PokeCardShop|Premium Deck Espeon & Umbreon (30th)": [
+   "listato",
+   1
+  ],
+  "PokeCardShop|Pokémon 151": [
+   "non listato",
+   1
+  ]
+ },
  "urls": {
   "Rogerz|Pitch Black (ME05)": "https://rogerz.dk/search?q=pitch+black",
   "Packratt (UK)|Chaos Rising (ME04)": "https://packratt.co.uk/search?q=chaos+rising",
@@ -1129,10 +1138,10 @@
   "tcgcompany.nl": 404,
   "www.nerdom.gr": 403,
   "www.pokekarty.pl": 404,
-  "www.wakuwaku.cz": 403,
+  "www.wakuwaku.cz": 404,
   "www.pokemonia.ro": 404,
   "en.tcg-shop.at": 404,
-  "kaissagames.com": 200,
+  "kaissagames.com": 201,
   "rarecards.nl": 38,
   "bescards.com": 37,
   "itcg.bg": 36,
@@ -1140,18 +1149,19 @@
   "www.deckshop.de": 35,
   "tcgfanshop.nl": 35,
   "www.poketalk.se": 35,
-  "www.pokemillon.com": 34,
+  "www.pokemillon.com": 35,
   "pokechest.at": 35,
   "pokevend.at": 34,
-  "pokeka.hu": 32,
-  "lorenzone.fr": 11,
+  "pokeka.hu": 33,
+  "lorenzone.fr": 12,
   "cardcorner.at": 10,
   "crispycards.de": 8,
   "tcgstore.se": 5,
-  "www.blackfire.eu": 4,
-  "www.magicbazar.fr": 4,
+  "www.blackfire.eu": 5,
+  "www.magicbazar.fr": 5,
   "www.amazon.it": 3,
-  "tcgdistribution.fr": 1
+  "pokeboxstore.pt": 2,
+  "games-island.eu": 1
  },
- "runno": 4813
+ "runno": 4814
 }
