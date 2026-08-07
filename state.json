@@ -978,6 +978,10 @@
   "LetsGoTry|Chaos Rising (ME04)": [
    "non listato",
    1
+  ],
+  "Amazon.it|Storm Emerald (ME06)": [
+   "listato",
+   1
   ]
  },
  "urls": {
@@ -1135,7 +1139,7 @@
   "www.waylandgames.co.uk": 399,
   "www.firestormgames.co.uk": 400,
   "hobbykort.se": 400,
-  "tcgcompany.nl": 399,
+  "tcgcompany.nl": 400,
   "www.nerdom.gr": 399,
   "www.pokekarty.pl": 399,
   "www.wakuwaku.cz": 399,
@@ -1153,14 +1157,14 @@
   "pokechest.at": 30,
   "pokevend.at": 30,
   "pokeka.hu": 28,
-  "tcgstore.se": 11,
+  "tcgstore.se": 12,
   "lorenzone.fr": 7,
   "www.blackfire.eu": 7,
   "cardcorner.at": 5,
   "pokeboxstore.pt": 4,
-  "www.amazon.it": 4,
   "crispycards.de": 3,
-  "letsgotry.pl": 3
+  "letsgotry.pl": 3,
+  "www.amazon.it": 1
  },
- "runno": 4760
+ "runno": 4761
 }
