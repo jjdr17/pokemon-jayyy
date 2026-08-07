@@ -446,7 +446,7 @@
    "Pokémon 151": "listato",
    "Prismatic Evolutions": "irraggiungibile",
    "Crown Zenith": "non listato",
-   "Destined Rivals": "non listato",
+   "Destined Rivals": "esaurito",
    "Premium Deck Espeon & Umbreon (30th)": "irraggiungibile"
   },
   "Nerdom": {
@@ -971,8 +971,20 @@
   "PokeCardShop|30th Celebration": "€8.95"
  },
  "pending": {
-  "TCGStore.se|Destined Rivals": [
+  "TCGStore.se|Storm Emerald (ME06)": [
+   "non listato",
+   1
+  ],
+  "TCGStore.se|Prismatic Evolutions": [
    "esaurito",
+   1
+  ],
+  "LetsGoTry|Storm Emerald (ME06)": [
+   "listato",
+   1
+  ],
+  "LetsGoTry|Chaos Rising (ME04)": [
+   "non listato",
    1
   ]
  },
@@ -1131,7 +1143,7 @@
   "www.waylandgames.co.uk": 401,
   "www.firestormgames.co.uk": 402,
   "hobbykort.se": 402,
-  "tcgcompany.nl": 401,
+  "tcgcompany.nl": 402,
   "www.nerdom.gr": 401,
   "www.pokekarty.pl": 401,
   "www.wakuwaku.cz": 401,
@@ -1149,11 +1161,10 @@
   "pokechest.at": 32,
   "pokevend.at": 32,
   "pokeka.hu": 30,
-  "tcgstore.se": 13,
   "lorenzone.fr": 9,
   "cardcorner.at": 7,
   "crispycards.de": 5,
-  "tcgdistribution.fr": 1
+  "www.blackfire.eu": 1
  },
- "runno": 4784
+ "runno": 4785
 }
