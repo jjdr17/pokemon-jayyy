@@ -975,8 +975,16 @@
    "esaurito",
    1
   ],
-  "LetsGoTry|Storm Emerald (ME06)": [
-   "listato",
+  "CrispyCards|Storm Emerald (ME06)": [
+   "non listato",
+   1
+  ],
+  "CrispyCards|Chaos Rising (ME04)": [
+   "non listato",
+   1
+  ],
+  "LetsGoTry|Chaos Rising (ME04)": [
+   "non listato",
    1
   ]
  },
@@ -1126,13 +1134,13 @@
   }
  ],
  "down": {
-  "www.cardmarket.com": 398,
+  "www.cardmarket.com": 399,
   "www.gamestop.com": 84,
   "www.gamelife.it": 399,
   "pokeseller14.com": 399,
   "geco-shop.de": 399,
   "www.chaoscards.co.uk": 398,
-  "www.waylandgames.co.uk": 398,
+  "www.waylandgames.co.uk": 399,
   "www.firestormgames.co.uk": 399,
   "hobbykort.se": 399,
   "tcgcompany.nl": 399,
@@ -1144,8 +1152,7 @@
   "kaissagames.com": 195,
   "rarecards.nl": 33,
   "bescards.com": 32,
-  "crispycards.de": 30,
-  "itcg.bg": 30,
+  "itcg.bg": 31,
   "misticards.com": 29,
   "www.deckshop.de": 29,
   "tcgfanshop.nl": 29,
@@ -1157,8 +1164,8 @@
   "tcgstore.se": 11,
   "lorenzone.fr": 6,
   "www.blackfire.eu": 6,
-  "cardcorner.at": 4,
-  "www.amazon.it": 1
+  "cardcorner.at": 5,
+  "pokeboxstore.pt": 1
  },
- "runno": 4749
+ "runno": 4750
 }
