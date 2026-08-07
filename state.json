@@ -970,7 +970,12 @@
   "Stoyanov Games|Pitch Black (ME05)": "8.00€",
   "PokeCardShop|30th Celebration": "€8.95"
  },
- "pending": {},
+ "pending": {
+  "LetsGoTry|Storm Emerald (ME06)": [
+   "listato",
+   1
+  ]
+ },
  "urls": {
   "Rogerz|Pitch Black (ME05)": "https://rogerz.dk/search?q=pitch+black",
   "Packratt (UK)|Chaos Rising (ME04)": "https://packratt.co.uk/search?q=chaos+rising",
@@ -1124,13 +1129,13 @@
   "geco-shop.de": 403,
   "www.chaoscards.co.uk": 403,
   "www.waylandgames.co.uk": 403,
-  "www.firestormgames.co.uk": 403,
+  "www.firestormgames.co.uk": 404,
   "hobbykort.se": 403,
   "tcgcompany.nl": 403,
   "www.nerdom.gr": 403,
   "www.pokekarty.pl": 403,
   "www.wakuwaku.cz": 403,
-  "www.pokemonia.ro": 403,
+  "www.pokemonia.ro": 404,
   "en.tcg-shop.at": 403,
   "kaissagames.com": 200,
   "rarecards.nl": 38,
@@ -1152,5 +1157,5 @@
   "www.blackfire.eu": 4,
   "www.magicbazar.fr": 4
  },
- "runno": 4804
+ "runno": 4805
 }
