@@ -982,6 +982,10 @@
   "LetsGoTry|30th Celebration": [
    "non listato",
    1
+  ],
+  "LetsGoTry|Storm Emerald (ME06)": [
+   "listato",
+   1
   ]
  },
  "urls": {
@@ -1138,7 +1142,7 @@
   "www.chaoscards.co.uk": 400,
   "www.waylandgames.co.uk": 400,
   "www.firestormgames.co.uk": 401,
-  "hobbykort.se": 400,
+  "hobbykort.se": 401,
   "tcgcompany.nl": 400,
   "www.nerdom.gr": 400,
   "www.pokekarty.pl": 400,
@@ -1164,8 +1168,7 @@
   "pokeboxstore.pt": 4,
   "www.amazon.it": 4,
   "crispycards.de": 4,
-  "www.butticards.at": 1,
-  "oppacards.com": 1
+  "letsgotry.pl": 2
  },
- "runno": 4769
+ "runno": 4770
 }
