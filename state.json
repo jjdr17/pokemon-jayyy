@@ -971,11 +971,15 @@
   "PokeCardShop|30th Celebration": "€8.95"
  },
  "pending": {
-  "SunnyStore|Crown Zenith": [
-   "non listato",
+  "BESCARDS|Pitch Black (ME05)": [
+   "listato",
    1
   ],
-  "BESCARDS|Pitch Black (ME05)": [
+  "Amazon.it|Storm Emerald (ME06)": [
+   "listato",
+   1
+  ],
+  "LetsGoTry|Storm Emerald (ME06)": [
    "listato",
    1
   ]
@@ -1131,7 +1135,7 @@
   "www.gamelife.it": 411,
   "pokeseller14.com": 411,
   "geco-shop.de": 411,
-  "www.chaoscards.co.uk": 410,
+  "www.chaoscards.co.uk": 411,
   "www.waylandgames.co.uk": 411,
   "www.firestormgames.co.uk": 411,
   "hobbykort.se": 411,
@@ -1144,10 +1148,9 @@
   "kaissagames.com": 207,
   "rarecards.nl": 45,
   "itcg.bg": 43,
-  "misticards.com": 41,
-  "www.deckshop.de": 42,
+  "misticards.com": 42,
   "tcgfanshop.nl": 41,
-  "www.poketalk.se": 41,
+  "www.poketalk.se": 42,
   "www.pokemillon.com": 41,
   "pokechest.at": 41,
   "pokevend.at": 41,
@@ -1159,7 +1162,9 @@
   "www.magicbazar.fr": 11,
   "www.blackfire.eu": 6,
   "bescards.com": 4,
-  "tcgdistribution.fr": 1
+  "www.deckshop.de": 1,
+  "tcgdistribution.fr": 1,
+  "www.lotticards.de": 1
  },
- "runno": 4895
+ "runno": 4896
 }
