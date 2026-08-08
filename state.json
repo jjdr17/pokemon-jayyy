@@ -812,8 +812,8 @@
   "LetsGoTry": {
    "Pitch Black (ME05)": "listato",
    "30th Celebration": "listato",
-   "Storm Emerald (ME06)": "listato",
-   "Chaos Rising (ME04)": "listato",
+   "Storm Emerald (ME06)": "non listato",
+   "Chaos Rising (ME04)": "non listato",
    "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "non listato",
    "Prismatic Evolutions": "non listato",
@@ -970,56 +970,7 @@
   "Stoyanov Games|Pitch Black (ME05)": "8.00€",
   "PokeCardShop|30th Celebration": "€8.95"
  },
- "pending": {
-  "Pokemons.dk|Pitch Black (ME05)": [
-   "listato",
-   1
-  ],
-  "Pokemons.dk|30th Celebration": [
-   "listato",
-   1
-  ],
-  "Pokemons.dk|Storm Emerald (ME06)": [
-   "listato",
-   1
-  ],
-  "Pokemons.dk|Chaos Rising (ME04)": [
-   "listato",
-   1
-  ],
-  "Pokemons.dk|Phantasmal Flames (ME02)": [
-   "listato",
-   1
-  ],
-  "Pokemons.dk|Pokémon 151": [
-   "listato",
-   1
-  ],
-  "Pokemons.dk|Prismatic Evolutions": [
-   "listato",
-   1
-  ],
-  "Pokemons.dk|Crown Zenith": [
-   "listato",
-   1
-  ],
-  "Pokemons.dk|Destined Rivals": [
-   "listato",
-   1
-  ],
-  "Kerailykortti|Destined Rivals": [
-   "listato",
-   1
-  ],
-  "LetsGoTry|Storm Emerald (ME06)": [
-   "non listato",
-   1
-  ],
-  "LetsGoTry|Chaos Rising (ME04)": [
-   "non listato",
-   1
-  ]
- },
+ "pending": {},
  "urls": {
   "Rogerz|Pitch Black (ME05)": "https://rogerz.dk/search?q=pitch+black",
   "Packratt (UK)|Chaos Rising (ME04)": "https://packratt.co.uk/search?q=chaos+rising",
@@ -1176,13 +1127,13 @@
   "www.firestormgames.co.uk": 406,
   "hobbykort.se": 406,
   "tcgcompany.nl": 406,
-  "www.nerdom.gr": 405,
+  "www.nerdom.gr": 406,
   "www.pokekarty.pl": 406,
   "www.wakuwaku.cz": 406,
   "www.pokemonia.ro": 406,
   "en.tcg-shop.at": 406,
   "kaissagames.com": 203,
-  "rarecards.nl": 40,
+  "rarecards.nl": 41,
   "bescards.com": 39,
   "itcg.bg": 38,
   "misticards.com": 37,
@@ -1191,7 +1142,7 @@
   "www.poketalk.se": 37,
   "www.pokemillon.com": 37,
   "pokechest.at": 37,
-  "pokevend.at": 36,
+  "pokevend.at": 37,
   "pokeka.hu": 35,
   "lorenzone.fr": 14,
   "cardcorner.at": 12,
@@ -1201,7 +1152,7 @@
   "www.amazon.it": 5,
   "pokeboxstore.pt": 4,
   "papelinho.pt": 4,
-  "games-island.eu": 1
+  "www.blackfire.eu": 1
  },
- "runno": 4838
+ "runno": 4839
 }
