@@ -727,7 +727,7 @@
   },
   "Sapphire-Cards": {
    "Pitch Black (ME05)": "disponibile",
-   "30th Celebration": "non listato",
+   "30th Celebration": "listato",
    "Storm Emerald (ME06)": "non listato",
    "Chaos Rising (ME04)": "disponibile",
    "Phantasmal Flames (ME02)": "disponibile",
@@ -813,7 +813,7 @@
    "Pitch Black (ME05)": "listato",
    "30th Celebration": "listato",
    "Storm Emerald (ME06)": "non listato",
-   "Chaos Rising (ME04)": "listato",
+   "Chaos Rising (ME04)": "non listato",
    "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "non listato",
    "Prismatic Evolutions": "non listato",
@@ -971,51 +971,7 @@
   "PokeCardShop|30th Celebration": "€8.95"
  },
  "pending": {
-  "Kerailykortti|Destined Rivals": [
-   "non listato",
-   1
-  ],
-  "Pokemons.dk|Pitch Black (ME05)": [
-   "non listato",
-   1
-  ],
-  "Pokemons.dk|30th Celebration": [
-   "non listato",
-   1
-  ],
-  "Pokemons.dk|Storm Emerald (ME06)": [
-   "non listato",
-   1
-  ],
-  "Pokemons.dk|Chaos Rising (ME04)": [
-   "non listato",
-   1
-  ],
-  "Pokemons.dk|Phantasmal Flames (ME02)": [
-   "non listato",
-   1
-  ],
-  "Pokemons.dk|Pokémon 151": [
-   "non listato",
-   1
-  ],
-  "Pokemons.dk|Prismatic Evolutions": [
-   "non listato",
-   1
-  ],
-  "Pokemons.dk|Crown Zenith": [
-   "non listato",
-   1
-  ],
-  "Pokemons.dk|Destined Rivals": [
-   "non listato",
-   1
-  ],
-  "LetsGoTry|Chaos Rising (ME04)": [
-   "non listato",
-   1
-  ],
-  "Sapphire-Cards|30th Celebration": [
+  "LetsGoTry|Storm Emerald (ME06)": [
    "listato",
    1
   ]
@@ -1171,7 +1127,7 @@
   "www.gamelife.it": 409,
   "pokeseller14.com": 409,
   "geco-shop.de": 409,
-  "www.chaoscards.co.uk": 408,
+  "www.chaoscards.co.uk": 409,
   "www.waylandgames.co.uk": 409,
   "www.firestormgames.co.uk": 409,
   "hobbykort.se": 409,
@@ -1185,10 +1141,10 @@
   "rarecards.nl": 43,
   "bescards.com": 42,
   "itcg.bg": 41,
-  "misticards.com": 39,
+  "misticards.com": 40,
   "www.deckshop.de": 40,
   "tcgfanshop.nl": 39,
-  "www.poketalk.se": 39,
+  "www.poketalk.se": 40,
   "www.pokemillon.com": 39,
   "pokechest.at": 39,
   "pokevend.at": 39,
@@ -1200,7 +1156,9 @@
   "www.magicbazar.fr": 9,
   "pokeboxstore.pt": 7,
   "www.blackfire.eu": 4,
-  "www.amazon.it": 4
+  "www.amazon.it": 4,
+  "www.butticards.at": 1,
+  "oppacards.com": 1
  },
- "runno": 4871
+ "runno": 4872
 }
