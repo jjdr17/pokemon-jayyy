@@ -971,20 +971,12 @@
   "PokeCardShop|30th Celebration": "€8.95"
  },
  "pending": {
-  "SunnyStore|Crown Zenith": [
-   "non listato",
-   1
-  ],
   "BESCARDS|Pitch Black (ME05)": [
    "listato",
    1
   ],
-  "Amazon.it|30th Celebration": [
+  "LetsGoTry|Storm Emerald (ME06)": [
    "listato",
-   1
-  ],
-  "Total Cards (UK)|Prismatic Evolutions": [
-   "esaurito",
    1
   ]
  },
@@ -1146,27 +1138,29 @@
   "tcgcompany.nl": 411,
   "www.nerdom.gr": 410,
   "www.pokekarty.pl": 411,
-  "www.wakuwaku.cz": 410,
+  "www.wakuwaku.cz": 411,
   "www.pokemonia.ro": 411,
   "en.tcg-shop.at": 411,
-  "kaissagames.com": 207,
+  "kaissagames.com": 208,
   "rarecards.nl": 45,
   "itcg.bg": 43,
   "misticards.com": 42,
-  "www.deckshop.de": 42,
   "tcgfanshop.nl": 42,
   "www.poketalk.se": 42,
-  "www.pokemillon.com": 41,
+  "www.pokemillon.com": 42,
   "pokechest.at": 42,
   "pokevend.at": 41,
-  "pokeka.hu": 39,
-  "lorenzone.fr": 18,
+  "pokeka.hu": 40,
+  "lorenzone.fr": 19,
   "cardcorner.at": 17,
   "crispycards.de": 15,
   "tcgstore.se": 12,
-  "www.magicbazar.fr": 11,
-  "www.blackfire.eu": 6,
-  "bescards.com": 4
+  "www.magicbazar.fr": 12,
+  "www.blackfire.eu": 7,
+  "bescards.com": 4,
+  "www.deckshop.de": 3,
+  "pokeboxstore.pt": 2,
+  "tcgdistribution.fr": 1
  },
- "runno": 4897
+ "runno": 4898
 }
