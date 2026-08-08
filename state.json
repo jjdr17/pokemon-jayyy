@@ -812,7 +812,7 @@
   "LetsGoTry": {
    "Pitch Black (ME05)": "listato",
    "30th Celebration": "listato",
-   "Storm Emerald (ME06)": "non listato",
+   "Storm Emerald (ME06)": "listato",
    "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "non listato",
@@ -974,10 +974,6 @@
   "BESCARDS|Pitch Black (ME05)": [
    "listato",
    1
-  ],
-  "LetsGoTry|Storm Emerald (ME06)": [
-   "listato",
-   1
   ]
  },
  "urls": {
@@ -1007,7 +1003,7 @@
   "Pikashop|Pitch Black (ME05)": "https://pikashop.pl/?s=pitch+black&post_type=product",
   "PokeCardShop|30th Celebration": "https://www.pokecardshop.be/search?q=30th+celebration"
  },
- "digest_slot": "2026-08-08-15",
+ "digest_slot": "2026-08-08-18",
  "log": [
   {
    "ts": "05/07 19:55",
@@ -1159,9 +1155,9 @@
   "www.blackfire.eu": 7,
   "bescards.com": 5,
   "www.deckshop.de": 4,
-  "www.amazon.it": 3,
-  "pokeboxstore.pt": 1,
-  "games-island.eu": 1
+  "pokeboxstore.pt": 3,
+  "www.amazon.it": 2,
+  "tcgdistribution.fr": 1
  },
  "runno": 4908
 }
