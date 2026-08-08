@@ -510,15 +510,15 @@
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "Pokemons.dk": {
-   "Pitch Black (ME05)": "non listato",
-   "30th Celebration": "non listato",
-   "Storm Emerald (ME06)": "non listato",
-   "Chaos Rising (ME04)": "non listato",
-   "Phantasmal Flames (ME02)": "non listato",
-   "Pokémon 151": "non listato",
-   "Prismatic Evolutions": "non listato",
-   "Crown Zenith": "non listato",
-   "Destined Rivals": "non listato",
+   "Pitch Black (ME05)": "listato",
+   "30th Celebration": "listato",
+   "Storm Emerald (ME06)": "listato",
+   "Chaos Rising (ME04)": "listato",
+   "Phantasmal Flames (ME02)": "listato",
+   "Pokémon 151": "listato",
+   "Prismatic Evolutions": "listato",
+   "Crown Zenith": "listato",
+   "Destined Rivals": "listato",
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "Papelinho": {
@@ -571,7 +571,7 @@
   },
   "PokeCardShop": {
    "Pitch Black (ME05)": "esaurito",
-   "30th Celebration": "esaurito",
+   "30th Celebration": "non listato",
    "Storm Emerald (ME06)": "non listato",
    "Chaos Rising (ME04)": "disponibile",
    "Phantasmal Flames (ME02)": "esaurito",
@@ -794,7 +794,7 @@
    "Pokémon 151": "non listato",
    "Prismatic Evolutions": "non listato",
    "Crown Zenith": "non listato",
-   "Destined Rivals": "non listato",
+   "Destined Rivals": "listato",
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "Fuji-Store": {
@@ -813,7 +813,7 @@
    "Pitch Black (ME05)": "listato",
    "30th Celebration": "listato",
    "Storm Emerald (ME06)": "non listato",
-   "Chaos Rising (ME04)": "non listato",
+   "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "non listato",
    "Prismatic Evolutions": "non listato",
@@ -970,7 +970,20 @@
   "Stoyanov Games|Pitch Black (ME05)": "8.00€",
   "PokeCardShop|30th Celebration": "€8.95"
  },
- "pending": {},
+ "pending": {
+  "PokeCardShop|Pitch Black (ME05)": [
+   "non listato",
+   1
+  ],
+  "PokeCardShop|30th Celebration": [
+   "esaurito",
+   1
+  ],
+  "LetsGoTry|Storm Emerald (ME06)": [
+   "listato",
+   1
+  ]
+ },
  "urls": {
   "Rogerz|Pitch Black (ME05)": "https://rogerz.dk/search?q=pitch+black",
   "Packratt (UK)|Chaos Rising (ME04)": "https://packratt.co.uk/search?q=chaos+rising",
@@ -1134,7 +1147,7 @@
   "en.tcg-shop.at": 407,
   "kaissagames.com": 204,
   "rarecards.nl": 42,
-  "bescards.com": 40,
+  "bescards.com": 41,
   "itcg.bg": 39,
   "misticards.com": 38,
   "www.deckshop.de": 38,
@@ -1149,10 +1162,15 @@
   "crispycards.de": 11,
   "tcgstore.se": 8,
   "www.magicbazar.fr": 8,
-  "www.amazon.it": 6,
-  "pokeboxstore.pt": 3,
-  "www.blackfire.eu": 3,
-  "games-island.eu": 1
+  "pokeboxstore.pt": 5,
+  "www.amazon.it": 3,
+  "tcgdistribution.fr": 3,
+  "www.blackfire.eu": 1,
+  "extremepokecorner.com": 1,
+  "pokectcg.cz": 1,
+  "pokewoke.store": 1,
+  "tcgpikas.lt": 1,
+  "pokemonworld.lt": 1
  },
- "runno": 4851
+ "runno": 4852
 }
