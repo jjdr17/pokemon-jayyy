@@ -971,8 +971,20 @@
   "PokeCardShop|30th Celebration": "€8.95"
  },
  "pending": {
-  "PokeCardShop|Premium Deck Espeon & Umbreon (30th)": [
+  "Kerailykortti|Destined Rivals": [
+   "non listato",
+   1
+  ],
+  "MistiCards|Pitch Black (ME05)": [
+   "non listato",
+   1
+  ],
+  "LetsGoTry|Storm Emerald (ME06)": [
    "listato",
+   1
+  ],
+  "LetsGoTry|Chaos Rising (ME04)": [
+   "non listato",
    1
   ]
  },
@@ -1141,7 +1153,6 @@
   "rarecards.nl": 39,
   "bescards.com": 38,
   "itcg.bg": 37,
-  "misticards.com": 36,
   "www.deckshop.de": 36,
   "tcgfanshop.nl": 35,
   "www.poketalk.se": 36,
@@ -1155,10 +1166,12 @@
   "tcgstore.se": 6,
   "www.blackfire.eu": 5,
   "www.magicbazar.fr": 5,
-  "www.amazon.it": 4,
+  "pokeboxstore.pt": 4,
   "pokebank.es": 3,
-  "pokeboxstore.pt": 3,
-  "tcgdistribution.fr": 2
+  "www.amazon.it": 1,
+  "pokectcg.cz": 1,
+  "tcgpikas.lt": 1,
+  "pokemonworld.lt": 1
  },
  "runno": 4824
 }
