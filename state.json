@@ -812,8 +812,8 @@
   "LetsGoTry": {
    "Pitch Black (ME05)": "listato",
    "30th Celebration": "listato",
-   "Storm Emerald (ME06)": "non listato",
-   "Chaos Rising (ME04)": "listato",
+   "Storm Emerald (ME06)": "listato",
+   "Chaos Rising (ME04)": "non listato",
    "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "non listato",
    "Prismatic Evolutions": "non listato",
@@ -970,52 +970,7 @@
   "Stoyanov Games|Pitch Black (ME05)": "8.00€",
   "PokeCardShop|30th Celebration": "€8.95"
  },
- "pending": {
-  "Kerailykortti|Destined Rivals": [
-   "non listato",
-   1
-  ],
-  "Pokemons.dk|Pitch Black (ME05)": [
-   "non listato",
-   1
-  ],
-  "Pokemons.dk|30th Celebration": [
-   "non listato",
-   1
-  ],
-  "Pokemons.dk|Storm Emerald (ME06)": [
-   "non listato",
-   1
-  ],
-  "Pokemons.dk|Chaos Rising (ME04)": [
-   "non listato",
-   1
-  ],
-  "Pokemons.dk|Phantasmal Flames (ME02)": [
-   "non listato",
-   1
-  ],
-  "Pokemons.dk|Pokémon 151": [
-   "non listato",
-   1
-  ],
-  "Pokemons.dk|Prismatic Evolutions": [
-   "non listato",
-   1
-  ],
-  "Pokemons.dk|Crown Zenith": [
-   "non listato",
-   1
-  ],
-  "Pokemons.dk|Destined Rivals": [
-   "non listato",
-   1
-  ],
-  "LetsGoTry|Chaos Rising (ME04)": [
-   "non listato",
-   1
-  ]
- },
+ "pending": {},
  "urls": {
   "Rogerz|Pitch Black (ME05)": "https://rogerz.dk/search?q=pitch+black",
   "Packratt (UK)|Chaos Rising (ME04)": "https://packratt.co.uk/search?q=chaos+rising",
@@ -1173,7 +1128,7 @@
   "hobbykort.se": 407,
   "tcgcompany.nl": 407,
   "www.nerdom.gr": 406,
-  "www.pokekarty.pl": 406,
+  "www.pokekarty.pl": 407,
   "www.wakuwaku.cz": 406,
   "www.pokemonia.ro": 407,
   "en.tcg-shop.at": 406,
@@ -1182,7 +1137,7 @@
   "bescards.com": 40,
   "itcg.bg": 39,
   "misticards.com": 37,
-  "www.deckshop.de": 37,
+  "www.deckshop.de": 38,
   "tcgfanshop.nl": 37,
   "www.poketalk.se": 37,
   "www.pokemillon.com": 37,
@@ -1194,9 +1149,10 @@
   "crispycards.de": 11,
   "tcgstore.se": 8,
   "www.magicbazar.fr": 7,
-  "www.amazon.it": 6,
-  "www.blackfire.eu": 2,
-  "pokeboxstore.pt": 2
+  "pokeboxstore.pt": 5,
+  "www.amazon.it": 3,
+  "www.blackfire.eu": 3,
+  "tcgdistribution.fr": 1
  },
- "runno": 4846
+ "runno": 4847
 }
