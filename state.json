@@ -510,15 +510,15 @@
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "Pokemons.dk": {
-   "Pitch Black (ME05)": "listato",
-   "30th Celebration": "listato",
-   "Storm Emerald (ME06)": "listato",
-   "Chaos Rising (ME04)": "listato",
-   "Phantasmal Flames (ME02)": "listato",
-   "Pokémon 151": "listato",
-   "Prismatic Evolutions": "listato",
-   "Crown Zenith": "listato",
-   "Destined Rivals": "listato",
+   "Pitch Black (ME05)": "non listato",
+   "30th Celebration": "non listato",
+   "Storm Emerald (ME06)": "non listato",
+   "Chaos Rising (ME04)": "non listato",
+   "Phantasmal Flames (ME02)": "non listato",
+   "Pokémon 151": "non listato",
+   "Prismatic Evolutions": "non listato",
+   "Crown Zenith": "non listato",
+   "Destined Rivals": "non listato",
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "Papelinho": {
@@ -579,7 +579,7 @@
    "Prismatic Evolutions": "listato",
    "Crown Zenith": "listato",
    "Destined Rivals": "esaurito",
-   "Premium Deck Espeon & Umbreon (30th)": "non listato"
+   "Premium Deck Espeon & Umbreon (30th)": "listato"
   },
   "Kaissa Games": {
    "Pitch Black (ME05)": "listato",
@@ -794,7 +794,7 @@
    "Pokémon 151": "non listato",
    "Prismatic Evolutions": "non listato",
    "Crown Zenith": "non listato",
-   "Destined Rivals": "listato",
+   "Destined Rivals": "non listato",
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "Fuji-Store": {
@@ -979,8 +979,8 @@
    "listato",
    1
   ],
-  "LetsGoTry|Storm Emerald (ME06)": [
-   "listato",
+  "LetsGoTry|Chaos Rising (ME04)": [
+   "non listato",
    1
   ]
  },
@@ -1142,29 +1142,34 @@
   "tcgcompany.nl": 414,
   "www.nerdom.gr": 413,
   "www.pokekarty.pl": 414,
-  "www.wakuwaku.cz": 413,
+  "www.wakuwaku.cz": 414,
   "www.pokemonia.ro": 414,
   "en.tcg-shop.at": 414,
-  "kaissagames.com": 210,
+  "kaissagames.com": 211,
   "rarecards.nl": 48,
   "itcg.bg": 46,
   "misticards.com": 45,
   "tcgfanshop.nl": 45,
   "www.poketalk.se": 45,
-  "www.pokemillon.com": 44,
+  "www.pokemillon.com": 45,
   "pokechest.at": 45,
   "pokevend.at": 44,
-  "pokeka.hu": 42,
-  "lorenzone.fr": 21,
+  "pokeka.hu": 43,
+  "lorenzone.fr": 22,
   "cardcorner.at": 20,
   "crispycards.de": 18,
   "tcgstore.se": 15,
-  "www.magicbazar.fr": 14,
+  "www.magicbazar.fr": 15,
   "bescards.com": 7,
   "www.deckshop.de": 6,
-  "www.blackfire.eu": 3,
+  "www.blackfire.eu": 4,
   "pokeboxstore.pt": 3,
-  "www.amazon.it": 2
+  "extremepokecorner.com": 3,
+  "pokectcg.cz": 3,
+  "pokewoke.store": 3,
+  "tcgpikas.lt": 3,
+  "pokemonworld.lt": 3,
+  "www.amazon.it": 1
  },
- "runno": 4933
+ "runno": 4934
 }
