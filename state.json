@@ -812,8 +812,8 @@
   "LetsGoTry": {
    "Pitch Black (ME05)": "listato",
    "30th Celebration": "listato",
-   "Storm Emerald (ME06)": "non listato",
-   "Chaos Rising (ME04)": "non listato",
+   "Storm Emerald (ME06)": "listato",
+   "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "non listato",
    "Prismatic Evolutions": "non listato",
@@ -979,8 +979,52 @@
    "listato",
    1
   ],
-  "LetsGoTry|Chaos Rising (ME04)": [
+  "Kerailykortti|Destined Rivals": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Pitch Black (ME05)": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|30th Celebration": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Storm Emerald (ME06)": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Chaos Rising (ME04)": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Phantasmal Flames (ME02)": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Pokémon 151": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Prismatic Evolutions": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Crown Zenith": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Destined Rivals": [
+   "non listato",
+   1
+  ],
+  "PokeCardShop|Premium Deck Espeon & Umbreon (30th)": [
    "listato",
+   1
+  ],
+  "LetsGoTry|Storm Emerald (ME06)": [
+   "non listato",
    1
   ]
  },
@@ -1144,15 +1188,15 @@
   "www.pokekarty.pl": 414,
   "www.wakuwaku.cz": 413,
   "www.pokemonia.ro": 414,
-  "en.tcg-shop.at": 413,
+  "en.tcg-shop.at": 414,
   "kaissagames.com": 210,
   "rarecards.nl": 48,
   "itcg.bg": 46,
   "misticards.com": 45,
-  "tcgfanshop.nl": 44,
+  "tcgfanshop.nl": 45,
   "www.poketalk.se": 45,
   "www.pokemillon.com": 44,
-  "pokechest.at": 44,
+  "pokechest.at": 45,
   "pokevend.at": 44,
   "pokeka.hu": 42,
   "lorenzone.fr": 21,
@@ -1164,7 +1208,12 @@
   "www.deckshop.de": 6,
   "www.blackfire.eu": 3,
   "pokeboxstore.pt": 3,
-  "www.amazon.it": 1
+  "extremepokecorner.com": 2,
+  "pokectcg.cz": 2,
+  "pokewoke.store": 2,
+  "tcgpikas.lt": 2,
+  "pokemonworld.lt": 2,
+  "sapphire-cards.de": 1
  },
- "runno": 4932
+ "runno": 4933
 }
