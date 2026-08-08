@@ -813,7 +813,7 @@
    "Pitch Black (ME05)": "listato",
    "30th Celebration": "listato",
    "Storm Emerald (ME06)": "non listato",
-   "Chaos Rising (ME04)": "non listato",
+   "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "non listato",
    "Prismatic Evolutions": "non listato",
@@ -970,7 +970,16 @@
   "Stoyanov Games|Pitch Black (ME05)": "8.00€",
   "PokeCardShop|30th Celebration": "€8.95"
  },
- "pending": {},
+ "pending": {
+  "PokeCardShop|Premium Deck Espeon & Umbreon (30th)": [
+   "listato",
+   1
+  ],
+  "LetsGoTry|Chaos Rising (ME04)": [
+   "non listato",
+   1
+  ]
+ },
  "urls": {
   "Rogerz|Pitch Black (ME05)": "https://rogerz.dk/search?q=pitch+black",
   "Packratt (UK)|Chaos Rising (ME04)": "https://packratt.co.uk/search?q=chaos+rising",
@@ -1128,7 +1137,7 @@
   "hobbykort.se": 408,
   "tcgcompany.nl": 408,
   "www.nerdom.gr": 407,
-  "www.pokekarty.pl": 407,
+  "www.pokekarty.pl": 408,
   "www.wakuwaku.cz": 407,
   "www.pokemonia.ro": 408,
   "en.tcg-shop.at": 407,
@@ -1137,7 +1146,7 @@
   "bescards.com": 41,
   "itcg.bg": 40,
   "misticards.com": 38,
-  "www.deckshop.de": 38,
+  "www.deckshop.de": 39,
   "tcgfanshop.nl": 38,
   "www.poketalk.se": 38,
   "www.pokemillon.com": 38,
@@ -1150,7 +1159,8 @@
   "tcgstore.se": 9,
   "www.magicbazar.fr": 8,
   "pokeboxstore.pt": 6,
-  "www.blackfire.eu": 1
+  "www.blackfire.eu": 3,
+  "games-island.eu": 1
  },
- "runno": 4858
+ "runno": 4859
 }
