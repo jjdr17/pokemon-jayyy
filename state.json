@@ -510,15 +510,15 @@
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "Pokemons.dk": {
-   "Pitch Black (ME05)": "listato",
-   "30th Celebration": "listato",
-   "Storm Emerald (ME06)": "listato",
-   "Chaos Rising (ME04)": "listato",
-   "Phantasmal Flames (ME02)": "listato",
-   "Pokémon 151": "listato",
-   "Prismatic Evolutions": "listato",
-   "Crown Zenith": "listato",
-   "Destined Rivals": "listato",
+   "Pitch Black (ME05)": "non listato",
+   "30th Celebration": "non listato",
+   "Storm Emerald (ME06)": "non listato",
+   "Chaos Rising (ME04)": "non listato",
+   "Phantasmal Flames (ME02)": "non listato",
+   "Pokémon 151": "non listato",
+   "Prismatic Evolutions": "non listato",
+   "Crown Zenith": "non listato",
+   "Destined Rivals": "non listato",
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "Papelinho": {
@@ -794,7 +794,7 @@
    "Pokémon 151": "non listato",
    "Prismatic Evolutions": "non listato",
    "Crown Zenith": "non listato",
-   "Destined Rivals": "listato",
+   "Destined Rivals": "non listato",
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "Fuji-Store": {
@@ -813,7 +813,7 @@
    "Pitch Black (ME05)": "listato",
    "30th Celebration": "listato",
    "Storm Emerald (ME06)": "listato",
-   "Chaos Rising (ME04)": "listato",
+   "Chaos Rising (ME04)": "non listato",
    "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "non listato",
    "Prismatic Evolutions": "non listato",
@@ -963,7 +963,7 @@
  "prices": {
   "Packratt (UK)|Chaos Rising (ME04)": "£10.01",
   "Packratt (UK)|Pokémon 151": "£29.99",
-  "PokeCardShop|Chaos Rising (ME04)": "€6.95",
+  "PokeCardShop|Chaos Rising (ME04)": "6,95€",
   "MagicBazar|Pitch Black (ME05)": "$84",
   "SunnyStore|Pokémon 151": "€26,90",
   "Total Cards (UK)|Pitch Black (ME05)": "£4.79",
@@ -975,8 +975,12 @@
    "listato",
    1
   ],
-  "Amazon.it|Storm Emerald (ME06)": [
-   "listato",
+  "LetsGoTry|Storm Emerald (ME06)": [
+   "non listato",
+   1
+  ],
+  "PokeCardShop|Chaos Rising (ME04)": [
+   "non listato",
    1
   ]
  },
@@ -1128,9 +1132,9 @@
  "down": {
   "www.cardmarket.com": 420,
   "www.gamestop.com": 84,
-  "www.gamelife.it": 420,
-  "pokeseller14.com": 420,
-  "geco-shop.de": 420,
+  "www.gamelife.it": 421,
+  "pokeseller14.com": 421,
+  "geco-shop.de": 421,
   "www.chaoscards.co.uk": 420,
   "www.waylandgames.co.uk": 420,
   "www.firestormgames.co.uk": 421,
@@ -1152,22 +1156,17 @@
   "pokevend.at": 51,
   "pokeka.hu": 49,
   "lorenzone.fr": 28,
+  "cardcorner.at": 26,
+  "crispycards.de": 24,
   "tcgstore.se": 21,
   "www.magicbazar.fr": 21,
   "bescards.com": 14,
   "oppacards.com": 9,
   "www.deckshop.de": 7,
-  "crispycards.de": 3,
-  "cardcorner.at": 3,
-  "www.amazon.it": 3,
-  "www.blackfire.eu": 3,
-  "extremepokecorner.com": 2,
-  "pokectcg.cz": 2,
-  "pokewoke.store": 2,
-  "pokemonworld.lt": 2,
-  "tcgpikas.lt": 2,
-  "games-island.eu": 1,
-  "pokeboxstore.pt": 1
+  "www.blackfire.eu": 4,
+  "pokeboxstore.pt": 4,
+  "www.amazon.it": 4,
+  "www.butticards.at": 1
  },
- "runno": 5011
+ "runno": 5012
 }
