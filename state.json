@@ -974,6 +974,14 @@
   "BESCARDS|Pitch Black (ME05)": [
    "listato",
    1
+  ],
+  "PokeCardShop|Chaos Rising (ME04)": [
+   "non listato",
+   1
+  ],
+  "PokeCardShop|Pokémon 151": [
+   "non listato",
+   1
   ]
  },
  "urls": {
@@ -1150,12 +1158,13 @@
   "lorenzone.fr": 34,
   "tcgstore.se": 27,
   "www.magicbazar.fr": 27,
-  "bescards.com": 19,
+  "bescards.com": 20,
   "www.deckshop.de": 13,
   "crispycards.de": 9,
   "cardcorner.at": 9,
   "www.amazon.it": 5,
-  "pokeboxstore.pt": 5
+  "pokeboxstore.pt": 5,
+  "www.blackfire.eu": 1
  },
- "runno": 5079
+ "runno": 5080
 }
