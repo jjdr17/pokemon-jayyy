@@ -974,6 +974,14 @@
   "BESCARDS|Pitch Black (ME05)": [
    "listato",
    1
+  ],
+  "Amazon.it|Storm Emerald (ME06)": [
+   "listato",
+   1
+  ],
+  "LottiCards|Pokémon 151": [
+   "listato",
+   1
   ]
  },
  "urls": {
@@ -1131,7 +1139,7 @@
   "www.waylandgames.co.uk": 418,
   "www.firestormgames.co.uk": 419,
   "hobbykort.se": 419,
-  "tcgcompany.nl": 418,
+  "tcgcompany.nl": 419,
   "www.nerdom.gr": 418,
   "www.pokekarty.pl": 418,
   "www.wakuwaku.cz": 418,
@@ -1150,12 +1158,14 @@
   "lorenzone.fr": 26,
   "cardcorner.at": 24,
   "crispycards.de": 22,
-  "tcgstore.se": 19,
+  "tcgstore.se": 20,
   "www.magicbazar.fr": 19,
   "bescards.com": 12,
   "oppacards.com": 7,
   "www.deckshop.de": 5,
-  "www.blackfire.eu": 3
+  "www.amazon.it": 1,
+  "www.blackfire.eu": 1,
+  "games-island.eu": 1
  },
- "runno": 4988
+ "runno": 4989
 }
