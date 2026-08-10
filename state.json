@@ -573,7 +573,7 @@
    "Pitch Black (ME05)": "esaurito",
    "30th Celebration": "esaurito",
    "Storm Emerald (ME06)": "non listato",
-   "Chaos Rising (ME04)": "disponibile",
+   "Chaos Rising (ME04)": "esaurito",
    "Phantasmal Flames (ME02)": "esaurito",
    "Pokémon 151": "listato",
    "Prismatic Evolutions": "listato",
@@ -813,7 +813,7 @@
    "Pitch Black (ME05)": "listato",
    "30th Celebration": "listato",
    "Storm Emerald (ME06)": "non listato",
-   "Chaos Rising (ME04)": "non listato",
+   "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "non listato",
    "Prismatic Evolutions": "non listato",
@@ -958,7 +958,7 @@
   "papelinho.pt": "https://papelinho.pt/?s={q}&post_type=product"
  },
  "alerts": {
-  "PokeCardShop|Chaos Rising (ME04)": 1786317253.0160906
+  "PokeCardShop|Chaos Rising (ME04)": 1786010522.3115506
  },
  "prices": {
   "Packratt (UK)|Chaos Rising (ME04)": "£10.01",
@@ -975,8 +975,12 @@
    "listato",
    1
   ],
+  "PokeCardShop|Chaos Rising (ME04)": [
+   "disponibile",
+   1
+  ],
   "LetsGoTry|Chaos Rising (ME04)": [
-   "listato",
+   "non listato",
    1
   ]
  },
@@ -1123,11 +1127,6 @@
    "ts": "06/08 12:02",
    "title": "🚨 RESTOCK: Chaos Rising (ME04) — PokeCardShop",
    "url": "https://www.pokecardshop.be/search?q=chaos+rising"
-  },
-  {
-   "ts": "10/08 01:14",
-   "title": "🚨 DISPONIBILE/PREORDER: Chaos Rising (ME04) — PokeCardShop",
-   "url": "https://www.pokecardshop.be/search?q=chaos+rising"
   }
  ],
  "down": {
@@ -1136,7 +1135,7 @@
   "www.gamelife.it": 428,
   "pokeseller14.com": 428,
   "geco-shop.de": 428,
-  "www.chaoscards.co.uk": 427,
+  "www.chaoscards.co.uk": 428,
   "www.waylandgames.co.uk": 428,
   "www.firestormgames.co.uk": 428,
   "hobbykort.se": 428,
@@ -1149,9 +1148,9 @@
   "kaissagames.com": 224,
   "rarecards.nl": 62,
   "itcg.bg": 60,
-  "misticards.com": 58,
+  "misticards.com": 59,
   "tcgfanshop.nl": 58,
-  "www.poketalk.se": 58,
+  "www.poketalk.se": 59,
   "www.pokemillon.com": 58,
   "pokechest.at": 58,
   "pokevend.at": 58,
@@ -1165,14 +1164,9 @@
   "cardcorner.at": 11,
   "www.amazon.it": 7,
   "www.blackfire.eu": 4,
-  "pokeboxstore.pt": 4,
-  "tcgdistribution.fr": 1,
-  "www.lotticards.de": 1,
-  "extremepokecorner.com": 1,
-  "pokectcg.cz": 1,
-  "pokewoke.store": 1,
-  "pokemonworld.lt": 1,
-  "tcgpikas.lt": 1
+  "pokeboxstore.pt": 3,
+  "games-island.eu": 2,
+  "tcgdistribution.fr": 1
  },
- "runno": 5099
+ "runno": 5100
 }
