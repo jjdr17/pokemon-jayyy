@@ -104,7 +104,7 @@
   "OutpostBrussels": {
    "Pitch Black (ME05)": "esaurito",
    "30th Celebration": "esaurito",
-   "Storm Emerald (ME06)": "listato",
+   "Storm Emerald (ME06)": "non listato",
    "Chaos Rising (ME04)": "esaurito",
    "Phantasmal Flames (ME02)": "esaurito",
    "Pokémon 151": "listato",
@@ -813,7 +813,7 @@
    "Pitch Black (ME05)": "listato",
    "30th Celebration": "listato",
    "Storm Emerald (ME06)": "non listato",
-   "Chaos Rising (ME04)": "non listato",
+   "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "non listato",
    "Prismatic Evolutions": "non listato",
@@ -973,14 +973,6 @@
  "pending": {
   "BESCARDS|Pitch Black (ME05)": [
    "listato",
-   1
-  ],
-  "OutpostBrussels|Storm Emerald (ME06)": [
-   "non listato",
-   1
-  ],
-  "PokeCardShop|Prismatic Evolutions": [
-   "non listato",
    1
   ]
  },
@@ -1147,29 +1139,28 @@
   "tcgcompany.nl": 432,
   "www.nerdom.gr": 431,
   "www.pokekarty.pl": 432,
-  "www.wakuwaku.cz": 431,
+  "www.wakuwaku.cz": 432,
   "www.pokemonia.ro": 432,
   "en.tcg-shop.at": 432,
-  "kaissagames.com": 228,
+  "kaissagames.com": 229,
   "rarecards.nl": 66,
   "itcg.bg": 64,
   "misticards.com": 63,
   "tcgfanshop.nl": 63,
   "www.poketalk.se": 63,
-  "www.pokemillon.com": 62,
+  "www.pokemillon.com": 63,
   "pokechest.at": 63,
   "pokevend.at": 62,
-  "pokeka.hu": 60,
-  "lorenzone.fr": 39,
+  "pokeka.hu": 61,
+  "lorenzone.fr": 40,
   "tcgstore.se": 33,
-  "www.magicbazar.fr": 32,
+  "www.magicbazar.fr": 33,
   "bescards.com": 25,
   "crispycards.de": 15,
   "cardcorner.at": 15,
   "www.amazon.it": 11,
-  "www.blackfire.eu": 8,
   "www.deckshop.de": 5,
   "pokeboxstore.pt": 3
  },
- "runno": 5149
+ "runno": 5150
 }
