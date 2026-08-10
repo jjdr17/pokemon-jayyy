@@ -579,7 +579,7 @@
    "Prismatic Evolutions": "listato",
    "Crown Zenith": "listato",
    "Destined Rivals": "esaurito",
-   "Premium Deck Espeon & Umbreon (30th)": "non listato"
+   "Premium Deck Espeon & Umbreon (30th)": "listato"
   },
   "Kaissa Games": {
    "Pitch Black (ME05)": "listato",
@@ -958,7 +958,7 @@
   "papelinho.pt": "https://papelinho.pt/?s={q}&post_type=product"
  },
  "alerts": {
-  "PokeCardShop|Chaos Rising (ME04)": 1786322172.3233848
+  "PokeCardShop|Chaos Rising (ME04)": 1786317253.0160906
  },
  "prices": {
   "Packratt (UK)|Chaos Rising (ME04)": "£10.01",
@@ -976,6 +976,10 @@
    1
   ],
   "PokeCardShop|Chaos Rising (ME04)": [
+   "non listato",
+   1
+  ],
+  "PokeCardShop|Prismatic Evolutions": [
    "non listato",
    1
   ]
@@ -1125,8 +1129,8 @@
    "url": "https://www.pokecardshop.be/search?q=chaos+rising"
   },
   {
-   "ts": "10/08 02:36",
-   "title": "🚨 RESTOCK: Chaos Rising (ME04) — PokeCardShop",
+   "ts": "10/08 01:14",
+   "title": "🚨 DISPONIBILE/PREORDER: Chaos Rising (ME04) — PokeCardShop",
    "url": "https://www.pokecardshop.be/search?q=chaos+rising"
   }
  ],
@@ -1164,8 +1168,14 @@
   "crispycards.de": 11,
   "cardcorner.at": 11,
   "www.amazon.it": 8,
-  "pokeboxstore.pt": 4,
-  "www.blackfire.eu": 1
+  "www.blackfire.eu": 5,
+  "extremepokecorner.com": 3,
+  "pokectcg.cz": 3,
+  "pokewoke.store": 4,
+  "pokemonworld.lt": 3,
+  "tcgpikas.lt": 4,
+  "pokeboxstore.pt": 2,
+  "games-island.eu": 2
  },
  "runno": 5109
 }
