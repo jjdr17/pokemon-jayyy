@@ -579,7 +579,7 @@
    "Prismatic Evolutions": "listato",
    "Crown Zenith": "listato",
    "Destined Rivals": "esaurito",
-   "Premium Deck Espeon & Umbreon (30th)": "listato"
+   "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "Kaissa Games": {
    "Pitch Black (ME05)": "listato",
@@ -958,7 +958,7 @@
   "papelinho.pt": "https://papelinho.pt/?s={q}&post_type=product"
  },
  "alerts": {
-  "PokeCardShop|Chaos Rising (ME04)": 1786317253.0160906
+  "PokeCardShop|Chaos Rising (ME04)": 1786322172.3233848
  },
  "prices": {
   "Packratt (UK)|Chaos Rising (ME04)": "£10.01",
@@ -975,12 +975,16 @@
    "listato",
    1
   ],
-  "PokeCardShop|Chaos Rising (ME04)": [
-   "non listato",
+  "PokeCardShop|Premium Deck Espeon & Umbreon (30th)": [
+   "listato",
    1
   ],
   "PokeCardShop|Prismatic Evolutions": [
    "non listato",
+   1
+  ],
+  "LetsGoTry|Chaos Rising (ME04)": [
+   "listato",
    1
   ]
  },
@@ -1129,19 +1133,19 @@
    "url": "https://www.pokecardshop.be/search?q=chaos+rising"
   },
   {
-   "ts": "10/08 01:14",
-   "title": "🚨 DISPONIBILE/PREORDER: Chaos Rising (ME04) — PokeCardShop",
+   "ts": "10/08 02:36",
+   "title": "🚨 RESTOCK: Chaos Rising (ME04) — PokeCardShop",
    "url": "https://www.pokecardshop.be/search?q=chaos+rising"
   }
  ],
  "down": {
-  "www.cardmarket.com": 428,
+  "www.cardmarket.com": 429,
   "www.gamestop.com": 84,
   "www.gamelife.it": 429,
   "pokeseller14.com": 429,
   "geco-shop.de": 429,
   "www.chaoscards.co.uk": 428,
-  "www.waylandgames.co.uk": 428,
+  "www.waylandgames.co.uk": 429,
   "www.firestormgames.co.uk": 429,
   "hobbykort.se": 429,
   "tcgcompany.nl": 429,
@@ -1152,7 +1156,7 @@
   "en.tcg-shop.at": 428,
   "kaissagames.com": 225,
   "rarecards.nl": 63,
-  "itcg.bg": 60,
+  "itcg.bg": 61,
   "misticards.com": 59,
   "tcgfanshop.nl": 59,
   "www.poketalk.se": 59,
@@ -1165,17 +1169,10 @@
   "www.magicbazar.fr": 29,
   "bescards.com": 22,
   "www.deckshop.de": 15,
-  "crispycards.de": 11,
-  "cardcorner.at": 11,
+  "crispycards.de": 12,
+  "cardcorner.at": 12,
   "www.amazon.it": 8,
-  "www.blackfire.eu": 5,
-  "extremepokecorner.com": 3,
-  "pokectcg.cz": 3,
-  "pokewoke.store": 4,
-  "pokemonworld.lt": 3,
-  "tcgpikas.lt": 4,
-  "pokeboxstore.pt": 2,
-  "games-island.eu": 2
+  "pokeboxstore.pt": 4
  },
- "runno": 5109
+ "runno": 5110
 }
