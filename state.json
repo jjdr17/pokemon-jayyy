@@ -974,6 +974,10 @@
   "BESCARDS|Pitch Black (ME05)": [
    "listato",
    1
+  ],
+  "OutpostBrussels|Storm Emerald (ME06)": [
+   "non listato",
+   1
   ]
  },
  "urls": {
@@ -1134,13 +1138,13 @@
   "geco-shop.de": 433,
   "www.chaoscards.co.uk": 433,
   "www.waylandgames.co.uk": 433,
-  "www.firestormgames.co.uk": 433,
+  "www.firestormgames.co.uk": 434,
   "hobbykort.se": 433,
   "tcgcompany.nl": 433,
   "www.nerdom.gr": 433,
   "www.pokekarty.pl": 433,
   "www.wakuwaku.cz": 433,
-  "www.pokemonia.ro": 433,
+  "www.pokemonia.ro": 434,
   "en.tcg-shop.at": 433,
   "kaissagames.com": 230,
   "rarecards.nl": 68,
@@ -1160,7 +1164,9 @@
   "cardcorner.at": 16,
   "www.amazon.it": 12,
   "www.deckshop.de": 6,
-  "pokeboxstore.pt": 3
+  "pokeboxstore.pt": 3,
+  "www.blackfire.eu": 1,
+  "tcgdistribution.fr": 1
  },
- "runno": 5164
+ "runno": 5165
 }
