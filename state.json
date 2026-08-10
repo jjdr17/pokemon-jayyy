@@ -812,8 +812,8 @@
   "LetsGoTry": {
    "Pitch Black (ME05)": "listato",
    "30th Celebration": "listato",
-   "Storm Emerald (ME06)": "non listato",
-   "Chaos Rising (ME04)": "listato",
+   "Storm Emerald (ME06)": "listato",
+   "Chaos Rising (ME04)": "non listato",
    "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "non listato",
    "Prismatic Evolutions": "non listato",
@@ -958,7 +958,7 @@
   "papelinho.pt": "https://papelinho.pt/?s={q}&post_type=product"
  },
  "alerts": {
-  "PokeCardShop|Chaos Rising (ME04)": 1786317253.0160906
+  "PokeCardShop|Chaos Rising (ME04)": 1786322172.3233848
  },
  "prices": {
   "Packratt (UK)|Chaos Rising (ME04)": "£10.01",
@@ -972,10 +972,6 @@
  },
  "pending": {
   "BESCARDS|Pitch Black (ME05)": [
-   "listato",
-   1
-  ],
-  "LetsGoTry|Storm Emerald (ME06)": [
    "listato",
    1
   ]
@@ -1125,8 +1121,8 @@
    "url": "https://www.pokecardshop.be/search?q=chaos+rising"
   },
   {
-   "ts": "10/08 01:14",
-   "title": "🚨 DISPONIBILE/PREORDER: Chaos Rising (ME04) — PokeCardShop",
+   "ts": "10/08 02:36",
+   "title": "🚨 RESTOCK: Chaos Rising (ME04) — PokeCardShop",
    "url": "https://www.pokecardshop.be/search?q=chaos+rising"
   }
  ],
@@ -1145,15 +1141,15 @@
   "www.pokekarty.pl": 429,
   "www.wakuwaku.cz": 428,
   "www.pokemonia.ro": 429,
-  "en.tcg-shop.at": 428,
+  "en.tcg-shop.at": 429,
   "kaissagames.com": 225,
   "rarecards.nl": 63,
   "itcg.bg": 61,
   "misticards.com": 60,
-  "tcgfanshop.nl": 59,
+  "tcgfanshop.nl": 60,
   "www.poketalk.se": 60,
   "www.pokemillon.com": 59,
-  "pokechest.at": 59,
+  "pokechest.at": 60,
   "pokevend.at": 59,
   "pokeka.hu": 57,
   "lorenzone.fr": 36,
@@ -1164,16 +1160,15 @@
   "crispycards.de": 12,
   "cardcorner.at": 12,
   "www.amazon.it": 8,
-  "www.blackfire.eu": 5,
-  "extremepokecorner.com": 4,
-  "pokectcg.cz": 4,
-  "pokewoke.store": 4,
-  "pokemonworld.lt": 4,
-  "tcgpikas.lt": 4,
-  "pokeboxstore.pt": 3,
-  "www.lotticards.de": 1,
+  "pokeboxstore.pt": 4,
   "tcgdistribution.fr": 1,
-  "letsgotry.pl": 1
+  "sapphire-cards.de": 1,
+  "www.lotticards.de": 1,
+  "extremepokecorner.com": 1,
+  "pokectcg.cz": 1,
+  "pokewoke.store": 1,
+  "tcgpikas.lt": 1,
+  "pokemonworld.lt": 1
  },
- "runno": 5112
+ "runno": 5113
 }
