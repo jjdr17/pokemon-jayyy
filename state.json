@@ -104,7 +104,7 @@
   "OutpostBrussels": {
    "Pitch Black (ME05)": "esaurito",
    "30th Celebration": "esaurito",
-   "Storm Emerald (ME06)": "non listato",
+   "Storm Emerald (ME06)": "listato",
    "Chaos Rising (ME04)": "esaurito",
    "Phantasmal Flames (ME02)": "esaurito",
    "Pokémon 151": "listato",
@@ -812,7 +812,7 @@
   "LetsGoTry": {
    "Pitch Black (ME05)": "listato",
    "30th Celebration": "listato",
-   "Storm Emerald (ME06)": "non listato",
+   "Storm Emerald (ME06)": "listato",
    "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "non listato",
@@ -975,12 +975,44 @@
    "listato",
    1
   ],
-  "LetsGoTry|Storm Emerald (ME06)": [
-   "listato",
+  "Kerailykortti|Destined Rivals": [
+   "non listato",
    1
   ],
-  "OutpostBrussels|Storm Emerald (ME06)": [
-   "listato",
+  "Pokemons.dk|Pitch Black (ME05)": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|30th Celebration": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Storm Emerald (ME06)": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Chaos Rising (ME04)": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Phantasmal Flames (ME02)": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Pokémon 151": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Prismatic Evolutions": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Crown Zenith": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Destined Rivals": [
+   "non listato",
    1
   ]
  },
@@ -1147,32 +1179,27 @@
   "tcgcompany.nl": 436,
   "www.nerdom.gr": 435,
   "www.pokekarty.pl": 436,
-  "www.wakuwaku.cz": 435,
+  "www.wakuwaku.cz": 436,
   "www.pokemonia.ro": 436,
   "en.tcg-shop.at": 436,
-  "kaissagames.com": 232,
+  "kaissagames.com": 233,
   "rarecards.nl": 70,
   "itcg.bg": 68,
   "misticards.com": 67,
   "tcgfanshop.nl": 67,
   "www.poketalk.se": 67,
-  "www.pokemillon.com": 66,
+  "www.pokemillon.com": 67,
   "pokechest.at": 67,
   "pokevend.at": 66,
-  "pokeka.hu": 64,
-  "lorenzone.fr": 43,
+  "pokeka.hu": 65,
+  "lorenzone.fr": 44,
   "tcgstore.se": 37,
-  "www.magicbazar.fr": 36,
+  "www.magicbazar.fr": 37,
   "bescards.com": 29,
   "crispycards.de": 19,
   "cardcorner.at": 19,
   "www.deckshop.de": 9,
-  "www.amazon.it": 5,
-  "www.blackfire.eu": 3,
-  "www.butticards.at": 1,
-  "pokebank.es": 1,
-  "www.lotticards.de": 1,
-  "oppacards.com": 1
+  "www.amazon.it": 5
  },
- "runno": 5197
+ "runno": 5198
 }
