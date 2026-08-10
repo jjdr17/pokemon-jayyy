@@ -812,8 +812,8 @@
   "LetsGoTry": {
    "Pitch Black (ME05)": "listato",
    "30th Celebration": "listato",
-   "Storm Emerald (ME06)": "listato",
-   "Chaos Rising (ME04)": "non listato",
+   "Storm Emerald (ME06)": "non listato",
+   "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "non listato",
    "Prismatic Evolutions": "non listato",
@@ -958,7 +958,7 @@
   "papelinho.pt": "https://papelinho.pt/?s={q}&post_type=product"
  },
  "alerts": {
-  "PokeCardShop|Chaos Rising (ME04)": 1786322172.3233848
+  "PokeCardShop|Chaos Rising (ME04)": 1786317253.0160906
  },
  "prices": {
   "Packratt (UK)|Chaos Rising (ME04)": "£10.01",
@@ -972,6 +972,50 @@
  },
  "pending": {
   "BESCARDS|Pitch Black (ME05)": [
+   "listato",
+   1
+  ],
+  "LetsGoTry|Storm Emerald (ME06)": [
+   "listato",
+   1
+  ],
+  "Pokemons.dk|Pitch Black (ME05)": [
+   "listato",
+   1
+  ],
+  "Pokemons.dk|30th Celebration": [
+   "listato",
+   1
+  ],
+  "Pokemons.dk|Storm Emerald (ME06)": [
+   "listato",
+   1
+  ],
+  "Pokemons.dk|Chaos Rising (ME04)": [
+   "listato",
+   1
+  ],
+  "Pokemons.dk|Phantasmal Flames (ME02)": [
+   "listato",
+   1
+  ],
+  "Pokemons.dk|Pokémon 151": [
+   "listato",
+   1
+  ],
+  "Pokemons.dk|Prismatic Evolutions": [
+   "listato",
+   1
+  ],
+  "Pokemons.dk|Crown Zenith": [
+   "listato",
+   1
+  ],
+  "Pokemons.dk|Destined Rivals": [
+   "listato",
+   1
+  ],
+  "Kerailykortti|Destined Rivals": [
    "listato",
    1
   ]
@@ -1121,8 +1165,8 @@
    "url": "https://www.pokecardshop.be/search?q=chaos+rising"
   },
   {
-   "ts": "10/08 02:36",
-   "title": "🚨 RESTOCK: Chaos Rising (ME04) — PokeCardShop",
+   "ts": "10/08 01:14",
+   "title": "🚨 DISPONIBILE/PREORDER: Chaos Rising (ME04) — PokeCardShop",
    "url": "https://www.pokecardshop.be/search?q=chaos+rising"
   }
  ],
@@ -1160,15 +1204,15 @@
   "crispycards.de": 12,
   "cardcorner.at": 12,
   "www.amazon.it": 8,
-  "pokeboxstore.pt": 4,
-  "tcgdistribution.fr": 1,
-  "sapphire-cards.de": 1,
-  "www.lotticards.de": 1,
-  "extremepokecorner.com": 1,
-  "pokectcg.cz": 1,
-  "pokewoke.store": 1,
-  "tcgpikas.lt": 1,
-  "pokemonworld.lt": 1
+  "www.blackfire.eu": 5,
+  "extremepokecorner.com": 4,
+  "pokectcg.cz": 4,
+  "pokewoke.store": 4,
+  "pokemonworld.lt": 4,
+  "tcgpikas.lt": 4,
+  "pokeboxstore.pt": 3,
+  "tcgdistribution.fr": 2,
+  "letsgotry.pl": 2
  },
  "runno": 5113
 }
