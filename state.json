@@ -104,7 +104,7 @@
   "OutpostBrussels": {
    "Pitch Black (ME05)": "esaurito",
    "30th Celebration": "esaurito",
-   "Storm Emerald (ME06)": "listato",
+   "Storm Emerald (ME06)": "non listato",
    "Chaos Rising (ME04)": "esaurito",
    "Phantasmal Flames (ME02)": "esaurito",
    "Pokémon 151": "listato",
@@ -975,56 +975,8 @@
    "listato",
    1
   ],
-  "LetsGoTry|Storm Emerald (ME06)": [
-   "non listato",
-   1
-  ],
-  "LetsGoTry|Chaos Rising (ME04)": [
-   "listato",
-   1
-  ],
   "OutpostBrussels|Storm Emerald (ME06)": [
-   "non listato",
-   1
-  ],
-  "Kerailykortti|Destined Rivals": [
-   "non listato",
-   1
-  ],
-  "Pokemons.dk|Pitch Black (ME05)": [
-   "non listato",
-   1
-  ],
-  "Pokemons.dk|30th Celebration": [
-   "non listato",
-   1
-  ],
-  "Pokemons.dk|Storm Emerald (ME06)": [
-   "non listato",
-   1
-  ],
-  "Pokemons.dk|Chaos Rising (ME04)": [
-   "non listato",
-   1
-  ],
-  "Pokemons.dk|Phantasmal Flames (ME02)": [
-   "non listato",
-   1
-  ],
-  "Pokemons.dk|Pokémon 151": [
-   "non listato",
-   1
-  ],
-  "Pokemons.dk|Prismatic Evolutions": [
-   "non listato",
-   1
-  ],
-  "Pokemons.dk|Crown Zenith": [
-   "non listato",
-   1
-  ],
-  "Pokemons.dk|Destined Rivals": [
-   "non listato",
+   "listato",
    1
   ]
  },
@@ -1193,15 +1145,14 @@
   "www.pokekarty.pl": 431,
   "www.wakuwaku.cz": 430,
   "www.pokemonia.ro": 431,
-  "en.tcg-shop.at": 430,
+  "en.tcg-shop.at": 431,
   "kaissagames.com": 227,
   "rarecards.nl": 65,
   "itcg.bg": 63,
   "misticards.com": 62,
-  "tcgfanshop.nl": 61,
   "www.poketalk.se": 62,
   "www.pokemillon.com": 61,
-  "pokechest.at": 61,
+  "pokechest.at": 62,
   "pokevend.at": 61,
   "pokeka.hu": 59,
   "lorenzone.fr": 38,
@@ -1212,15 +1163,7 @@
   "cardcorner.at": 14,
   "www.amazon.it": 10,
   "www.blackfire.eu": 7,
-  "www.deckshop.de": 4,
-  "pokeboxstore.pt": 1,
-  "www.lotticards.de": 1,
-  "extremepokecorner.com": 1,
-  "tcgdistribution.fr": 1,
-  "pokectcg.cz": 1,
-  "pokewoke.store": 1,
-  "tcgpikas.lt": 1,
-  "pokemonworld.lt": 1
+  "www.deckshop.de": 4
  },
- "runno": 5136
+ "runno": 5137
 }
