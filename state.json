@@ -812,8 +812,8 @@
   "LetsGoTry": {
    "Pitch Black (ME05)": "listato",
    "30th Celebration": "listato",
-   "Storm Emerald (ME06)": "non listato",
-   "Chaos Rising (ME04)": "listato",
+   "Storm Emerald (ME06)": "listato",
+   "Chaos Rising (ME04)": "non listato",
    "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "non listato",
    "Prismatic Evolutions": "non listato",
@@ -958,7 +958,7 @@
   "papelinho.pt": "https://papelinho.pt/?s={q}&post_type=product"
  },
  "alerts": {
-  "PokeCardShop|Chaos Rising (ME04)": 1786317253.0160906
+  "PokeCardShop|Chaos Rising (ME04)": 1786322172.3233848
  },
  "prices": {
   "Packratt (UK)|Chaos Rising (ME04)": "£10.01",
@@ -972,10 +972,6 @@
  },
  "pending": {
   "BESCARDS|Pitch Black (ME05)": [
-   "listato",
-   1
-  ],
-  "LetsGoTry|Storm Emerald (ME06)": [
    "listato",
    1
   ],
@@ -1017,6 +1013,10 @@
   ],
   "Kerailykortti|Destined Rivals": [
    "listato",
+   1
+  ],
+  "LetsGoTry|Storm Emerald (ME06)": [
+   "non listato",
    1
   ]
  },
@@ -1165,8 +1165,8 @@
    "url": "https://www.pokecardshop.be/search?q=chaos+rising"
   },
   {
-   "ts": "10/08 01:14",
-   "title": "🚨 DISPONIBILE/PREORDER: Chaos Rising (ME04) — PokeCardShop",
+   "ts": "10/08 02:36",
+   "title": "🚨 RESTOCK: Chaos Rising (ME04) — PokeCardShop",
    "url": "https://www.pokecardshop.be/search?q=chaos+rising"
   }
  ],
@@ -1183,36 +1183,29 @@
   "tcgcompany.nl": 429,
   "www.nerdom.gr": 428,
   "www.pokekarty.pl": 429,
-  "www.wakuwaku.cz": 428,
+  "www.wakuwaku.cz": 429,
   "www.pokemonia.ro": 429,
   "en.tcg-shop.at": 429,
-  "kaissagames.com": 225,
+  "kaissagames.com": 226,
   "rarecards.nl": 63,
   "itcg.bg": 61,
   "misticards.com": 60,
   "tcgfanshop.nl": 60,
   "www.poketalk.se": 60,
-  "www.pokemillon.com": 59,
+  "www.pokemillon.com": 60,
   "pokechest.at": 60,
   "pokevend.at": 59,
-  "pokeka.hu": 57,
-  "lorenzone.fr": 36,
+  "pokeka.hu": 58,
+  "lorenzone.fr": 37,
   "tcgstore.se": 30,
-  "www.magicbazar.fr": 29,
+  "www.magicbazar.fr": 30,
   "bescards.com": 22,
   "www.deckshop.de": 16,
   "crispycards.de": 12,
   "cardcorner.at": 12,
   "www.amazon.it": 8,
-  "www.blackfire.eu": 5,
-  "extremepokecorner.com": 4,
-  "pokectcg.cz": 4,
-  "pokewoke.store": 4,
-  "pokemonworld.lt": 4,
-  "tcgpikas.lt": 4,
-  "pokeboxstore.pt": 3,
-  "tcgdistribution.fr": 2,
-  "letsgotry.pl": 2
+  "pokeboxstore.pt": 4,
+  "www.lotticards.de": 2
  },
- "runno": 5113
+ "runno": 5114
 }
