@@ -813,7 +813,7 @@
    "Pitch Black (ME05)": "listato",
    "30th Celebration": "listato",
    "Storm Emerald (ME06)": "non listato",
-   "Chaos Rising (ME04)": "non listato",
+   "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "non listato",
    "Prismatic Evolutions": "non listato",
@@ -975,44 +975,16 @@
    "listato",
    1
   ],
-  "Kerailykortti|Destined Rivals": [
+  "PokeCardShop|Premium Deck Espeon & Umbreon (30th)": [
+   "listato",
+   1
+  ],
+  "PokeCardShop|Pokémon 151": [
    "non listato",
    1
   ],
-  "Pokemons.dk|Pitch Black (ME05)": [
-   "non listato",
-   1
-  ],
-  "Pokemons.dk|30th Celebration": [
-   "non listato",
-   1
-  ],
-  "Pokemons.dk|Storm Emerald (ME06)": [
-   "non listato",
-   1
-  ],
-  "Pokemons.dk|Chaos Rising (ME04)": [
-   "non listato",
-   1
-  ],
-  "Pokemons.dk|Phantasmal Flames (ME02)": [
-   "non listato",
-   1
-  ],
-  "Pokemons.dk|Pokémon 151": [
-   "non listato",
-   1
-  ],
-  "Pokemons.dk|Prismatic Evolutions": [
-   "non listato",
-   1
-  ],
-  "Pokemons.dk|Crown Zenith": [
-   "non listato",
-   1
-  ],
-  "Pokemons.dk|Destined Rivals": [
-   "non listato",
+  "LetsGoTry|Storm Emerald (ME06)": [
+   "listato",
    1
   ]
  },
@@ -1177,20 +1149,20 @@
   "www.firestormgames.co.uk": 435,
   "hobbykort.se": 435,
   "tcgcompany.nl": 435,
-  "www.nerdom.gr": 434,
+  "www.nerdom.gr": 435,
   "www.pokekarty.pl": 435,
   "www.wakuwaku.cz": 435,
   "www.pokemonia.ro": 435,
   "en.tcg-shop.at": 435,
   "kaissagames.com": 232,
-  "rarecards.nl": 69,
+  "rarecards.nl": 70,
   "itcg.bg": 67,
   "misticards.com": 66,
   "tcgfanshop.nl": 66,
   "www.poketalk.se": 66,
   "www.pokemillon.com": 66,
   "pokechest.at": 66,
-  "pokevend.at": 65,
+  "pokevend.at": 66,
   "pokeka.hu": 64,
   "lorenzone.fr": 43,
   "tcgstore.se": 36,
@@ -1200,8 +1172,7 @@
   "cardcorner.at": 18,
   "www.deckshop.de": 8,
   "www.amazon.it": 4,
-  "www.blackfire.eu": 3,
-  "pokeboxstore.pt": 1
+  "www.blackfire.eu": 1
  },
- "runno": 5186
+ "runno": 5187
 }
