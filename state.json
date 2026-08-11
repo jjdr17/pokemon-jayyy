@@ -510,15 +510,15 @@
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "Pokemons.dk": {
-   "Pitch Black (ME05)": "non listato",
-   "30th Celebration": "non listato",
-   "Storm Emerald (ME06)": "non listato",
-   "Chaos Rising (ME04)": "non listato",
-   "Phantasmal Flames (ME02)": "non listato",
-   "Pokémon 151": "non listato",
-   "Prismatic Evolutions": "non listato",
-   "Crown Zenith": "non listato",
-   "Destined Rivals": "non listato",
+   "Pitch Black (ME05)": "listato",
+   "30th Celebration": "listato",
+   "Storm Emerald (ME06)": "listato",
+   "Chaos Rising (ME04)": "listato",
+   "Phantasmal Flames (ME02)": "listato",
+   "Pokémon 151": "listato",
+   "Prismatic Evolutions": "listato",
+   "Crown Zenith": "listato",
+   "Destined Rivals": "listato",
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "Papelinho": {
@@ -794,7 +794,7 @@
    "Pokémon 151": "non listato",
    "Prismatic Evolutions": "non listato",
    "Crown Zenith": "non listato",
-   "Destined Rivals": "non listato",
+   "Destined Rivals": "listato",
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "Fuji-Store": {
@@ -812,8 +812,8 @@
   "LetsGoTry": {
    "Pitch Black (ME05)": "listato",
    "30th Celebration": "listato",
-   "Storm Emerald (ME06)": "non listato",
-   "Chaos Rising (ME04)": "non listato",
+   "Storm Emerald (ME06)": "listato",
+   "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "non listato",
    "Prismatic Evolutions": "non listato",
@@ -979,8 +979,16 @@
    "listato",
    1
   ],
-  "LetsGoTry|Storm Emerald (ME06)": [
+  "OutpostBrussels|Storm Emerald (ME06)": [
    "listato",
+   1
+  ],
+  "LetsGoTry|Storm Emerald (ME06)": [
+   "non listato",
+   1
+  ],
+  "LetsGoTry|Chaos Rising (ME04)": [
+   "non listato",
    1
   ]
  },
@@ -1137,9 +1145,9 @@
  "down": {
   "www.cardmarket.com": 440,
   "www.gamestop.com": 84,
-  "www.gamelife.it": 440,
-  "pokeseller14.com": 440,
-  "geco-shop.de": 440,
+  "www.gamelife.it": 441,
+  "pokeseller14.com": 441,
+  "geco-shop.de": 441,
   "www.chaoscards.co.uk": 440,
   "www.waylandgames.co.uk": 440,
   "www.firestormgames.co.uk": 441,
@@ -1168,11 +1176,9 @@
   "cardcorner.at": 23,
   "www.deckshop.de": 13,
   "www.blackfire.eu": 8,
-  "www.amazon.it": 6,
   "vinticards.com": 5,
-  "pokeboxstore.pt": 4,
-  "tcgdistribution.fr": 1,
-  "games-island.eu": 1
+  "www.lotticards.de": 1,
+  "pokeboxstore.pt": 1
  },
- "runno": 5251
+ "runno": 5252
 }
