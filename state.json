@@ -104,7 +104,7 @@
   "OutpostBrussels": {
    "Pitch Black (ME05)": "esaurito",
    "30th Celebration": "esaurito",
-   "Storm Emerald (ME06)": "listato",
+   "Storm Emerald (ME06)": "non listato",
    "Chaos Rising (ME04)": "esaurito",
    "Phantasmal Flames (ME02)": "esaurito",
    "Pokémon 151": "listato",
@@ -813,7 +813,7 @@
    "Pitch Black (ME05)": "listato",
    "30th Celebration": "listato",
    "Storm Emerald (ME06)": "listato",
-   "Chaos Rising (ME04)": "non listato",
+   "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "non listato",
    "Prismatic Evolutions": "non listato",
@@ -977,6 +977,18 @@
   ],
   "Amazon.it|Storm Emerald (ME06)": [
    "listato",
+   1
+  ],
+  "OutpostBrussels|Storm Emerald (ME06)": [
+   "listato",
+   1
+  ],
+  "LetsGoTry|Storm Emerald (ME06)": [
+   "non listato",
+   1
+  ],
+  "LetsGoTry|Chaos Rising (ME04)": [
+   "non listato",
    1
   ]
  },
@@ -1164,9 +1176,9 @@
   "cardcorner.at": 28,
   "www.deckshop.de": 18,
   "vinticards.com": 10,
+  "www.blackfire.eu": 5,
   "pokebank.es": 4,
-  "www.amazon.it": 3,
-  "tcgdistribution.fr": 1
+  "www.amazon.it": 3
  },
- "runno": 5310
+ "runno": 5311
 }
