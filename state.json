@@ -794,7 +794,7 @@
    "Pokémon 151": "non listato",
    "Prismatic Evolutions": "non listato",
    "Crown Zenith": "non listato",
-   "Destined Rivals": "non listato",
+   "Destined Rivals": "listato",
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "Fuji-Store": {
@@ -975,7 +975,7 @@
    "listato",
    1
   ],
-  "Kerailykortti|Destined Rivals": [
+  "PokeCardShop|Premium Deck Espeon & Umbreon (30th)": [
    "listato",
    1
   ]
@@ -1142,7 +1142,7 @@
   "hobbykort.se": 446,
   "tcgcompany.nl": 446,
   "www.nerdom.gr": 445,
-  "www.pokekarty.pl": 445,
+  "www.pokekarty.pl": 446,
   "www.wakuwaku.cz": 445,
   "www.pokemonia.ro": 446,
   "en.tcg-shop.at": 445,
@@ -1162,11 +1162,13 @@
   "bescards.com": 39,
   "crispycards.de": 29,
   "cardcorner.at": 29,
-  "www.deckshop.de": 18,
+  "www.deckshop.de": 19,
   "vinticards.com": 10,
   "pokebank.es": 4,
-  "www.blackfire.eu": 2,
-  "www.amazon.it": 1
+  "www.blackfire.eu": 3,
+  "pokeboxstore.pt": 1,
+  "papelinho.pt": 1,
+  "letsgotry.pl": 1
  },
- "runno": 5314
+ "runno": 5315
 }
