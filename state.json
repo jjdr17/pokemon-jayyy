@@ -813,7 +813,7 @@
    "Pitch Black (ME05)": "listato",
    "30th Celebration": "listato",
    "Storm Emerald (ME06)": "non listato",
-   "Chaos Rising (ME04)": "non listato",
+   "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "non listato",
    "Prismatic Evolutions": "non listato",
@@ -975,11 +975,11 @@
    "listato",
    1
   ],
-  "LetsGoTry|Storm Emerald (ME06)": [
-   "listato",
+  "PokeCardShop|30th Celebration": [
+   "non listato",
    1
   ],
-  "LetsGoTry|Chaos Rising (ME04)": [
+  "PokeCardShop|Premium Deck Espeon & Umbreon (30th)": [
    "listato",
    1
   ]
@@ -1135,13 +1135,13 @@
   }
  ],
  "down": {
-  "www.cardmarket.com": 446,
+  "www.cardmarket.com": 447,
   "www.gamestop.com": 84,
   "www.gamelife.it": 447,
   "pokeseller14.com": 447,
   "geco-shop.de": 447,
   "www.chaoscards.co.uk": 446,
-  "www.waylandgames.co.uk": 446,
+  "www.waylandgames.co.uk": 447,
   "www.firestormgames.co.uk": 447,
   "hobbykort.se": 447,
   "tcgcompany.nl": 447,
@@ -1152,7 +1152,7 @@
   "en.tcg-shop.at": 446,
   "kaissagames.com": 243,
   "rarecards.nl": 81,
-  "itcg.bg": 78,
+  "itcg.bg": 79,
   "misticards.com": 77,
   "tcgfanshop.nl": 77,
   "www.poketalk.se": 77,
@@ -1164,15 +1164,15 @@
   "tcgstore.se": 48,
   "www.magicbazar.fr": 47,
   "bescards.com": 40,
-  "crispycards.de": 29,
-  "cardcorner.at": 29,
+  "crispycards.de": 30,
+  "cardcorner.at": 30,
   "www.deckshop.de": 19,
   "vinticards.com": 11,
   "pokebank.es": 5,
   "www.blackfire.eu": 4,
-  "pokeboxstore.pt": 4,
-  "tcgdistribution.fr": 1,
-  "games-island.eu": 1
+  "www.amazon.it": 4,
+  "pokeboxstore.pt": 1,
+  "papelinho.pt": 1
  },
- "runno": 5325
+ "runno": 5326
 }
