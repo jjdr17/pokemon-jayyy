@@ -104,7 +104,7 @@
   "OutpostBrussels": {
    "Pitch Black (ME05)": "esaurito",
    "30th Celebration": "esaurito",
-   "Storm Emerald (ME06)": "listato",
+   "Storm Emerald (ME06)": "non listato",
    "Chaos Rising (ME04)": "esaurito",
    "Phantasmal Flames (ME02)": "esaurito",
    "Pokémon 151": "listato",
@@ -579,7 +579,7 @@
    "Prismatic Evolutions": "listato",
    "Crown Zenith": "listato",
    "Destined Rivals": "esaurito",
-   "Premium Deck Espeon & Umbreon (30th)": "non listato"
+   "Premium Deck Espeon & Umbreon (30th)": "listato"
   },
   "Kaissa Games": {
    "Pitch Black (ME05)": "listato",
@@ -813,7 +813,7 @@
    "Pitch Black (ME05)": "listato",
    "30th Celebration": "listato",
    "Storm Emerald (ME06)": "non listato",
-   "Chaos Rising (ME04)": "listato",
+   "Chaos Rising (ME04)": "non listato",
    "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "non listato",
    "Prismatic Evolutions": "non listato",
@@ -973,10 +973,6 @@
  "pending": {
   "BESCARDS|Pitch Black (ME05)": [
    "listato",
-   1
-  ],
-  "OutpostBrussels|Storm Emerald (ME06)": [
-   "non listato",
    1
   ]
  },
@@ -1138,13 +1134,13 @@
   "geco-shop.de": 443,
   "www.chaoscards.co.uk": 443,
   "www.waylandgames.co.uk": 443,
-  "www.firestormgames.co.uk": 443,
+  "www.firestormgames.co.uk": 444,
   "hobbykort.se": 443,
   "tcgcompany.nl": 443,
   "www.nerdom.gr": 443,
   "www.pokekarty.pl": 443,
   "www.wakuwaku.cz": 443,
-  "www.pokemonia.ro": 443,
+  "www.pokemonia.ro": 444,
   "en.tcg-shop.at": 443,
   "kaissagames.com": 240,
   "rarecards.nl": 78,
@@ -1165,8 +1161,8 @@
   "www.deckshop.de": 16,
   "vinticards.com": 8,
   "pokeboxstore.pt": 5,
-  "www.blackfire.eu": 5,
-  "www.amazon.it": 4
+  "www.amazon.it": 4,
+  "www.blackfire.eu": 1
  },
- "runno": 5284
+ "runno": 5285
 }
