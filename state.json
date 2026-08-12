@@ -812,7 +812,7 @@
   "LetsGoTry": {
    "Pitch Black (ME05)": "listato",
    "30th Celebration": "listato",
-   "Storm Emerald (ME06)": "non listato",
+   "Storm Emerald (ME06)": "listato",
    "Chaos Rising (ME04)": "non listato",
    "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "non listato",
@@ -975,52 +975,8 @@
    "listato",
    1
   ],
-  "Kerailykortti|Destined Rivals": [
+  "PokeCardShop|Destined Rivals": [
    "non listato",
-   1
-  ],
-  "Pokemons.dk|Pitch Black (ME05)": [
-   "non listato",
-   1
-  ],
-  "Pokemons.dk|30th Celebration": [
-   "non listato",
-   1
-  ],
-  "Pokemons.dk|Storm Emerald (ME06)": [
-   "non listato",
-   1
-  ],
-  "Pokemons.dk|Chaos Rising (ME04)": [
-   "non listato",
-   1
-  ],
-  "Pokemons.dk|Phantasmal Flames (ME02)": [
-   "non listato",
-   1
-  ],
-  "Pokemons.dk|Pokémon 151": [
-   "non listato",
-   1
-  ],
-  "Pokemons.dk|Prismatic Evolutions": [
-   "non listato",
-   1
-  ],
-  "Pokemons.dk|Crown Zenith": [
-   "non listato",
-   1
-  ],
-  "Pokemons.dk|Destined Rivals": [
-   "non listato",
-   1
-  ],
-  "PokeCardShop|Premium Deck Espeon & Umbreon (30th)": [
-   "listato",
-   1
-  ],
-  "LetsGoTry|Storm Emerald (ME06)": [
-   "listato",
    1
   ]
  },
@@ -1185,20 +1141,20 @@
   "www.firestormgames.co.uk": 457,
   "hobbykort.se": 457,
   "tcgcompany.nl": 457,
-  "www.nerdom.gr": 456,
+  "www.nerdom.gr": 457,
   "www.pokekarty.pl": 457,
   "www.wakuwaku.cz": 457,
   "www.pokemonia.ro": 457,
   "en.tcg-shop.at": 457,
   "kaissagames.com": 254,
-  "rarecards.nl": 91,
+  "rarecards.nl": 92,
   "itcg.bg": 89,
   "misticards.com": 88,
   "tcgfanshop.nl": 88,
   "www.poketalk.se": 88,
   "www.pokemillon.com": 88,
   "pokechest.at": 88,
-  "pokevend.at": 87,
+  "pokevend.at": 88,
   "pokeka.hu": 86,
   "lorenzone.fr": 65,
   "tcgstore.se": 58,
@@ -1210,7 +1166,8 @@
   "www.deckshop.de": 13,
   "www.blackfire.eu": 6,
   "pokeboxstore.pt": 4,
-  "www.amazon.it": 3
+  "www.amazon.it": 3,
+  "games-island.eu": 1
  },
- "runno": 5450
+ "runno": 5451
 }
