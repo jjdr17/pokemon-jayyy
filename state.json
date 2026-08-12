@@ -494,7 +494,7 @@
    "Pokémon 151": "listato",
    "Prismatic Evolutions": "listato",
    "Crown Zenith": "listato",
-   "Destined Rivals": "listato",
+   "Destined Rivals": "disponibile",
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "Pokemillon": {
@@ -958,7 +958,8 @@
   "papelinho.pt": "https://papelinho.pt/?s={q}&post_type=product"
  },
  "alerts": {
-  "PokeCardShop|Chaos Rising (ME04)": 1786317253.0160906
+  "PokeCardShop|Chaos Rising (ME04)": 1786317253.0160906,
+  "Pokebank|Destined Rivals": 1786571728.1363418
  },
  "prices": {
   "Packratt (UK)|Chaos Rising (ME04)": "£10.01",
@@ -968,7 +969,8 @@
   "SunnyStore|Pokémon 151": "€26,90",
   "Total Cards (UK)|Pitch Black (ME05)": "£4.79",
   "Stoyanov Games|Pitch Black (ME05)": "8.00€",
-  "PokeCardShop|30th Celebration": "€8.95"
+  "PokeCardShop|30th Celebration": "€8.95",
+  "Pokebank|Destined Rivals": "129,99€"
  },
  "pending": {
   "BESCARDS|Pitch Black (ME05)": [
@@ -979,16 +981,52 @@
    "esaurito",
    1
   ],
-  "LetsGoTry|Chaos Rising (ME04)": [
+  "Kerailykortti|Destined Rivals": [
    "non listato",
    1
   ],
-  "PokeCardShop|Premium Deck Espeon & Umbreon (30th)": [
-   "listato",
+  "Pokemons.dk|Pitch Black (ME05)": [
+   "non listato",
    1
   ],
-  "Pokebank|Destined Rivals": [
-   "disponibile",
+  "Pokemons.dk|30th Celebration": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Storm Emerald (ME06)": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Chaos Rising (ME04)": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Phantasmal Flames (ME02)": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Pokémon 151": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Prismatic Evolutions": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Crown Zenith": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Destined Rivals": [
+   "non listato",
+   1
+  ],
+  "PokeCardShop|Pokémon 151": [
+   "non listato",
+   1
+  ],
+  "LetsGoTry|Storm Emerald (ME06)": [
+   "listato",
    1
   ]
  },
@@ -1017,7 +1055,8 @@
   "Pokewoke|Pokémon 151": "https://pokewoke.store/?s=pokemon+151&post_type=product",
   "Pokecollect|Pitch Black (ME05)": "https://pokecollect.pl/?s=pitch+black&post_type=product",
   "Pikashop|Pitch Black (ME05)": "https://pikashop.pl/?s=pitch+black&post_type=product",
-  "PokeCardShop|30th Celebration": "https://www.pokecardshop.be/search?q=30th+celebration"
+  "PokeCardShop|30th Celebration": "https://www.pokecardshop.be/search?q=30th+celebration",
+  "Pokebank|Destined Rivals": "https://pokebank.es/producto/precio-pro-12999e1-etb-destined-rivals-reserva-ingles/"
  },
  "digest_slot": "2026-08-12-22",
  "log": [
@@ -1140,6 +1179,11 @@
    "ts": "10/08 01:14",
    "title": "🚨 DISPONIBILE/PREORDER: Chaos Rising (ME04) — PokeCardShop",
    "url": "https://www.pokecardshop.be/search?q=chaos+rising"
+  },
+  {
+   "ts": "12/08 23:55",
+   "title": "🚨 DISPONIBILE/PREORDER: Destined Rivals — Pokebank",
+   "url": "https://pokebank.es/producto/precio-pro-12999e1-etb-destined-rivals-reserva-ingles/"
   }
  ],
  "down": {
@@ -1150,13 +1194,13 @@
   "geco-shop.de": 462,
   "www.chaoscards.co.uk": 462,
   "www.waylandgames.co.uk": 462,
-  "www.firestormgames.co.uk": 462,
+  "www.firestormgames.co.uk": 463,
   "hobbykort.se": 462,
   "tcgcompany.nl": 462,
   "www.nerdom.gr": 462,
   "www.pokekarty.pl": 462,
   "www.wakuwaku.cz": 462,
-  "www.pokemonia.ro": 462,
+  "www.pokemonia.ro": 463,
   "en.tcg-shop.at": 462,
   "kaissagames.com": 259,
   "rarecards.nl": 97,
@@ -1177,7 +1221,12 @@
   "vinticards.com": 27,
   "www.deckshop.de": 18,
   "pokeboxstore.pt": 5,
-  "www.amazon.it": 3
+  "www.amazon.it": 3,
+  "extremepokecorner.com": 1,
+  "pokectcg.cz": 1,
+  "pokewoke.store": 1,
+  "tcgpikas.lt": 1,
+  "pokemonworld.lt": 1
  },
- "runno": 5512
+ "runno": 5513
 }
