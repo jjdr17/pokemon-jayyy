@@ -978,6 +978,10 @@
   "Amazon.it|Storm Emerald (ME06)": [
    "listato",
    1
+  ],
+  "PokeCardShop|Premium Deck Espeon & Umbreon (30th)": [
+   "listato",
+   1
   ]
  },
  "urls": {
@@ -1131,13 +1135,13 @@
   }
  ],
  "down": {
-  "www.cardmarket.com": 454,
+  "www.cardmarket.com": 455,
   "www.gamestop.com": 84,
   "www.gamelife.it": 455,
   "pokeseller14.com": 455,
   "geco-shop.de": 455,
   "www.chaoscards.co.uk": 454,
-  "www.waylandgames.co.uk": 454,
+  "www.waylandgames.co.uk": 455,
   "www.firestormgames.co.uk": 455,
   "hobbykort.se": 455,
   "tcgcompany.nl": 455,
@@ -1148,7 +1152,7 @@
   "en.tcg-shop.at": 454,
   "kaissagames.com": 251,
   "rarecards.nl": 89,
-  "itcg.bg": 86,
+  "itcg.bg": 87,
   "misticards.com": 85,
   "tcgfanshop.nl": 85,
   "www.poketalk.se": 85,
@@ -1160,14 +1164,18 @@
   "tcgstore.se": 56,
   "www.magicbazar.fr": 55,
   "bescards.com": 48,
-  "crispycards.de": 37,
-  "cardcorner.at": 37,
+  "crispycards.de": 38,
+  "cardcorner.at": 38,
   "vinticards.com": 19,
   "www.deckshop.de": 10,
   "www.amazon.it": 4,
   "www.blackfire.eu": 3,
-  "games-island.eu": 1,
-  "pokeboxstore.pt": 1
+  "pokeboxstore.pt": 2,
+  "extremepokecorner.com": 1,
+  "pokectcg.cz": 1,
+  "pokewoke.store": 1,
+  "tcgpikas.lt": 1,
+  "pokemonworld.lt": 1
  },
- "runno": 5421
+ "runno": 5422
 }
