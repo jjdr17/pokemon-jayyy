@@ -812,7 +812,7 @@
   "LetsGoTry": {
    "Pitch Black (ME05)": "listato",
    "30th Celebration": "listato",
-   "Storm Emerald (ME06)": "listato",
+   "Storm Emerald (ME06)": "non listato",
    "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "non listato",
@@ -959,7 +959,7 @@
  },
  "alerts": {
   "PokeCardShop|Chaos Rising (ME04)": 1786317253.0160906,
-  "Pokebank|Destined Rivals": 1786571728.1363418
+  "Pokebank|Destined Rivals": 1786572551.546423
  },
  "prices": {
   "Packratt (UK)|Chaos Rising (ME04)": "£10.01",
@@ -981,7 +981,7 @@
    "esaurito",
    1
   ],
-  "LetsGoTry|Storm Emerald (ME06)": [
+  "LetsGoTry|Chaos Rising (ME04)": [
    "non listato",
    1
   ]
@@ -1137,7 +1137,7 @@
    "url": "https://www.pokecardshop.be/search?q=chaos+rising"
   },
   {
-   "ts": "12/08 23:55",
+   "ts": "13/08 00:09",
    "title": "🚨 DISPONIBILE/PREORDER: Destined Rivals — Pokebank",
    "url": "https://pokebank.es/producto/precio-pro-12999e1-etb-destined-rivals-reserva-ingles/"
   }
@@ -1177,7 +1177,8 @@
   "vinticards.com": 27,
   "www.deckshop.de": 18,
   "www.amazon.it": 3,
-  "www.blackfire.eu": 2
+  "www.blackfire.eu": 1,
+  "tcgdistribution.fr": 1
  },
  "runno": 5515
 }
