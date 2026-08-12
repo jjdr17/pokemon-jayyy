@@ -982,6 +982,14 @@
   "LetsGoTry|Chaos Rising (ME04)": [
    "non listato",
    1
+  ],
+  "PokeCardShop|Premium Deck Espeon & Umbreon (30th)": [
+   "listato",
+   1
+  ],
+  "Pokebank|Destined Rivals": [
+   "disponibile",
+   1
   ]
  },
  "urls": {
@@ -1163,16 +1171,13 @@
   "lorenzone.fr": 70,
   "tcgstore.se": 63,
   "www.magicbazar.fr": 63,
-  "bescards.com": 55,
+  "bescards.com": 56,
   "crispycards.de": 45,
   "cardcorner.at": 45,
-  "vinticards.com": 26,
+  "vinticards.com": 27,
   "www.deckshop.de": 18,
   "pokeboxstore.pt": 5,
-  "www.amazon.it": 3,
-  "games-island.eu": 2,
-  "www.blackfire.eu": 1,
-  "pokebank.es": 1
+  "www.amazon.it": 3
  },
- "runno": 5511
+ "runno": 5512
 }
