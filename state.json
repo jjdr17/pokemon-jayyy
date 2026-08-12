@@ -812,7 +812,7 @@
   "LetsGoTry": {
    "Pitch Black (ME05)": "listato",
    "30th Celebration": "listato",
-   "Storm Emerald (ME06)": "non listato",
+   "Storm Emerald (ME06)": "listato",
    "Chaos Rising (ME04)": "non listato",
    "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "non listato",
@@ -974,6 +974,10 @@
   "BESCARDS|Pitch Black (ME05)": [
    "listato",
    1
+  ],
+  "LetsGoTry|Storm Emerald (ME06)": [
+   "non listato",
+   1
   ]
  },
  "urls": {
@@ -1003,7 +1007,7 @@
   "Pikashop|Pitch Black (ME05)": "https://pikashop.pl/?s=pitch+black&post_type=product",
   "PokeCardShop|30th Celebration": "https://www.pokecardshop.be/search?q=30th+celebration"
  },
- "digest_slot": "2026-08-12-10",
+ "digest_slot": "2026-08-12-15",
  "log": [
   {
    "ts": "05/07 19:55",
@@ -1129,9 +1133,9 @@
  "down": {
   "www.cardmarket.com": 457,
   "www.gamestop.com": 84,
-  "www.gamelife.it": 457,
-  "pokeseller14.com": 457,
-  "geco-shop.de": 457,
+  "www.gamelife.it": 458,
+  "pokeseller14.com": 458,
+  "geco-shop.de": 458,
   "www.chaoscards.co.uk": 457,
   "www.waylandgames.co.uk": 457,
   "www.firestormgames.co.uk": 458,
@@ -1161,8 +1165,8 @@
   "vinticards.com": 22,
   "www.deckshop.de": 13,
   "www.blackfire.eu": 6,
-  "pokeboxstore.pt": 5,
-  "www.amazon.it": 3
+  "www.amazon.it": 4,
+  "www.lotticards.de": 1
  },
- "runno": 5455
+ "runno": 5456
 }
