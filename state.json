@@ -212,7 +212,7 @@
   "Total Cards (UK)": {
    "Pitch Black (ME05)": "esaurito",
    "30th Celebration": "esaurito",
-   "Storm Emerald (ME06)": "listato",
+   "Storm Emerald (ME06)": "esaurito",
    "Chaos Rising (ME04)": "esaurito",
    "Phantasmal Flames (ME02)": "esaurito",
    "Pokémon 151": "listato",
@@ -812,8 +812,8 @@
   "LetsGoTry": {
    "Pitch Black (ME05)": "listato",
    "30th Celebration": "listato",
-   "Storm Emerald (ME06)": "listato",
-   "Chaos Rising (ME04)": "non listato",
+   "Storm Emerald (ME06)": "non listato",
+   "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "non listato",
    "Prismatic Evolutions": "non listato",
@@ -977,11 +977,7 @@
    "listato",
    1
   ],
-  "Total Cards (UK)|Storm Emerald (ME06)": [
-   "esaurito",
-   1
-  ],
-  "Amazon.it|30th Celebration": [
+  "LetsGoTry|Storm Emerald (ME06)": [
    "listato",
    1
   ]
@@ -1177,7 +1173,7 @@
   "vinticards.com": 27,
   "www.deckshop.de": 19,
   "www.blackfire.eu": 3,
-  "www.amazon.it": 1
+  "www.amazon.it": 3
  },
  "runno": 5520
 }
