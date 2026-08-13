@@ -26,7 +26,7 @@
   },
   "Amazon.it": {
    "30th Celebration": "non listato",
-   "Storm Emerald (ME06)": "non listato",
+   "Storm Emerald (ME06)": "listato",
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "TCGplayer": {
@@ -812,7 +812,7 @@
   "LetsGoTry": {
    "Pitch Black (ME05)": "listato",
    "30th Celebration": "listato",
-   "Storm Emerald (ME06)": "listato",
+   "Storm Emerald (ME06)": "non listato",
    "Chaos Rising (ME04)": "non listato",
    "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "non listato",
@@ -981,12 +981,48 @@
    "esaurito",
    1
   ],
-  "Amazon.it|Storm Emerald (ME06)": [
+  "LetsGoTry|Storm Emerald (ME06)": [
    "listato",
    1
   ],
-  "PokeCardShop|Premium Deck Espeon & Umbreon (30th)": [
-   "listato",
+  "Kerailykortti|Destined Rivals": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Pitch Black (ME05)": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|30th Celebration": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Storm Emerald (ME06)": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Chaos Rising (ME04)": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Phantasmal Flames (ME02)": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Pokémon 151": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Prismatic Evolutions": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Crown Zenith": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Destined Rivals": [
+   "non listato",
    1
   ]
  },
@@ -1161,13 +1197,13 @@
   "www.pokekarty.pl": 471,
   "www.wakuwaku.cz": 470,
   "www.pokemonia.ro": 471,
-  "en.tcg-shop.at": 470,
+  "en.tcg-shop.at": 471,
   "kaissagames.com": 267,
   "itcg.bg": 103,
   "misticards.com": 102,
   "www.poketalk.se": 102,
   "www.pokemillon.com": 101,
-  "pokechest.at": 101,
+  "pokechest.at": 102,
   "pokevend.at": 101,
   "pokeka.hu": 99,
   "lorenzone.fr": 78,
@@ -1175,16 +1211,21 @@
   "www.magicbazar.fr": 71,
   "bescards.com": 64,
   "crispycards.de": 54,
+  "cardcorner.at": 54,
   "vinticards.com": 35,
   "www.deckshop.de": 27,
   "rarecards.nl": 10,
-  "tcgfanshop.nl": 5,
+  "www.amazon.it": 9,
+  "tcgfanshop.nl": 6,
+  "letsgotry.pl": 4,
   "pokeboxstore.pt": 4,
+  "pokewoke.store": 3,
+  "tcgpikas.lt": 3,
   "www.blackfire.eu": 3,
-  "cardcorner.at": 2,
-  "www.amazon.it": 1,
-  "papelinho.pt": 1,
-  "letsgotry.pl": 1
+  "games-island.eu": 1,
+  "extremepokecorner.com": 1,
+  "pokectcg.cz": 1,
+  "pokemonworld.lt": 1
  },
- "runno": 5616
+ "runno": 5617
 }
