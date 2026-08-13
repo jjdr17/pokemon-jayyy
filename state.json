@@ -984,6 +984,10 @@
   "Amazon.it|Storm Emerald (ME06)": [
    "listato",
    1
+  ],
+  "LetsGoTry|Storm Emerald (ME06)": [
+   "listato",
+   1
   ]
  },
  "urls": {
@@ -1157,14 +1161,14 @@
   "www.pokekarty.pl": 464,
   "www.wakuwaku.cz": 463,
   "www.pokemonia.ro": 464,
-  "en.tcg-shop.at": 463,
+  "en.tcg-shop.at": 464,
   "kaissagames.com": 260,
   "itcg.bg": 96,
   "misticards.com": 95,
-  "tcgfanshop.nl": 94,
+  "tcgfanshop.nl": 95,
   "www.poketalk.se": 95,
   "www.pokemillon.com": 94,
-  "pokechest.at": 94,
+  "pokechest.at": 95,
   "pokevend.at": 94,
   "pokeka.hu": 92,
   "lorenzone.fr": 71,
@@ -1177,9 +1181,10 @@
   "www.deckshop.de": 20,
   "rarecards.nl": 3,
   "pokeboxstore.pt": 3,
-  "www.blackfire.eu": 2,
-  "games-island.eu": 2,
-  "www.lotticards.de": 1
+  "www.blackfire.eu": 3,
+  "games-island.eu": 3,
+  "www.amazon.it": 1,
+  "tcgdistribution.fr": 1
  },
- "runno": 5532
+ "runno": 5533
 }
