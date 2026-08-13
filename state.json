@@ -812,7 +812,7 @@
   "LetsGoTry": {
    "Pitch Black (ME05)": "listato",
    "30th Celebration": "listato",
-   "Storm Emerald (ME06)": "listato",
+   "Storm Emerald (ME06)": "non listato",
    "Chaos Rising (ME04)": "non listato",
    "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "non listato",
@@ -984,38 +984,6 @@
   "Amazon.it|Storm Emerald (ME06)": [
    "listato",
    1
-  ],
-  "TCGStore.se|Premium Deck Espeon & Umbreon (30th)": [
-   "non listato",
-   1
-  ],
-  "TCGStore.se|Storm Emerald (ME06)": [
-   "non listato",
-   1
-  ],
-  "TCGStore.se|Chaos Rising (ME04)": [
-   "non listato",
-   1
-  ],
-  "TCGStore.se|Prismatic Evolutions": [
-   "listato",
-   1
-  ],
-  "TCGStore.se|Destined Rivals": [
-   "non listato",
-   1
-  ],
-  "PokeCardShop|Premium Deck Espeon & Umbreon (30th)": [
-   "listato",
-   1
-  ],
-  "LetsGoTry|Storm Emerald (ME06)": [
-   "non listato",
-   1
-  ],
-  "LetsGoTry|Chaos Rising (ME04)": [
-   "listato",
-   1
   ]
  },
  "urls": {
@@ -1175,13 +1143,13 @@
   }
  ],
  "down": {
-  "www.cardmarket.com": 471,
+  "www.cardmarket.com": 472,
   "www.gamestop.com": 84,
   "www.gamelife.it": 472,
   "pokeseller14.com": 472,
   "geco-shop.de": 472,
   "www.chaoscards.co.uk": 471,
-  "www.waylandgames.co.uk": 471,
+  "www.waylandgames.co.uk": 472,
   "www.firestormgames.co.uk": 472,
   "hobbykort.se": 472,
   "tcgcompany.nl": 472,
@@ -1191,7 +1159,7 @@
   "www.pokemonia.ro": 472,
   "en.tcg-shop.at": 471,
   "kaissagames.com": 268,
-  "itcg.bg": 103,
+  "itcg.bg": 104,
   "misticards.com": 102,
   "www.poketalk.se": 102,
   "www.pokemillon.com": 102,
@@ -1199,18 +1167,17 @@
   "pokevend.at": 102,
   "pokeka.hu": 100,
   "lorenzone.fr": 79,
+  "tcgstore.se": 73,
   "www.magicbazar.fr": 72,
   "bescards.com": 65,
-  "crispycards.de": 54,
+  "crispycards.de": 55,
   "vinticards.com": 36,
   "www.deckshop.de": 27,
   "rarecards.nl": 11,
   "tcgfanshop.nl": 6,
-  "pokeboxstore.pt": 5,
-  "cardcorner.at": 3,
+  "cardcorner.at": 4,
   "www.amazon.it": 4,
-  "www.blackfire.eu": 3,
-  "games-island.eu": 1
+  "www.blackfire.eu": 3
  },
- "runno": 5625
+ "runno": 5626
 }
