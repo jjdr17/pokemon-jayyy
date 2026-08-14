@@ -812,7 +812,7 @@
   "LetsGoTry": {
    "Pitch Black (ME05)": "listato",
    "30th Celebration": "listato",
-   "Storm Emerald (ME06)": "non listato",
+   "Storm Emerald (ME06)": "listato",
    "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "non listato",
@@ -980,10 +980,6 @@
   "Total Cards (UK)|Storm Emerald (ME06)": [
    "esaurito",
    1
-  ],
-  "LetsGoTry|Storm Emerald (ME06)": [
-   "listato",
-   1
   ]
  },
  "urls": {
@@ -1014,7 +1010,7 @@
   "PokeCardShop|30th Celebration": "https://www.pokecardshop.be/search?q=30th+celebration",
   "Pokebank|Destined Rivals": "https://pokebank.es/producto/precio-pro-12999e1-etb-destined-rivals-reserva-ingles/"
  },
- "digest_slot": "2026-08-14-18",
+ "digest_slot": "2026-08-14-22",
  "log": [
   {
    "ts": "05/07 19:55",
@@ -1152,7 +1148,7 @@
   "www.waylandgames.co.uk": 485,
   "www.firestormgames.co.uk": 486,
   "hobbykort.se": 486,
-  "tcgcompany.nl": 485,
+  "tcgcompany.nl": 486,
   "www.nerdom.gr": 485,
   "www.pokekarty.pl": 485,
   "www.wakuwaku.cz": 485,
@@ -1167,7 +1163,7 @@
   "pokevend.at": 116,
   "pokeka.hu": 114,
   "lorenzone.fr": 93,
-  "tcgstore.se": 86,
+  "tcgstore.se": 87,
   "www.magicbazar.fr": 86,
   "bescards.com": 79,
   "crispycards.de": 68,
@@ -1177,9 +1173,8 @@
   "tcgfanshop.nl": 20,
   "cardcorner.at": 17,
   "www.blackfire.eu": 6,
-  "tcgdistribution.fr": 2,
-  "letsgotry.pl": 1,
-  "www.lotticards.de": 1
+  "www.amazon.it": 1,
+  "pokeboxstore.pt": 1
  },
- "runno": 5792
+ "runno": 5793
 }
