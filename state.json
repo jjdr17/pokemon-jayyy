@@ -579,7 +579,7 @@
    "Prismatic Evolutions": "listato",
    "Crown Zenith": "listato",
    "Destined Rivals": "esaurito",
-   "Premium Deck Espeon & Umbreon (30th)": "listato"
+   "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "Kaissa Games": {
    "Pitch Black (ME05)": "listato",
@@ -981,11 +981,7 @@
    "esaurito",
    1
   ],
-  "Amazon.it|Storm Emerald (ME06)": [
-   "listato",
-   1
-  ],
-  "PokeCardShop|Premium Deck Espeon & Umbreon (30th)": [
+  "LetsGoTry|Storm Emerald (ME06)": [
    "non listato",
    1
   ]
@@ -1154,13 +1150,13 @@
   "geco-shop.de": 476,
   "www.chaoscards.co.uk": 476,
   "www.waylandgames.co.uk": 476,
-  "www.firestormgames.co.uk": 476,
+  "www.firestormgames.co.uk": 477,
   "hobbykort.se": 476,
   "tcgcompany.nl": 476,
   "www.nerdom.gr": 476,
   "www.pokekarty.pl": 476,
   "www.wakuwaku.cz": 476,
-  "www.pokemonia.ro": 476,
+  "www.pokemonia.ro": 477,
   "en.tcg-shop.at": 476,
   "kaissagames.com": 273,
   "itcg.bg": 108,
@@ -1181,9 +1177,11 @@
   "tcgfanshop.nl": 11,
   "cardcorner.at": 8,
   "www.blackfire.eu": 7,
-  "www.amazon.it": 2,
-  "pokeboxstore.pt": 2,
-  "tcgdistribution.fr": 1
+  "extremepokecorner.com": 1,
+  "pokectcg.cz": 1,
+  "pokewoke.store": 1,
+  "tcgpikas.lt": 1,
+  "pokemonworld.lt": 1
  },
- "runno": 5680
+ "runno": 5681
 }
