@@ -813,7 +813,7 @@
    "Pitch Black (ME05)": "listato",
    "30th Celebration": "listato",
    "Storm Emerald (ME06)": "non listato",
-   "Chaos Rising (ME04)": "non listato",
+   "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "non listato",
    "Prismatic Evolutions": "non listato",
@@ -985,11 +985,47 @@
    "listato",
    1
   ],
-  "PokeCardShop|Phantasmal Flames (ME02)": [
+  "Kerailykortti|Destined Rivals": [
    "non listato",
    1
   ],
-  "LetsGoTry|Chaos Rising (ME04)": [
+  "Pokemons.dk|Pitch Black (ME05)": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|30th Celebration": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Storm Emerald (ME06)": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Chaos Rising (ME04)": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Phantasmal Flames (ME02)": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Pokémon 151": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Prismatic Evolutions": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Crown Zenith": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Destined Rivals": [
+   "non listato",
+   1
+  ],
+  "PokeCardShop|Premium Deck Espeon & Umbreon (30th)": [
    "listato",
    1
   ]
@@ -1156,7 +1192,7 @@
   "www.gamelife.it": 483,
   "pokeseller14.com": 483,
   "geco-shop.de": 483,
-  "www.chaoscards.co.uk": 482,
+  "www.chaoscards.co.uk": 483,
   "www.waylandgames.co.uk": 483,
   "www.firestormgames.co.uk": 483,
   "hobbykort.se": 483,
@@ -1168,8 +1204,8 @@
   "en.tcg-shop.at": 482,
   "kaissagames.com": 279,
   "itcg.bg": 115,
-  "misticards.com": 113,
-  "www.poketalk.se": 113,
+  "misticards.com": 114,
+  "www.poketalk.se": 114,
   "www.pokemillon.com": 113,
   "pokechest.at": 113,
   "pokevend.at": 113,
@@ -1186,8 +1222,13 @@
   "cardcorner.at": 15,
   "www.amazon.it": 7,
   "www.blackfire.eu": 3,
-  "pokeboxstore.pt": 2,
-  "games-island.eu": 1
+  "pokeboxstore.pt": 3,
+  "www.lotticards.de": 1,
+  "extremepokecorner.com": 1,
+  "pokectcg.cz": 1,
+  "pokewoke.store": 1,
+  "tcgpikas.lt": 1,
+  "pokemonworld.lt": 1
  },
- "runno": 5759
+ "runno": 5760
 }
