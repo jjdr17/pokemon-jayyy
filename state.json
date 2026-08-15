@@ -812,7 +812,7 @@
   "LetsGoTry": {
    "Pitch Black (ME05)": "listato",
    "30th Celebration": "listato",
-   "Storm Emerald (ME06)": "non listato",
+   "Storm Emerald (ME06)": "listato",
    "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "non listato",
@@ -979,6 +979,14 @@
   ],
   "Total Cards (UK)|Storm Emerald (ME06)": [
    "esaurito",
+   1
+  ],
+  "Kerailykortti|Destined Rivals": [
+   "non listato",
+   1
+  ],
+  "LetsGoTry|Chaos Rising (ME04)": [
+   "non listato",
    1
   ]
  },
@@ -1174,8 +1182,7 @@
   "www.poketalk.se": 6,
   "www.blackfire.eu": 5,
   "pokeboxstore.pt": 4,
-  "games-island.eu": 2,
-  "www.amazon.it": 1
+  "www.amazon.it": 3
  },
  "runno": 5835
 }
