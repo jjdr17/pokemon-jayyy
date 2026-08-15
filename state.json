@@ -976,6 +976,10 @@
   "BESCARDS|Pitch Black (ME05)": [
    "listato",
    1
+  ],
+  "PokeCardShop|Phantasmal Flames (ME02)": [
+   "non listato",
+   1
   ]
  },
  "urls": {
@@ -1142,13 +1146,13 @@
   "geco-shop.de": 498,
   "www.chaoscards.co.uk": 498,
   "www.waylandgames.co.uk": 498,
-  "www.firestormgames.co.uk": 498,
+  "www.firestormgames.co.uk": 499,
   "hobbykort.se": 498,
   "tcgcompany.nl": 498,
   "www.nerdom.gr": 498,
   "www.pokekarty.pl": 498,
   "www.wakuwaku.cz": 498,
-  "www.pokemonia.ro": 498,
+  "www.pokemonia.ro": 499,
   "en.tcg-shop.at": 498,
   "kaissagames.com": 295,
   "itcg.bg": 130,
@@ -1171,5 +1175,5 @@
   "tcgfanshop.nl": 5,
   "www.amazon.it": 4
  },
- "runno": 5944
+ "runno": 5945
 }
