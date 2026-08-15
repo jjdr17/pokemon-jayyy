@@ -977,8 +977,12 @@
    "listato",
    1
   ],
-  "PokeCardShop|Phantasmal Flames (ME02)": [
-   "non listato",
+  "LetsGoTry|Storm Emerald (ME06)": [
+   "listato",
+   1
+  ],
+  "LetsGoTry|Chaos Rising (ME04)": [
+   "listato",
    1
   ]
  },
@@ -1146,13 +1150,13 @@
   "geco-shop.de": 496,
   "www.chaoscards.co.uk": 496,
   "www.waylandgames.co.uk": 496,
-  "www.firestormgames.co.uk": 496,
+  "www.firestormgames.co.uk": 497,
   "hobbykort.se": 496,
   "tcgcompany.nl": 496,
   "www.nerdom.gr": 496,
   "www.pokekarty.pl": 496,
   "www.wakuwaku.cz": 496,
-  "www.pokemonia.ro": 496,
+  "www.pokemonia.ro": 497,
   "en.tcg-shop.at": 496,
   "kaissagames.com": 293,
   "itcg.bg": 128,
@@ -1171,9 +1175,10 @@
   "pokeboxstore.pt": 5,
   "crispycards.de": 4,
   "www.amazon.it": 3,
-  "rarecards.nl": 1,
-  "pokevend.at": 1,
-  "tcgfanshop.nl": 1
+  "rarecards.nl": 2,
+  "pokevend.at": 2,
+  "tcgfanshop.nl": 2,
+  "www.blackfire.eu": 1
  },
- "runno": 5920
+ "runno": 5921
 }
