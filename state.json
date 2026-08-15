@@ -812,7 +812,7 @@
   "LetsGoTry": {
    "Pitch Black (ME05)": "listato",
    "30th Celebration": "listato",
-   "Storm Emerald (ME06)": "non listato",
+   "Storm Emerald (ME06)": "listato",
    "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "non listato",
@@ -978,11 +978,11 @@
    1
   ],
   "LetsGoTry|Storm Emerald (ME06)": [
-   "listato",
+   "non listato",
    1
   ],
-  "PokeCardShop|Premium Deck Espeon & Umbreon (30th)": [
-   "listato",
+  "LetsGoTry|Chaos Rising (ME04)": [
+   "non listato",
    1
   ]
  },
@@ -1174,12 +1174,10 @@
   "www.poketalk.se": 13,
   "pokeboxstore.pt": 6,
   "crispycards.de": 4,
-  "www.amazon.it": 4,
   "rarecards.nl": 3,
   "pokevend.at": 3,
   "tcgfanshop.nl": 3,
-  "www.blackfire.eu": 1,
-  "www.lotticards.de": 1
+  "www.amazon.it": 1
  },
  "runno": 5925
 }
