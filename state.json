@@ -813,7 +813,7 @@
    "Pitch Black (ME05)": "listato",
    "30th Celebration": "listato",
    "Storm Emerald (ME06)": "non listato",
-   "Chaos Rising (ME04)": "non listato",
+   "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "non listato",
    "Prismatic Evolutions": "non listato",
@@ -974,6 +974,50 @@
  },
  "pending": {
   "BESCARDS|Pitch Black (ME05)": [
+   "listato",
+   1
+  ],
+  "Kerailykortti|Destined Rivals": [
+   "non listato",
+   1
+  ],
+  "Pikashop|Pitch Black (ME05)": [
+   "disponibile",
+   1
+  ],
+  "Pikashop|30th Celebration": [
+   "esaurito",
+   1
+  ],
+  "Pikashop|Storm Emerald (ME06)": [
+   "listato",
+   1
+  ],
+  "Pikashop|Chaos Rising (ME04)": [
+   "listato",
+   1
+  ],
+  "Pikashop|Phantasmal Flames (ME02)": [
+   "listato",
+   1
+  ],
+  "Pikashop|Pokémon 151": [
+   "listato",
+   1
+  ],
+  "Pikashop|Prismatic Evolutions": [
+   "listato",
+   1
+  ],
+  "Pikashop|Crown Zenith": [
+   "listato",
+   1
+  ],
+  "Pikashop|Destined Rivals": [
+   "listato",
+   1
+  ],
+  "LetsGoTry|Storm Emerald (ME06)": [
    "listato",
    1
   ]
@@ -1164,13 +1208,13 @@
   "cardcorner.at": 28,
   "misticards.com": 13,
   "www.poketalk.se": 13,
-  "pokeboxstore.pt": 5,
+  "pokeboxstore.pt": 6,
   "crispycards.de": 4,
   "www.amazon.it": 3,
   "rarecards.nl": 3,
   "pokevend.at": 3,
   "tcgfanshop.nl": 3,
-  "games-island.eu": 1
+  "www.blackfire.eu": 3
  },
- "runno": 5922
+ "runno": 5923
 }
