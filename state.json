@@ -976,6 +976,18 @@
   "BESCARDS|Pitch Black (ME05)": [
    "listato",
    1
+  ],
+  "PokeCardShop|Pitch Black (ME05)": [
+   "non listato",
+   1
+  ],
+  "LetsGoTry|Storm Emerald (ME06)": [
+   "listato",
+   1
+  ],
+  "LetsGoTry|Chaos Rising (ME04)": [
+   "non listato",
+   1
   ]
  },
  "urls": {
@@ -1140,7 +1152,7 @@
   "www.gamelife.it": 496,
   "pokeseller14.com": 496,
   "geco-shop.de": 496,
-  "www.chaoscards.co.uk": 495,
+  "www.chaoscards.co.uk": 496,
   "www.waylandgames.co.uk": 496,
   "www.firestormgames.co.uk": 496,
   "hobbykort.se": 496,
@@ -1165,12 +1177,12 @@
   "rarecards.nl": 35,
   "tcgfanshop.nl": 30,
   "cardcorner.at": 28,
-  "misticards.com": 12,
-  "www.poketalk.se": 12,
+  "misticards.com": 13,
+  "www.poketalk.se": 13,
   "pokeboxstore.pt": 5,
   "crispycards.de": 4,
   "www.amazon.it": 3,
-  "www.lotticards.de": 1
+  "www.blackfire.eu": 1
  },
- "runno": 5915
+ "runno": 5916
 }
