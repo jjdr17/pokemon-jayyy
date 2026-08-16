@@ -976,6 +976,10 @@
   "BESCARDS|Pitch Black (ME05)": [
    "listato",
    1
+  ],
+  "LetsGoTry|Storm Emerald (ME06)": [
+   "listato",
+   1
   ]
  },
  "urls": {
@@ -1144,7 +1148,7 @@
   "www.waylandgames.co.uk": 503,
   "www.firestormgames.co.uk": 504,
   "hobbykort.se": 504,
-  "tcgcompany.nl": 503,
+  "tcgcompany.nl": 504,
   "www.nerdom.gr": 503,
   "www.pokekarty.pl": 503,
   "www.wakuwaku.cz": 503,
@@ -1156,7 +1160,7 @@
   "pokechest.at": 134,
   "pokeka.hu": 132,
   "lorenzone.fr": 111,
-  "tcgstore.se": 104,
+  "tcgstore.se": 105,
   "www.magicbazar.fr": 104,
   "bescards.com": 97,
   "vinticards.com": 68,
@@ -1170,7 +1174,8 @@
   "tcgfanshop.nl": 10,
   "www.amazon.it": 5,
   "www.blackfire.eu": 4,
-  "pokeboxstore.pt": 1
+  "pokeboxstore.pt": 2,
+  "tcgdistribution.fr": 1
  },
- "runno": 6008
+ "runno": 6009
 }
