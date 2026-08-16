@@ -812,8 +812,8 @@
   "LetsGoTry": {
    "Pitch Black (ME05)": "listato",
    "30th Celebration": "listato",
-   "Storm Emerald (ME06)": "non listato",
-   "Chaos Rising (ME04)": "listato",
+   "Storm Emerald (ME06)": "listato",
+   "Chaos Rising (ME04)": "non listato",
    "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "non listato",
    "Prismatic Evolutions": "non listato",
@@ -975,6 +975,46 @@
  "pending": {
   "BESCARDS|Pitch Black (ME05)": [
    "listato",
+   1
+  ],
+  "Kerailykortti|Destined Rivals": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Pitch Black (ME05)": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|30th Celebration": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Storm Emerald (ME06)": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Chaos Rising (ME04)": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Phantasmal Flames (ME02)": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Pokémon 151": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Prismatic Evolutions": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Crown Zenith": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Destined Rivals": [
+   "non listato",
    1
   ]
  },
@@ -1145,7 +1185,7 @@
   "www.firestormgames.co.uk": 508,
   "hobbykort.se": 508,
   "tcgcompany.nl": 508,
-  "www.nerdom.gr": 507,
+  "www.nerdom.gr": 508,
   "www.pokekarty.pl": 508,
   "www.wakuwaku.cz": 508,
   "www.pokemonia.ro": 508,
@@ -1165,12 +1205,20 @@
   "misticards.com": 25,
   "www.poketalk.se": 25,
   "crispycards.de": 16,
-  "rarecards.nl": 14,
-  "pokevend.at": 14,
+  "rarecards.nl": 15,
+  "pokevend.at": 15,
   "tcgfanshop.nl": 15,
+  "www.blackfire.eu": 7,
   "papelinho.pt": 3,
-  "www.amazon.it": 3,
-  "games-island.eu": 1
+  "www.amazon.it": 2,
+  "pokebank.es": 1,
+  "extremepokecorner.com": 1,
+  "pokeboxstore.pt": 1,
+  "letsgotry.pl": 1,
+  "pokectcg.cz": 1,
+  "pokewoke.store": 1,
+  "tcgpikas.lt": 1,
+  "pokemonworld.lt": 1
  },
- "runno": 6062
+ "runno": 6063
 }
