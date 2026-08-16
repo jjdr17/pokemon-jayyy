@@ -980,6 +980,14 @@
   "Amazon.it|30th Celebration": [
    "listato",
    1
+  ],
+  "LetsGoTry|Storm Emerald (ME06)": [
+   "listato",
+   1
+  ],
+  "LetsGoTry|Chaos Rising (ME04)": [
+   "non listato",
+   1
   ]
  },
  "urls": {
@@ -1146,13 +1154,13 @@
   "geco-shop.de": 509,
   "www.chaoscards.co.uk": 509,
   "www.waylandgames.co.uk": 509,
-  "www.firestormgames.co.uk": 509,
+  "www.firestormgames.co.uk": 510,
   "hobbykort.se": 509,
   "tcgcompany.nl": 509,
   "www.nerdom.gr": 509,
   "www.pokekarty.pl": 509,
   "www.wakuwaku.cz": 509,
-  "www.pokemonia.ro": 509,
+  "www.pokemonia.ro": 510,
   "en.tcg-shop.at": 509,
   "kaissagames.com": 306,
   "itcg.bg": 141,
@@ -1176,5 +1184,5 @@
   "www.amazon.it": 3,
   "papelinho.pt": 3
  },
- "runno": 6076
+ "runno": 6077
 }
