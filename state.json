@@ -976,10 +976,6 @@
   "BESCARDS|Pitch Black (ME05)": [
    "listato",
    1
-  ],
-  "LetsGoTry|Chaos Rising (ME04)": [
-   "non listato",
-   1
   ]
  },
  "urls": {
@@ -1141,9 +1137,9 @@
  "down": {
   "www.cardmarket.com": 503,
   "www.gamestop.com": 84,
-  "www.gamelife.it": 503,
-  "pokeseller14.com": 503,
-  "geco-shop.de": 503,
+  "www.gamelife.it": 504,
+  "pokeseller14.com": 504,
+  "geco-shop.de": 504,
   "www.chaoscards.co.uk": 503,
   "www.waylandgames.co.uk": 503,
   "www.firestormgames.co.uk": 504,
@@ -1172,8 +1168,9 @@
   "rarecards.nl": 10,
   "pokevend.at": 10,
   "tcgfanshop.nl": 10,
-  "www.amazon.it": 4,
-  "www.blackfire.eu": 4
+  "www.amazon.it": 5,
+  "www.blackfire.eu": 4,
+  "pokeboxstore.pt": 1
  },
- "runno": 6007
+ "runno": 6008
 }
