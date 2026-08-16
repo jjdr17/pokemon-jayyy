@@ -976,6 +976,18 @@
   "BESCARDS|Pitch Black (ME05)": [
    "listato",
    1
+  ],
+  "PokeCardShop|Premium Deck Espeon & Umbreon (30th)": [
+   "non listato",
+   1
+  ],
+  "PokeCardShop|Prismatic Evolutions": [
+   "listato",
+   1
+  ],
+  "LetsGoTry|Storm Emerald (ME06)": [
+   "non listato",
+   1
   ]
  },
  "urls": {
@@ -1144,7 +1156,7 @@
   "www.waylandgames.co.uk": 499,
   "www.firestormgames.co.uk": 500,
   "hobbykort.se": 500,
-  "tcgcompany.nl": 499,
+  "tcgcompany.nl": 500,
   "www.nerdom.gr": 499,
   "www.pokekarty.pl": 499,
   "www.wakuwaku.cz": 499,
@@ -1156,7 +1168,7 @@
   "pokechest.at": 130,
   "pokeka.hu": 128,
   "lorenzone.fr": 107,
-  "tcgstore.se": 100,
+  "tcgstore.se": 101,
   "www.magicbazar.fr": 100,
   "bescards.com": 93,
   "vinticards.com": 64,
@@ -1169,7 +1181,7 @@
   "pokevend.at": 6,
   "tcgfanshop.nl": 6,
   "www.blackfire.eu": 4,
-  "letsgotry.pl": 1
+  "www.amazon.it": 1
  },
- "runno": 5960
+ "runno": 5961
 }
