@@ -822,15 +822,15 @@
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "Pikashop": {
-   "Pitch Black (ME05)": "disponibile",
-   "30th Celebration": "esaurito",
-   "Storm Emerald (ME06)": "listato",
-   "Chaos Rising (ME04)": "listato",
-   "Phantasmal Flames (ME02)": "listato",
-   "Pokémon 151": "listato",
-   "Prismatic Evolutions": "listato",
-   "Crown Zenith": "listato",
-   "Destined Rivals": "listato",
+   "Pitch Black (ME05)": "non listato",
+   "30th Celebration": "non listato",
+   "Storm Emerald (ME06)": "non listato",
+   "Chaos Rising (ME04)": "non listato",
+   "Phantasmal Flames (ME02)": "non listato",
+   "Pokémon 151": "non listato",
+   "Prismatic Evolutions": "non listato",
+   "Crown Zenith": "non listato",
+   "Destined Rivals": "non listato",
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "ExtremePokeCorner": {
@@ -977,40 +977,52 @@
    "listato",
    1
   ],
-  "Pikashop|Pitch Black (ME05)": [
+  "Kerailykortti|Destined Rivals": [
    "non listato",
    1
   ],
-  "Pikashop|30th Celebration": [
+  "Pokemons.dk|Pitch Black (ME05)": [
    "non listato",
    1
   ],
-  "Pikashop|Storm Emerald (ME06)": [
+  "Pokemons.dk|30th Celebration": [
    "non listato",
    1
   ],
-  "Pikashop|Chaos Rising (ME04)": [
+  "Pokemons.dk|Storm Emerald (ME06)": [
    "non listato",
    1
   ],
-  "Pikashop|Phantasmal Flames (ME02)": [
+  "Pokemons.dk|Chaos Rising (ME04)": [
    "non listato",
    1
   ],
-  "Pikashop|Pokémon 151": [
+  "Pokemons.dk|Phantasmal Flames (ME02)": [
    "non listato",
    1
   ],
-  "Pikashop|Prismatic Evolutions": [
+  "Pokemons.dk|Pokémon 151": [
    "non listato",
    1
   ],
-  "Pikashop|Crown Zenith": [
+  "Pokemons.dk|Prismatic Evolutions": [
    "non listato",
    1
   ],
-  "Pikashop|Destined Rivals": [
+  "Pokemons.dk|Crown Zenith": [
    "non listato",
+   1
+  ],
+  "Pokemons.dk|Destined Rivals": [
+   "non listato",
+   1
+  ],
+  "LetsGoTry|Storm Emerald (ME06)": [
+   "non listato",
+   1
+  ],
+  "LetsGoTry|Chaos Rising (ME04)": [
+   "listato",
    1
   ]
  },
@@ -1204,10 +1216,15 @@
   "rarecards.nl": 15,
   "pokevend.at": 15,
   "tcgfanshop.nl": 15,
+  "www.blackfire.eu": 7,
   "papelinho.pt": 3,
   "www.amazon.it": 3,
-  "tcgdistribution.fr": 1,
-  "pokeboxstore.pt": 1
+  "games-island.eu": 1,
+  "extremepokecorner.com": 1,
+  "pokectcg.cz": 1,
+  "pokewoke.store": 1,
+  "tcgpikas.lt": 1,
+  "pokemonworld.lt": 1
  },
- "runno": 6066
+ "runno": 6067
 }
