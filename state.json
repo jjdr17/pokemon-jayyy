@@ -976,6 +976,14 @@
   "BESCARDS|Pitch Black (ME05)": [
    "listato",
    1
+  ],
+  "LetsGoTry|Storm Emerald (ME06)": [
+   "listato",
+   1
+  ],
+  "LetsGoTry|Chaos Rising (ME04)": [
+   "non listato",
+   1
   ]
  },
  "urls": {
@@ -1158,8 +1166,8 @@
   "lorenzone.fr": 113,
   "tcgstore.se": 106,
   "www.magicbazar.fr": 106,
-  "bescards.com": 98,
-  "vinticards.com": 69,
+  "bescards.com": 99,
+  "vinticards.com": 70,
   "www.deckshop.de": 61,
   "cardcorner.at": 37,
   "misticards.com": 22,
@@ -1170,8 +1178,7 @@
   "tcgfanshop.nl": 12,
   "www.blackfire.eu": 4,
   "www.amazon.it": 3,
-  "pokeboxstore.pt": 2,
-  "games-island.eu": 1
+  "tcgdistribution.fr": 1
  },
- "runno": 6027
+ "runno": 6028
 }
