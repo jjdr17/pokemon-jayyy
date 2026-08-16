@@ -813,7 +813,7 @@
    "Pitch Black (ME05)": "listato",
    "30th Celebration": "listato",
    "Storm Emerald (ME06)": "listato",
-   "Chaos Rising (ME04)": "listato",
+   "Chaos Rising (ME04)": "non listato",
    "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "non listato",
    "Prismatic Evolutions": "non listato",
@@ -974,6 +974,18 @@
  },
  "pending": {
   "BESCARDS|Pitch Black (ME05)": [
+   "listato",
+   1
+  ],
+  "Amazon.it|30th Celebration": [
+   "listato",
+   1
+  ],
+  "LetsGoTry|Storm Emerald (ME06)": [
+   "non listato",
+   1
+  ],
+  "LetsGoTry|Chaos Rising (ME04)": [
    "listato",
    1
   ]
@@ -1144,7 +1156,7 @@
   "www.waylandgames.co.uk": 508,
   "www.firestormgames.co.uk": 509,
   "hobbykort.se": 509,
-  "tcgcompany.nl": 508,
+  "tcgcompany.nl": 509,
   "www.nerdom.gr": 508,
   "www.pokekarty.pl": 508,
   "www.wakuwaku.cz": 508,
@@ -1156,7 +1168,7 @@
   "pokechest.at": 139,
   "pokeka.hu": 137,
   "lorenzone.fr": 116,
-  "tcgstore.se": 109,
+  "tcgstore.se": 110,
   "www.magicbazar.fr": 109,
   "bescards.com": 102,
   "vinticards.com": 73,
@@ -1168,10 +1180,10 @@
   "rarecards.nl": 15,
   "pokevend.at": 15,
   "tcgfanshop.nl": 15,
+  "www.blackfire.eu": 7,
   "papelinho.pt": 3,
-  "www.blackfire.eu": 2,
-  "tcgdistribution.fr": 1,
-  "www.lotticards.de": 1
+  "www.amazon.it": 1,
+  "pokeboxstore.pt": 1
  },
- "runno": 6068
+ "runno": 6069
 }
