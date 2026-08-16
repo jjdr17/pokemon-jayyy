@@ -812,7 +812,7 @@
   "LetsGoTry": {
    "Pitch Black (ME05)": "listato",
    "30th Celebration": "listato",
-   "Storm Emerald (ME06)": "listato",
+   "Storm Emerald (ME06)": "non listato",
    "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "non listato",
@@ -976,14 +976,6 @@
   "BESCARDS|Pitch Black (ME05)": [
    "listato",
    1
-  ],
-  "LetsGoTry|Storm Emerald (ME06)": [
-   "non listato",
-   1
-  ],
-  "LetsGoTry|Chaos Rising (ME04)": [
-   "non listato",
-   1
   ]
  },
  "urls": {
@@ -1014,7 +1006,7 @@
   "PokeCardShop|30th Celebration": "https://www.pokecardshop.be/search?q=30th+celebration",
   "Pokebank|Destined Rivals": "https://pokebank.es/producto/precio-pro-12999e1-etb-destined-rivals-reserva-ingles/"
  },
- "digest_slot": "2026-08-15-22",
+ "digest_slot": "2026-08-16-10",
  "log": [
   {
    "ts": "05/07 19:55",
@@ -1166,8 +1158,8 @@
   "lorenzone.fr": 111,
   "tcgstore.se": 104,
   "www.magicbazar.fr": 104,
-  "bescards.com": 96,
-  "vinticards.com": 67,
+  "bescards.com": 97,
+  "vinticards.com": 68,
   "www.deckshop.de": 59,
   "cardcorner.at": 35,
   "misticards.com": 20,
@@ -1180,5 +1172,5 @@
   "www.blackfire.eu": 4,
   "pokeboxstore.pt": 3
  },
- "runno": 6003
+ "runno": 6004
 }
