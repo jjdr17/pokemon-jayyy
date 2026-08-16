@@ -812,8 +812,8 @@
   "LetsGoTry": {
    "Pitch Black (ME05)": "listato",
    "30th Celebration": "listato",
-   "Storm Emerald (ME06)": "non listato",
-   "Chaos Rising (ME04)": "non listato",
+   "Storm Emerald (ME06)": "listato",
+   "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "non listato",
    "Prismatic Evolutions": "non listato",
@@ -977,12 +977,48 @@
    "listato",
    1
   ],
-  "Amazon.it|30th Celebration": [
+  "SunnyStore|Pokémon 151": [
+   "esaurito",
+   1
+  ],
+  "Kerailykortti|Destined Rivals": [
    "non listato",
    1
   ],
-  "LetsGoTry|Storm Emerald (ME06)": [
-   "listato",
+  "Pokemons.dk|Pitch Black (ME05)": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|30th Celebration": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Storm Emerald (ME06)": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Chaos Rising (ME04)": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Phantasmal Flames (ME02)": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Pokémon 151": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Prismatic Evolutions": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Crown Zenith": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Destined Rivals": [
+   "non listato",
    1
   ]
  },
@@ -1148,7 +1184,7 @@
   "www.gamelife.it": 510,
   "pokeseller14.com": 510,
   "geco-shop.de": 510,
-  "www.chaoscards.co.uk": 509,
+  "www.chaoscards.co.uk": 510,
   "www.waylandgames.co.uk": 510,
   "www.firestormgames.co.uk": 510,
   "hobbykort.se": 510,
@@ -1168,18 +1204,19 @@
   "www.magicbazar.fr": 110,
   "bescards.com": 103,
   "vinticards.com": 74,
-  "www.deckshop.de": 66,
   "cardcorner.at": 42,
-  "misticards.com": 26,
-  "www.poketalk.se": 26,
+  "misticards.com": 27,
+  "www.poketalk.se": 27,
   "crispycards.de": 18,
   "rarecards.nl": 16,
   "pokevend.at": 16,
   "tcgfanshop.nl": 16,
   "www.blackfire.eu": 8,
   "papelinho.pt": 4,
+  "pokeboxstore.pt": 3,
   "www.amazon.it": 2,
-  "games-island.eu": 2
+  "www.deckshop.de": 1,
+  "games-island.eu": 1
  },
- "runno": 6083
+ "runno": 6084
 }
