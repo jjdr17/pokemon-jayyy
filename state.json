@@ -812,8 +812,8 @@
   "LetsGoTry": {
    "Pitch Black (ME05)": "listato",
    "30th Celebration": "listato",
-   "Storm Emerald (ME06)": "listato",
-   "Chaos Rising (ME04)": "listato",
+   "Storm Emerald (ME06)": "non listato",
+   "Chaos Rising (ME04)": "non listato",
    "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "non listato",
    "Prismatic Evolutions": "non listato",
@@ -984,8 +984,12 @@
    "listato",
    1
   ],
+  "LetsGoTry|Storm Emerald (ME06)": [
+   "listato",
+   1
+  ],
   "LetsGoTry|Chaos Rising (ME04)": [
-   "non listato",
+   "listato",
    1
   ]
  },
@@ -1017,7 +1021,7 @@
   "PokeCardShop|30th Celebration": "https://www.pokecardshop.be/search?q=30th+celebration",
   "Pokebank|Destined Rivals": "https://pokebank.es/producto/precio-pro-12999e1-etb-destined-rivals-reserva-ingles/"
  },
- "digest_slot": "2026-08-17-18",
+ "digest_slot": "2026-08-17-22",
  "log": [
   {
    "ts": "05/07 19:55",
@@ -1181,8 +1185,7 @@
   "www.deckshop.de": 13,
   "www.amazon.it": 5,
   "www.blackfire.eu": 4,
-  "tradingcard.fi": 3,
-  "tcgdistribution.fr": 1
+  "tradingcard.fi": 3
  },
  "runno": 6214
 }
