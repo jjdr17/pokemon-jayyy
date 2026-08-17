@@ -983,6 +983,14 @@
   "Amazon.it|30th Celebration": [
    "non listato",
    1
+  ],
+  "LetsGoTry|Storm Emerald (ME06)": [
+   "listato",
+   1
+  ],
+  "LetsGoTry|Chaos Rising (ME04)": [
+   "non listato",
+   1
   ]
  },
  "urls": {
@@ -1151,7 +1159,7 @@
   "www.waylandgames.co.uk": 514,
   "www.firestormgames.co.uk": 515,
   "hobbykort.se": 515,
-  "tcgcompany.nl": 514,
+  "tcgcompany.nl": 515,
   "www.nerdom.gr": 514,
   "www.pokekarty.pl": 514,
   "www.wakuwaku.cz": 514,
@@ -1163,7 +1171,7 @@
   "pokechest.at": 145,
   "pokeka.hu": 143,
   "lorenzone.fr": 122,
-  "tcgstore.se": 115,
+  "tcgstore.se": 116,
   "www.magicbazar.fr": 115,
   "bescards.com": 108,
   "vinticards.com": 79,
@@ -1176,7 +1184,9 @@
   "tcgfanshop.nl": 21,
   "www.deckshop.de": 7,
   "www.blackfire.eu": 7,
-  "www.amazon.it": 4
+  "www.amazon.it": 4,
+  "www.butticards.at": 1,
+  "oppacards.com": 1
  },
- "runno": 6140
+ "runno": 6141
 }
