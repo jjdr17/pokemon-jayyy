@@ -126,7 +126,7 @@
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "SunnyStore": {
-   "Pitch Black (ME05)": "esaurito",
+   "Pitch Black (ME05)": "listato",
    "30th Celebration": "listato",
    "Storm Emerald (ME06)": "listato",
    "Chaos Rising (ME04)": "esaurito",
@@ -813,7 +813,7 @@
    "Pitch Black (ME05)": "listato",
    "30th Celebration": "listato",
    "Storm Emerald (ME06)": "listato",
-   "Chaos Rising (ME04)": "listato",
+   "Chaos Rising (ME04)": "non listato",
    "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "non listato",
    "Prismatic Evolutions": "non listato",
@@ -980,11 +980,23 @@
    "esaurito",
    1
   ],
-  "SunnyStore|Pitch Black (ME05)": [
-   "listato",
+  "OutpostBrussels|Storm Emerald (ME06)": [
+   "non listato",
+   1
+  ],
+  "SunnyStore|30th Celebration": [
+   "non listato",
    1
   ],
   "PokeCardShop|Premium Deck Espeon & Umbreon (30th)": [
+   "listato",
+   1
+  ],
+  "LetsGoTry|Storm Emerald (ME06)": [
+   "non listato",
+   1
+  ],
+  "LetsGoTry|Chaos Rising (ME04)": [
    "listato",
    1
   ]
@@ -1181,8 +1193,7 @@
   "www.deckshop.de": 14,
   "www.amazon.it": 5,
   "www.blackfire.eu": 5,
-  "tradingcard.fi": 4,
-  "tcgdistribution.fr": 1
+  "tradingcard.fi": 4
  },
  "runno": 6220
 }
