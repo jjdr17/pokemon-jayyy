@@ -975,6 +975,10 @@
   "BESCARDS|Pitch Black (ME05)": [
    "listato",
    1
+  ],
+  "PokeCardShop|Premium Deck Espeon & Umbreon (30th)": [
+   "non listato",
+   1
   ]
  },
  "urls": {
@@ -1134,13 +1138,13 @@
   }
  ],
  "down": {
-  "www.cardmarket.com": 528,
+  "www.cardmarket.com": 529,
   "www.gamestop.com": 84,
   "www.gamelife.it": 529,
   "pokeseller14.com": 529,
   "geco-shop.de": 529,
   "www.chaoscards.co.uk": 528,
-  "www.waylandgames.co.uk": 528,
+  "www.waylandgames.co.uk": 529,
   "www.firestormgames.co.uk": 529,
   "hobbykort.se": 529,
   "tcgcompany.nl": 529,
@@ -1150,7 +1154,7 @@
   "www.pokemonia.ro": 529,
   "en.tcg-shop.at": 528,
   "kaissagames.com": 325,
-  "itcg.bg": 160,
+  "itcg.bg": 161,
   "www.pokemillon.com": 159,
   "pokechest.at": 159,
   "pokeka.hu": 157,
@@ -1159,7 +1163,7 @@
   "www.magicbazar.fr": 129,
   "bescards.com": 122,
   "vinticards.com": 93,
-  "cardcorner.at": 60,
+  "cardcorner.at": 61,
   "misticards.com": 45,
   "www.poketalk.se": 45,
   "pokevend.at": 35,
@@ -1167,14 +1171,9 @@
   "www.deckshop.de": 21,
   "rarecards.nl": 7,
   "www.amazon.it": 7,
-  "crispycards.de": 4,
+  "crispycards.de": 5,
   "www.blackfire.eu": 3,
-  "tradingcard.fi": 3,
-  "extremepokecorner.com": 1,
-  "pokectcg.cz": 1,
-  "pokewoke.store": 1,
-  "tcgpikas.lt": 1,
-  "pokemonworld.lt": 1
+  "tradingcard.fi": 3
  },
- "runno": 6309
+ "runno": 6310
 }
