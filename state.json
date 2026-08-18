@@ -983,6 +983,14 @@
   "TCGStore.se|Pitch Black (ME05)": [
    "esaurito",
    1
+  ],
+  "PokeCardShop|Premium Deck Espeon & Umbreon (30th)": [
+   "listato",
+   1
+  ],
+  "PokeCardShop|Chaos Rising (ME04)": [
+   "non listato",
+   1
   ]
  },
  "urls": {
@@ -1156,11 +1164,11 @@
   "www.pokekarty.pl": 533,
   "www.wakuwaku.cz": 532,
   "www.pokemonia.ro": 533,
-  "en.tcg-shop.at": 532,
+  "en.tcg-shop.at": 533,
   "kaissagames.com": 329,
   "itcg.bg": 165,
   "www.pokemillon.com": 163,
-  "pokechest.at": 163,
+  "pokechest.at": 164,
   "pokeka.hu": 161,
   "lorenzone.fr": 140,
   "www.magicbazar.fr": 133,
@@ -1170,7 +1178,7 @@
   "misticards.com": 50,
   "www.poketalk.se": 50,
   "pokevend.at": 39,
-  "tcgfanshop.nl": 39,
+  "tcgfanshop.nl": 40,
   "www.deckshop.de": 26,
   "rarecards.nl": 11,
   "crispycards.de": 9,
@@ -1178,8 +1186,12 @@
   "tcgstore.se": 6,
   "www.amazon.it": 6,
   "www.blackfire.eu": 3,
-  "pokeboxstore.pt": 1,
-  "letsgotry.pl": 1
+  "letsgotry.pl": 2,
+  "extremepokecorner.com": 1,
+  "pokectcg.cz": 1,
+  "pokewoke.store": 1,
+  "pokemonworld.lt": 1,
+  "tcgpikas.lt": 1
  },
- "runno": 6360
+ "runno": 6361
 }
