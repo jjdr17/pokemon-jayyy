@@ -812,8 +812,8 @@
   "LetsGoTry": {
    "Pitch Black (ME05)": "listato",
    "30th Celebration": "listato",
-   "Storm Emerald (ME06)": "non listato",
-   "Chaos Rising (ME04)": "non listato",
+   "Storm Emerald (ME06)": "listato",
+   "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "non listato",
    "Prismatic Evolutions": "non listato",
@@ -984,55 +984,7 @@
    "esaurito",
    1
   ],
-  "Pokemons.dk|Pitch Black (ME05)": [
-   "non listato",
-   1
-  ],
-  "Pokemons.dk|30th Celebration": [
-   "non listato",
-   1
-  ],
-  "Pokemons.dk|Storm Emerald (ME06)": [
-   "non listato",
-   1
-  ],
-  "Pokemons.dk|Chaos Rising (ME04)": [
-   "non listato",
-   1
-  ],
-  "Pokemons.dk|Phantasmal Flames (ME02)": [
-   "non listato",
-   1
-  ],
-  "Pokemons.dk|Pokémon 151": [
-   "non listato",
-   1
-  ],
-  "Pokemons.dk|Prismatic Evolutions": [
-   "non listato",
-   1
-  ],
-  "Pokemons.dk|Crown Zenith": [
-   "non listato",
-   1
-  ],
-  "Pokemons.dk|Destined Rivals": [
-   "non listato",
-   1
-  ],
-  "PokeCardShop|Premium Deck Espeon & Umbreon (30th)": [
-   "listato",
-   1
-  ],
-  "LetsGoTry|Pitch Black (ME05)": [
-   "non listato",
-   1
-  ],
-  "LetsGoTry|Storm Emerald (ME06)": [
-   "listato",
-   1
-  ],
-  "LetsGoTry|Chaos Rising (ME04)": [
+  "Amazon.it|Storm Emerald (ME06)": [
    "listato",
    1
   ]
@@ -1208,11 +1160,11 @@
   "www.pokekarty.pl": 530,
   "www.wakuwaku.cz": 529,
   "www.pokemonia.ro": 530,
-  "en.tcg-shop.at": 529,
+  "en.tcg-shop.at": 530,
   "kaissagames.com": 326,
   "itcg.bg": 162,
   "www.pokemillon.com": 160,
-  "pokechest.at": 160,
+  "pokechest.at": 161,
   "pokeka.hu": 158,
   "lorenzone.fr": 137,
   "www.magicbazar.fr": 130,
@@ -1222,15 +1174,14 @@
   "misticards.com": 47,
   "www.poketalk.se": 47,
   "pokevend.at": 36,
-  "tcgfanshop.nl": 36,
+  "tcgfanshop.nl": 37,
   "www.deckshop.de": 23,
   "rarecards.nl": 8,
   "crispycards.de": 6,
   "www.blackfire.eu": 3,
   "tradingcard.fi": 3,
   "tcgstore.se": 3,
-  "pokeboxstore.pt": 3,
-  "www.amazon.it": 2
+  "pokeboxstore.pt": 3
  },
- "runno": 6324
+ "runno": 6325
 }
