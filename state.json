@@ -810,7 +810,7 @@
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "LetsGoTry": {
-   "Pitch Black (ME05)": "listato",
+   "Pitch Black (ME05)": "non listato",
    "30th Celebration": "listato",
    "Storm Emerald (ME06)": "non listato",
    "Chaos Rising (ME04)": "listato",
@@ -986,10 +986,6 @@
   ],
   "LetsGoTry|Storm Emerald (ME06)": [
    "listato",
-   1
-  ],
-  "LetsGoTry|Chaos Rising (ME04)": [
-   "non listato",
    1
   ]
  },
@@ -1186,9 +1182,7 @@
   "tcgstore.se": 5,
   "www.amazon.it": 5,
   "www.blackfire.eu": 3,
-  "www.butticards.at": 1,
-  "pokeboxstore.pt": 1,
-  "oppacards.com": 1
+  "pokeboxstore.pt": 1
  },
  "runno": 6348
 }
