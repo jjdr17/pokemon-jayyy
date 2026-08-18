@@ -810,9 +810,9 @@
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "LetsGoTry": {
-   "Pitch Black (ME05)": "non listato",
+   "Pitch Black (ME05)": "listato",
    "30th Celebration": "listato",
-   "Storm Emerald (ME06)": "listato",
+   "Storm Emerald (ME06)": "non listato",
    "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "non listato",
@@ -822,15 +822,15 @@
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "Pikashop": {
-   "Pitch Black (ME05)": "disponibile",
-   "30th Celebration": "esaurito",
-   "Storm Emerald (ME06)": "listato",
-   "Chaos Rising (ME04)": "listato",
-   "Phantasmal Flames (ME02)": "listato",
-   "Pokémon 151": "listato",
-   "Prismatic Evolutions": "listato",
-   "Crown Zenith": "listato",
-   "Destined Rivals": "listato",
+   "Pitch Black (ME05)": "non listato",
+   "30th Celebration": "non listato",
+   "Storm Emerald (ME06)": "non listato",
+   "Chaos Rising (ME04)": "non listato",
+   "Phantasmal Flames (ME02)": "non listato",
+   "Pokémon 151": "non listato",
+   "Prismatic Evolutions": "non listato",
+   "Crown Zenith": "non listato",
+   "Destined Rivals": "non listato",
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "ExtremePokeCorner": {
@@ -976,39 +976,11 @@
    "listato",
    1
   ],
-  "Pikashop|Pitch Black (ME05)": [
-   "non listato",
+  "LetsGoTry|Storm Emerald (ME06)": [
+   "listato",
    1
   ],
-  "Pikashop|30th Celebration": [
-   "non listato",
-   1
-  ],
-  "Pikashop|Storm Emerald (ME06)": [
-   "non listato",
-   1
-  ],
-  "Pikashop|Chaos Rising (ME04)": [
-   "non listato",
-   1
-  ],
-  "Pikashop|Phantasmal Flames (ME02)": [
-   "non listato",
-   1
-  ],
-  "Pikashop|Pokémon 151": [
-   "non listato",
-   1
-  ],
-  "Pikashop|Prismatic Evolutions": [
-   "non listato",
-   1
-  ],
-  "Pikashop|Crown Zenith": [
-   "non listato",
-   1
-  ],
-  "Pikashop|Destined Rivals": [
+  "LetsGoTry|Chaos Rising (ME04)": [
    "non listato",
    1
   ]
@@ -1205,9 +1177,9 @@
   "rarecards.nl": 6,
   "www.amazon.it": 6,
   "crispycards.de": 4,
-  "pokectcg.cz": 1,
-  "pokeboxstore.pt": 1,
-  "letsgotry.pl": 1
+  "www.blackfire.eu": 4,
+  "letsgotry.pl": 3,
+  "pokectcg.cz": 1
  },
  "runno": 6302
 }
