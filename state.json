@@ -812,7 +812,7 @@
   "LetsGoTry": {
    "Pitch Black (ME05)": "non listato",
    "30th Celebration": "listato",
-   "Storm Emerald (ME06)": "non listato",
+   "Storm Emerald (ME06)": "listato",
    "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "non listato",
@@ -979,10 +979,6 @@
   "LetsGoTry|Pitch Black (ME05)": [
    "listato",
    1
-  ],
-  "LetsGoTry|Chaos Rising (ME04)": [
-   "non listato",
-   1
   ]
  },
  "urls": {
@@ -1142,13 +1138,13 @@
   }
  ],
  "down": {
-  "www.cardmarket.com": 526,
+  "www.cardmarket.com": 527,
   "www.gamestop.com": 84,
   "www.gamelife.it": 527,
   "pokeseller14.com": 527,
   "geco-shop.de": 527,
   "www.chaoscards.co.uk": 526,
-  "www.waylandgames.co.uk": 526,
+  "www.waylandgames.co.uk": 527,
   "www.firestormgames.co.uk": 527,
   "hobbykort.se": 527,
   "tcgcompany.nl": 527,
@@ -1158,7 +1154,7 @@
   "www.pokemonia.ro": 527,
   "en.tcg-shop.at": 526,
   "kaissagames.com": 323,
-  "itcg.bg": 158,
+  "itcg.bg": 159,
   "www.pokemillon.com": 157,
   "pokechest.at": 157,
   "pokeka.hu": 155,
@@ -1167,7 +1163,7 @@
   "www.magicbazar.fr": 127,
   "bescards.com": 120,
   "vinticards.com": 91,
-  "cardcorner.at": 58,
+  "cardcorner.at": 59,
   "misticards.com": 43,
   "www.poketalk.se": 43,
   "pokevend.at": 33,
@@ -1176,14 +1172,9 @@
   "www.blackfire.eu": 10,
   "tradingcard.fi": 9,
   "rarecards.nl": 5,
-  "pokeboxstore.pt": 5,
   "www.amazon.it": 5,
   "crispycards.de": 3,
-  "pokectcg.cz": 2,
-  "extremepokecorner.com": 1,
-  "pokewoke.store": 1,
-  "pokemonworld.lt": 1,
-  "tcgpikas.lt": 1
+  "pokeboxstore.pt": 3
  },
- "runno": 6285
+ "runno": 6286
 }
