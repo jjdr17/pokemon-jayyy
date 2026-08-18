@@ -975,6 +975,10 @@
   "BESCARDS|Pitch Black (ME05)": [
    "listato",
    1
+  ],
+  "PokeCardShop|Premium Deck Espeon & Umbreon (30th)": [
+   "non listato",
+   1
   ]
  },
  "urls": {
@@ -1142,7 +1146,7 @@
   "www.chaoscards.co.uk": 529,
   "www.waylandgames.co.uk": 529,
   "www.firestormgames.co.uk": 530,
-  "hobbykort.se": 529,
+  "hobbykort.se": 530,
   "tcgcompany.nl": 529,
   "www.nerdom.gr": 529,
   "www.pokekarty.pl": 529,
@@ -1169,8 +1173,9 @@
   "www.amazon.it": 7,
   "crispycards.de": 5,
   "www.blackfire.eu": 3,
-  "pokeboxstore.pt": 2,
-  "tradingcard.fi": 1
+  "tradingcard.fi": 2,
+  "games-island.eu": 1,
+  "pokeboxstore.pt": 1
  },
- "runno": 6317
+ "runno": 6318
 }
