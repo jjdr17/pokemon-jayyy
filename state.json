@@ -810,9 +810,9 @@
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "LetsGoTry": {
-   "Pitch Black (ME05)": "listato",
+   "Pitch Black (ME05)": "non listato",
    "30th Celebration": "listato",
-   "Storm Emerald (ME06)": "non listato",
+   "Storm Emerald (ME06)": "listato",
    "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "non listato",
@@ -984,27 +984,11 @@
    "esaurito",
    1
   ],
-  "LorenZone|Pitch Black (ME05)": [
-   "non listato",
-   1
-  ],
-  "LorenZone|Chaos Rising (ME04)": [
-   "non listato",
-   1
-  ],
-  "LorenZone|Pokémon 151": [
-   "non listato",
-   1
-  ],
-  "LorenZone|Prismatic Evolutions": [
-   "non listato",
-   1
-  ],
-  "LorenZone|Crown Zenith": [
-   "non listato",
-   1
-  ],
   "LetsGoTry|Pitch Black (ME05)": [
+   "listato",
+   1
+  ],
+  "LetsGoTry|Storm Emerald (ME06)": [
    "non listato",
    1
   ]
@@ -1186,6 +1170,7 @@
   "www.pokemillon.com": 163,
   "pokechest.at": 163,
   "pokeka.hu": 161,
+  "lorenzone.fr": 140,
   "www.magicbazar.fr": 133,
   "bescards.com": 125,
   "vinticards.com": 96,
