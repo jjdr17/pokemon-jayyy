@@ -570,15 +570,15 @@
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "PokeCardShop": {
-   "Pitch Black (ME05)": "esaurito",
-   "30th Celebration": "esaurito",
+   "Pitch Black (ME05)": "non listato",
+   "30th Celebration": "non listato",
    "Storm Emerald (ME06)": "non listato",
    "Chaos Rising (ME04)": "esaurito",
    "Phantasmal Flames (ME02)": "esaurito",
    "Pokémon 151": "listato",
    "Prismatic Evolutions": "listato",
    "Crown Zenith": "listato",
-   "Destined Rivals": "esaurito",
+   "Destined Rivals": "non listato",
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "Kaissa Games": {
@@ -984,16 +984,16 @@
    "esaurito",
    1
   ],
-  "PokeCardShop|Pitch Black (ME05)": [
-   "non listato",
+  "LetsGoTry|Pitch Black (ME05)": [
+   "listato",
    1
   ],
-  "PokeCardShop|30th Celebration": [
-   "non listato",
+  "LetsGoTry|Storm Emerald (ME06)": [
+   "listato",
    1
   ],
-  "PokeCardShop|Destined Rivals": [
-   "non listato",
+  "LetsGoTry|Chaos Rising (ME04)": [
+   "listato",
    1
   ]
  },
@@ -1154,13 +1154,13 @@
   }
  ],
  "down": {
-  "www.cardmarket.com": 530,
+  "www.cardmarket.com": 531,
   "www.gamestop.com": 84,
   "www.gamelife.it": 531,
   "pokeseller14.com": 531,
   "geco-shop.de": 531,
   "www.chaoscards.co.uk": 530,
-  "www.waylandgames.co.uk": 530,
+  "www.waylandgames.co.uk": 531,
   "www.firestormgames.co.uk": 531,
   "hobbykort.se": 531,
   "tcgcompany.nl": 531,
@@ -1170,7 +1170,7 @@
   "www.pokemonia.ro": 531,
   "en.tcg-shop.at": 530,
   "kaissagames.com": 327,
-  "itcg.bg": 162,
+  "itcg.bg": 163,
   "www.pokemillon.com": 161,
   "pokechest.at": 161,
   "pokeka.hu": 159,
@@ -1178,20 +1178,20 @@
   "www.magicbazar.fr": 131,
   "bescards.com": 124,
   "vinticards.com": 95,
-  "cardcorner.at": 62,
+  "cardcorner.at": 63,
   "misticards.com": 47,
   "www.poketalk.se": 47,
   "pokevend.at": 37,
   "tcgfanshop.nl": 37,
   "www.deckshop.de": 23,
   "rarecards.nl": 9,
-  "crispycards.de": 6,
+  "crispycards.de": 7,
   "www.blackfire.eu": 4,
   "tradingcard.fi": 4,
   "tcgstore.se": 4,
   "pokeboxstore.pt": 4,
   "www.amazon.it": 4,
-  "alldaytcg.com": 1
+  "www.lotticards.de": 1
  },
- "runno": 6333
+ "runno": 6334
 }
