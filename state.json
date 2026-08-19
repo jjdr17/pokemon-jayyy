@@ -575,7 +575,7 @@
    "Storm Emerald (ME06)": "non listato",
    "Chaos Rising (ME04)": "esaurito",
    "Phantasmal Flames (ME02)": "esaurito",
-   "Pokémon 151": "non listato",
+   "Pokémon 151": "listato",
    "Prismatic Evolutions": "listato",
    "Crown Zenith": "listato",
    "Destined Rivals": "esaurito",
@@ -813,7 +813,7 @@
    "Pitch Black (ME05)": "non listato",
    "30th Celebration": "listato",
    "Storm Emerald (ME06)": "listato",
-   "Chaos Rising (ME04)": "listato",
+   "Chaos Rising (ME04)": "non listato",
    "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "non listato",
    "Prismatic Evolutions": "non listato",
@@ -980,8 +980,16 @@
    "esaurito",
    1
   ],
-  "Pokemons.dk|Crown Zenith": [
-   "disponibile",
+  "LetsGoTry|Pitch Black (ME05)": [
+   "listato",
+   1
+  ],
+  "LetsGoTry|Storm Emerald (ME06)": [
+   "non listato",
+   1
+  ],
+  "PokeCardShop|Destined Rivals": [
+   "non listato",
    1
   ]
  },
@@ -1013,7 +1021,7 @@
   "PokeCardShop|30th Celebration": "https://www.pokecardshop.be/search?q=30th+celebration",
   "Pokebank|Destined Rivals": "https://pokebank.es/producto/precio-pro-12999e1-etb-destined-rivals-reserva-ingles/"
  },
- "digest_slot": "2026-08-19-15",
+ "digest_slot": "2026-08-19-18",
  "log": [
   {
    "ts": "05/07 19:55",
@@ -1154,16 +1162,16 @@
   "tcgcompany.nl": 542,
   "www.nerdom.gr": 541,
   "www.pokekarty.pl": 542,
-  "www.wakuwaku.cz": 541,
+  "www.wakuwaku.cz": 542,
   "www.pokemonia.ro": 542,
   "en.tcg-shop.at": 542,
-  "kaissagames.com": 338,
+  "kaissagames.com": 339,
   "itcg.bg": 174,
-  "www.pokemillon.com": 172,
+  "www.pokemillon.com": 173,
   "pokechest.at": 173,
-  "pokeka.hu": 170,
-  "lorenzone.fr": 149,
-  "www.magicbazar.fr": 142,
+  "pokeka.hu": 171,
+  "lorenzone.fr": 150,
+  "www.magicbazar.fr": 143,
   "bescards.com": 135,
   "vinticards.com": 106,
   "cardcorner.at": 74,
@@ -1178,7 +1186,7 @@
   "tradingcard.fi": 8,
   "sapphire-cards.de": 7,
   "www.amazon.it": 4,
-  "www.blackfire.eu": 3
+  "www.blackfire.eu": 4
  },
- "runno": 6469
+ "runno": 6470
 }
