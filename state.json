@@ -579,7 +579,7 @@
    "Prismatic Evolutions": "listato",
    "Crown Zenith": "listato",
    "Destined Rivals": "esaurito",
-   "Premium Deck Espeon & Umbreon (30th)": "non listato"
+   "Premium Deck Espeon & Umbreon (30th)": "listato"
   },
   "Kaissa Games": {
    "Pitch Black (ME05)": "listato",
@@ -813,7 +813,7 @@
    "Pitch Black (ME05)": "non listato",
    "30th Celebration": "listato",
    "Storm Emerald (ME06)": "listato",
-   "Chaos Rising (ME04)": "listato",
+   "Chaos Rising (ME04)": "non listato",
    "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "non listato",
    "Prismatic Evolutions": "non listato",
@@ -980,20 +980,16 @@
    "esaurito",
    1
   ],
-  "LetsGoTry|Chaos Rising (ME04)": [
-   "non listato",
-   1
-  ],
-  "Amazon.it|30th Celebration": [
-   "listato",
-   1
-  ],
   "Pokemons.dk|Crown Zenith": [
    "disponibile",
    1
   ],
-  "PokeCardShop|Premium Deck Espeon & Umbreon (30th)": [
-   "listato",
+  "LetsGoTry|Storm Emerald (ME06)": [
+   "non listato",
+   1
+  ],
+  "PokeCardShop|Destined Rivals": [
+   "non listato",
    1
   ]
  },
@@ -1165,7 +1161,7 @@
   "hobbykort.se": 540,
   "tcgcompany.nl": 540,
   "www.nerdom.gr": 539,
-  "www.pokekarty.pl": 539,
+  "www.pokekarty.pl": 540,
   "www.wakuwaku.cz": 539,
   "www.pokemonia.ro": 540,
   "en.tcg-shop.at": 539,
@@ -1182,7 +1178,7 @@
   "misticards.com": 56,
   "www.poketalk.se": 56,
   "pokevend.at": 46,
-  "www.deckshop.de": 32,
+  "www.deckshop.de": 33,
   "rarecards.nl": 18,
   "crispycards.de": 16,
   "tcgstore.se": 13,
@@ -1190,11 +1186,9 @@
   "tcgfanshop.nl": 7,
   "tradingcard.fi": 6,
   "sapphire-cards.de": 5,
-  "letsgotry.pl": 3,
-  "pokebank.es": 3,
-  "oppacards.com": 1,
-  "pokeboxstore.pt": 1,
-  "pokewoke.store": 1
+  "www.amazon.it": 3,
+  "pokeboxstore.pt": 3,
+  "games-island.eu": 2
  },
- "runno": 6442
+ "runno": 6443
 }
