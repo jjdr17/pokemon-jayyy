@@ -813,7 +813,7 @@
    "Pitch Black (ME05)": "non listato",
    "30th Celebration": "listato",
    "Storm Emerald (ME06)": "listato",
-   "Chaos Rising (ME04)": "non listato",
+   "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "non listato",
    "Prismatic Evolutions": "non listato",
@@ -980,12 +980,8 @@
    "esaurito",
    1
   ],
-  "LetsGoTry|Pitch Black (ME05)": [
-   "listato",
-   1
-  ],
-  "LetsGoTry|Chaos Rising (ME04)": [
-   "listato",
+  "Pokemons.dk|Crown Zenith": [
+   "disponibile",
    1
   ]
  },
@@ -1155,7 +1151,7 @@
   "www.waylandgames.co.uk": 544,
   "www.firestormgames.co.uk": 545,
   "hobbykort.se": 545,
-  "tcgcompany.nl": 544,
+  "tcgcompany.nl": 545,
   "www.nerdom.gr": 544,
   "www.pokekarty.pl": 544,
   "www.wakuwaku.cz": 544,
@@ -1177,13 +1173,12 @@
   "www.deckshop.de": 37,
   "rarecards.nl": 23,
   "crispycards.de": 20,
-  "tcgstore.se": 17,
+  "tcgstore.se": 18,
   "tcgfanshop.nl": 12,
-  "sapphire-cards.de": 9,
+  "sapphire-cards.de": 10,
   "www.amazon.it": 7,
   "www.blackfire.eu": 3,
-  "tradingcard.fi": 3,
-  "www.lotticards.de": 1
+  "tradingcard.fi": 3
  },
- "runno": 6500
+ "runno": 6501
 }
