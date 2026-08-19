@@ -979,10 +979,6 @@
   "TCGStore.se|Pitch Black (ME05)": [
    "esaurito",
    1
-  ],
-  "PokeCardShop|Premium Deck Espeon & Umbreon (30th)": [
-   "listato",
-   1
   ]
  },
  "urls": {
@@ -1013,7 +1009,7 @@
   "PokeCardShop|30th Celebration": "https://www.pokecardshop.be/search?q=30th+celebration",
   "Pokebank|Destined Rivals": "https://pokebank.es/producto/precio-pro-12999e1-etb-destined-rivals-reserva-ingles/"
  },
- "digest_slot": "2026-08-18-22",
+ "digest_slot": "2026-08-19-10",
  "log": [
   {
    "ts": "05/07 19:55",
@@ -1150,7 +1146,7 @@
   "www.chaoscards.co.uk": 538,
   "www.waylandgames.co.uk": 538,
   "www.firestormgames.co.uk": 539,
-  "hobbykort.se": 538,
+  "hobbykort.se": 539,
   "tcgcompany.nl": 538,
   "www.nerdom.gr": 538,
   "www.pokekarty.pl": 538,
@@ -1178,7 +1174,8 @@
   "www.blackfire.eu": 7,
   "tcgfanshop.nl": 6,
   "pokeboxstore.pt": 5,
-  "tradingcard.fi": 5
+  "tradingcard.fi": 5,
+  "sapphire-cards.de": 1
  },
- "runno": 6425
+ "runno": 6426
 }
