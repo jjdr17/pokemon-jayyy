@@ -510,15 +510,15 @@
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "Pokemons.dk": {
-   "Pitch Black (ME05)": "non listato",
-   "30th Celebration": "non listato",
-   "Storm Emerald (ME06)": "non listato",
-   "Chaos Rising (ME04)": "non listato",
-   "Phantasmal Flames (ME02)": "non listato",
-   "Pokémon 151": "non listato",
-   "Prismatic Evolutions": "non listato",
-   "Crown Zenith": "non listato",
-   "Destined Rivals": "non listato",
+   "Pitch Black (ME05)": "listato",
+   "30th Celebration": "listato",
+   "Storm Emerald (ME06)": "listato",
+   "Chaos Rising (ME04)": "listato",
+   "Phantasmal Flames (ME02)": "listato",
+   "Pokémon 151": "listato",
+   "Prismatic Evolutions": "listato",
+   "Crown Zenith": "listato",
+   "Destined Rivals": "listato",
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "Papelinho": {
@@ -813,7 +813,7 @@
    "Pitch Black (ME05)": "non listato",
    "30th Celebration": "listato",
    "Storm Emerald (ME06)": "non listato",
-   "Chaos Rising (ME04)": "non listato",
+   "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "non listato",
    "Prismatic Evolutions": "non listato",
@@ -980,52 +980,16 @@
    "esaurito",
    1
   ],
-  "Pokemons.dk|Pitch Black (ME05)": [
-   "listato",
-   1
-  ],
-  "Pokemons.dk|30th Celebration": [
-   "listato",
-   1
-  ],
-  "Pokemons.dk|Storm Emerald (ME06)": [
-   "listato",
-   1
-  ],
-  "Pokemons.dk|Chaos Rising (ME04)": [
-   "listato",
-   1
-  ],
-  "Pokemons.dk|Phantasmal Flames (ME02)": [
-   "listato",
-   1
-  ],
-  "Pokemons.dk|Pokémon 151": [
-   "listato",
-   1
-  ],
-  "Pokemons.dk|Prismatic Evolutions": [
-   "listato",
-   1
-  ],
-  "Pokemons.dk|Crown Zenith": [
-   "listato",
-   1
-  ],
-  "Pokemons.dk|Destined Rivals": [
-   "listato",
-   1
-  ],
   "PokeCardShop|Premium Deck Espeon & Umbreon (30th)": [
    "listato",
    1
   ],
-  "LetsGoTry|Pitch Black (ME05)": [
+  "LetsGoTry|Storm Emerald (ME06)": [
    "listato",
    1
   ],
   "LetsGoTry|Chaos Rising (ME04)": [
-   "listato",
+   "non listato",
    1
   ]
  },
@@ -1196,7 +1160,7 @@
   "www.firestormgames.co.uk": 538,
   "hobbykort.se": 538,
   "tcgcompany.nl": 538,
-  "www.nerdom.gr": 537,
+  "www.nerdom.gr": 538,
   "www.pokekarty.pl": 538,
   "www.wakuwaku.cz": 538,
   "www.pokemonia.ro": 538,
@@ -1213,9 +1177,9 @@
   "cardcorner.at": 70,
   "misticards.com": 55,
   "www.poketalk.se": 55,
-  "pokevend.at": 44,
+  "pokevend.at": 45,
   "www.deckshop.de": 31,
-  "rarecards.nl": 16,
+  "rarecards.nl": 17,
   "crispycards.de": 14,
   "tcgstore.se": 11,
   "www.amazon.it": 6,
@@ -1224,5 +1188,5 @@
   "pokeboxstore.pt": 5,
   "tradingcard.fi": 4
  },
- "runno": 6422
+ "runno": 6423
 }
