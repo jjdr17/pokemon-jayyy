@@ -810,7 +810,7 @@
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "LetsGoTry": {
-   "Pitch Black (ME05)": "listato",
+   "Pitch Black (ME05)": "non listato",
    "30th Celebration": "listato",
    "Storm Emerald (ME06)": "listato",
    "Chaos Rising (ME04)": "listato",
@@ -980,8 +980,8 @@
    "esaurito",
    1
   ],
-  "PokeCardShop|Premium Deck Espeon & Umbreon (30th)": [
-   "non listato",
+  "LetsGoTry|Pitch Black (ME05)": [
+   "listato",
    1
   ]
  },
@@ -1147,7 +1147,7 @@
   "www.gamelife.it": 537,
   "pokeseller14.com": 537,
   "geco-shop.de": 537,
-  "www.chaoscards.co.uk": 536,
+  "www.chaoscards.co.uk": 537,
   "www.waylandgames.co.uk": 537,
   "www.firestormgames.co.uk": 537,
   "hobbykort.se": 537,
@@ -1167,8 +1167,8 @@
   "bescards.com": 130,
   "vinticards.com": 101,
   "cardcorner.at": 69,
-  "misticards.com": 53,
-  "www.poketalk.se": 53,
+  "misticards.com": 54,
+  "www.poketalk.se": 54,
   "pokevend.at": 43,
   "www.deckshop.de": 30,
   "rarecards.nl": 15,
@@ -1178,7 +1178,9 @@
   "www.blackfire.eu": 5,
   "tcgfanshop.nl": 4,
   "pokeboxstore.pt": 4,
-  "tradingcard.fi": 3
+  "tradingcard.fi": 3,
+  "tcgdistribution.fr": 1,
+  "games-island.eu": 1
  },
- "runno": 6407
+ "runno": 6408
 }
