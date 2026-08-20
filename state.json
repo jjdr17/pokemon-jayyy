@@ -978,16 +978,12 @@
    "listato",
    1
   ],
-  "PokeCardShop|Destined Rivals": [
-   "non listato",
-   1
-  ],
-  "LetsGoTry|Pitch Black (ME05)": [
-   "listato",
-   1
-  ],
   "LetsGoTry|Storm Emerald (ME06)": [
    "non listato",
+   1
+  ],
+  "LetsGoTry|Chaos Rising (ME04)": [
+   "listato",
    1
   ]
  },
@@ -1179,13 +1175,15 @@
   "rarecards.nl": 36,
   "tcgfanshop.nl": 25,
   "fuji-store.fr": 15,
-  "www.amazon.it": 13,
   "pokeka.hu": 10,
   "crispycards.de": 11,
   "tcgstore.se": 9,
   "tradingcard.fi": 4,
+  "sapphire-cards.de": 4,
   "www.blackfire.eu": 3,
-  "pokectcg.cz": 3
+  "pokectcg.cz": 3,
+  "www.amazon.it": 1,
+  "tcgdistribution.fr": 1
  },
  "runno": 6660
 }
