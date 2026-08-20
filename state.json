@@ -978,8 +978,12 @@
    "listato",
    1
   ],
-  "Pokemons.dk|Crown Zenith": [
-   "disponibile",
+  "PokeCardShop|Destined Rivals": [
+   "non listato",
+   1
+  ],
+  "LetsGoTry|Storm Emerald (ME06)": [
+   "listato",
    1
   ]
  },
@@ -1140,13 +1144,13 @@
   }
  ],
  "down": {
-  "www.cardmarket.com": 556,
+  "www.cardmarket.com": 557,
   "www.gamestop.com": 84,
   "www.gamelife.it": 557,
   "pokeseller14.com": 557,
   "geco-shop.de": 557,
   "www.chaoscards.co.uk": 556,
-  "www.waylandgames.co.uk": 556,
+  "www.waylandgames.co.uk": 557,
   "www.firestormgames.co.uk": 557,
   "hobbykort.se": 557,
   "tcgcompany.nl": 557,
@@ -1156,28 +1160,27 @@
   "www.pokemonia.ro": 557,
   "en.tcg-shop.at": 556,
   "kaissagames.com": 353,
-  "itcg.bg": 188,
+  "itcg.bg": 189,
   "www.pokemillon.com": 187,
   "pokechest.at": 187,
   "lorenzone.fr": 164,
   "www.magicbazar.fr": 157,
   "bescards.com": 150,
   "vinticards.com": 121,
-  "cardcorner.at": 88,
+  "cardcorner.at": 89,
   "misticards.com": 73,
   "www.poketalk.se": 73,
   "pokevend.at": 63,
   "www.deckshop.de": 49,
   "rarecards.nl": 35,
   "tcgfanshop.nl": 24,
-  "fuji-store.fr": 13,
+  "fuji-store.fr": 14,
   "www.amazon.it": 12,
   "pokeka.hu": 9,
-  "crispycards.de": 9,
+  "crispycards.de": 10,
   "tcgstore.se": 8,
   "www.blackfire.eu": 3,
-  "tradingcard.fi": 3,
-  "games-island.eu": 1
+  "tradingcard.fi": 3
  },
- "runno": 6645
+ "runno": 6646
 }
