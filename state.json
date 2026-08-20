@@ -977,6 +977,18 @@
   "TCGStore.se|Pitch Black (ME05)": [
    "esaurito",
    1
+  ],
+  "Pokemons.dk|Crown Zenith": [
+   "disponibile",
+   1
+  ],
+  "LetsGoTry|Storm Emerald (ME06)": [
+   "listato",
+   1
+  ],
+  "LetsGoTry|Chaos Rising (ME04)": [
+   "non listato",
+   1
   ]
  },
  "urls": {
@@ -1138,9 +1150,9 @@
  "down": {
   "www.cardmarket.com": 547,
   "www.gamestop.com": 84,
-  "www.gamelife.it": 547,
-  "pokeseller14.com": 547,
-  "geco-shop.de": 547,
+  "www.gamelife.it": 548,
+  "pokeseller14.com": 548,
+  "geco-shop.de": 548,
   "www.chaoscards.co.uk": 547,
   "www.waylandgames.co.uk": 547,
   "www.firestormgames.co.uk": 548,
@@ -1169,12 +1181,10 @@
   "crispycards.de": 23,
   "tcgstore.se": 20,
   "tcgfanshop.nl": 15,
-  "www.amazon.it": 9,
   "www.blackfire.eu": 6,
   "tradingcard.fi": 6,
   "fuji-store.fr": 4,
-  "sapphire-cards.de": 3,
-  "pokeboxstore.pt": 2
+  "sapphire-cards.de": 3
  },
- "runno": 6535
+ "runno": 6536
 }
