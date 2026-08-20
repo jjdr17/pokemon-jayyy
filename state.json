@@ -977,6 +977,10 @@
   "TCGStore.se|Chaos Rising (ME04)": [
    "listato",
    1
+  ],
+  "LetsGoTry|Chaos Rising (ME04)": [
+   "non listato",
+   1
   ]
  },
  "urls": {
@@ -1144,7 +1148,7 @@
   "www.chaoscards.co.uk": 556,
   "www.waylandgames.co.uk": 556,
   "www.firestormgames.co.uk": 557,
-  "hobbykort.se": 556,
+  "hobbykort.se": 557,
   "tcgcompany.nl": 556,
   "www.nerdom.gr": 556,
   "www.pokekarty.pl": 556,
@@ -1166,15 +1170,15 @@
   "www.deckshop.de": 49,
   "rarecards.nl": 35,
   "tcgfanshop.nl": 24,
-  "tradingcard.fi": 15,
   "fuji-store.fr": 13,
   "www.amazon.it": 11,
   "pokeka.hu": 9,
   "crispycards.de": 9,
   "tcgstore.se": 7,
   "tcgdistribution.fr": 3,
-  "www.blackfire.eu": 1,
-  "sapphire-cards.de": 1
+  "www.blackfire.eu": 3,
+  "sapphire-cards.de": 3,
+  "tradingcard.fi": 2
  },
- "runno": 6641
+ "runno": 6642
 }
