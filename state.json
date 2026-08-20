@@ -571,7 +571,7 @@
   },
   "PokeCardShop": {
    "Pitch Black (ME05)": "esaurito",
-   "30th Celebration": "non listato",
+   "30th Celebration": "esaurito",
    "Storm Emerald (ME06)": "non listato",
    "Chaos Rising (ME04)": "esaurito",
    "Phantasmal Flames (ME02)": "esaurito",
@@ -978,8 +978,12 @@
    "listato",
    1
   ],
-  "LetsGoTry|Pitch Black (ME05)": [
-   "listato",
+  "PokeCardShop|Pitch Black (ME05)": [
+   "non listato",
+   1
+  ],
+  "PokeCardShop|Destined Rivals": [
+   "non listato",
    1
   ]
  },
@@ -1176,7 +1180,8 @@
   "pokeka.hu": 7,
   "crispycards.de": 7,
   "tcgstore.se": 6,
-  "pokeboxstore.pt": 1
+  "sapphire-cards.de": 6,
+  "www.blackfire.eu": 1
  },
  "runno": 6621
 }
