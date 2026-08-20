@@ -810,10 +810,10 @@
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "LetsGoTry": {
-   "Pitch Black (ME05)": "listato",
+   "Pitch Black (ME05)": "non listato",
    "30th Celebration": "listato",
    "Storm Emerald (ME06)": "listato",
-   "Chaos Rising (ME04)": "non listato",
+   "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "non listato",
    "Prismatic Evolutions": "non listato",
@@ -983,7 +983,7 @@
    1
   ],
   "LetsGoTry|Pitch Black (ME05)": [
-   "non listato",
+   "listato",
    1
   ]
  },
@@ -1180,14 +1180,9 @@
   "pokeka.hu": 8,
   "crispycards.de": 8,
   "tcgstore.se": 6,
-  "sapphire-cards.de": 3,
-  "tcgdistribution.fr": 1,
-  "games-island.eu": 1,
-  "extremepokecorner.com": 1,
-  "pokectcg.cz": 1,
-  "pokewoke.store": 1,
-  "tcgpikas.lt": 1,
-  "pokemonworld.lt": 1
+  "sapphire-cards.de": 6,
+  "www.blackfire.eu": 4,
+  "pokeboxstore.pt": 3
  },
  "runno": 6626
 }
