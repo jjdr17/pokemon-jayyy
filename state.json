@@ -977,6 +977,10 @@
   "TCGStore.se|Pitch Black (ME05)": [
    "esaurito",
    1
+  ],
+  "Pokemons.dk|Crown Zenith": [
+   "disponibile",
+   1
   ]
  },
  "urls": {
@@ -1138,9 +1142,9 @@
  "down": {
   "www.cardmarket.com": 549,
   "www.gamestop.com": 84,
-  "www.gamelife.it": 549,
-  "pokeseller14.com": 549,
-  "geco-shop.de": 549,
+  "www.gamelife.it": 550,
+  "pokeseller14.com": 550,
+  "geco-shop.de": 550,
   "www.chaoscards.co.uk": 549,
   "www.waylandgames.co.uk": 549,
   "www.firestormgames.co.uk": 550,
@@ -1170,9 +1174,11 @@
   "tcgfanshop.nl": 17,
   "tradingcard.fi": 8,
   "fuji-store.fr": 6,
-  "www.amazon.it": 4,
+  "www.amazon.it": 5,
   "sapphire-cards.de": 4,
-  "www.blackfire.eu": 3
+  "www.blackfire.eu": 3,
+  "crispycards.de": 1,
+  "pokeboxstore.pt": 1
  },
- "runno": 6559
+ "runno": 6560
 }
