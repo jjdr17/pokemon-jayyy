@@ -977,6 +977,14 @@
   "TCGStore.se|Pitch Black (ME05)": [
    "esaurito",
    1
+  ],
+  "Pokemons.dk|Crown Zenith": [
+   "disponibile",
+   1
+  ],
+  "LetsGoTry|Pitch Black (ME05)": [
+   "non listato",
+   1
   ]
  },
  "urls": {
@@ -1136,13 +1144,13 @@
   }
  ],
  "down": {
-  "www.cardmarket.com": 550,
+  "www.cardmarket.com": 551,
   "www.gamestop.com": 84,
   "www.gamelife.it": 551,
   "pokeseller14.com": 551,
   "geco-shop.de": 551,
   "www.chaoscards.co.uk": 550,
-  "www.waylandgames.co.uk": 550,
+  "www.waylandgames.co.uk": 551,
   "www.firestormgames.co.uk": 551,
   "hobbykort.se": 551,
   "tcgcompany.nl": 551,
@@ -1152,14 +1160,14 @@
   "www.pokemonia.ro": 551,
   "en.tcg-shop.at": 550,
   "kaissagames.com": 347,
-  "itcg.bg": 182,
+  "itcg.bg": 183,
   "www.pokemillon.com": 181,
   "pokechest.at": 181,
   "lorenzone.fr": 158,
   "www.magicbazar.fr": 151,
   "bescards.com": 144,
   "vinticards.com": 115,
-  "cardcorner.at": 82,
+  "cardcorner.at": 83,
   "misticards.com": 67,
   "www.poketalk.se": 67,
   "pokevend.at": 57,
@@ -1168,11 +1176,12 @@
   "tcgstore.se": 24,
   "tcgfanshop.nl": 18,
   "tradingcard.fi": 9,
-  "fuji-store.fr": 7,
+  "fuji-store.fr": 8,
   "www.amazon.it": 6,
   "www.blackfire.eu": 4,
   "pokeka.hu": 3,
-  "crispycards.de": 3
+  "crispycards.de": 4,
+  "sapphire-cards.de": 1
  },
- "runno": 6573
+ "runno": 6574
 }
