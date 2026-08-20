@@ -977,14 +977,6 @@
   "TCGStore.se|Chaos Rising (ME04)": [
    "listato",
    1
-  ],
-  "PokeCardShop|Destined Rivals": [
-   "non listato",
-   1
-  ],
-  "LetsGoTry|Storm Emerald (ME06)": [
-   "listato",
-   1
   ]
  },
  "urls": {
@@ -1180,7 +1172,9 @@
   "crispycards.de": 10,
   "tcgstore.se": 8,
   "www.blackfire.eu": 3,
-  "tradingcard.fi": 3
+  "tradingcard.fi": 3,
+  "pokeboxstore.pt": 1,
+  "sapphire-cards.de": 1
  },
  "runno": 6646
 }
