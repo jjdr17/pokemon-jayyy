@@ -810,10 +810,10 @@
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "LetsGoTry": {
-   "Pitch Black (ME05)": "listato",
+   "Pitch Black (ME05)": "non listato",
    "30th Celebration": "listato",
    "Storm Emerald (ME06)": "non listato",
-   "Chaos Rising (ME04)": "non listato",
+   "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "non listato",
    "Prismatic Evolutions": "non listato",
@@ -985,10 +985,6 @@
   "LetsGoTry|Storm Emerald (ME06)": [
    "listato",
    1
-  ],
-  "LetsGoTry|Chaos Rising (ME04)": [
-   "listato",
-   1
   ]
  },
  "urls": {
@@ -1019,7 +1015,7 @@
   "PokeCardShop|30th Celebration": "https://www.pokecardshop.be/search?q=30th+celebration",
   "Pokebank|Destined Rivals": "https://pokebank.es/producto/precio-pro-12999e1-etb-destined-rivals-reserva-ingles/"
  },
- "digest_slot": "2026-08-21-18",
+ "digest_slot": "2026-08-21-22",
  "log": [
   {
    "ts": "05/07 19:55",
@@ -1184,8 +1180,9 @@
   "tradingcard.fi": 16,
   "pokectcg.cz": 14,
   "www.amazon.it": 4,
-  "www.blackfire.eu": 4,
-  "sapphire-cards.de": 4
+  "sapphire-cards.de": 4,
+  "www.blackfire.eu": 3,
+  "games-island.eu": 2
  },
  "runno": 6797
 }
