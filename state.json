@@ -810,7 +810,7 @@
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "LetsGoTry": {
-   "Pitch Black (ME05)": "non listato",
+   "Pitch Black (ME05)": "listato",
    "30th Celebration": "listato",
    "Storm Emerald (ME06)": "non listato",
    "Chaos Rising (ME04)": "listato",
@@ -980,6 +980,10 @@
   ],
   "Pokemons.dk|Crown Zenith": [
    "disponibile",
+   1
+  ],
+  "LetsGoTry|Chaos Rising (ME04)": [
+   "non listato",
    1
   ]
  },
@@ -1176,11 +1180,8 @@
   "tradingcard.fi": 15,
   "pokectcg.cz": 13,
   "www.amazon.it": 3,
-  "www.blackfire.eu": 2,
-  "sapphire-cards.de": 2,
-  "tcgdistribution.fr": 2,
-  "games-island.eu": 2,
-  "pokeboxstore.pt": 1
+  "www.blackfire.eu": 3,
+  "sapphire-cards.de": 3
  },
  "runno": 6787
 }
