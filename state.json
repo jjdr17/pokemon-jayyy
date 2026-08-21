@@ -126,7 +126,7 @@
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "SunnyStore": {
-   "Pitch Black (ME05)": "esaurito",
+   "Pitch Black (ME05)": "listato",
    "30th Celebration": "listato",
    "Storm Emerald (ME06)": "listato",
    "Chaos Rising (ME04)": "esaurito",
@@ -813,7 +813,7 @@
    "Pitch Black (ME05)": "listato",
    "30th Celebration": "listato",
    "Storm Emerald (ME06)": "non listato",
-   "Chaos Rising (ME04)": "non listato",
+   "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "non listato",
    "Prismatic Evolutions": "non listato",
@@ -978,20 +978,12 @@
    "listato",
    1
   ],
-  "LetsGoTry|Pitch Black (ME05)": [
-   "non listato",
+  "LetsGoTry|Storm Emerald (ME06)": [
+   "listato",
    1
   ],
   "LetsGoTry|Chaos Rising (ME04)": [
-   "listato",
-   1
-  ],
-  "SunnyStore|Pitch Black (ME05)": [
-   "listato",
-   1
-  ],
-  "Pokemons.dk|Crown Zenith": [
-   "disponibile",
+   "non listato",
    1
   ]
  },
@@ -1152,13 +1144,13 @@
   }
  ],
  "down": {
-  "www.cardmarket.com": 564,
+  "www.cardmarket.com": 565,
   "www.gamestop.com": 84,
   "www.gamelife.it": 565,
   "pokeseller14.com": 565,
   "geco-shop.de": 565,
   "www.chaoscards.co.uk": 564,
-  "www.waylandgames.co.uk": 564,
+  "www.waylandgames.co.uk": 565,
   "www.firestormgames.co.uk": 565,
   "hobbykort.se": 565,
   "tcgcompany.nl": 565,
@@ -1168,14 +1160,14 @@
   "www.pokemonia.ro": 565,
   "en.tcg-shop.at": 564,
   "kaissagames.com": 361,
-  "itcg.bg": 196,
+  "itcg.bg": 197,
   "www.pokemillon.com": 195,
   "pokechest.at": 195,
   "lorenzone.fr": 172,
   "www.magicbazar.fr": 165,
   "bescards.com": 158,
   "vinticards.com": 129,
-  "cardcorner.at": 96,
+  "cardcorner.at": 97,
   "misticards.com": 81,
   "www.poketalk.se": 81,
   "pokevend.at": 71,
@@ -1183,12 +1175,14 @@
   "rarecards.nl": 43,
   "tcgfanshop.nl": 32,
   "pokeka.hu": 17,
-  "crispycards.de": 17,
+  "crispycards.de": 18,
   "tcgstore.se": 16,
   "tradingcard.fi": 11,
   "pokectcg.cz": 9,
-  "www.amazon.it": 1,
-  "letsgotry.pl": 1
+  "www.amazon.it": 5,
+  "pokeboxstore.pt": 2,
+  "www.blackfire.eu": 1,
+  "sapphire-cards.de": 1
  },
- "runno": 6741
+ "runno": 6742
 }
