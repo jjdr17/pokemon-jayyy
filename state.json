@@ -812,7 +812,7 @@
   "LetsGoTry": {
    "Pitch Black (ME05)": "non listato",
    "30th Celebration": "listato",
-   "Storm Emerald (ME06)": "listato",
+   "Storm Emerald (ME06)": "non listato",
    "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "non listato",
@@ -983,7 +983,7 @@
    1
   ],
   "LetsGoTry|Storm Emerald (ME06)": [
-   "non listato",
+   "listato",
    1
   ]
  },
@@ -1183,8 +1183,7 @@
   "www.blackfire.eu": 4,
   "pokectcg.cz": 3,
   "sapphire-cards.de": 3,
-  "pokeboxstore.pt": 3,
-  "games-island.eu": 1
+  "pokeboxstore.pt": 2
  },
  "runno": 6667
 }
