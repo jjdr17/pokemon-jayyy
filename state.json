@@ -810,10 +810,10 @@
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "LetsGoTry": {
-   "Pitch Black (ME05)": "listato",
+   "Pitch Black (ME05)": "non listato",
    "30th Celebration": "listato",
    "Storm Emerald (ME06)": "non listato",
-   "Chaos Rising (ME04)": "non listato",
+   "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "non listato",
    "Prismatic Evolutions": "non listato",
@@ -982,8 +982,12 @@
    "disponibile",
    1
   ],
-  "LetsGoTry|Pitch Black (ME05)": [
+  "PokeCardShop|Pitch Black (ME05)": [
    "non listato",
+   1
+  ],
+  "LetsGoTry|Storm Emerald (ME06)": [
+   "listato",
    1
   ]
  },
@@ -1015,7 +1019,7 @@
   "PokeCardShop|30th Celebration": "https://www.pokecardshop.be/search?q=30th+celebration",
   "Pokebank|Destined Rivals": "https://pokebank.es/producto/precio-pro-12999e1-etb-destined-rivals-reserva-ingles/"
  },
- "digest_slot": "2026-08-21-15",
+ "digest_slot": "2026-08-21-18",
  "log": [
   {
    "ts": "05/07 19:55",
@@ -1171,7 +1175,6 @@
   "misticards.com": 84,
   "www.poketalk.se": 84,
   "pokevend.at": 74,
-  "www.deckshop.de": 60,
   "rarecards.nl": 46,
   "tcgfanshop.nl": 35,
   "pokeka.hu": 20,
@@ -1181,7 +1184,8 @@
   "pokectcg.cz": 12,
   "sapphire-cards.de": 3,
   "www.amazon.it": 3,
-  "www.blackfire.eu": 2
+  "www.deckshop.de": 3,
+  "pokeboxstore.pt": 2
  },
  "runno": 6773
 }
