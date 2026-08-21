@@ -977,6 +977,18 @@
   "TCGStore.se|Chaos Rising (ME04)": [
    "listato",
    1
+  ],
+  "Amazon.it|Storm Emerald (ME06)": [
+   "non listato",
+   1
+  ],
+  "LetsGoTry|Storm Emerald (ME06)": [
+   "listato",
+   1
+  ],
+  "LetsGoTry|Chaos Rising (ME04)": [
+   "non listato",
+   1
   ]
  },
  "urls": {
@@ -1174,7 +1186,9 @@
   "www.blackfire.eu": 5,
   "pokectcg.cz": 4,
   "sapphire-cards.de": 3,
-  "www.amazon.it": 3
+  "pokeboxstore.pt": 3,
+  "www.amazon.it": 1,
+  "www.lotticards.de": 1
  },
  "runno": 6678
 }
