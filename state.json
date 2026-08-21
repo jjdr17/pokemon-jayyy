@@ -977,6 +977,22 @@
   "TCGStore.se|Chaos Rising (ME04)": [
    "listato",
    1
+  ],
+  "Pokemons.dk|Crown Zenith": [
+   "disponibile",
+   1
+  ],
+  "LetsGoTry|Pitch Black (ME05)": [
+   "listato",
+   1
+  ],
+  "LetsGoTry|Storm Emerald (ME06)": [
+   "non listato",
+   1
+  ],
+  "LetsGoTry|Chaos Rising (ME04)": [
+   "non listato",
+   1
   ]
  },
  "urls": {
@@ -1143,13 +1159,13 @@
   "geco-shop.de": 564,
   "www.chaoscards.co.uk": 564,
   "www.waylandgames.co.uk": 564,
-  "www.firestormgames.co.uk": 564,
+  "www.firestormgames.co.uk": 565,
   "hobbykort.se": 564,
   "tcgcompany.nl": 564,
   "www.nerdom.gr": 564,
   "www.pokekarty.pl": 564,
   "www.wakuwaku.cz": 564,
-  "www.pokemonia.ro": 564,
+  "www.pokemonia.ro": 565,
   "en.tcg-shop.at": 564,
   "kaissagames.com": 361,
   "itcg.bg": 196,
@@ -1173,5 +1189,5 @@
   "pokectcg.cz": 9,
   "www.amazon.it": 4
  },
- "runno": 6736
+ "runno": 6737
 }
