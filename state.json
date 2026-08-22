@@ -982,8 +982,8 @@
    "disponibile",
    1
   ],
-  "LetsGoTry|Pitch Black (ME05)": [
-   "listato",
+  "LetsGoTry|Chaos Rising (ME04)": [
+   "non listato",
    1
   ]
  },
@@ -1015,7 +1015,7 @@
   "PokeCardShop|30th Celebration": "https://www.pokecardshop.be/search?q=30th+celebration",
   "Pokebank|Destined Rivals": "https://pokebank.es/producto/precio-pro-12999e1-etb-destined-rivals-reserva-ingles/"
  },
- "digest_slot": "2026-08-22-10",
+ "digest_slot": "2026-08-22-15",
  "log": [
   {
    "ts": "05/07 19:55",
@@ -1152,7 +1152,7 @@
   "www.chaoscards.co.uk": 578,
   "www.waylandgames.co.uk": 578,
   "www.firestormgames.co.uk": 579,
-  "hobbykort.se": 578,
+  "hobbykort.se": 579,
   "tcgcompany.nl": 578,
   "www.nerdom.gr": 578,
   "www.pokekarty.pl": 578,
@@ -1175,6 +1175,7 @@
   "pokeka.hu": 31,
   "crispycards.de": 31,
   "tcgstore.se": 29,
+  "tradingcard.fi": 25,
   "pokectcg.cz": 23,
   "www.amazon.it": 13,
   "www.blackfire.eu": 10,
@@ -1182,8 +1183,7 @@
   "tcgfanshop.nl": 7,
   "sapphire-cards.de": 4,
   "pokeboxstore.pt": 4,
-  "tcgdistribution.fr": 2,
-  "tradingcard.fi": 1
+  "tcgdistribution.fr": 1
  },
- "runno": 6905
+ "runno": 6906
 }
