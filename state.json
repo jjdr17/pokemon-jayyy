@@ -576,7 +576,7 @@
    "Chaos Rising (ME04)": "esaurito",
    "Phantasmal Flames (ME02)": "esaurito",
    "Pokémon 151": "listato",
-   "Prismatic Evolutions": "listato",
+   "Prismatic Evolutions": "non listato",
    "Crown Zenith": "listato",
    "Destined Rivals": "esaurito",
    "Premium Deck Espeon & Umbreon (30th)": "listato"
@@ -979,10 +979,50 @@
    1
   ],
   "Pokemons.dk|Crown Zenith": [
-   "disponibile",
+   "non listato",
    1
   ],
-  "PokeCardShop|Prismatic Evolutions": [
+  "Pokemons.dk|Pitch Black (ME05)": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|30th Celebration": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Premium Deck Espeon & Umbreon (30th)": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Storm Emerald (ME06)": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Chaos Rising (ME04)": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Phantasmal Flames (ME02)": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Pokémon 151": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Prismatic Evolutions": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Destined Rivals": [
+   "non listato",
+   1
+  ],
+  "LetsGoTry|Storm Emerald (ME06)": [
+   "non listato",
+   1
+  ],
+  "LetsGoTry|Chaos Rising (ME04)": [
    "non listato",
    1
   ]
@@ -1144,13 +1184,13 @@
   }
  ],
  "down": {
-  "www.cardmarket.com": 573,
+  "www.cardmarket.com": 574,
   "www.gamestop.com": 84,
   "www.gamelife.it": 574,
   "pokeseller14.com": 574,
   "geco-shop.de": 574,
   "www.chaoscards.co.uk": 573,
-  "www.waylandgames.co.uk": 573,
+  "www.waylandgames.co.uk": 574,
   "www.firestormgames.co.uk": 574,
   "hobbykort.se": 574,
   "tcgcompany.nl": 574,
@@ -1160,13 +1200,13 @@
   "www.pokemonia.ro": 574,
   "en.tcg-shop.at": 573,
   "kaissagames.com": 370,
-  "itcg.bg": 205,
+  "itcg.bg": 206,
   "www.pokemillon.com": 204,
   "pokechest.at": 204,
   "www.magicbazar.fr": 174,
   "bescards.com": 167,
   "vinticards.com": 138,
-  "cardcorner.at": 105,
+  "cardcorner.at": 106,
   "misticards.com": 90,
   "www.poketalk.se": 90,
   "pokevend.at": 80,
@@ -1174,14 +1214,15 @@
   "rarecards.nl": 52,
   "tcgfanshop.nl": 41,
   "pokeka.hu": 26,
-  "crispycards.de": 26,
+  "crispycards.de": 27,
   "tcgstore.se": 25,
   "tradingcard.fi": 20,
   "pokectcg.cz": 18,
   "www.amazon.it": 9,
   "sapphire-cards.de": 7,
   "www.blackfire.eu": 5,
-  "lorenzone.fr": 3
+  "lorenzone.fr": 3,
+  "pokeboxstore.pt": 1
  },
- "runno": 6849
+ "runno": 6850
 }
