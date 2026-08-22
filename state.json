@@ -576,7 +576,7 @@
    "Chaos Rising (ME04)": "esaurito",
    "Phantasmal Flames (ME02)": "esaurito",
    "Pokémon 151": "listato",
-   "Prismatic Evolutions": "non listato",
+   "Prismatic Evolutions": "listato",
    "Crown Zenith": "listato",
    "Destined Rivals": "esaurito",
    "Premium Deck Espeon & Umbreon (30th)": "listato"
@@ -813,7 +813,7 @@
    "Pitch Black (ME05)": "non listato",
    "30th Celebration": "listato",
    "Storm Emerald (ME06)": "non listato",
-   "Chaos Rising (ME04)": "non listato",
+   "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "non listato",
    "Prismatic Evolutions": "non listato",
@@ -978,12 +978,12 @@
    "listato",
    1
   ],
-  "PokeCardShop|Prismatic Evolutions": [
+  "LetsGoTry|Pitch Black (ME05)": [
    "listato",
    1
   ],
-  "LetsGoTry|Storm Emerald (ME06)": [
-   "listato",
+  "LetsGoTry|Chaos Rising (ME04)": [
+   "non listato",
    1
   ]
  },
@@ -1177,13 +1177,13 @@
   "pokeka.hu": 25,
   "crispycards.de": 25,
   "tcgstore.se": 23,
+  "tradingcard.fi": 19,
   "pokectcg.cz": 17,
   "www.amazon.it": 8,
   "sapphire-cards.de": 5,
+  "pokeboxstore.pt": 5,
   "www.blackfire.eu": 4,
   "papelinho.pt": 4,
-  "tradingcard.fi": 3,
-  "pokeboxstore.pt": 1,
   "tcgdistribution.fr": 1,
   "games-island.eu": 1
  },
