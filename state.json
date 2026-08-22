@@ -812,7 +812,7 @@
   "LetsGoTry": {
    "Pitch Black (ME05)": "non listato",
    "30th Celebration": "listato",
-   "Storm Emerald (ME06)": "listato",
+   "Storm Emerald (ME06)": "non listato",
    "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "non listato",
@@ -983,51 +983,7 @@
    1
   ],
   "Pokemons.dk|Crown Zenith": [
-   "non listato",
-   1
-  ],
-  "LetsGoTry|Storm Emerald (ME06)": [
-   "non listato",
-   1
-  ],
-  "LetsGoTry|Chaos Rising (ME04)": [
-   "non listato",
-   1
-  ],
-  "Pokemons.dk|Pitch Black (ME05)": [
-   "non listato",
-   1
-  ],
-  "Pokemons.dk|30th Celebration": [
-   "non listato",
-   1
-  ],
-  "Pokemons.dk|Premium Deck Espeon & Umbreon (30th)": [
-   "non listato",
-   1
-  ],
-  "Pokemons.dk|Storm Emerald (ME06)": [
-   "non listato",
-   1
-  ],
-  "Pokemons.dk|Chaos Rising (ME04)": [
-   "non listato",
-   1
-  ],
-  "Pokemons.dk|Phantasmal Flames (ME02)": [
-   "non listato",
-   1
-  ],
-  "Pokemons.dk|Pokémon 151": [
-   "non listato",
-   1
-  ],
-  "Pokemons.dk|Prismatic Evolutions": [
-   "non listato",
-   1
-  ],
-  "Pokemons.dk|Destined Rivals": [
-   "non listato",
+   "disponibile",
    1
   ]
  },
@@ -1200,14 +1156,14 @@
   "tcgcompany.nl": 583,
   "www.nerdom.gr": 582,
   "www.pokekarty.pl": 583,
-  "www.wakuwaku.cz": 582,
+  "www.wakuwaku.cz": 583,
   "www.pokemonia.ro": 583,
   "en.tcg-shop.at": 583,
-  "kaissagames.com": 379,
+  "kaissagames.com": 380,
   "itcg.bg": 215,
-  "www.pokemillon.com": 213,
+  "www.pokemillon.com": 214,
   "pokechest.at": 214,
-  "www.magicbazar.fr": 183,
+  "www.magicbazar.fr": 184,
   "bescards.com": 176,
   "vinticards.com": 147,
   "cardcorner.at": 115,
@@ -1216,17 +1172,18 @@
   "pokevend.at": 89,
   "www.deckshop.de": 76,
   "rarecards.nl": 61,
-  "pokeka.hu": 35,
+  "pokeka.hu": 36,
   "crispycards.de": 36,
   "tcgstore.se": 34,
   "pokectcg.cz": 28,
-  "www.blackfire.eu": 14,
-  "lorenzone.fr": 12,
+  "www.blackfire.eu": 15,
+  "lorenzone.fr": 13,
   "tcgfanshop.nl": 12,
   "tradingcard.fi": 7,
   "sapphire-cards.de": 7,
   "www.amazon.it": 6,
-  "letsgotry.pl": 1
+  "www.butticards.at": 1,
+  "oppacards.com": 1
  },
- "runno": 6961
+ "runno": 6962
 }
