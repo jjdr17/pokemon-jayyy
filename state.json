@@ -575,7 +575,7 @@
    "Storm Emerald (ME06)": "non listato",
    "Chaos Rising (ME04)": "esaurito",
    "Phantasmal Flames (ME02)": "esaurito",
-   "Pokémon 151": "non listato",
+   "Pokémon 151": "listato",
    "Prismatic Evolutions": "listato",
    "Crown Zenith": "listato",
    "Destined Rivals": "esaurito",
@@ -810,9 +810,9 @@
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "LetsGoTry": {
-   "Pitch Black (ME05)": "non listato",
+   "Pitch Black (ME05)": "listato",
    "30th Celebration": "listato",
-   "Storm Emerald (ME06)": "non listato",
+   "Storm Emerald (ME06)": "listato",
    "Chaos Rising (ME04)": "non listato",
    "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "non listato",
@@ -977,14 +977,6 @@
   "TCGStore.se|Chaos Rising (ME04)": [
    "listato",
    1
-  ],
-  "PokeCardShop|Prismatic Evolutions": [
-   "non listato",
-   1
-  ],
-  "LetsGoTry|Storm Emerald (ME06)": [
-   "listato",
-   1
   ]
  },
  "urls": {
@@ -1144,13 +1136,13 @@
   }
  ],
  "down": {
-  "www.cardmarket.com": 584,
+  "www.cardmarket.com": 585,
   "www.gamestop.com": 84,
   "www.gamelife.it": 585,
   "pokeseller14.com": 585,
   "geco-shop.de": 585,
   "www.chaoscards.co.uk": 584,
-  "www.waylandgames.co.uk": 584,
+  "www.waylandgames.co.uk": 585,
   "www.firestormgames.co.uk": 585,
   "hobbykort.se": 585,
   "tcgcompany.nl": 585,
@@ -1160,28 +1152,29 @@
   "www.pokemonia.ro": 585,
   "en.tcg-shop.at": 584,
   "kaissagames.com": 381,
-  "itcg.bg": 216,
+  "itcg.bg": 217,
   "www.pokemillon.com": 215,
   "pokechest.at": 215,
   "www.magicbazar.fr": 185,
   "bescards.com": 178,
   "vinticards.com": 149,
-  "cardcorner.at": 116,
+  "cardcorner.at": 117,
   "misticards.com": 101,
   "www.poketalk.se": 101,
   "pokevend.at": 91,
   "www.deckshop.de": 77,
   "rarecards.nl": 63,
   "pokeka.hu": 37,
-  "crispycards.de": 37,
+  "crispycards.de": 38,
   "tcgstore.se": 36,
   "pokectcg.cz": 29,
   "www.blackfire.eu": 16,
   "lorenzone.fr": 14,
   "tcgfanshop.nl": 13,
-  "sapphire-cards.de": 9,
-  "tradingcard.fi": 4,
-  "www.amazon.it": 3
+  "www.amazon.it": 4,
+  "extremepokecorner.com": 3,
+  "pokemonworld.lt": 3,
+  "tradingcard.fi": 3
  },
- "runno": 6981
+ "runno": 6982
 }
