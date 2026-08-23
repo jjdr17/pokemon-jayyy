@@ -810,7 +810,7 @@
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "LetsGoTry": {
-   "Pitch Black (ME05)": "non listato",
+   "Pitch Black (ME05)": "listato",
    "30th Celebration": "listato",
    "Storm Emerald (ME06)": "non listato",
    "Chaos Rising (ME04)": "listato",
@@ -976,6 +976,10 @@
   ],
   "TCGStore.se|Chaos Rising (ME04)": [
    "listato",
+   1
+  ],
+  "Pokemons.dk|Crown Zenith": [
+   "disponibile",
    1
   ]
  },
@@ -1146,7 +1150,7 @@
   "www.firestormgames.co.uk": 592,
   "hobbykort.se": 592,
   "tcgcompany.nl": 592,
-  "www.nerdom.gr": 591,
+  "www.nerdom.gr": 592,
   "www.pokekarty.pl": 592,
   "www.wakuwaku.cz": 592,
   "www.pokemonia.ro": 592,
@@ -1161,8 +1165,8 @@
   "cardcorner.at": 124,
   "misticards.com": 109,
   "www.poketalk.se": 109,
-  "pokevend.at": 98,
-  "rarecards.nl": 70,
+  "pokevend.at": 99,
+  "rarecards.nl": 71,
   "pokeka.hu": 45,
   "crispycards.de": 45,
   "tcgstore.se": 43,
@@ -1172,9 +1176,8 @@
   "tradingcard.fi": 11,
   "www.deckshop.de": 8,
   "www.amazon.it": 8,
-  "sapphire-cards.de": 4,
-  "pokeboxstore.pt": 1,
-  "www.lotticards.de": 1
+  "www.blackfire.eu": 8,
+  "sapphire-cards.de": 4
  },
- "runno": 7070
+ "runno": 7071
 }
