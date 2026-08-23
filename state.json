@@ -813,7 +813,7 @@
    "Pitch Black (ME05)": "non listato",
    "30th Celebration": "listato",
    "Storm Emerald (ME06)": "listato",
-   "Chaos Rising (ME04)": "listato",
+   "Chaos Rising (ME04)": "non listato",
    "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "non listato",
    "Prismatic Evolutions": "non listato",
@@ -978,43 +978,23 @@
    "listato",
    1
   ],
+  "Amazon.it|Storm Emerald (ME06)": [
+   "listato",
+   1
+  ],
   "Pokemons.dk|Crown Zenith": [
-   "non listato",
+   "disponibile",
    1
   ],
-  "Pokemons.dk|Pitch Black (ME05)": [
-   "non listato",
+  "LetsGoTry|Pitch Black (ME05)": [
+   "listato",
    1
   ],
-  "Pokemons.dk|30th Celebration": [
-   "non listato",
+  "LetsGoTry|Chaos Rising (ME04)": [
+   "listato",
    1
   ],
-  "Pokemons.dk|Premium Deck Espeon & Umbreon (30th)": [
-   "non listato",
-   1
-  ],
-  "Pokemons.dk|Storm Emerald (ME06)": [
-   "non listato",
-   1
-  ],
-  "Pokemons.dk|Chaos Rising (ME04)": [
-   "non listato",
-   1
-  ],
-  "Pokemons.dk|Phantasmal Flames (ME02)": [
-   "non listato",
-   1
-  ],
-  "Pokemons.dk|Pokémon 151": [
-   "non listato",
-   1
-  ],
-  "Pokemons.dk|Prismatic Evolutions": [
-   "non listato",
-   1
-  ],
-  "Pokemons.dk|Destined Rivals": [
+  "PokeCardShop|Crown Zenith": [
    "non listato",
    1
   ]
@@ -1186,7 +1166,7 @@
   "www.firestormgames.co.uk": 587,
   "hobbykort.se": 587,
   "tcgcompany.nl": 587,
-  "www.nerdom.gr": 586,
+  "www.nerdom.gr": 587,
   "www.pokekarty.pl": 587,
   "www.wakuwaku.cz": 587,
   "www.pokemonia.ro": 587,
@@ -1201,8 +1181,8 @@
   "cardcorner.at": 119,
   "misticards.com": 104,
   "www.poketalk.se": 104,
-  "pokevend.at": 93,
-  "rarecards.nl": 65,
+  "pokevend.at": 94,
+  "rarecards.nl": 66,
   "pokeka.hu": 40,
   "crispycards.de": 40,
   "tcgstore.se": 38,
@@ -1211,7 +1191,10 @@
   "tcgfanshop.nl": 16,
   "sapphire-cards.de": 11,
   "tradingcard.fi": 6,
-  "www.deckshop.de": 3
+  "www.deckshop.de": 3,
+  "www.amazon.it": 3,
+  "www.blackfire.eu": 1,
+  "pokeboxstore.pt": 1
  },
- "runno": 7010
+ "runno": 7011
 }
