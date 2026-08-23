@@ -977,14 +977,6 @@
   "TCGStore.se|Chaos Rising (ME04)": [
    "listato",
    1
-  ],
-  "Pokemons.dk|Crown Zenith": [
-   "disponibile",
-   1
-  ],
-  "PokeCardShop|30th Celebration": [
-   "non listato",
-   1
   ]
  },
  "urls": {
@@ -1144,13 +1136,13 @@
   }
  ],
  "down": {
-  "www.cardmarket.com": 586,
+  "www.cardmarket.com": 587,
   "www.gamestop.com": 84,
   "www.gamelife.it": 587,
   "pokeseller14.com": 587,
   "geco-shop.de": 587,
   "www.chaoscards.co.uk": 586,
-  "www.waylandgames.co.uk": 586,
+  "www.waylandgames.co.uk": 587,
   "www.firestormgames.co.uk": 587,
   "hobbykort.se": 587,
   "tcgcompany.nl": 587,
@@ -1160,20 +1152,20 @@
   "www.pokemonia.ro": 587,
   "en.tcg-shop.at": 586,
   "kaissagames.com": 383,
-  "itcg.bg": 218,
+  "itcg.bg": 219,
   "www.pokemillon.com": 217,
   "pokechest.at": 217,
   "www.magicbazar.fr": 187,
   "bescards.com": 180,
   "vinticards.com": 151,
-  "cardcorner.at": 118,
+  "cardcorner.at": 119,
   "misticards.com": 103,
   "www.poketalk.se": 103,
   "pokevend.at": 93,
   "www.deckshop.de": 79,
   "rarecards.nl": 65,
   "pokeka.hu": 39,
-  "crispycards.de": 39,
+  "crispycards.de": 40,
   "tcgstore.se": 38,
   "pokectcg.cz": 31,
   "lorenzone.fr": 16,
@@ -1181,7 +1173,8 @@
   "sapphire-cards.de": 11,
   "tradingcard.fi": 6,
   "www.blackfire.eu": 4,
-  "letsgotry.pl": 3
+  "letsgotry.pl": 3,
+  "www.amazon.it": 2
  },
- "runno": 7005
+ "runno": 7006
 }
