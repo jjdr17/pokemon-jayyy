@@ -810,10 +810,10 @@
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "LetsGoTry": {
-   "Pitch Black (ME05)": "non listato",
+   "Pitch Black (ME05)": "listato",
    "30th Celebration": "listato",
    "Storm Emerald (ME06)": "non listato",
-   "Chaos Rising (ME04)": "non listato",
+   "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "non listato",
    "Prismatic Evolutions": "non listato",
@@ -980,6 +980,10 @@
   ],
   "Pokemons.dk|Crown Zenith": [
    "disponibile",
+   1
+  ],
+  "PokeCardShop|30th Celebration": [
+   "non listato",
    1
   ]
  },
@@ -1176,12 +1180,8 @@
   "lorenzone.fr": 14,
   "tcgfanshop.nl": 13,
   "sapphire-cards.de": 8,
-  "www.amazon.it": 3,
-  "extremepokecorner.com": 2,
-  "pokewoke.store": 2,
-  "tcgpikas.lt": 2,
-  "pokemonworld.lt": 2,
-  "tradingcard.fi": 1
+  "tradingcard.fi": 4,
+  "tcgdistribution.fr": 1
  },
  "runno": 6977
 }
