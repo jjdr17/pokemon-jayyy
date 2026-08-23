@@ -26,7 +26,7 @@
   },
   "Amazon.it": {
    "30th Celebration": "non listato",
-   "Storm Emerald (ME06)": "non listato",
+   "Storm Emerald (ME06)": "listato",
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "TCGplayer": {
@@ -810,9 +810,9 @@
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "LetsGoTry": {
-   "Pitch Black (ME05)": "non listato",
+   "Pitch Black (ME05)": "listato",
    "30th Celebration": "listato",
-   "Storm Emerald (ME06)": "non listato",
+   "Storm Emerald (ME06)": "listato",
    "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "non listato",
@@ -978,15 +978,23 @@
    "listato",
    1
   ],
-  "Amazon.it|30th Celebration": [
+  "Pokemillon|Pokémon 151": [
    "listato",
+   1
+  ],
+  "Amazon.it|Storm Emerald (ME06)": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Crown Zenith": [
+   "disponibile",
    1
   ],
   "LetsGoTry|Pitch Black (ME05)": [
-   "listato",
+   "non listato",
    1
   ],
-  "PokeCardShop|Chaos Rising (ME04)": [
+  "LetsGoTry|Chaos Rising (ME04)": [
    "non listato",
    1
   ]
@@ -1158,23 +1166,21 @@
   "www.firestormgames.co.uk": 593,
   "hobbykort.se": 593,
   "tcgcompany.nl": 593,
-  "www.nerdom.gr": 592,
+  "www.nerdom.gr": 593,
   "www.pokekarty.pl": 593,
   "www.wakuwaku.cz": 593,
   "www.pokemonia.ro": 593,
   "en.tcg-shop.at": 593,
   "kaissagames.com": 390,
   "itcg.bg": 225,
-  "www.pokemillon.com": 224,
   "pokechest.at": 224,
   "www.magicbazar.fr": 194,
   "bescards.com": 186,
   "vinticards.com": 157,
   "cardcorner.at": 125,
-  "misticards.com": 110,
   "www.poketalk.se": 110,
-  "pokevend.at": 99,
-  "rarecards.nl": 71,
+  "pokevend.at": 100,
+  "rarecards.nl": 72,
   "pokeka.hu": 46,
   "crispycards.de": 46,
   "tcgstore.se": 44,
@@ -1183,10 +1189,10 @@
   "tcgfanshop.nl": 22,
   "tradingcard.fi": 12,
   "www.deckshop.de": 9,
-  "www.blackfire.eu": 2,
-  "sapphire-cards.de": 2,
-  "pokeboxstore.pt": 2,
-  "www.amazon.it": 1
+  "www.blackfire.eu": 4,
+  "sapphire-cards.de": 3,
+  "misticards.com": 3,
+  "www.pokemillon.com": 1
  },
- "runno": 7082
+ "runno": 7083
 }
