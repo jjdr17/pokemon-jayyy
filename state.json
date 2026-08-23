@@ -977,6 +977,10 @@
   "TCGStore.se|Chaos Rising (ME04)": [
    "listato",
    1
+  ],
+  "Pokemons.dk|Crown Zenith": [
+   "disponibile",
+   1
   ]
  },
  "urls": {
@@ -1145,7 +1149,7 @@
   "www.waylandgames.co.uk": 586,
   "www.firestormgames.co.uk": 587,
   "hobbykort.se": 587,
-  "tcgcompany.nl": 586,
+  "tcgcompany.nl": 587,
   "www.nerdom.gr": 586,
   "www.pokekarty.pl": 586,
   "www.wakuwaku.cz": 586,
@@ -1166,14 +1170,16 @@
   "rarecards.nl": 65,
   "pokeka.hu": 39,
   "crispycards.de": 39,
-  "tcgstore.se": 37,
+  "tcgstore.se": 38,
   "pokectcg.cz": 31,
   "lorenzone.fr": 16,
   "tcgfanshop.nl": 15,
-  "sapphire-cards.de": 10,
+  "sapphire-cards.de": 11,
   "tradingcard.fi": 6,
   "www.blackfire.eu": 4,
-  "letsgotry.pl": 3
+  "letsgotry.pl": 3,
+  "www.amazon.it": 1,
+  "pokeboxstore.pt": 1
  },
- "runno": 7004
+ "runno": 7005
 }
