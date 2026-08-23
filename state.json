@@ -977,6 +977,14 @@
   "TCGStore.se|Chaos Rising (ME04)": [
    "listato",
    1
+  ],
+  "Pokemons.dk|Crown Zenith": [
+   "disponibile",
+   1
+  ],
+  "LetsGoTry|Pitch Black (ME05)": [
+   "non listato",
+   1
   ]
  },
  "urls": {
@@ -1147,7 +1155,7 @@
   "hobbykort.se": 590,
   "tcgcompany.nl": 590,
   "www.nerdom.gr": 589,
-  "www.pokekarty.pl": 589,
+  "www.pokekarty.pl": 590,
   "www.wakuwaku.cz": 589,
   "www.pokemonia.ro": 590,
   "en.tcg-shop.at": 589,
@@ -1166,14 +1174,16 @@
   "pokeka.hu": 42,
   "crispycards.de": 43,
   "tcgstore.se": 41,
-  "pokectcg.cz": 34,
+  "pokectcg.cz": 35,
   "lorenzone.fr": 19,
   "tcgfanshop.nl": 18,
   "sapphire-cards.de": 14,
   "tradingcard.fi": 9,
-  "www.deckshop.de": 5,
+  "www.deckshop.de": 6,
   "www.amazon.it": 6,
-  "www.blackfire.eu": 5
+  "www.blackfire.eu": 5,
+  "pokeboxstore.pt": 1,
+  "games-island.eu": 1
  },
- "runno": 7042
+ "runno": 7043
 }
