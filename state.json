@@ -26,7 +26,7 @@
   },
   "Amazon.it": {
    "30th Celebration": "non listato",
-   "Storm Emerald (ME06)": "non listato",
+   "Storm Emerald (ME06)": "listato",
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "TCGplayer": {
@@ -810,7 +810,7 @@
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "LetsGoTry": {
-   "Pitch Black (ME05)": "non listato",
+   "Pitch Black (ME05)": "listato",
    "30th Celebration": "listato",
    "Storm Emerald (ME06)": "non listato",
    "Chaos Rising (ME04)": "listato",
@@ -982,8 +982,24 @@
    "listato",
    1
   ],
-  "Pokemons.dk|Crown Zenith": [
-   "disponibile",
+  "Pokemillon|Pokémon 151": [
+   "listato",
+   1
+  ],
+  "Pokemillon|Prismatic Evolutions": [
+   "listato",
+   1
+  ],
+  "Pokemillon|Crown Zenith": [
+   "listato",
+   1
+  ],
+  "LetsGoTry|Storm Emerald (ME06)": [
+   "listato",
+   1
+  ],
+  "PokeCardShop|Pitch Black (ME05)": [
+   "non listato",
    1
   ]
  },
@@ -1156,37 +1172,31 @@
   "tcgcompany.nl": 593,
   "www.nerdom.gr": 592,
   "www.pokekarty.pl": 593,
-  "www.wakuwaku.cz": 592,
+  "www.wakuwaku.cz": 593,
   "www.pokemonia.ro": 593,
   "en.tcg-shop.at": 593,
-  "kaissagames.com": 389,
+  "kaissagames.com": 390,
   "itcg.bg": 225,
-  "www.pokemillon.com": 223,
   "pokechest.at": 224,
-  "www.magicbazar.fr": 193,
+  "www.magicbazar.fr": 194,
   "bescards.com": 186,
   "vinticards.com": 157,
   "cardcorner.at": 125,
-  "misticards.com": 110,
   "www.poketalk.se": 110,
   "pokevend.at": 99,
   "rarecards.nl": 71,
-  "pokeka.hu": 45,
+  "pokeka.hu": 46,
   "crispycards.de": 46,
   "tcgstore.se": 44,
   "pokectcg.cz": 38,
-  "lorenzone.fr": 22,
+  "lorenzone.fr": 23,
   "tcgfanshop.nl": 22,
   "tradingcard.fi": 12,
   "www.deckshop.de": 9,
-  "www.blackfire.eu": 1,
-  "sapphire-cards.de": 1,
-  "games-island.eu": 1,
-  "extremepokecorner.com": 1,
-  "pokeboxstore.pt": 1,
-  "pokewoke.store": 1,
-  "tcgpikas.lt": 1,
-  "pokemonworld.lt": 1
+  "www.blackfire.eu": 4,
+  "sapphire-cards.de": 3,
+  "www.amazon.it": 2,
+  "misticards.com": 2
  },
- "runno": 7081
+ "runno": 7082
 }
