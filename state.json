@@ -977,14 +977,6 @@
   "TCGStore.se|Chaos Rising (ME04)": [
    "listato",
    1
-  ],
-  "Pokemons.dk|Crown Zenith": [
-   "disponibile",
-   1
-  ],
-  "PokeCardShop|Phantasmal Flames (ME02)": [
-   "non listato",
-   1
   ]
  },
  "urls": {
@@ -1151,13 +1143,13 @@
   "geco-shop.de": 586,
   "www.chaoscards.co.uk": 586,
   "www.waylandgames.co.uk": 586,
-  "www.firestormgames.co.uk": 586,
+  "www.firestormgames.co.uk": 587,
   "hobbykort.se": 586,
   "tcgcompany.nl": 586,
   "www.nerdom.gr": 586,
   "www.pokekarty.pl": 586,
   "www.wakuwaku.cz": 586,
-  "www.pokemonia.ro": 586,
+  "www.pokemonia.ro": 587,
   "en.tcg-shop.at": 586,
   "kaissagames.com": 383,
   "itcg.bg": 218,
@@ -1183,7 +1175,9 @@
   "www.amazon.it": 4,
   "www.blackfire.eu": 4,
   "pokeboxstore.pt": 4,
-  "letsgotry.pl": 1
+  "letsgotry.pl": 2,
+  "tcgdistribution.fr": 1,
+  "www.lotticards.de": 1
  },
- "runno": 7000
+ "runno": 7001
 }
