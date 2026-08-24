@@ -26,7 +26,7 @@
   },
   "Amazon.it": {
    "30th Celebration": "non listato",
-   "Storm Emerald (ME06)": "listato",
+   "Storm Emerald (ME06)": "non listato",
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "TCGplayer": {
@@ -813,7 +813,7 @@
    "Pitch Black (ME05)": "non listato",
    "30th Celebration": "listato",
    "Storm Emerald (ME06)": "listato",
-   "Chaos Rising (ME04)": "listato",
+   "Chaos Rising (ME04)": "non listato",
    "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "non listato",
    "Prismatic Evolutions": "non listato",
@@ -982,16 +982,12 @@
    "listato",
    1
   ],
-  "Amazon.it|Storm Emerald (ME06)": [
+  "LetsGoTry|Storm Emerald (ME06)": [
    "non listato",
-   1
-  ],
-  "Pokemons.dk|Crown Zenith": [
-   "disponibile",
    1
   ],
   "LetsGoTry|Chaos Rising (ME04)": [
-   "non listato",
+   "listato",
    1
   ]
  },
@@ -1154,9 +1150,9 @@
  "down": {
   "www.cardmarket.com": 604,
   "www.gamestop.com": 84,
-  "www.gamelife.it": 604,
-  "pokeseller14.com": 604,
-  "geco-shop.de": 604,
+  "www.gamelife.it": 605,
+  "pokeseller14.com": 605,
+  "geco-shop.de": 605,
   "www.chaoscards.co.uk": 604,
   "www.waylandgames.co.uk": 604,
   "www.firestormgames.co.uk": 605,
@@ -1188,7 +1184,11 @@
   "www.pokemillon.com": 14,
   "crispycards.de": 5,
   "www.blackfire.eu": 5,
-  "www.amazon.it": 4
+  "pokeboxstore.pt": 2,
+  "extremepokecorner.com": 1,
+  "pokewoke.store": 1,
+  "tcgpikas.lt": 1,
+  "pokemonworld.lt": 1
  },
- "runno": 7219
+ "runno": 7220
 }
