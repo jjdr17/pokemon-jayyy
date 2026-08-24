@@ -810,7 +810,7 @@
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "LetsGoTry": {
-   "Pitch Black (ME05)": "non listato",
+   "Pitch Black (ME05)": "listato",
    "30th Celebration": "listato",
    "Storm Emerald (ME06)": "non listato",
    "Chaos Rising (ME04)": "listato",
@@ -982,12 +982,8 @@
    "listato",
    1
   ],
-  "LetsGoTry|Pitch Black (ME05)": [
-   "listato",
-   1
-  ],
-  "LetsGoTry|Chaos Rising (ME04)": [
-   "non listato",
+  "Pokemons.dk|Crown Zenith": [
+   "disponibile",
    1
   ]
  },
@@ -1155,13 +1151,13 @@
   "geco-shop.de": 597,
   "www.chaoscards.co.uk": 597,
   "www.waylandgames.co.uk": 597,
-  "www.firestormgames.co.uk": 597,
+  "www.firestormgames.co.uk": 598,
   "hobbykort.se": 597,
   "tcgcompany.nl": 597,
   "www.nerdom.gr": 597,
   "www.pokekarty.pl": 597,
   "www.wakuwaku.cz": 597,
-  "www.pokemonia.ro": 597,
+  "www.pokemonia.ro": 598,
   "en.tcg-shop.at": 597,
   "kaissagames.com": 394,
   "itcg.bg": 229,
@@ -1185,7 +1181,8 @@
   "misticards.com": 7,
   "www.pokemillon.com": 7,
   "www.amazon.it": 6,
-  "crispycards.de": 1
+  "crispycards.de": 2,
+  "pokeboxstore.pt": 1
  },
- "runno": 7132
+ "runno": 7133
 }
