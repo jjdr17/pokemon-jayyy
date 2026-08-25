@@ -510,16 +510,16 @@
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "Pokemons.dk": {
-   "Pitch Black (ME05)": "non listato",
-   "30th Celebration": "non listato",
-   "Storm Emerald (ME06)": "non listato",
-   "Chaos Rising (ME04)": "non listato",
-   "Phantasmal Flames (ME02)": "non listato",
-   "Pokémon 151": "non listato",
-   "Prismatic Evolutions": "non listato",
-   "Crown Zenith": "non listato",
-   "Destined Rivals": "non listato",
-   "Premium Deck Espeon & Umbreon (30th)": "non listato"
+   "Pitch Black (ME05)": "listato",
+   "30th Celebration": "listato",
+   "Storm Emerald (ME06)": "listato",
+   "Chaos Rising (ME04)": "listato",
+   "Phantasmal Flames (ME02)": "listato",
+   "Pokémon 151": "listato",
+   "Prismatic Evolutions": "listato",
+   "Crown Zenith": "esaurito",
+   "Destined Rivals": "listato",
+   "Premium Deck Espeon & Umbreon (30th)": "listato"
   },
   "Papelinho": {
    "Pitch Black (ME05)": "non listato",
@@ -990,8 +990,8 @@
    "listato",
    1
   ],
-  "Total Cards (UK)|30th Celebration": [
-   "listato",
+  "PokeCardShop|Premium Deck Espeon & Umbreon (30th)": [
+   "non listato",
    1
   ]
  },
@@ -1023,7 +1023,7 @@
   "PokeCardShop|30th Celebration": "https://www.pokecardshop.be/search?q=30th+celebration",
   "Pokebank|Destined Rivals": "https://pokebank.es/producto/precio-pro-12999e1-etb-destined-rivals-reserva-ingles/"
  },
- "digest_slot": "2026-08-25-10",
+ "digest_slot": "2026-08-25-15",
  "log": [
   {
    "ts": "05/07 19:55",
@@ -1159,13 +1159,13 @@
   "geco-shop.de": 614,
   "www.chaoscards.co.uk": 614,
   "www.waylandgames.co.uk": 614,
-  "www.firestormgames.co.uk": 614,
+  "www.firestormgames.co.uk": 615,
   "hobbykort.se": 614,
   "tcgcompany.nl": 614,
   "www.nerdom.gr": 614,
   "www.pokekarty.pl": 614,
   "www.wakuwaku.cz": 614,
-  "www.pokemonia.ro": 614,
+  "www.pokemonia.ro": 615,
   "en.tcg-shop.at": 614,
   "kaissagames.com": 411,
   "itcg.bg": 246,
@@ -1180,18 +1180,18 @@
   "pokectcg.cz": 59,
   "lorenzone.fr": 44,
   "tcgfanshop.nl": 43,
+  "tradingcard.fi": 34,
   "www.deckshop.de": 30,
   "misticards.com": 24,
   "www.pokemillon.com": 24,
-  "crispycards.de": 15,
   "vinticards.com": 9,
   "papelinho.pt": 6,
   "pokechest.at": 5,
   "www.blackfire.eu": 5,
   "letsgotry.pl": 5,
   "www.amazon.it": 4,
-  "www.lotticards.de": 1,
+  "crispycards.de": 3,
   "pokeboxstore.pt": 1
  },
- "runno": 7336
+ "runno": 7337
 }
