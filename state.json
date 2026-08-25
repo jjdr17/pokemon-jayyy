@@ -813,7 +813,7 @@
    "Pitch Black (ME05)": "non listato",
    "30th Celebration": "listato",
    "Storm Emerald (ME06)": "non listato",
-   "Chaos Rising (ME04)": "non listato",
+   "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "non listato",
    "Prismatic Evolutions": "non listato",
@@ -985,10 +985,6 @@
   "Amazon.it|Storm Emerald (ME06)": [
    "listato",
    1
-  ],
-  "Pokemons.dk|Crown Zenith": [
-   "disponibile",
-   1
   ]
  },
  "urls": {
@@ -1158,20 +1154,19 @@
   "www.firestormgames.co.uk": 612,
   "hobbykort.se": 612,
   "tcgcompany.nl": 612,
-  "www.nerdom.gr": 611,
+  "www.nerdom.gr": 612,
   "www.pokekarty.pl": 612,
   "www.wakuwaku.cz": 612,
   "www.pokemonia.ro": 612,
   "en.tcg-shop.at": 612,
   "kaissagames.com": 409,
   "itcg.bg": 244,
-  "pokechest.at": 243,
   "www.magicbazar.fr": 213,
   "bescards.com": 205,
   "cardcorner.at": 144,
   "www.poketalk.se": 129,
-  "pokevend.at": 118,
-  "rarecards.nl": 90,
+  "pokevend.at": 119,
+  "rarecards.nl": 91,
   "pokeka.hu": 65,
   "tcgstore.se": 63,
   "pokectcg.cz": 57,
@@ -1184,10 +1179,10 @@
   "crispycards.de": 13,
   "pokeboxstore.pt": 10,
   "vinticards.com": 6,
-  "www.blackfire.eu": 4,
   "papelinho.pt": 4,
   "www.amazon.it": 3,
-  "alldaytcg.com": 1
+  "pokechest.at": 2,
+  "www.blackfire.eu": 1
  },
- "runno": 7310
+ "runno": 7311
 }
