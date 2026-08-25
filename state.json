@@ -104,7 +104,7 @@
   "OutpostBrussels": {
    "Pitch Black (ME05)": "esaurito",
    "30th Celebration": "esaurito",
-   "Storm Emerald (ME06)": "listato",
+   "Storm Emerald (ME06)": "non listato",
    "Chaos Rising (ME04)": "esaurito",
    "Phantasmal Flames (ME02)": "esaurito",
    "Pokémon 151": "listato",
@@ -982,15 +982,11 @@
    "listato",
    1
   ],
-  "OutpostBrussels|Storm Emerald (ME06)": [
-   "non listato",
-   1
-  ],
-  "Pokemons.dk|Crown Zenith": [
-   "disponibile",
-   1
-  ],
   "LetsGoTry|Storm Emerald (ME06)": [
+   "listato",
+   1
+  ],
+  "LetsGoTry|Chaos Rising (ME04)": [
    "listato",
    1
   ]
@@ -1154,9 +1150,9 @@
  "down": {
   "www.cardmarket.com": 609,
   "www.gamestop.com": 84,
-  "www.gamelife.it": 609,
-  "pokeseller14.com": 609,
-  "geco-shop.de": 609,
+  "www.gamelife.it": 610,
+  "pokeseller14.com": 610,
+  "geco-shop.de": 610,
   "www.chaoscards.co.uk": 609,
   "www.waylandgames.co.uk": 609,
   "www.firestormgames.co.uk": 610,
@@ -1189,7 +1185,9 @@
   "pokeboxstore.pt": 8,
   "www.blackfire.eu": 7,
   "vinticards.com": 4,
-  "www.amazon.it": 3
+  "www.amazon.it": 4,
+  "godofcards.com": 1,
+  "papelinho.pt": 1
  },
- "runno": 7279
+ "runno": 7280
 }
