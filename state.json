@@ -810,7 +810,7 @@
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "LetsGoTry": {
-   "Pitch Black (ME05)": "listato",
+   "Pitch Black (ME05)": "non listato",
    "30th Celebration": "listato",
    "Storm Emerald (ME06)": "non listato",
    "Chaos Rising (ME04)": "listato",
@@ -986,11 +986,15 @@
    "listato",
    1
   ],
-  "Pokemons.dk|Crown Zenith": [
-   "disponibile",
+  "Pokechest|Pokémon 151": [
+   "non listato",
    1
   ],
-  "LetsGoTry|Pitch Black (ME05)": [
+  "LetsGoTry|Storm Emerald (ME06)": [
+   "listato",
+   1
+  ],
+  "LetsGoTry|Chaos Rising (ME04)": [
    "non listato",
    1
   ]
@@ -1023,7 +1027,7 @@
   "PokeCardShop|30th Celebration": "https://www.pokecardshop.be/search?q=30th+celebration",
   "Pokebank|Destined Rivals": "https://pokebank.es/producto/precio-pro-12999e1-etb-destined-rivals-reserva-ingles/"
  },
- "digest_slot": "2026-08-24-22",
+ "digest_slot": "2026-08-25-10",
  "log": [
   {
    "ts": "05/07 19:55",
@@ -1166,10 +1170,9 @@
   "www.pokekarty.pl": 612,
   "www.wakuwaku.cz": 611,
   "www.pokemonia.ro": 612,
-  "en.tcg-shop.at": 611,
+  "en.tcg-shop.at": 612,
   "kaissagames.com": 408,
   "itcg.bg": 244,
-  "pokechest.at": 242,
   "www.magicbazar.fr": 212,
   "bescards.com": 205,
   "cardcorner.at": 144,
@@ -1180,7 +1183,7 @@
   "tcgstore.se": 63,
   "pokectcg.cz": 57,
   "lorenzone.fr": 41,
-  "tcgfanshop.nl": 40,
+  "tcgfanshop.nl": 41,
   "tradingcard.fi": 31,
   "www.deckshop.de": 28,
   "misticards.com": 22,
@@ -1190,8 +1193,8 @@
   "vinticards.com": 6,
   "www.blackfire.eu": 3,
   "papelinho.pt": 4,
-  "www.amazon.it": 2,
-  "www.lotticards.de": 1
+  "www.amazon.it": 3,
+  "games-island.eu": 1
  },
- "runno": 7308
+ "runno": 7309
 }
