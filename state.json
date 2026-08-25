@@ -993,6 +993,10 @@
   "Pokemons.dk|Crown Zenith": [
    "disponibile",
    1
+  ],
+  "PokeCardShop|Prismatic Evolutions": [
+   "non listato",
+   1
   ]
  },
  "urls": {
@@ -1023,7 +1027,7 @@
   "PokeCardShop|30th Celebration": "https://www.pokecardshop.be/search?q=30th+celebration",
   "Pokebank|Destined Rivals": "https://pokebank.es/producto/precio-pro-12999e1-etb-destined-rivals-reserva-ingles/"
  },
- "digest_slot": "2026-08-25-15",
+ "digest_slot": "2026-08-25-18",
  "log": [
   {
    "ts": "05/07 19:55",
@@ -1189,12 +1193,7 @@
   "letsgotry.pl": 6,
   "www.amazon.it": 5,
   "crispycards.de": 4,
-  "extremepokecorner.com": 3,
-  "pokewoke.store": 3,
-  "tcgpikas.lt": 3,
-  "pokemonworld.lt": 3,
-  "www.blackfire.eu": 1,
-  "games-island.eu": 1
+  "tcgdistribution.fr": 1
  },
  "runno": 7350
 }
