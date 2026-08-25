@@ -982,16 +982,16 @@
    "listato",
    1
   ],
-  "Amazon.it|Storm Emerald (ME06)": [
-   "listato",
-   1
-  ],
-  "Pokemons.dk|Crown Zenith": [
-   "disponibile",
-   1
-  ],
-  "LetsGoTry|Chaos Rising (ME04)": [
+  "PokeCardShop|Crown Zenith": [
    "non listato",
+   1
+  ],
+  "LetsGoTry|Pitch Black (ME05)": [
+   "non listato",
+   1
+  ],
+  "LetsGoTry|Storm Emerald (ME06)": [
+   "listato",
    1
   ]
  },
@@ -1163,7 +1163,7 @@
   "hobbykort.se": 612,
   "tcgcompany.nl": 612,
   "www.nerdom.gr": 611,
-  "www.pokekarty.pl": 611,
+  "www.pokekarty.pl": 612,
   "www.wakuwaku.cz": 611,
   "www.pokemonia.ro": 612,
   "en.tcg-shop.at": 611,
@@ -1178,18 +1178,19 @@
   "rarecards.nl": 90,
   "pokeka.hu": 64,
   "tcgstore.se": 63,
-  "pokectcg.cz": 56,
+  "pokectcg.cz": 57,
   "lorenzone.fr": 41,
   "tcgfanshop.nl": 40,
   "tradingcard.fi": 31,
-  "www.deckshop.de": 27,
+  "www.deckshop.de": 28,
   "misticards.com": 21,
   "www.pokemillon.com": 21,
   "crispycards.de": 13,
   "pokeboxstore.pt": 10,
   "vinticards.com": 6,
   "www.blackfire.eu": 3,
-  "papelinho.pt": 4
+  "papelinho.pt": 4,
+  "www.amazon.it": 1
  },
- "runno": 7306
+ "runno": 7307
 }
