@@ -985,6 +985,14 @@
   "LetsGoTry|Storm Emerald (ME06)": [
    "listato",
    1
+  ],
+  "Pokemons.dk|Crown Zenith": [
+   "disponibile",
+   1
+  ],
+  "PokeCardShop|Prismatic Evolutions": [
+   "non listato",
+   1
   ]
  },
  "urls": {
@@ -1152,7 +1160,7 @@
   "www.chaoscards.co.uk": 619,
   "www.waylandgames.co.uk": 619,
   "www.firestormgames.co.uk": 620,
-  "hobbykort.se": 619,
+  "hobbykort.se": 620,
   "tcgcompany.nl": 619,
   "www.nerdom.gr": 619,
   "www.pokekarty.pl": 619,
@@ -1182,7 +1190,8 @@
   "crispycards.de": 8,
   "pokeboxstore.pt": 4,
   "www.amazon.it": 4,
-  "www.blackfire.eu": 4
+  "www.blackfire.eu": 4,
+  "tcgdistribution.fr": 1
  },
- "runno": 7397
+ "runno": 7398
 }
