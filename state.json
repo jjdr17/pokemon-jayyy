@@ -686,7 +686,7 @@
    "Pokémon 151": "non listato",
    "Prismatic Evolutions": "non listato",
    "Crown Zenith": "non listato",
-   "Destined Rivals": "non listato",
+   "Destined Rivals": "disponibile",
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "TCGPikas": {
@@ -985,14 +985,6 @@
   "LetsGoTry|Storm Emerald (ME06)": [
    "listato",
    1
-  ],
-  "Pokecollect|Destined Rivals": [
-   "disponibile",
-   1
-  ],
-  "Pokemons.dk|Crown Zenith": [
-   "disponibile",
-   1
   ]
  },
  "urls": {
@@ -1162,7 +1154,7 @@
   "www.firestormgames.co.uk": 624,
   "hobbykort.se": 624,
   "tcgcompany.nl": 624,
-  "www.nerdom.gr": 623,
+  "www.nerdom.gr": 624,
   "www.pokekarty.pl": 624,
   "www.wakuwaku.cz": 624,
   "www.pokemonia.ro": 624,
@@ -1172,8 +1164,8 @@
   "bescards.com": 217,
   "cardcorner.at": 156,
   "www.poketalk.se": 141,
-  "pokevend.at": 130,
-  "rarecards.nl": 102,
+  "pokevend.at": 131,
+  "rarecards.nl": 103,
   "pokeka.hu": 77,
   "tcgstore.se": 75,
   "pokectcg.cz": 69,
@@ -1189,7 +1181,9 @@
   "letsgotry.pl": 15,
   "crispycards.de": 13,
   "www.amazon.it": 6,
-  "www.blackfire.eu": 5
+  "pokeboxstore.pt": 3,
+  "www.blackfire.eu": 1,
+  "pokebank.es": 1
  },
- "runno": 7454
+ "runno": 7455
 }
