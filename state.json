@@ -985,6 +985,10 @@
   "LetsGoTry|Storm Emerald (ME06)": [
    "listato",
    1
+  ],
+  "Pokemons.dk|Crown Zenith": [
+   "disponibile",
+   1
   ]
  },
  "urls": {
@@ -1013,7 +1017,8 @@
   "Pokecollect|Pitch Black (ME05)": "https://pokecollect.pl/?s=pitch+black&post_type=product",
   "Pikashop|Pitch Black (ME05)": "https://pikashop.pl/?s=pitch+black&post_type=product",
   "PokeCardShop|30th Celebration": "https://www.pokecardshop.be/search?q=30th+celebration",
-  "Pokebank|Destined Rivals": "https://pokebank.es/producto/precio-pro-12999e1-etb-destined-rivals-reserva-ingles/"
+  "Pokebank|Destined Rivals": "https://pokebank.es/producto/precio-pro-12999e1-etb-destined-rivals-reserva-ingles/",
+  "Pokecollect|Destined Rivals": "https://pokecollect.pl/?s=destined+rivals&post_type=product"
  },
  "digest_slot": "2026-08-26-10",
  "log": [
@@ -1161,7 +1166,7 @@
   "en.tcg-shop.at": 624,
   "kaissagames.com": 421,
   "itcg.bg": 256,
-  "bescards.com": 217,
+  "bescards.com": 218,
   "cardcorner.at": 156,
   "www.poketalk.se": 141,
   "pokevend.at": 131,
@@ -1171,18 +1176,20 @@
   "pokectcg.cz": 69,
   "lorenzone.fr": 54,
   "tcgfanshop.nl": 53,
-  "tradingcard.fi": 43,
+  "tradingcard.fi": 44,
   "www.deckshop.de": 40,
   "misticards.com": 34,
   "www.pokemillon.com": 34,
-  "vinticards.com": 18,
+  "vinticards.com": 19,
   "papelinho.pt": 16,
   "pokechest.at": 15,
   "letsgotry.pl": 15,
   "crispycards.de": 13,
   "www.amazon.it": 6,
-  "www.blackfire.eu": 5,
-  "pokeboxstore.pt": 1
+  "pokeboxstore.pt": 3,
+  "www.blackfire.eu": 2,
+  "tcgdistribution.fr": 1,
+  "www.lotticards.de": 1
  },
- "runno": 7455
+ "runno": 7456
 }
