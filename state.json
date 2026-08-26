@@ -985,10 +985,6 @@
   "LetsGoTry|Storm Emerald (ME06)": [
    "listato",
    1
-  ],
-  "Pokemons.dk|Crown Zenith": [
-   "disponibile",
-   1
   ]
  },
  "urls": {
@@ -1020,7 +1016,7 @@
   "Pokebank|Destined Rivals": "https://pokebank.es/producto/precio-pro-12999e1-etb-destined-rivals-reserva-ingles/",
   "Pokecollect|Destined Rivals": "https://pokecollect.pl/?s=destined+rivals&post_type=product"
  },
- "digest_slot": "2026-08-26-10",
+ "digest_slot": "2026-08-26-15",
  "log": [
   {
    "ts": "05/07 19:55",
@@ -1156,13 +1152,13 @@
   "geco-shop.de": 625,
   "www.chaoscards.co.uk": 625,
   "www.waylandgames.co.uk": 625,
-  "www.firestormgames.co.uk": 625,
+  "www.firestormgames.co.uk": 626,
   "hobbykort.se": 625,
   "tcgcompany.nl": 625,
   "www.nerdom.gr": 625,
   "www.pokekarty.pl": 625,
   "www.wakuwaku.cz": 625,
-  "www.pokemonia.ro": 625,
+  "www.pokemonia.ro": 626,
   "en.tcg-shop.at": 625,
   "kaissagames.com": 422,
   "itcg.bg": 257,
@@ -1184,8 +1180,10 @@
   "pokechest.at": 16,
   "letsgotry.pl": 16,
   "www.amazon.it": 7,
-  "pokeboxstore.pt": 2,
-  "crispycards.de": 1
+  "pokeboxstore.pt": 3,
+  "crispycards.de": 2,
+  "www.blackfire.eu": 1,
+  "games-island.eu": 1
  },
- "runno": 7468
+ "runno": 7469
 }
