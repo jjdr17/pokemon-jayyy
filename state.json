@@ -151,7 +151,7 @@
   },
   "God of Cards": {
    "Pitch Black (ME05)": "listato",
-   "30th Celebration": "non listato",
+   "30th Celebration": "listato",
    "Storm Emerald (ME06)": "non listato",
    "Chaos Rising (ME04)": "non listato",
    "Phantasmal Flames (ME02)": "non listato",
@@ -989,6 +989,14 @@
   "Amazon.it|Storm Emerald (ME06)": [
    "listato",
    1
+  ],
+  "God of Cards|30th Celebration": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Crown Zenith": [
+   "disponibile",
+   1
   ]
  },
  "urls": {
@@ -1149,13 +1157,13 @@
   }
  ],
  "down": {
-  "www.cardmarket.com": 637,
+  "www.cardmarket.com": 638,
   "www.gamestop.com": 84,
   "www.gamelife.it": 638,
   "pokeseller14.com": 638,
   "geco-shop.de": 638,
   "www.chaoscards.co.uk": 637,
-  "www.waylandgames.co.uk": 637,
+  "www.waylandgames.co.uk": 638,
   "www.firestormgames.co.uk": 638,
   "hobbykort.se": 638,
   "tcgcompany.nl": 638,
@@ -1165,9 +1173,9 @@
   "www.pokemonia.ro": 638,
   "en.tcg-shop.at": 637,
   "kaissagames.com": 434,
-  "itcg.bg": 269,
+  "itcg.bg": 270,
   "bescards.com": 231,
-  "cardcorner.at": 169,
+  "cardcorner.at": 170,
   "www.poketalk.se": 154,
   "pokevend.at": 144,
   "rarecards.nl": 116,
@@ -1185,7 +1193,8 @@
   "tradingcard.fi": 7,
   "www.amazon.it": 4,
   "www.blackfire.eu": 3,
-  "crispycards.de": 3
+  "crispycards.de": 4,
+  "www.lotticards.de": 1
  },
- "runno": 7617
+ "runno": 7618
 }
