@@ -985,6 +985,14 @@
   "LetsGoTry|Storm Emerald (ME06)": [
    "listato",
    1
+  ],
+  "Pokemons.dk|Crown Zenith": [
+   "disponibile",
+   1
+  ],
+  "PokeCardShop|Pitch Black (ME05)": [
+   "non listato",
+   1
   ]
  },
  "urls": {
@@ -1152,13 +1160,13 @@
   "geco-shop.de": 635,
   "www.chaoscards.co.uk": 635,
   "www.waylandgames.co.uk": 635,
-  "www.firestormgames.co.uk": 635,
+  "www.firestormgames.co.uk": 636,
   "hobbykort.se": 635,
   "tcgcompany.nl": 635,
   "www.nerdom.gr": 635,
   "www.pokekarty.pl": 635,
   "www.wakuwaku.cz": 635,
-  "www.pokemonia.ro": 635,
+  "www.pokemonia.ro": 636,
   "en.tcg-shop.at": 635,
   "kaissagames.com": 432,
   "itcg.bg": 267,
@@ -1181,7 +1189,9 @@
   "www.blackfire.eu": 8,
   "www.amazon.it": 7,
   "tradingcard.fi": 5,
-  "crispycards.de": 1
+  "crispycards.de": 2,
+  "pokeboxstore.pt": 1,
+  "tcgdistribution.fr": 1
  },
- "runno": 7588
+ "runno": 7589
 }
