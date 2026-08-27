@@ -686,7 +686,7 @@
    "Pokémon 151": "non listato",
    "Prismatic Evolutions": "non listato",
    "Crown Zenith": "non listato",
-   "Destined Rivals": "listato",
+   "Destined Rivals": "disponibile",
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "TCGPikas": {
@@ -990,7 +990,11 @@
    "listato",
    1
   ],
-  "Pokecollect|Destined Rivals": [
+  "God of Cards|30th Celebration": [
+   "listato",
+   1
+  ],
+  "Pokemons.dk|Crown Zenith": [
    "disponibile",
    1
   ]
@@ -1155,9 +1159,9 @@
  "down": {
   "www.cardmarket.com": 637,
   "www.gamestop.com": 84,
-  "www.gamelife.it": 637,
-  "pokeseller14.com": 637,
-  "geco-shop.de": 637,
+  "www.gamelife.it": 638,
+  "pokeseller14.com": 638,
+  "geco-shop.de": 638,
   "www.chaoscards.co.uk": 637,
   "www.waylandgames.co.uk": 637,
   "www.firestormgames.co.uk": 638,
@@ -1187,10 +1191,9 @@
   "pokechest.at": 28,
   "letsgotry.pl": 28,
   "tradingcard.fi": 7,
-  "www.amazon.it": 3,
+  "www.amazon.it": 4,
   "www.blackfire.eu": 3,
-  "crispycards.de": 3,
-  "pokeboxstore.pt": 1
+  "crispycards.de": 3
  },
- "runno": 7615
+ "runno": 7616
 }
