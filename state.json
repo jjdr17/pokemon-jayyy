@@ -151,7 +151,7 @@
   },
   "God of Cards": {
    "Pitch Black (ME05)": "listato",
-   "30th Celebration": "listato",
+   "30th Celebration": "non listato",
    "Storm Emerald (ME06)": "non listato",
    "Chaos Rising (ME04)": "non listato",
    "Phantasmal Flames (ME02)": "non listato",
@@ -990,10 +990,6 @@
    "listato",
    1
   ],
-  "God of Cards|30th Celebration": [
-   "non listato",
-   1
-  ],
   "Pokemons.dk|Crown Zenith": [
    "disponibile",
    1
@@ -1194,7 +1190,7 @@
   "www.amazon.it": 4,
   "www.blackfire.eu": 3,
   "crispycards.de": 4,
-  "www.lotticards.de": 1
+  "games-island.eu": 1
  },
  "runno": 7618
 }
