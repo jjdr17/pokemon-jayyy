@@ -686,7 +686,7 @@
    "Pokémon 151": "non listato",
    "Prismatic Evolutions": "non listato",
    "Crown Zenith": "non listato",
-   "Destined Rivals": "listato",
+   "Destined Rivals": "disponibile",
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "TCGPikas": {
@@ -986,8 +986,44 @@
    "listato",
    1
   ],
-  "Pokecollect|Destined Rivals": [
-   "disponibile",
+  "Pokemons.dk|Crown Zenith": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Pitch Black (ME05)": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|30th Celebration": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Premium Deck Espeon & Umbreon (30th)": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Storm Emerald (ME06)": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Chaos Rising (ME04)": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Phantasmal Flames (ME02)": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Pokémon 151": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Prismatic Evolutions": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Destined Rivals": [
+   "non listato",
    1
   ]
  },
@@ -1176,6 +1212,7 @@
   "pokectcg.cz": 78,
   "lorenzone.fr": 63,
   "tcgfanshop.nl": 62,
+  "tradingcard.fi": 53,
   "www.deckshop.de": 49,
   "misticards.com": 43,
   "www.pokemillon.com": 43,
@@ -1188,9 +1225,10 @@
   "www.amazon.it": 5,
   "pokeboxstore.pt": 5,
   "pokebank.es": 3,
-  "tcgdistribution.fr": 2,
-  "tradingcard.fi": 2,
-  "games-island.eu": 1
+  "extremepokecorner.com": 1,
+  "pokewoke.store": 1,
+  "tcgpikas.lt": 1,
+  "pokemonworld.lt": 1
  },
  "runno": 7566
 }
