@@ -576,7 +576,7 @@
    "Chaos Rising (ME04)": "esaurito",
    "Phantasmal Flames (ME02)": "esaurito",
    "Pokémon 151": "listato",
-   "Prismatic Evolutions": "listato",
+   "Prismatic Evolutions": "non listato",
    "Crown Zenith": "listato",
    "Destined Rivals": "esaurito",
    "Premium Deck Espeon & Umbreon (30th)": "listato"
@@ -990,8 +990,8 @@
    "esaurito",
    1
   ],
-  "PokeCardShop|Prismatic Evolutions": [
-   "non listato",
+  "Pokemons.dk|Crown Zenith": [
+   "disponibile",
    1
   ]
  },
@@ -1190,8 +1190,7 @@
   "www.deckshop.de": 7,
   "www.pokemillon.com": 7,
   "www.blackfire.eu": 5,
-  "pokeboxstore.pt": 3,
-  "alldaytcg.com": 1
+  "pokeboxstore.pt": 4
  },
- "runno": 7686
+ "runno": 7687
 }
