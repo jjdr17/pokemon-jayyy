@@ -579,7 +579,7 @@
    "Prismatic Evolutions": "listato",
    "Crown Zenith": "listato",
    "Destined Rivals": "esaurito",
-   "Premium Deck Espeon & Umbreon (30th)": "listato"
+   "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "Kaissa Games": {
    "Pitch Black (ME05)": "listato",
@@ -986,12 +986,12 @@
    "esaurito",
    1
   ],
-  "Amazon.it|Storm Emerald (ME06)": [
-   "listato",
-   1
-  ],
   "Pokemons.dk|Crown Zenith": [
    "disponibile",
+   1
+  ],
+  "PokeCardShop|Destined Rivals": [
+   "non listato",
    1
   ]
  },
@@ -1190,11 +1190,7 @@
   "tradingcard.fi": 8,
   "www.blackfire.eu": 6,
   "pokeboxstore.pt": 6,
-  "www.lotticards.de": 3,
-  "extremepokecorner.com": 1,
-  "pokewoke.store": 1,
-  "tcgpikas.lt": 1,
-  "pokemonworld.lt": 1
+  "www.lotticards.de": 3
  },
  "runno": 7776
 }
