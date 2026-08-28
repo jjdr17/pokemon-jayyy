@@ -989,6 +989,10 @@
   "Amazon.it|30th Celebration": [
    "non listato",
    1
+  ],
+  "Pokemons.dk|Crown Zenith": [
+   "disponibile",
+   1
   ]
  },
  "urls": {
@@ -1159,7 +1163,7 @@
   "www.firestormgames.co.uk": 644,
   "hobbykort.se": 644,
   "tcgcompany.nl": 644,
-  "www.nerdom.gr": 643,
+  "www.nerdom.gr": 644,
   "www.pokekarty.pl": 644,
   "www.wakuwaku.cz": 644,
   "www.pokemonia.ro": 644,
@@ -1169,8 +1173,8 @@
   "bescards.com": 237,
   "cardcorner.at": 176,
   "www.poketalk.se": 161,
-  "pokevend.at": 150,
-  "rarecards.nl": 122,
+  "pokevend.at": 151,
+  "rarecards.nl": 123,
   "pokeka.hu": 97,
   "tcgstore.se": 95,
   "pokectcg.cz": 89,
@@ -1184,7 +1188,9 @@
   "crispycards.de": 10,
   "www.deckshop.de": 8,
   "www.pokemillon.com": 8,
-  "pokeboxstore.pt": 4
+  "pokeboxstore.pt": 4,
+  "www.amazon.it": 1,
+  "games-island.eu": 1
  },
- "runno": 7694
+ "runno": 7695
 }
