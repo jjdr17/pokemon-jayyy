@@ -985,6 +985,10 @@
   "Total Cards (UK)|Storm Emerald (ME06)": [
    "esaurito",
    1
+  ],
+  "PokeCardShop|Premium Deck Espeon & Umbreon (30th)": [
+   "listato",
+   1
   ]
  },
  "urls": {
@@ -1017,7 +1021,7 @@
   "Pokecollect|Destined Rivals": "https://pokecollect.pl/?s=destined+rivals&post_type=product",
   "Pikashop|Storm Emerald (ME06)": "https://pikashop.pl/?s=storm+emerald&post_type=product"
  },
- "digest_slot": "2026-08-28-18",
+ "digest_slot": "2026-08-28-22",
  "log": [
   {
    "ts": "05/07 19:55",
@@ -1182,7 +1186,10 @@
   "www.pokemillon.com": 14,
   "tradingcard.fi": 7,
   "www.blackfire.eu": 6,
-  "pokeboxstore.pt": 5
+  "pokeboxstore.pt": 5,
+  "www.amazon.it": 3,
+  "www.butticards.at": 1,
+  "oppacards.com": 1
  },
  "runno": 7767
 }
