@@ -686,7 +686,7 @@
    "Pokémon 151": "non listato",
    "Prismatic Evolutions": "non listato",
    "Crown Zenith": "non listato",
-   "Destined Rivals": "listato",
+   "Destined Rivals": "disponibile",
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "TCGPikas": {
@@ -990,7 +990,7 @@
    "disponibile",
    1
   ],
-  "PokeCardShop|Prismatic Evolutions": [
+  "PokeCardShop|Premium Deck Espeon & Umbreon (30th)": [
    "non listato",
    1
   ]
@@ -1191,10 +1191,7 @@
   "tradingcard.fi": 5,
   "www.amazon.it": 5,
   "www.blackfire.eu": 3,
-  "pokewoke.store": 3,
-  "tcgpikas.lt": 3,
-  "pokeboxstore.pt": 2,
-  "games-island.eu": 1
+  "pokeboxstore.pt": 1
  },
  "runno": 7739
 }
