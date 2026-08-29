@@ -989,6 +989,14 @@
   "Amazon.it|Storm Emerald (ME06)": [
    "listato",
    1
+  ],
+  "Pokemons.dk|Crown Zenith": [
+   "disponibile",
+   1
+  ],
+  "PokeCardShop|Premium Deck Espeon & Umbreon (30th)": [
+   "listato",
+   1
   ]
  },
  "urls": {
@@ -1021,7 +1029,7 @@
   "Pokecollect|Destined Rivals": "https://pokecollect.pl/?s=destined+rivals&post_type=product",
   "Pikashop|Storm Emerald (ME06)": "https://pikashop.pl/?s=storm+emerald&post_type=product"
  },
- "digest_slot": "2026-08-28-22",
+ "digest_slot": "2026-08-29-10",
  "log": [
   {
    "ts": "05/07 19:55",
@@ -1161,7 +1169,7 @@
   "hobbykort.se": 656,
   "tcgcompany.nl": 656,
   "www.nerdom.gr": 655,
-  "www.pokekarty.pl": 655,
+  "www.pokekarty.pl": 656,
   "www.wakuwaku.cz": 655,
   "www.pokemonia.ro": 656,
   "en.tcg-shop.at": 655,
@@ -1174,20 +1182,24 @@
   "rarecards.nl": 134,
   "pokeka.hu": 108,
   "tcgstore.se": 107,
-  "pokectcg.cz": 100,
+  "pokectcg.cz": 101,
   "lorenzone.fr": 85,
   "tcgfanshop.nl": 84,
   "misticards.com": 65,
   "vinticards.com": 50,
   "pokechest.at": 46,
-  "letsgotry.pl": 46,
+  "letsgotry.pl": 47,
   "www.pokemillon.com": 19,
   "www.blackfire.eu": 11,
-  "crispycards.de": 4,
-  "www.deckshop.de": 3,
-  "pokemonworld.lt": 3,
+  "www.deckshop.de": 4,
+  "pokemonworld.lt": 4,
   "www.amazon.it": 4,
-  "tradingcard.fi": 3
+  "tradingcard.fi": 3,
+  "extremepokecorner.com": 2,
+  "pokewoke.store": 2,
+  "tcgpikas.lt": 2,
+  "pokeboxstore.pt": 1,
+  "games-island.eu": 1
  },
- "runno": 7834
+ "runno": 7835
 }
