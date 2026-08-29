@@ -579,7 +579,7 @@
    "Prismatic Evolutions": "listato",
    "Crown Zenith": "listato",
    "Destined Rivals": "esaurito",
-   "Premium Deck Espeon & Umbreon (30th)": "non listato"
+   "Premium Deck Espeon & Umbreon (30th)": "listato"
   },
   "Kaissa Games": {
    "Pitch Black (ME05)": "listato",
@@ -986,8 +986,12 @@
    "esaurito",
    1
   ],
-  "God of Cards|Phantasmal Flames (ME02)": [
+  "Amazon.it|Storm Emerald (ME06)": [
    "listato",
+   1
+  ],
+  "PokeCardShop|Premium Deck Espeon & Umbreon (30th)": [
+   "non listato",
    1
   ]
  },
@@ -1186,7 +1190,7 @@
   "tradingcard.fi": 9,
   "www.blackfire.eu": 8,
   "pokeboxstore.pt": 7,
-  "www.amazon.it": 1
+  "games-island.eu": 1
  },
  "runno": 7791
 }
