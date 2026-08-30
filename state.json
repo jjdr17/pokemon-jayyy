@@ -579,7 +579,7 @@
    "Prismatic Evolutions": "listato",
    "Crown Zenith": "listato",
    "Destined Rivals": "esaurito",
-   "Premium Deck Espeon & Umbreon (30th)": "listato"
+   "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "Kaissa Games": {
    "Pitch Black (ME05)": "listato",
@@ -990,12 +990,52 @@
    "listato",
    1
   ],
+  "Pokemons.dk|Pitch Black (ME05)": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|30th Celebration": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Premium Deck Espeon & Umbreon (30th)": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Storm Emerald (ME06)": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Chaos Rising (ME04)": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Phantasmal Flames (ME02)": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Pokémon 151": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Prismatic Evolutions": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Crown Zenith": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Destined Rivals": [
+   "non listato",
+   1
+  ],
   "Pokecollect|Destined Rivals": [
    "disponibile",
    1
   ],
   "PokeCardShop|Premium Deck Espeon & Umbreon (30th)": [
-   "non listato",
+   "listato",
    1
   ]
  },
@@ -1170,31 +1210,35 @@
   "tcgcompany.nl": 673,
   "www.nerdom.gr": 672,
   "www.pokekarty.pl": 673,
-  "www.wakuwaku.cz": 672,
+  "www.wakuwaku.cz": 673,
   "www.pokemonia.ro": 673,
   "en.tcg-shop.at": 673,
-  "kaissagames.com": 469,
+  "kaissagames.com": 470,
   "itcg.bg": 305,
   "bescards.com": 266,
   "cardcorner.at": 205,
   "www.poketalk.se": 190,
   "pokevend.at": 179,
   "rarecards.nl": 151,
-  "pokeka.hu": 125,
+  "pokeka.hu": 126,
   "tcgstore.se": 124,
   "pokectcg.cz": 118,
-  "lorenzone.fr": 102,
+  "lorenzone.fr": 103,
   "misticards.com": 83,
   "vinticards.com": 67,
   "pokechest.at": 64,
   "letsgotry.pl": 64,
-  "www.pokemillon.com": 36,
+  "www.pokemillon.com": 37,
   "www.deckshop.de": 21,
   "tradingcard.fi": 19,
   "tcgfanshop.nl": 16,
   "www.amazon.it": 7,
-  "www.blackfire.eu": 6,
-  "tcgdistribution.fr": 2
+  "pokeboxstore.pt": 3,
+  "crispycards.de": 1,
+  "extremepokecorner.com": 1,
+  "pokewoke.store": 1,
+  "tcgpikas.lt": 1,
+  "pokemonworld.lt": 1
  },
- "runno": 8041
+ "runno": 8042
 }
