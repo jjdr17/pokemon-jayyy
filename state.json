@@ -985,14 +985,6 @@
   "God of Cards|Phantasmal Flames (ME02)": [
    "listato",
    1
-  ],
-  "Amazon.it|Storm Emerald (ME06)": [
-   "listato",
-   1
-  ],
-  "Pokemons.dk|Crown Zenith": [
-   "disponibile",
-   1
   ]
  },
  "urls": {
@@ -1154,13 +1146,13 @@
   }
  ],
  "down": {
-  "www.cardmarket.com": 665,
+  "www.cardmarket.com": 666,
   "www.gamestop.com": 84,
   "www.gamelife.it": 666,
   "pokeseller14.com": 666,
   "geco-shop.de": 666,
   "www.chaoscards.co.uk": 665,
-  "www.waylandgames.co.uk": 665,
+  "www.waylandgames.co.uk": 666,
   "www.firestormgames.co.uk": 666,
   "hobbykort.se": 666,
   "tcgcompany.nl": 666,
@@ -1170,9 +1162,9 @@
   "www.pokemonia.ro": 666,
   "en.tcg-shop.at": 665,
   "kaissagames.com": 462,
-  "itcg.bg": 297,
+  "itcg.bg": 298,
   "bescards.com": 259,
-  "cardcorner.at": 197,
+  "cardcorner.at": 198,
   "www.poketalk.se": 182,
   "pokevend.at": 172,
   "rarecards.nl": 144,
@@ -1188,8 +1180,10 @@
   "www.deckshop.de": 13,
   "tradingcard.fi": 12,
   "tcgfanshop.nl": 8,
-  "crispycards.de": 6,
-  "www.blackfire.eu": 4
+  "crispycards.de": 7,
+  "www.blackfire.eu": 4,
+  "www.amazon.it": 1,
+  "pokeboxstore.pt": 1
  },
- "runno": 7953
+ "runno": 7954
 }
