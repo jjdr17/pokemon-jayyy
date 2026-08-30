@@ -686,7 +686,7 @@
    "Pokémon 151": "non listato",
    "Prismatic Evolutions": "non listato",
    "Crown Zenith": "non listato",
-   "Destined Rivals": "disponibile",
+   "Destined Rivals": "listato",
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "TCGPikas": {
@@ -990,12 +990,8 @@
    "listato",
    1
   ],
-  "Pokecollect|Destined Rivals": [
+  "PokeCardShop|Premium Deck Espeon & Umbreon (30th)": [
    "listato",
-   1
-  ],
-  "Pokemons.dk|Crown Zenith": [
-   "disponibile",
    1
   ]
  },
@@ -1172,7 +1168,7 @@
   "www.pokekarty.pl": 670,
   "www.wakuwaku.cz": 669,
   "www.pokemonia.ro": 670,
-  "en.tcg-shop.at": 669,
+  "en.tcg-shop.at": 670,
   "kaissagames.com": 466,
   "itcg.bg": 302,
   "bescards.com": 263,
@@ -1186,16 +1182,17 @@
   "lorenzone.fr": 99,
   "misticards.com": 80,
   "vinticards.com": 64,
-  "pokechest.at": 60,
+  "pokechest.at": 61,
   "letsgotry.pl": 61,
   "www.pokemillon.com": 33,
   "www.deckshop.de": 18,
   "tradingcard.fi": 16,
-  "tcgfanshop.nl": 12,
+  "tcgfanshop.nl": 13,
   "www.lotticards.de": 4,
   "www.amazon.it": 4,
   "www.blackfire.eu": 3,
-  "pokeboxstore.pt": 3
+  "pokeboxstore.pt": 3,
+  "games-island.eu": 1
  },
- "runno": 8004
+ "runno": 8005
 }
