@@ -570,7 +570,7 @@
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "PokeCardShop": {
-   "Pitch Black (ME05)": "esaurito",
+   "Pitch Black (ME05)": "non listato",
    "30th Celebration": "esaurito",
    "Storm Emerald (ME06)": "non listato",
    "Chaos Rising (ME04)": "esaurito",
@@ -986,16 +986,16 @@
    "listato",
    1
   ],
-  "Amazon.it|Storm Emerald (ME06)": [
-   "listato",
-   1
-  ],
   "Amazon.it|30th Celebration": [
    "listato",
    1
   ],
   "Pokemons.dk|Crown Zenith": [
    "disponibile",
+   1
+  ],
+  "PokeCardShop|Premium Deck Espeon & Umbreon (30th)": [
+   "listato",
    1
   ]
  },
@@ -1193,8 +1193,10 @@
   "tradingcard.fi": 21,
   "tcgfanshop.nl": 17,
   "www.blackfire.eu": 8,
-  "www.amazon.it": 2,
-  "crispycards.de": 1
+  "pokeboxstore.pt": 3,
+  "www.amazon.it": 1,
+  "crispycards.de": 1,
+  "pokebank.es": 1
  },
  "runno": 8062
 }
