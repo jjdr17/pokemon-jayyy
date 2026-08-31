@@ -579,7 +579,7 @@
    "Prismatic Evolutions": "listato",
    "Crown Zenith": "listato",
    "Destined Rivals": "esaurito",
-   "Premium Deck Espeon & Umbreon (30th)": "listato"
+   "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "Kaissa Games": {
    "Pitch Black (ME05)": "listato",
@@ -991,11 +991,47 @@
    1
   ],
   "Pokemons.dk|Crown Zenith": [
-   "disponibile",
+   "non listato",
    1
   ],
-  "PokeCardShop|Premium Deck Espeon & Umbreon (30th)": [
+  "Pokemons.dk|Pitch Black (ME05)": [
    "non listato",
+   1
+  ],
+  "Pokemons.dk|30th Celebration": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Premium Deck Espeon & Umbreon (30th)": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Storm Emerald (ME06)": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Chaos Rising (ME04)": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Phantasmal Flames (ME02)": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Pokémon 151": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Prismatic Evolutions": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Destined Rivals": [
+   "non listato",
+   1
+  ],
+  "Butticards|Phantasmal Flames (ME02)": [
+   "esaurito",
    1
   ]
  },
@@ -1170,32 +1206,37 @@
   "tcgcompany.nl": 681,
   "www.nerdom.gr": 680,
   "www.pokekarty.pl": 681,
-  "www.wakuwaku.cz": 680,
+  "www.wakuwaku.cz": 681,
   "www.pokemonia.ro": 681,
   "en.tcg-shop.at": 681,
-  "kaissagames.com": 477,
+  "kaissagames.com": 478,
   "itcg.bg": 313,
   "bescards.com": 274,
   "cardcorner.at": 213,
   "www.poketalk.se": 198,
   "pokevend.at": 187,
   "rarecards.nl": 159,
-  "pokeka.hu": 133,
+  "pokeka.hu": 134,
   "tcgstore.se": 132,
   "pokectcg.cz": 126,
-  "lorenzone.fr": 110,
+  "lorenzone.fr": 111,
   "misticards.com": 91,
   "vinticards.com": 75,
   "pokechest.at": 72,
   "letsgotry.pl": 72,
-  "www.pokemillon.com": 44,
+  "www.pokemillon.com": 45,
   "www.deckshop.de": 29,
   "tcgfanshop.nl": 24,
   "crispycards.de": 9,
   "tradingcard.fi": 5,
   "www.amazon.it": 5,
-  "www.blackfire.eu": 3,
-  "games-island.eu": 3
+  "www.blackfire.eu": 4,
+  "pokewoke.store": 2,
+  "tcgpikas.lt": 2,
+  "pokemonworld.lt": 2,
+  "sapphire-cards.de": 1,
+  "extremepokecorner.com": 1,
+  "pokeboxstore.pt": 1
  },
- "runno": 8137
+ "runno": 8138
 }
