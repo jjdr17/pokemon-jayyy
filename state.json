@@ -25,8 +25,8 @@
    "Premium Deck Espeon & Umbreon (30th)": "irraggiungibile"
   },
   "Amazon.it": {
-   "30th Celebration": "non listato",
-   "Storm Emerald (ME06)": "listato",
+   "30th Celebration": "listato",
+   "Storm Emerald (ME06)": "non listato",
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "TCGplayer": {
@@ -579,7 +579,7 @@
    "Prismatic Evolutions": "listato",
    "Crown Zenith": "listato",
    "Destined Rivals": "esaurito",
-   "Premium Deck Espeon & Umbreon (30th)": "listato"
+   "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "Kaissa Games": {
    "Pitch Black (ME05)": "listato",
@@ -986,8 +986,8 @@
    "listato",
    1
   ],
-  "Pokemons.dk|Crown Zenith": [
-   "disponibile",
+  "Amazon.it|Storm Emerald (ME06)": [
+   "listato",
    1
   ]
  },
@@ -1021,7 +1021,7 @@
   "Pokecollect|Destined Rivals": "https://pokecollect.pl/?s=destined+rivals&post_type=product",
   "Pikashop|Storm Emerald (ME06)": "https://pikashop.pl/?s=storm+emerald&post_type=product"
  },
- "digest_slot": "2026-08-30-22",
+ "digest_slot": "2026-08-31-10",
  "log": [
   {
    "ts": "05/07 19:55",
@@ -1155,7 +1155,7 @@
   "www.gamelife.it": 679,
   "pokeseller14.com": 679,
   "geco-shop.de": 679,
-  "www.chaoscards.co.uk": 678,
+  "www.chaoscards.co.uk": 679,
   "www.waylandgames.co.uk": 679,
   "www.firestormgames.co.uk": 679,
   "hobbykort.se": 679,
@@ -1169,14 +1169,14 @@
   "itcg.bg": 311,
   "bescards.com": 272,
   "cardcorner.at": 211,
-  "www.poketalk.se": 195,
+  "www.poketalk.se": 196,
   "pokevend.at": 185,
   "rarecards.nl": 157,
   "pokeka.hu": 131,
   "tcgstore.se": 130,
   "pokectcg.cz": 124,
   "lorenzone.fr": 108,
-  "misticards.com": 88,
+  "misticards.com": 89,
   "vinticards.com": 73,
   "pokechest.at": 69,
   "letsgotry.pl": 70,
@@ -1186,7 +1186,7 @@
   "www.blackfire.eu": 12,
   "crispycards.de": 7,
   "tradingcard.fi": 3,
-  "www.lotticards.de": 1
+  "www.amazon.it": 1
  },
- "runno": 8111
+ "runno": 8112
 }
