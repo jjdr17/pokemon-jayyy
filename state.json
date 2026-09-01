@@ -986,10 +986,6 @@
    "listato",
    1
   ],
-  "Pokemons.dk|Crown Zenith": [
-   "non listato",
-   1
-  ],
   "Pokemons.dk|Pitch Black (ME05)": [
    "non listato",
    1
@@ -1019,6 +1015,10 @@
    1
   ],
   "Pokemons.dk|Prismatic Evolutions": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Crown Zenith": [
    "non listato",
    1
   ],
@@ -1058,7 +1058,7 @@
   "Pikashop|Storm Emerald (ME06)": "https://pikashop.pl/?s=storm+emerald&post_type=product",
   "Pokecollect|30th Celebration": "https://pokecollect.pl/?s=30th+celebration&post_type=product"
  },
- "digest_slot": "2026-09-01-18",
+ "digest_slot": "2026-09-01-22",
  "log": [
   {
    "ts": "05/07 19:55",
@@ -1195,7 +1195,7 @@
   "www.chaoscards.co.uk": 696,
   "www.waylandgames.co.uk": 696,
   "www.firestormgames.co.uk": 697,
-  "hobbykort.se": 696,
+  "hobbykort.se": 697,
   "tcgcompany.nl": 696,
   "www.nerdom.gr": 696,
   "www.pokekarty.pl": 696,
@@ -1224,7 +1224,12 @@
   "www.blackfire.eu": 8,
   "pokeka.hu": 8,
   "www.amazon.it": 4,
-  "pokeboxstore.pt": 1
+  "pokeboxstore.pt": 2,
+  "tcgdistribution.fr": 1,
+  "extremepokecorner.com": 1,
+  "pokewoke.store": 1,
+  "pokemonworld.lt": 1,
+  "tcgpikas.lt": 1
  },
- "runno": 8321
+ "runno": 8322
 }
