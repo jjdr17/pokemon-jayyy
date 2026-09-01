@@ -579,7 +579,7 @@
    "Prismatic Evolutions": "listato",
    "Crown Zenith": "listato",
    "Destined Rivals": "esaurito",
-   "Premium Deck Espeon & Umbreon (30th)": "listato"
+   "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "Kaissa Games": {
    "Pitch Black (ME05)": "listato",
@@ -989,6 +989,10 @@
   "Amazon.it|30th Celebration": [
    "listato",
    1
+  ],
+  "PokeCardShop|Premium Deck Espeon & Umbreon (30th)": [
+   "listato",
+   1
   ]
  },
  "urls": {
@@ -1151,13 +1155,13 @@
   }
  ],
  "down": {
-  "www.cardmarket.com": 693,
+  "www.cardmarket.com": 694,
   "www.gamestop.com": 84,
   "www.gamelife.it": 694,
   "pokeseller14.com": 694,
   "geco-shop.de": 694,
   "www.chaoscards.co.uk": 693,
-  "www.waylandgames.co.uk": 693,
+  "www.waylandgames.co.uk": 694,
   "www.firestormgames.co.uk": 694,
   "hobbykort.se": 694,
   "tcgcompany.nl": 694,
@@ -1167,9 +1171,9 @@
   "www.pokemonia.ro": 694,
   "en.tcg-shop.at": 693,
   "kaissagames.com": 490,
-  "itcg.bg": 325,
+  "itcg.bg": 326,
   "bescards.com": 287,
-  "cardcorner.at": 225,
+  "cardcorner.at": 226,
   "www.poketalk.se": 210,
   "tcgstore.se": 145,
   "pokectcg.cz": 138,
@@ -1181,14 +1185,13 @@
   "www.pokemillon.com": 57,
   "www.deckshop.de": 41,
   "tcgfanshop.nl": 36,
-  "crispycards.de": 21,
+  "crispycards.de": 22,
   "tradingcard.fi": 18,
   "rarecards.nl": 10,
   "pokevend.at": 10,
   "www.blackfire.eu": 5,
   "pokeka.hu": 5,
-  "www.amazon.it": 5,
-  "pokeboxstore.pt": 3
+  "www.amazon.it": 5
  },
- "runno": 8289
+ "runno": 8290
 }
