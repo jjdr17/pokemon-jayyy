@@ -579,7 +579,7 @@
    "Prismatic Evolutions": "listato",
    "Crown Zenith": "listato",
    "Destined Rivals": "esaurito",
-   "Premium Deck Espeon & Umbreon (30th)": "non listato"
+   "Premium Deck Espeon & Umbreon (30th)": "listato"
   },
   "Kaissa Games": {
    "Pitch Black (ME05)": "listato",
@@ -822,15 +822,15 @@
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "Pikashop": {
-   "Pitch Black (ME05)": "non listato",
-   "30th Celebration": "non listato",
-   "Storm Emerald (ME06)": "non listato",
-   "Chaos Rising (ME04)": "non listato",
-   "Phantasmal Flames (ME02)": "non listato",
-   "Pokémon 151": "non listato",
-   "Prismatic Evolutions": "non listato",
-   "Crown Zenith": "non listato",
-   "Destined Rivals": "non listato",
+   "Pitch Black (ME05)": "esaurito",
+   "30th Celebration": "esaurito",
+   "Storm Emerald (ME06)": "disponibile",
+   "Chaos Rising (ME04)": "listato",
+   "Phantasmal Flames (ME02)": "listato",
+   "Pokémon 151": "listato",
+   "Prismatic Evolutions": "listato",
+   "Crown Zenith": "listato",
+   "Destined Rivals": "listato",
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "ExtremePokeCorner": {
@@ -986,44 +986,52 @@
    "listato",
    1
   ],
+  "Amazon.it|Storm Emerald (ME06)": [
+   "listato",
+   1
+  ],
   "Pokemons.dk|Crown Zenith": [
-   "disponibile",
+   "non listato",
    1
   ],
-  "Pikashop|Pitch Black (ME05)": [
-   "esaurito",
-   1
-  ],
-  "Pikashop|30th Celebration": [
-   "esaurito",
-   1
-  ],
-  "Pikashop|Storm Emerald (ME06)": [
-   "disponibile",
-   1
-  ],
-  "Pikashop|Chaos Rising (ME04)": [
+  "Amazon.it|30th Celebration": [
    "listato",
    1
   ],
-  "Pikashop|Phantasmal Flames (ME02)": [
-   "listato",
+  "Pokemons.dk|Pitch Black (ME05)": [
+   "non listato",
    1
   ],
-  "Pikashop|Pokémon 151": [
-   "listato",
+  "Pokemons.dk|30th Celebration": [
+   "non listato",
    1
   ],
-  "Pikashop|Prismatic Evolutions": [
-   "listato",
+  "Pokemons.dk|Premium Deck Espeon & Umbreon (30th)": [
+   "non listato",
    1
   ],
-  "Pikashop|Crown Zenith": [
-   "listato",
+  "Pokemons.dk|Storm Emerald (ME06)": [
+   "non listato",
    1
   ],
-  "Pikashop|Destined Rivals": [
-   "listato",
+  "Pokemons.dk|Chaos Rising (ME04)": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Phantasmal Flames (ME02)": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Pokémon 151": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Prismatic Evolutions": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Destined Rivals": [
+   "non listato",
    1
   ]
  },
@@ -1206,6 +1214,7 @@
   "bescards.com": 285,
   "cardcorner.at": 223,
   "www.poketalk.se": 208,
+  "pokeka.hu": 144,
   "tcgstore.se": 142,
   "pokectcg.cz": 136,
   "lorenzone.fr": 121,
@@ -1220,10 +1229,9 @@
   "tradingcard.fi": 16,
   "rarecards.nl": 8,
   "pokevend.at": 8,
-  "pokeboxstore.pt": 3,
-  "www.blackfire.eu": 3,
-  "pokeka.hu": 3,
-  "tcgdistribution.fr": 1
+  "www.blackfire.eu": 5,
+  "www.lotticards.de": 1,
+  "games-island.eu": 1
  },
  "runno": 8262
 }
