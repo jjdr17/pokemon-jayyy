@@ -549,7 +549,7 @@
    "Pitch Black (ME05)": "non listato",
    "30th Celebration": "listato",
    "Storm Emerald (ME06)": "non listato",
-   "Chaos Rising (ME04)": "listato",
+   "Chaos Rising (ME04)": "non listato",
    "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "listato",
    "Prismatic Evolutions": "listato",
@@ -986,8 +986,8 @@
    "listato",
    1
   ],
-  "Pokebox|Chaos Rising (ME04)": [
-   "non listato",
+  "Amazon.it|30th Celebration": [
+   "listato",
    1
   ],
   "Pokemons.dk|Crown Zenith": [
@@ -1190,7 +1190,10 @@
   "rarecards.nl": 20,
   "pokevend.at": 20,
   "pokeka.hu": 15,
-  "www.blackfire.eu": 3
+  "www.blackfire.eu": 3,
+  "alldaytcg.com": 1,
+  "tcgdistribution.fr": 1,
+  "www.lotticards.de": 1
  },
  "runno": 8413
 }
