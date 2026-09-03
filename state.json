@@ -576,7 +576,7 @@
    "Chaos Rising (ME04)": "esaurito",
    "Phantasmal Flames (ME02)": "esaurito",
    "Pokémon 151": "listato",
-   "Prismatic Evolutions": "non listato",
+   "Prismatic Evolutions": "listato",
    "Crown Zenith": "listato",
    "Destined Rivals": "esaurito",
    "Premium Deck Espeon & Umbreon (30th)": "listato"
@@ -990,8 +990,48 @@
    "listato",
    1
   ],
-  "PokeCardShop|Prismatic Evolutions": [
-   "listato",
+  "Pokemons.dk|Pitch Black (ME05)": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|30th Celebration": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Premium Deck Espeon & Umbreon (30th)": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Storm Emerald (ME06)": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Chaos Rising (ME04)": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Phantasmal Flames (ME02)": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Pokémon 151": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Prismatic Evolutions": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Crown Zenith": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Destined Rivals": [
+   "non listato",
+   1
+  ],
+  "PokeCardShop|Premium Deck Espeon & Umbreon (30th)": [
+   "non listato",
    1
   ]
  },
@@ -1166,7 +1206,7 @@
   "hobbykort.se": 717,
   "tcgcompany.nl": 717,
   "www.nerdom.gr": 716,
-  "www.pokekarty.pl": 716,
+  "www.pokekarty.pl": 717,
   "www.wakuwaku.cz": 716,
   "www.pokemonia.ro": 717,
   "en.tcg-shop.at": 716,
@@ -1176,14 +1216,14 @@
   "cardcorner.at": 249,
   "www.poketalk.se": 233,
   "tcgstore.se": 168,
-  "pokectcg.cz": 161,
+  "pokectcg.cz": 162,
   "lorenzone.fr": 146,
   "misticards.com": 126,
   "vinticards.com": 111,
   "pokechest.at": 107,
-  "letsgotry.pl": 107,
+  "letsgotry.pl": 108,
   "www.pokemillon.com": 80,
-  "www.deckshop.de": 64,
+  "www.deckshop.de": 65,
   "crispycards.de": 45,
   "tradingcard.fi": 41,
   "rarecards.nl": 33,
@@ -1192,8 +1232,11 @@
   "www.amazon.it": 11,
   "tcgfanshop.nl": 7,
   "pokeka.hu": 4,
-  "tcgdistribution.fr": 2,
-  "pokeboxstore.pt": 1
+  "extremepokecorner.com": 1,
+  "games-island.eu": 1,
+  "pokewoke.store": 1,
+  "tcgpikas.lt": 1,
+  "pokemonworld.lt": 1
  },
- "runno": 8566
+ "runno": 8567
 }
