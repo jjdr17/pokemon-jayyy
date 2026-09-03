@@ -576,10 +576,10 @@
    "Chaos Rising (ME04)": "esaurito",
    "Phantasmal Flames (ME02)": "esaurito",
    "Pokémon 151": "listato",
-   "Prismatic Evolutions": "listato",
+   "Prismatic Evolutions": "non listato",
    "Crown Zenith": "listato",
    "Destined Rivals": "esaurito",
-   "Premium Deck Espeon & Umbreon (30th)": "non listato"
+   "Premium Deck Espeon & Umbreon (30th)": "listato"
   },
   "Kaissa Games": {
    "Pitch Black (ME05)": "listato",
@@ -985,6 +985,10 @@
   "God of Cards|Phantasmal Flames (ME02)": [
    "listato",
    1
+  ],
+  "Pokemons.dk|Crown Zenith": [
+   "disponibile",
+   1
   ]
  },
  "urls": {
@@ -1149,9 +1153,9 @@
  "down": {
   "www.cardmarket.com": 720,
   "www.gamestop.com": 84,
-  "www.gamelife.it": 720,
-  "pokeseller14.com": 720,
-  "geco-shop.de": 720,
+  "www.gamelife.it": 721,
+  "pokeseller14.com": 721,
+  "geco-shop.de": 721,
   "www.chaoscards.co.uk": 720,
   "www.waylandgames.co.uk": 720,
   "www.firestormgames.co.uk": 721,
@@ -1183,9 +1187,7 @@
   "tcgfanshop.nl": 11,
   "pokeka.hu": 8,
   "pokeboxstore.pt": 4,
-  "www.amazon.it": 3,
-  "pokebank.es": 3,
-  "www.blackfire.eu": 1
+  "pokebank.es": 3
  },
- "runno": 8611
+ "runno": 8612
 }
