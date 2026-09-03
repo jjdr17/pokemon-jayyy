@@ -707,7 +707,7 @@
    "Storm Emerald (ME06)": "listato",
    "Chaos Rising (ME04)": "non listato",
    "Phantasmal Flames (ME02)": "non listato",
-   "Pokémon 151": "non listato",
+   "Pokémon 151": "listato",
    "Prismatic Evolutions": "non listato",
    "Crown Zenith": "non listato",
    "Destined Rivals": "non listato",
@@ -990,12 +990,12 @@
    "listato",
    1
   ],
-  "PokeCardShop|Premium Deck Espeon & Umbreon (30th)": [
-   "listato",
+  "Pokemons.dk|Crown Zenith": [
+   "disponibile",
    1
   ],
   "MagicBazar|Pokémon 151": [
-   "listato",
+   "non listato",
    1
   ]
  },
@@ -1161,9 +1161,9 @@
  "down": {
   "www.cardmarket.com": 719,
   "www.gamestop.com": 84,
-  "www.gamelife.it": 719,
-  "pokeseller14.com": 719,
-  "geco-shop.de": 719,
+  "www.gamelife.it": 720,
+  "pokeseller14.com": 720,
+  "geco-shop.de": 720,
   "www.chaoscards.co.uk": 719,
   "www.waylandgames.co.uk": 719,
   "www.firestormgames.co.uk": 720,
@@ -1195,9 +1195,7 @@
   "tcgfanshop.nl": 10,
   "pokeka.hu": 7,
   "www.blackfire.eu": 5,
-  "www.amazon.it": 4,
-  "pokeboxstore.pt": 3,
-  "www.lotticards.de": 1
+  "www.amazon.it": 5
  },
- "runno": 8599
+ "runno": 8600
 }
