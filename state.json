@@ -154,7 +154,7 @@
    "30th Celebration": "listato",
    "Storm Emerald (ME06)": "non listato",
    "Chaos Rising (ME04)": "non listato",
-   "Phantasmal Flames (ME02)": "listato",
+   "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "listato",
    "Prismatic Evolutions": "listato",
    "Crown Zenith": "non listato",
@@ -982,8 +982,16 @@
    "listato",
    1
   ],
+  "God of Cards|Phantasmal Flames (ME02)": [
+   "listato",
+   1
+  ],
   "Amazon.it|Storm Emerald (ME06)": [
    "listato",
+   1
+  ],
+  "Pokemons.dk|Crown Zenith": [
+   "disponibile",
    1
   ]
  },
@@ -1184,8 +1192,7 @@
   "www.amazon.it": 10,
   "tcgfanshop.nl": 6,
   "pokebank.es": 3,
-  "pokeka.hu": 3,
-  "pokeboxstore.pt": 3
+  "pokeka.hu": 3
  },
  "runno": 8556
 }
