@@ -574,7 +574,7 @@
    "30th Celebration": "esaurito",
    "Storm Emerald (ME06)": "non listato",
    "Chaos Rising (ME04)": "esaurito",
-   "Phantasmal Flames (ME02)": "esaurito",
+   "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "listato",
    "Prismatic Evolutions": "listato",
    "Crown Zenith": "listato",
@@ -989,46 +989,6 @@
   "Amazon.it|Storm Emerald (ME06)": [
    "listato",
    1
-  ],
-  "Pokemons.dk|Crown Zenith": [
-   "non listato",
-   1
-  ],
-  "Pokemons.dk|Pitch Black (ME05)": [
-   "non listato",
-   1
-  ],
-  "Pokemons.dk|30th Celebration": [
-   "non listato",
-   1
-  ],
-  "Pokemons.dk|Premium Deck Espeon & Umbreon (30th)": [
-   "non listato",
-   1
-  ],
-  "Pokemons.dk|Storm Emerald (ME06)": [
-   "non listato",
-   1
-  ],
-  "Pokemons.dk|Chaos Rising (ME04)": [
-   "non listato",
-   1
-  ],
-  "Pokemons.dk|Phantasmal Flames (ME02)": [
-   "non listato",
-   1
-  ],
-  "Pokemons.dk|Pokémon 151": [
-   "non listato",
-   1
-  ],
-  "Pokemons.dk|Prismatic Evolutions": [
-   "non listato",
-   1
-  ],
-  "Pokemons.dk|Destined Rivals": [
-   "non listato",
-   1
   ]
  },
  "urls": {
@@ -1196,7 +1156,7 @@
   "www.gamelife.it": 711,
   "pokeseller14.com": 711,
   "geco-shop.de": 711,
-  "www.chaoscards.co.uk": 710,
+  "www.chaoscards.co.uk": 711,
   "www.waylandgames.co.uk": 711,
   "www.firestormgames.co.uk": 711,
   "hobbykort.se": 711,
@@ -1210,11 +1170,11 @@
   "itcg.bg": 343,
   "bescards.com": 304,
   "cardcorner.at": 243,
-  "www.poketalk.se": 227,
+  "www.poketalk.se": 228,
   "tcgstore.se": 162,
   "pokectcg.cz": 156,
   "lorenzone.fr": 140,
-  "misticards.com": 120,
+  "misticards.com": 121,
   "vinticards.com": 105,
   "pokechest.at": 101,
   "letsgotry.pl": 102,
@@ -1228,9 +1188,12 @@
   "pokeka.hu": 22,
   "www.blackfire.eu": 10,
   "www.amazon.it": 5,
-  "pokeboxstore.pt": 1,
-  "tcgdistribution.fr": 1,
-  "games-island.eu": 1
+  "pokeboxstore.pt": 3,
+  "extremepokecorner.com": 3,
+  "pokewoke.store": 3,
+  "tcgpikas.lt": 3,
+  "pokemonworld.lt": 3,
+  "www.lotticards.de": 1
  },
- "runno": 8495
+ "runno": 8496
 }
