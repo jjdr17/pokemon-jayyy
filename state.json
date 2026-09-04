@@ -822,15 +822,15 @@
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "Pikashop": {
-   "Pitch Black (ME05)": "esaurito",
-   "30th Celebration": "esaurito",
-   "Storm Emerald (ME06)": "disponibile",
-   "Chaos Rising (ME04)": "listato",
-   "Phantasmal Flames (ME02)": "listato",
-   "Pokémon 151": "listato",
-   "Prismatic Evolutions": "listato",
-   "Crown Zenith": "listato",
-   "Destined Rivals": "listato",
+   "Pitch Black (ME05)": "non listato",
+   "30th Celebration": "non listato",
+   "Storm Emerald (ME06)": "non listato",
+   "Chaos Rising (ME04)": "non listato",
+   "Phantasmal Flames (ME02)": "non listato",
+   "Pokémon 151": "non listato",
+   "Prismatic Evolutions": "non listato",
+   "Crown Zenith": "non listato",
+   "Destined Rivals": "non listato",
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "ExtremePokeCorner": {
@@ -984,46 +984,6 @@
   ],
   "God of Cards|Phantasmal Flames (ME02)": [
    "listato",
-   1
-  ],
-  "Pikashop|Pitch Black (ME05)": [
-   "non listato",
-   1
-  ],
-  "Pikashop|30th Celebration": [
-   "non listato",
-   1
-  ],
-  "Pikashop|Storm Emerald (ME06)": [
-   "non listato",
-   1
-  ],
-  "Pikashop|Chaos Rising (ME04)": [
-   "non listato",
-   1
-  ],
-  "Pikashop|Phantasmal Flames (ME02)": [
-   "non listato",
-   1
-  ],
-  "Pikashop|Pokémon 151": [
-   "non listato",
-   1
-  ],
-  "Pikashop|Prismatic Evolutions": [
-   "non listato",
-   1
-  ],
-  "Pikashop|Crown Zenith": [
-   "non listato",
-   1
-  ],
-  "Pikashop|Destined Rivals": [
-   "non listato",
-   1
-  ],
-  "Pokemons.dk|Crown Zenith": [
-   "disponibile",
    1
   ]
  },
@@ -1201,7 +1161,7 @@
   "www.pokekarty.pl": 727,
   "www.wakuwaku.cz": 726,
   "www.pokemonia.ro": 727,
-  "en.tcg-shop.at": 726,
+  "en.tcg-shop.at": 727,
   "kaissagames.com": 523,
   "itcg.bg": 359,
   "bescards.com": 320,
@@ -1211,7 +1171,7 @@
   "lorenzone.fr": 156,
   "misticards.com": 137,
   "vinticards.com": 121,
-  "pokechest.at": 117,
+  "pokechest.at": 118,
   "letsgotry.pl": 118,
   "www.pokemillon.com": 90,
   "www.deckshop.de": 75,
@@ -1219,11 +1179,12 @@
   "tradingcard.fi": 51,
   "rarecards.nl": 43,
   "pokevend.at": 43,
-  "tcgfanshop.nl": 17,
+  "tcgfanshop.nl": 18,
   "pokeka.hu": 14,
   "www.amazon.it": 9,
   "www.blackfire.eu": 5,
-  "tcgstore.se": 5
+  "tcgstore.se": 5,
+  "tcg-trade.de": 1
  },
- "runno": 8688
+ "runno": 8689
 }
