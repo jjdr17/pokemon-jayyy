@@ -573,7 +573,7 @@
    "Pitch Black (ME05)": "esaurito",
    "30th Celebration": "esaurito",
    "Storm Emerald (ME06)": "non listato",
-   "Chaos Rising (ME04)": "esaurito",
+   "Chaos Rising (ME04)": "non listato",
    "Phantasmal Flames (ME02)": "esaurito",
    "Pokémon 151": "listato",
    "Prismatic Evolutions": "listato",
@@ -986,12 +986,8 @@
    "listato",
    1
   ],
-  "TCGStore.se|Premium Deck Espeon & Umbreon (30th)": [
-   "non listato",
-   1
-  ],
-  "PokeCardShop|Chaos Rising (ME04)": [
-   "non listato",
+  "Pokemons.dk|Crown Zenith": [
+   "disponibile",
    1
   ]
  },
@@ -1026,7 +1022,7 @@
   "Pikashop|Storm Emerald (ME06)": "https://pikashop.pl/?s=storm+emerald&post_type=product",
   "Pokecollect|30th Celebration": "https://pokecollect.pl/?s=30th+celebration&post_type=product"
  },
- "digest_slot": "2026-09-03-22",
+ "digest_slot": "2026-09-04-10",
  "log": [
   {
    "ts": "05/07 19:55",
@@ -1155,13 +1151,13 @@
   }
  ],
  "down": {
-  "www.cardmarket.com": 724,
+  "www.cardmarket.com": 725,
   "www.gamestop.com": 84,
   "www.gamelife.it": 725,
   "pokeseller14.com": 725,
   "geco-shop.de": 725,
   "www.chaoscards.co.uk": 724,
-  "www.waylandgames.co.uk": 724,
+  "www.waylandgames.co.uk": 725,
   "www.firestormgames.co.uk": 725,
   "hobbykort.se": 725,
   "tcgcompany.nl": 725,
@@ -1171,9 +1167,9 @@
   "www.pokemonia.ro": 725,
   "en.tcg-shop.at": 724,
   "kaissagames.com": 521,
-  "itcg.bg": 356,
+  "itcg.bg": 357,
   "bescards.com": 318,
-  "cardcorner.at": 256,
+  "cardcorner.at": 257,
   "www.poketalk.se": 241,
   "pokectcg.cz": 169,
   "lorenzone.fr": 154,
@@ -1183,7 +1179,7 @@
   "letsgotry.pl": 115,
   "www.pokemillon.com": 88,
   "www.deckshop.de": 72,
-  "crispycards.de": 52,
+  "crispycards.de": 53,
   "tradingcard.fi": 49,
   "rarecards.nl": 41,
   "pokevend.at": 41,
@@ -1191,7 +1187,9 @@
   "pokeka.hu": 12,
   "www.amazon.it": 7,
   "pokemonworld.lt": 4,
-  "www.blackfire.eu": 3
+  "www.blackfire.eu": 3,
+  "tcgstore.se": 1,
+  "tcgdistribution.fr": 1
  },
- "runno": 8661
+ "runno": 8662
 }
