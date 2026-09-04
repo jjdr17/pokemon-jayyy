@@ -707,7 +707,7 @@
    "Storm Emerald (ME06)": "non listato",
    "Chaos Rising (ME04)": "non listato",
    "Phantasmal Flames (ME02)": "non listato",
-   "Pokémon 151": "listato",
+   "Pokémon 151": "non listato",
    "Prismatic Evolutions": "non listato",
    "Crown Zenith": "non listato",
    "Destined Rivals": "non listato",
@@ -981,6 +981,10 @@
   "LetsGoTry|Storm Emerald (ME06)": [
    "listato",
    1
+  ],
+  "Pokemons.dk|Crown Zenith": [
+   "disponibile",
+   1
   ]
  },
  "urls": {
@@ -1143,13 +1147,13 @@
   }
  ],
  "down": {
-  "www.cardmarket.com": 729,
+  "www.cardmarket.com": 730,
   "www.gamestop.com": 84,
   "www.gamelife.it": 730,
   "pokeseller14.com": 730,
   "geco-shop.de": 730,
   "www.chaoscards.co.uk": 729,
-  "www.waylandgames.co.uk": 729,
+  "www.waylandgames.co.uk": 730,
   "www.firestormgames.co.uk": 730,
   "hobbykort.se": 730,
   "tcgcompany.nl": 730,
@@ -1159,9 +1163,9 @@
   "www.pokemonia.ro": 730,
   "en.tcg-shop.at": 729,
   "kaissagames.com": 526,
-  "itcg.bg": 361,
+  "itcg.bg": 362,
   "bescards.com": 323,
-  "cardcorner.at": 261,
+  "cardcorner.at": 262,
   "www.poketalk.se": 246,
   "pokectcg.cz": 174,
   "lorenzone.fr": 159,
@@ -1171,7 +1175,7 @@
   "letsgotry.pl": 120,
   "www.pokemillon.com": 93,
   "www.deckshop.de": 77,
-  "crispycards.de": 57,
+  "crispycards.de": 58,
   "tradingcard.fi": 54,
   "rarecards.nl": 46,
   "pokevend.at": 46,
@@ -1179,8 +1183,7 @@
   "pokeka.hu": 17,
   "www.amazon.it": 12,
   "tcgstore.se": 8,
-  "www.blackfire.eu": 4,
-  "tcgdistribution.fr": 1
+  "www.blackfire.eu": 4
  },
- "runno": 8721
+ "runno": 8722
 }
