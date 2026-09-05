@@ -71,8 +71,8 @@
    "Storm Emerald (ME06)": "non listato",
    "Chaos Rising (ME04)": "non listato",
    "Phantasmal Flames (ME02)": "non listato",
-   "Pokémon 151": "irraggiungibile",
-   "Prismatic Evolutions": "irraggiungibile",
+   "Pokémon 151": "non listato",
+   "Prismatic Evolutions": "non listato",
    "Crown Zenith": "non listato",
    "Destined Rivals": "irraggiungibile",
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
@@ -988,43 +988,11 @@
    1
   ],
   "Pokemons.dk|Crown Zenith": [
-   "non listato",
+   "disponibile",
    1
   ],
-  "Pokemons.dk|Pitch Black (ME05)": [
-   "non listato",
-   1
-  ],
-  "Pokemons.dk|30th Celebration": [
-   "non listato",
-   1
-  ],
-  "Pokemons.dk|Premium Deck Espeon & Umbreon (30th)": [
-   "non listato",
-   1
-  ],
-  "Pokemons.dk|Storm Emerald (ME06)": [
-   "non listato",
-   1
-  ],
-  "Pokemons.dk|Chaos Rising (ME04)": [
-   "non listato",
-   1
-  ],
-  "Pokemons.dk|Phantasmal Flames (ME02)": [
-   "non listato",
-   1
-  ],
-  "Pokemons.dk|Pokémon 151": [
-   "non listato",
-   1
-  ],
-  "Pokemons.dk|Prismatic Evolutions": [
-   "non listato",
-   1
-  ],
-  "Pokemons.dk|Destined Rivals": [
-   "non listato",
+  "PokeCardShop|Premium Deck Espeon & Umbreon (30th)": [
+   "listato",
    1
   ]
  },
@@ -1204,13 +1172,13 @@
   "en.tcg-shop.at": 740,
   "kaissagames.com": 537,
   "itcg.bg": 372,
-  "bescards.com": 333,
+  "bescards.com": 334,
   "cardcorner.at": 272,
   "www.poketalk.se": 257,
   "pokectcg.cz": 185,
   "lorenzone.fr": 170,
   "misticards.com": 150,
-  "vinticards.com": 134,
+  "vinticards.com": 135,
   "pokechest.at": 131,
   "letsgotry.pl": 131,
   "www.pokemillon.com": 104,
@@ -1220,16 +1188,13 @@
   "tcgfanshop.nl": 31,
   "pokeka.hu": 28,
   "tcgstore.se": 18,
-  "tradingcard.fi": 10,
+  "tradingcard.fi": 11,
   "www.blackfire.eu": 9,
   "crispycards.de": 8,
   "www.amazon.it": 4,
   "pokeboxstore.pt": 4,
   "games-island.eu": 3,
-  "extremepokecorner.com": 1,
-  "pokewoke.store": 1,
-  "tcgpikas.lt": 1,
-  "pokemonworld.lt": 1
+  "tcgdistribution.fr": 1
  },
- "runno": 8847
+ "runno": 8848
 }
