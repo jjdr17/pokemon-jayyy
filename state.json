@@ -131,7 +131,7 @@
    "Storm Emerald (ME06)": "listato",
    "Chaos Rising (ME04)": "esaurito",
    "Phantasmal Flames (ME02)": "esaurito",
-   "Pokémon 151": "listato",
+   "Pokémon 151": "esaurito",
    "Prismatic Evolutions": "esaurito",
    "Crown Zenith": "listato",
    "Destined Rivals": "esaurito",
@@ -983,6 +983,22 @@
    "listato",
    1
   ],
+  "SunnyStore|Pokémon 151": [
+   "listato",
+   1
+  ],
+  "Pokeseller14|Phantasmal Flames (ME02)": [
+   "non listato",
+   1
+  ],
+  "Pokeseller14|Pokémon 151": [
+   "non listato",
+   1
+  ],
+  "Pokeseller14|Prismatic Evolutions": [
+   "non listato",
+   1
+  ],
   "Pokeseller14|Crown Zenith": [
    "non listato",
    1
@@ -1186,7 +1202,12 @@
   "tcgstore.se": 15,
   "tradingcard.fi": 7,
   "www.blackfire.eu": 5,
-  "crispycards.de": 5
+  "crispycards.de": 5,
+  "www.amazon.it": 4,
+  "pokewoke.store": 3,
+  "tcgpikas.lt": 3,
+  "pokeboxstore.pt": 2,
+  "tcgdistribution.fr": 1
  },
  "runno": 8807
 }
