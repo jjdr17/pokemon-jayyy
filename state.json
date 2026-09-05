@@ -73,7 +73,7 @@
    "Phantasmal Flames (ME02)": "irraggiungibile",
    "Pokémon 151": "irraggiungibile",
    "Prismatic Evolutions": "irraggiungibile",
-   "Crown Zenith": "irraggiungibile",
+   "Crown Zenith": "non listato",
    "Destined Rivals": "irraggiungibile",
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
@@ -131,7 +131,7 @@
    "Storm Emerald (ME06)": "listato",
    "Chaos Rising (ME04)": "esaurito",
    "Phantasmal Flames (ME02)": "esaurito",
-   "Pokémon 151": "esaurito",
+   "Pokémon 151": "listato",
    "Prismatic Evolutions": "esaurito",
    "Crown Zenith": "listato",
    "Destined Rivals": "esaurito",
@@ -579,7 +579,7 @@
    "Prismatic Evolutions": "listato",
    "Crown Zenith": "listato",
    "Destined Rivals": "esaurito",
-   "Premium Deck Espeon & Umbreon (30th)": "listato"
+   "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "Kaissa Games": {
    "Pitch Black (ME05)": "listato",
@@ -983,12 +983,12 @@
    "listato",
    1
   ],
-  "SunnyStore|Pokémon 151": [
+  "Amazon.it|Storm Emerald (ME06)": [
    "listato",
    1
   ],
-  "Pokemons.dk|Crown Zenith": [
-   "disponibile",
+  "PokeCardShop|Destined Rivals": [
+   "non listato",
    1
   ]
  },
@@ -1163,34 +1163,36 @@
   "tcgcompany.nl": 737,
   "www.nerdom.gr": 736,
   "www.pokekarty.pl": 737,
-  "www.wakuwaku.cz": 736,
+  "www.wakuwaku.cz": 737,
   "www.pokemonia.ro": 737,
   "en.tcg-shop.at": 737,
-  "kaissagames.com": 533,
+  "kaissagames.com": 534,
   "itcg.bg": 369,
   "bescards.com": 330,
   "cardcorner.at": 269,
   "www.poketalk.se": 254,
   "pokectcg.cz": 182,
-  "lorenzone.fr": 166,
+  "lorenzone.fr": 167,
   "misticards.com": 147,
   "vinticards.com": 131,
   "pokechest.at": 128,
   "letsgotry.pl": 128,
-  "www.pokemillon.com": 100,
+  "www.pokemillon.com": 101,
   "www.deckshop.de": 85,
   "rarecards.nl": 53,
   "pokevend.at": 53,
   "tcgfanshop.nl": 28,
-  "pokeka.hu": 24,
+  "pokeka.hu": 25,
   "tcgstore.se": 15,
   "tradingcard.fi": 7,
-  "www.blackfire.eu": 5,
+  "www.blackfire.eu": 6,
   "crispycards.de": 5,
-  "www.amazon.it": 4,
-  "pokewoke.store": 3,
-  "tcgpikas.lt": 3,
-  "pokeboxstore.pt": 3
+  "pokeboxstore.pt": 1,
+  "extremepokecorner.com": 1,
+  "games-island.eu": 1,
+  "pokewoke.store": 1,
+  "tcgpikas.lt": 1,
+  "pokemonworld.lt": 1
  },
- "runno": 8809
+ "runno": 8810
 }
