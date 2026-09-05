@@ -579,7 +579,7 @@
    "Prismatic Evolutions": "listato",
    "Crown Zenith": "listato",
    "Destined Rivals": "esaurito",
-   "Premium Deck Espeon & Umbreon (30th)": "non listato"
+   "Premium Deck Espeon & Umbreon (30th)": "listato"
   },
   "Kaissa Games": {
    "Pitch Black (ME05)": "listato",
@@ -707,7 +707,7 @@
    "Storm Emerald (ME06)": "non listato",
    "Chaos Rising (ME04)": "non listato",
    "Phantasmal Flames (ME02)": "non listato",
-   "Pokémon 151": "non listato",
+   "Pokémon 151": "listato",
    "Prismatic Evolutions": "non listato",
    "Crown Zenith": "non listato",
    "Destined Rivals": "non listato",
@@ -982,16 +982,12 @@
    "listato",
    1
   ],
-  "Total Cards (UK)|Prismatic Evolutions": [
-   "esaurito",
+  "SunnyStore|Pokémon 151": [
+   "listato",
    1
   ],
   "Pokemons.dk|Crown Zenith": [
    "disponibile",
-   1
-  ],
-  "PokeCardShop|Phantasmal Flames (ME02)": [
-   "non listato",
    1
   ]
  },
@@ -1189,10 +1185,8 @@
   "tcgfanshop.nl": 23,
   "pokeka.hu": 20,
   "tcgstore.se": 10,
-  "www.amazon.it": 3,
-  "tradingcard.fi": 3,
-  "www.blackfire.eu": 1,
-  "tcgdistribution.fr": 1
+  "tradingcard.fi": 5,
+  "www.amazon.it": 3
  },
  "runno": 8755
 }
