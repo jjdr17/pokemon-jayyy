@@ -955,7 +955,8 @@
   "tcgstore.se": "https://tcgstore.se/?s={q}&post_type=product",
   "pokeka.hu": "https://pokeka.hu/?s={q}&post_type=product",
   "bescards.com": "https://bescards.com/search?q={q}",
-  "papelinho.pt": "https://papelinho.pt/?s={q}&post_type=product"
+  "papelinho.pt": "https://papelinho.pt/?s={q}&post_type=product",
+  "pokeseller14.com": "https://pokeseller14.com/search?q={q}"
  },
  "alerts": {},
  "prices": {
@@ -986,12 +987,24 @@
    "listato",
    1
   ],
-  "Pokemons.dk|Crown Zenith": [
-   "disponibile",
+  "Pokeseller14|Pitch Black (ME05)": [
+   "non listato",
    1
   ],
-  "MagicBazar|Pokémon 151": [
-   "listato",
+  "Pokeseller14|30th Celebration": [
+   "non listato",
+   1
+  ],
+  "Pokeseller14|Premium Deck Espeon & Umbreon (30th)": [
+   "non listato",
+   1
+  ],
+  "Pokeseller14|Storm Emerald (ME06)": [
+   "non listato",
+   1
+  ],
+  "Pokeseller14|Phantasmal Flames (ME02)": [
+   "non listato",
    1
   ]
  },
@@ -1157,9 +1170,8 @@
  "down": {
   "www.cardmarket.com": 736,
   "www.gamestop.com": 84,
-  "www.gamelife.it": 736,
-  "pokeseller14.com": 736,
-  "geco-shop.de": 736,
+  "www.gamelife.it": 737,
+  "geco-shop.de": 737,
   "www.chaoscards.co.uk": 736,
   "www.waylandgames.co.uk": 736,
   "www.firestormgames.co.uk": 737,
@@ -1191,12 +1203,7 @@
   "tradingcard.fi": 7,
   "www.blackfire.eu": 5,
   "crispycards.de": 4,
-  "www.amazon.it": 3,
-  "extremepokecorner.com": 1,
-  "games-island.eu": 1,
-  "pokewoke.store": 1,
-  "tcgpikas.lt": 1,
-  "pokemonworld.lt": 1
+  "tcgdistribution.fr": 1
  },
- "runno": 8803
+ "runno": 8804
 }
