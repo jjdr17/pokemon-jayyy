@@ -982,6 +982,10 @@
   "LetsGoTry|Storm Emerald (ME06)": [
    "listato",
    1
+  ],
+  "Pokemons.dk|Crown Zenith": [
+   "disponibile",
+   1
   ]
  },
  "urls": {
@@ -1015,7 +1019,7 @@
   "Pikashop|Storm Emerald (ME06)": "https://pikashop.pl/?s=storm+emerald&post_type=product",
   "Pokecollect|30th Celebration": "https://pokecollect.pl/?s=30th+celebration&post_type=product"
  },
- "digest_slot": "2026-09-05-15",
+ "digest_slot": "2026-09-05-18",
  "log": [
   {
    "ts": "05/07 19:55",
@@ -1150,13 +1154,13 @@
   "geco-shop.de": 738,
   "www.chaoscards.co.uk": 738,
   "www.waylandgames.co.uk": 738,
-  "www.firestormgames.co.uk": 738,
+  "www.firestormgames.co.uk": 739,
   "hobbykort.se": 738,
   "tcgcompany.nl": 738,
   "www.nerdom.gr": 738,
   "www.pokekarty.pl": 738,
   "www.wakuwaku.cz": 738,
-  "www.pokemonia.ro": 738,
+  "www.pokemonia.ro": 739,
   "en.tcg-shop.at": 738,
   "kaissagames.com": 535,
   "itcg.bg": 370,
@@ -1179,8 +1183,8 @@
   "tradingcard.fi": 9,
   "www.blackfire.eu": 7,
   "crispycards.de": 6,
-  "www.amazon.it": 2,
-  "tcg-trade.de": 1
+  "www.amazon.it": 3,
+  "pokeboxstore.pt": 1
  },
- "runno": 8824
+ "runno": 8825
 }
