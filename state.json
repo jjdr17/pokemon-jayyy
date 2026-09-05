@@ -73,7 +73,7 @@
    "Phantasmal Flames (ME02)": "irraggiungibile",
    "Pokémon 151": "irraggiungibile",
    "Prismatic Evolutions": "irraggiungibile",
-   "Crown Zenith": "irraggiungibile",
+   "Crown Zenith": "non listato",
    "Destined Rivals": "irraggiungibile",
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
@@ -131,7 +131,7 @@
    "Storm Emerald (ME06)": "listato",
    "Chaos Rising (ME04)": "esaurito",
    "Phantasmal Flames (ME02)": "esaurito",
-   "Pokémon 151": "esaurito",
+   "Pokémon 151": "listato",
    "Prismatic Evolutions": "esaurito",
    "Crown Zenith": "listato",
    "Destined Rivals": "esaurito",
@@ -983,10 +983,6 @@
    "listato",
    1
   ],
-  "SunnyStore|Pokémon 151": [
-   "listato",
-   1
-  ],
   "Pokeseller14|Phantasmal Flames (ME02)": [
    "non listato",
    1
@@ -995,16 +991,8 @@
    "non listato",
    1
   ],
-  "Pokeseller14|Prismatic Evolutions": [
+  "Pokeseller14|Destined Rivals": [
    "non listato",
-   1
-  ],
-  "Pokeseller14|Crown Zenith": [
-   "non listato",
-   1
-  ],
-  "Pokemons.dk|Crown Zenith": [
-   "disponibile",
    1
   ]
  },
@@ -1039,7 +1027,7 @@
   "Pikashop|Storm Emerald (ME06)": "https://pikashop.pl/?s=storm+emerald&post_type=product",
   "Pokecollect|30th Celebration": "https://pokecollect.pl/?s=30th+celebration&post_type=product"
  },
- "digest_slot": "2026-09-05-10",
+ "digest_slot": "2026-09-05-15",
  "log": [
   {
    "ts": "05/07 19:55",
@@ -1172,7 +1160,7 @@
   "www.gamestop.com": 84,
   "www.gamelife.it": 737,
   "geco-shop.de": 737,
-  "www.chaoscards.co.uk": 736,
+  "www.chaoscards.co.uk": 737,
   "www.waylandgames.co.uk": 737,
   "www.firestormgames.co.uk": 737,
   "hobbykort.se": 737,
@@ -1186,10 +1174,10 @@
   "itcg.bg": 369,
   "bescards.com": 330,
   "cardcorner.at": 269,
-  "www.poketalk.se": 253,
+  "www.poketalk.se": 254,
   "pokectcg.cz": 182,
   "lorenzone.fr": 166,
-  "misticards.com": 146,
+  "misticards.com": 147,
   "vinticards.com": 131,
   "pokechest.at": 127,
   "letsgotry.pl": 128,
@@ -1203,11 +1191,11 @@
   "tradingcard.fi": 7,
   "www.blackfire.eu": 5,
   "crispycards.de": 5,
-  "www.amazon.it": 4,
-  "pokewoke.store": 3,
-  "tcgpikas.lt": 3,
-  "pokeboxstore.pt": 2,
-  "tcgdistribution.fr": 1
+  "www.amazon.it": 1,
+  "pokewoke.store": 1,
+  "tcgpikas.lt": 1,
+  "pokemonworld.lt": 1,
+  "games-island.eu": 1
  },
- "runno": 8807
+ "runno": 8808
 }
