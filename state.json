@@ -575,7 +575,7 @@
    "Storm Emerald (ME06)": "non listato",
    "Chaos Rising (ME04)": "non listato",
    "Phantasmal Flames (ME02)": "esaurito",
-   "Pokémon 151": "non listato",
+   "Pokémon 151": "listato",
    "Prismatic Evolutions": "listato",
    "Crown Zenith": "listato",
    "Destined Rivals": "esaurito",
@@ -991,8 +991,52 @@
    "non listato",
    1
   ],
-  "PokeCardShop|Pokémon 151": [
+  "Packratt (UK)|Prismatic Evolutions": [
    "listato",
+   1
+  ],
+  "Pokemons.dk|Pitch Black (ME05)": [
+   "listato",
+   1
+  ],
+  "Pokemons.dk|30th Celebration": [
+   "listato",
+   1
+  ],
+  "Pokemons.dk|Premium Deck Espeon & Umbreon (30th)": [
+   "listato",
+   1
+  ],
+  "Pokemons.dk|Storm Emerald (ME06)": [
+   "listato",
+   1
+  ],
+  "Pokemons.dk|Chaos Rising (ME04)": [
+   "listato",
+   1
+  ],
+  "Pokemons.dk|Phantasmal Flames (ME02)": [
+   "listato",
+   1
+  ],
+  "Pokemons.dk|Pokémon 151": [
+   "listato",
+   1
+  ],
+  "Pokemons.dk|Prismatic Evolutions": [
+   "listato",
+   1
+  ],
+  "Pokemons.dk|Crown Zenith": [
+   "disponibile",
+   1
+  ],
+  "Pokemons.dk|Destined Rivals": [
+   "listato",
+   1
+  ],
+  "PokeCardShop|Chaos Rising (ME04)": [
+   "esaurito",
    1
   ]
  },
@@ -1169,7 +1213,7 @@
   "www.pokekarty.pl": 741,
   "www.wakuwaku.cz": 740,
   "www.pokemonia.ro": 741,
-  "en.tcg-shop.at": 740,
+  "en.tcg-shop.at": 741,
   "kaissagames.com": 537,
   "itcg.bg": 373,
   "bescards.com": 334,
@@ -1179,20 +1223,24 @@
   "lorenzone.fr": 170,
   "misticards.com": 151,
   "vinticards.com": 135,
-  "pokechest.at": 131,
+  "pokechest.at": 132,
   "letsgotry.pl": 132,
   "www.pokemillon.com": 104,
   "www.deckshop.de": 89,
   "rarecards.nl": 57,
   "pokevend.at": 57,
-  "tcgfanshop.nl": 31,
+  "tcgfanshop.nl": 32,
   "pokeka.hu": 28,
   "tcgstore.se": 19,
   "tradingcard.fi": 11,
   "www.blackfire.eu": 9,
   "crispycards.de": 9,
   "pokeboxstore.pt": 5,
-  "www.amazon.it": 3
+  "www.amazon.it": 3,
+  "extremepokecorner.com": 1,
+  "pokewoke.store": 1,
+  "pokemonworld.lt": 1,
+  "tcgpikas.lt": 1
  },
- "runno": 8856
+ "runno": 8857
 }
