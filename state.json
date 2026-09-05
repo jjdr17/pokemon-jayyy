@@ -25,8 +25,8 @@
    "Premium Deck Espeon & Umbreon (30th)": "irraggiungibile"
   },
   "Amazon.it": {
-   "30th Celebration": "listato",
-   "Storm Emerald (ME06)": "listato",
+   "30th Celebration": "non listato",
+   "Storm Emerald (ME06)": "non listato",
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "TCGplayer": {
@@ -983,14 +983,6 @@
    "listato",
    1
   ],
-  "Amazon.it|30th Celebration": [
-   "non listato",
-   1
-  ],
-  "Amazon.it|Storm Emerald (ME06)": [
-   "non listato",
-   1
-  ],
   "MagicBazar|Pokémon 151": [
    "listato",
    1
@@ -1190,8 +1182,7 @@
   "tcgstore.se": 20,
   "tradingcard.fi": 12,
   "www.blackfire.eu": 10,
-  "crispycards.de": 10,
-  "www.amazon.it": 4
+  "crispycards.de": 10
  },
  "runno": 8866
 }
