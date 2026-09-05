@@ -71,8 +71,8 @@
    "Storm Emerald (ME06)": "non listato",
    "Chaos Rising (ME04)": "non listato",
    "Phantasmal Flames (ME02)": "non listato",
-   "Pokémon 151": "non listato",
-   "Prismatic Evolutions": "non listato",
+   "Pokémon 151": "irraggiungibile",
+   "Prismatic Evolutions": "irraggiungibile",
    "Crown Zenith": "non listato",
    "Destined Rivals": "irraggiungibile",
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
@@ -991,8 +991,12 @@
    "disponibile",
    1
   ],
-  "PokeCardShop|Premium Deck Espeon & Umbreon (30th)": [
-   "listato",
+  "Packratt (UK)|Prismatic Evolutions": [
+   "esaurito",
+   1
+  ],
+  "Pokeseller14|Prismatic Evolutions": [
+   "non listato",
    1
   ]
  },
@@ -1193,8 +1197,7 @@
   "crispycards.de": 8,
   "www.amazon.it": 4,
   "pokeboxstore.pt": 4,
-  "games-island.eu": 3,
-  "tcgdistribution.fr": 1
+  "games-island.eu": 3
  },
  "runno": 8848
 }
