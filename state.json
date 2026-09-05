@@ -131,7 +131,7 @@
    "Storm Emerald (ME06)": "listato",
    "Chaos Rising (ME04)": "esaurito",
    "Phantasmal Flames (ME02)": "esaurito",
-   "Pokémon 151": "esaurito",
+   "Pokémon 151": "listato",
    "Prismatic Evolutions": "esaurito",
    "Crown Zenith": "listato",
    "Destined Rivals": "esaurito",
@@ -983,12 +983,12 @@
    "listato",
    1
   ],
-  "SunnyStore|Pokémon 151": [
-   "listato",
+  "Pokeseller14|Crown Zenith": [
+   "non listato",
    1
   ],
-  "PokeCardShop|Premium Deck Espeon & Umbreon (30th)": [
-   "listato",
+  "Pokemons.dk|Crown Zenith": [
+   "disponibile",
    1
   ]
  },
@@ -1162,7 +1162,7 @@
   "hobbykort.se": 737,
   "tcgcompany.nl": 737,
   "www.nerdom.gr": 736,
-  "www.pokekarty.pl": 736,
+  "www.pokekarty.pl": 737,
   "www.wakuwaku.cz": 736,
   "www.pokemonia.ro": 737,
   "en.tcg-shop.at": 736,
@@ -1171,14 +1171,14 @@
   "bescards.com": 330,
   "cardcorner.at": 269,
   "www.poketalk.se": 253,
-  "pokectcg.cz": 181,
+  "pokectcg.cz": 182,
   "lorenzone.fr": 166,
   "misticards.com": 146,
   "vinticards.com": 131,
   "pokechest.at": 127,
-  "letsgotry.pl": 127,
+  "letsgotry.pl": 128,
   "www.pokemillon.com": 100,
-  "www.deckshop.de": 84,
+  "www.deckshop.de": 85,
   "rarecards.nl": 53,
   "pokevend.at": 53,
   "tcgfanshop.nl": 27,
@@ -1186,14 +1186,7 @@
   "tcgstore.se": 15,
   "tradingcard.fi": 7,
   "www.blackfire.eu": 5,
-  "crispycards.de": 5,
-  "www.amazon.it": 4,
-  "extremepokecorner.com": 3,
-  "pokewoke.store": 3,
-  "tcgpikas.lt": 3,
-  "pokemonworld.lt": 3,
-  "pokeboxstore.pt": 1,
-  "games-island.eu": 1
+  "crispycards.de": 5
  },
- "runno": 8806
+ "runno": 8807
 }
