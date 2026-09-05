@@ -73,7 +73,7 @@
    "Phantasmal Flames (ME02)": "irraggiungibile",
    "Pokémon 151": "irraggiungibile",
    "Prismatic Evolutions": "irraggiungibile",
-   "Crown Zenith": "non listato",
+   "Crown Zenith": "irraggiungibile",
    "Destined Rivals": "irraggiungibile",
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
@@ -131,7 +131,7 @@
    "Storm Emerald (ME06)": "listato",
    "Chaos Rising (ME04)": "esaurito",
    "Phantasmal Flames (ME02)": "esaurito",
-   "Pokémon 151": "listato",
+   "Pokémon 151": "esaurito",
    "Prismatic Evolutions": "esaurito",
    "Crown Zenith": "listato",
    "Destined Rivals": "esaurito",
@@ -983,16 +983,12 @@
    "listato",
    1
   ],
-  "Pokeseller14|Phantasmal Flames (ME02)": [
-   "non listato",
+  "SunnyStore|Pokémon 151": [
+   "listato",
    1
   ],
-  "Pokeseller14|Pokémon 151": [
-   "non listato",
-   1
-  ],
-  "Pokeseller14|Destined Rivals": [
-   "non listato",
+  "PokeCardShop|Premium Deck Espeon & Umbreon (30th)": [
+   "listato",
    1
   ]
  },
@@ -1191,11 +1187,10 @@
   "tradingcard.fi": 7,
   "www.blackfire.eu": 5,
   "crispycards.de": 5,
-  "www.amazon.it": 1,
-  "pokewoke.store": 1,
-  "tcgpikas.lt": 1,
-  "pokemonworld.lt": 1,
-  "games-island.eu": 1
+  "www.amazon.it": 4,
+  "pokewoke.store": 3,
+  "tcgpikas.lt": 3,
+  "pokeboxstore.pt": 3
  },
  "runno": 8808
 }
