@@ -707,7 +707,7 @@
    "Storm Emerald (ME06)": "non listato",
    "Chaos Rising (ME04)": "non listato",
    "Phantasmal Flames (ME02)": "non listato",
-   "Pokémon 151": "listato",
+   "Pokémon 151": "non listato",
    "Prismatic Evolutions": "non listato",
    "Crown Zenith": "non listato",
    "Destined Rivals": "non listato",
@@ -987,15 +987,19 @@
    "listato",
    1
   ],
-  "Pokemons.dk|Crown Zenith": [
-   "disponibile",
-   1
-  ],
-  "MagicBazar|Pokémon 151": [
+  "Pokeseller14|Pokémon 151": [
    "non listato",
    1
   ],
-  "PokeCardShop|Pokémon 151": [
+  "Pokeseller14|Prismatic Evolutions": [
+   "non listato",
+   1
+  ],
+  "Pokeseller14|Destined Rivals": [
+   "non listato",
+   1
+  ],
+  "PokeCardShop|Destined Rivals": [
    "non listato",
    1
   ]
@@ -1160,12 +1164,12 @@
   }
  ],
  "down": {
-  "www.cardmarket.com": 739,
+  "www.cardmarket.com": 740,
   "www.gamestop.com": 84,
   "www.gamelife.it": 740,
   "geco-shop.de": 740,
   "www.chaoscards.co.uk": 739,
-  "www.waylandgames.co.uk": 739,
+  "www.waylandgames.co.uk": 740,
   "www.firestormgames.co.uk": 740,
   "hobbykort.se": 740,
   "tcgcompany.nl": 740,
@@ -1175,9 +1179,9 @@
   "www.pokemonia.ro": 740,
   "en.tcg-shop.at": 739,
   "kaissagames.com": 536,
-  "itcg.bg": 371,
+  "itcg.bg": 372,
   "bescards.com": 333,
-  "cardcorner.at": 271,
+  "cardcorner.at": 272,
   "www.poketalk.se": 256,
   "pokectcg.cz": 184,
   "lorenzone.fr": 169,
@@ -1194,10 +1198,10 @@
   "tcgstore.se": 18,
   "tradingcard.fi": 10,
   "www.blackfire.eu": 8,
-  "crispycards.de": 7,
+  "crispycards.de": 8,
   "www.amazon.it": 4,
   "pokeboxstore.pt": 4,
   "games-island.eu": 3
  },
- "runno": 8841
+ "runno": 8842
 }
