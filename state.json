@@ -990,10 +990,6 @@
   "Amazon.it|Storm Emerald (ME06)": [
    "non listato",
    1
-  ],
-  "Pokemons.dk|Crown Zenith": [
-   "disponibile",
-   1
   ]
  },
  "urls": {
@@ -1158,8 +1154,8 @@
  "down": {
   "www.cardmarket.com": 741,
   "www.gamestop.com": 84,
-  "www.gamelife.it": 741,
-  "geco-shop.de": 741,
+  "www.gamelife.it": 742,
+  "geco-shop.de": 742,
   "www.chaoscards.co.uk": 741,
   "www.waylandgames.co.uk": 741,
   "www.firestormgames.co.uk": 742,
@@ -1191,7 +1187,13 @@
   "tradingcard.fi": 12,
   "www.blackfire.eu": 10,
   "crispycards.de": 9,
-  "www.amazon.it": 3
+  "www.amazon.it": 4,
+  "tcg-trade.de": 1,
+  "extremepokecorner.com": 1,
+  "games-island.eu": 1,
+  "pokewoke.store": 1,
+  "tcgpikas.lt": 1,
+  "pokemonworld.lt": 1
  },
- "runno": 8863
+ "runno": 8864
 }
