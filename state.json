@@ -71,10 +71,10 @@
    "Storm Emerald (ME06)": "non listato",
    "Chaos Rising (ME04)": "non listato",
    "Phantasmal Flames (ME02)": "non listato",
-   "Pokémon 151": "irraggiungibile",
+   "Pokémon 151": "non listato",
    "Prismatic Evolutions": "non listato",
    "Crown Zenith": "non listato",
-   "Destined Rivals": "non listato",
+   "Destined Rivals": "irraggiungibile",
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "Poke-Power": {
@@ -983,8 +983,12 @@
    "listato",
    1
   ],
-  "PokeCardShop|Pitch Black (ME05)": [
-   "non listato",
+  "Pokemons.dk|Crown Zenith": [
+   "disponibile",
+   1
+  ],
+  "MagicBazar|Pokémon 151": [
+   "listato",
    1
   ]
  },
@@ -1155,7 +1159,7 @@
   "www.chaoscards.co.uk": 746,
   "www.waylandgames.co.uk": 746,
   "www.firestormgames.co.uk": 747,
-  "hobbykort.se": 746,
+  "hobbykort.se": 747,
   "tcgcompany.nl": 746,
   "www.nerdom.gr": 746,
   "www.pokekarty.pl": 746,
@@ -1184,8 +1188,7 @@
   "crispycards.de": 14,
   "www.amazon.it": 6,
   "www.blackfire.eu": 6,
-  "pokebank.es": 4,
-  "pokeboxstore.pt": 1
+  "pokebank.es": 4
  },
- "runno": 8921
+ "runno": 8922
 }
