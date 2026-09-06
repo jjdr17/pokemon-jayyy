@@ -510,16 +510,16 @@
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "Pokemons.dk": {
-   "Pitch Black (ME05)": "non listato",
-   "30th Celebration": "non listato",
-   "Storm Emerald (ME06)": "non listato",
-   "Chaos Rising (ME04)": "non listato",
-   "Phantasmal Flames (ME02)": "non listato",
-   "Pokémon 151": "non listato",
-   "Prismatic Evolutions": "non listato",
-   "Crown Zenith": "non listato",
-   "Destined Rivals": "non listato",
-   "Premium Deck Espeon & Umbreon (30th)": "non listato"
+   "Pitch Black (ME05)": "listato",
+   "30th Celebration": "listato",
+   "Storm Emerald (ME06)": "listato",
+   "Chaos Rising (ME04)": "listato",
+   "Phantasmal Flames (ME02)": "listato",
+   "Pokémon 151": "listato",
+   "Prismatic Evolutions": "listato",
+   "Crown Zenith": "esaurito",
+   "Destined Rivals": "listato",
+   "Premium Deck Espeon & Umbreon (30th)": "listato"
   },
   "Papelinho": {
    "Pitch Black (ME05)": "non listato",
@@ -579,7 +579,7 @@
    "Prismatic Evolutions": "listato",
    "Crown Zenith": "listato",
    "Destined Rivals": "esaurito",
-   "Premium Deck Espeon & Umbreon (30th)": "listato"
+   "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "Kaissa Games": {
    "Pitch Black (ME05)": "listato",
@@ -983,44 +983,12 @@
    "listato",
    1
   ],
-  "Pokemons.dk|Pitch Black (ME05)": [
+  "PokeCardShop|Premium Deck Espeon & Umbreon (30th)": [
    "listato",
    1
   ],
-  "Pokemons.dk|30th Celebration": [
-   "listato",
-   1
-  ],
-  "Pokemons.dk|Premium Deck Espeon & Umbreon (30th)": [
-   "listato",
-   1
-  ],
-  "Pokemons.dk|Storm Emerald (ME06)": [
-   "listato",
-   1
-  ],
-  "Pokemons.dk|Chaos Rising (ME04)": [
-   "listato",
-   1
-  ],
-  "Pokemons.dk|Phantasmal Flames (ME02)": [
-   "listato",
-   1
-  ],
-  "Pokemons.dk|Pokémon 151": [
-   "listato",
-   1
-  ],
-  "Pokemons.dk|Prismatic Evolutions": [
-   "listato",
-   1
-  ],
-  "Pokemons.dk|Crown Zenith": [
-   "disponibile",
-   1
-  ],
-  "Pokemons.dk|Destined Rivals": [
-   "listato",
+  "MagicBazar|Pokémon 151": [
+   "non listato",
    1
   ]
  },
@@ -1195,32 +1163,34 @@
   "tcgcompany.nl": 751,
   "www.nerdom.gr": 750,
   "www.pokekarty.pl": 751,
-  "www.wakuwaku.cz": 750,
+  "www.wakuwaku.cz": 751,
   "www.pokemonia.ro": 751,
   "en.tcg-shop.at": 751,
-  "kaissagames.com": 547,
+  "kaissagames.com": 548,
   "itcg.bg": 383,
   "bescards.com": 344,
   "cardcorner.at": 283,
   "www.poketalk.se": 268,
   "pokectcg.cz": 196,
-  "lorenzone.fr": 180,
+  "lorenzone.fr": 181,
   "misticards.com": 161,
   "vinticards.com": 145,
   "pokechest.at": 142,
   "letsgotry.pl": 142,
-  "www.pokemillon.com": 114,
+  "www.pokemillon.com": 115,
   "www.deckshop.de": 99,
   "rarecards.nl": 67,
   "pokevend.at": 67,
   "tcgfanshop.nl": 42,
-  "pokeka.hu": 38,
+  "pokeka.hu": 39,
   "tcgstore.se": 29,
   "tradingcard.fi": 21,
   "crispycards.de": 19,
-  "www.blackfire.eu": 6,
   "pokeboxstore.pt": 3,
-  "www.amazon.it": 3
+  "www.amazon.it": 3,
+  "pokewoke.store": 1,
+  "tcgpikas.lt": 1,
+  "pokemonworld.lt": 1
  },
- "runno": 8977
+ "runno": 8978
 }
