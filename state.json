@@ -579,7 +579,7 @@
    "Prismatic Evolutions": "listato",
    "Crown Zenith": "listato",
    "Destined Rivals": "esaurito",
-   "Premium Deck Espeon & Umbreon (30th)": "non listato"
+   "Premium Deck Espeon & Umbreon (30th)": "listato"
   },
   "Kaissa Games": {
    "Pitch Black (ME05)": "listato",
@@ -983,43 +983,23 @@
    "listato",
    1
   ],
+  "Amazon.it|30th Celebration": [
+   "listato",
+   1
+  ],
+  "Amazon.it|Storm Emerald (ME06)": [
+   "listato",
+   1
+  ],
   "Pokemons.dk|Crown Zenith": [
+   "disponibile",
+   1
+  ],
+  "PokeCardShop|Premium Deck Espeon & Umbreon (30th)": [
    "non listato",
    1
   ],
-  "Pokemons.dk|Pitch Black (ME05)": [
-   "non listato",
-   1
-  ],
-  "Pokemons.dk|30th Celebration": [
-   "non listato",
-   1
-  ],
-  "Pokemons.dk|Premium Deck Espeon & Umbreon (30th)": [
-   "non listato",
-   1
-  ],
-  "Pokemons.dk|Storm Emerald (ME06)": [
-   "non listato",
-   1
-  ],
-  "Pokemons.dk|Chaos Rising (ME04)": [
-   "non listato",
-   1
-  ],
-  "Pokemons.dk|Phantasmal Flames (ME02)": [
-   "non listato",
-   1
-  ],
-  "Pokemons.dk|Pokémon 151": [
-   "non listato",
-   1
-  ],
-  "Pokemons.dk|Prismatic Evolutions": [
-   "non listato",
-   1
-  ],
-  "Pokemons.dk|Destined Rivals": [
+  "PokeCardShop|Phantasmal Flames (ME02)": [
    "non listato",
    1
   ]
@@ -1200,13 +1180,13 @@
   "en.tcg-shop.at": 750,
   "kaissagames.com": 547,
   "itcg.bg": 382,
-  "bescards.com": 343,
+  "bescards.com": 344,
   "cardcorner.at": 282,
   "www.poketalk.se": 267,
   "pokectcg.cz": 195,
   "lorenzone.fr": 180,
   "misticards.com": 160,
-  "vinticards.com": 144,
+  "vinticards.com": 145,
   "pokechest.at": 141,
   "letsgotry.pl": 141,
   "www.pokemillon.com": 114,
@@ -1216,16 +1196,10 @@
   "tcgfanshop.nl": 41,
   "pokeka.hu": 38,
   "tcgstore.se": 28,
-  "tradingcard.fi": 20,
+  "tradingcard.fi": 21,
   "crispycards.de": 18,
   "www.blackfire.eu": 6,
-  "www.amazon.it": 1,
-  "pokeboxstore.pt": 1,
-  "games-island.eu": 1,
-  "extremepokecorner.com": 1,
-  "pokewoke.store": 1,
-  "pokemonworld.lt": 1,
-  "tcgpikas.lt": 1
+  "www.amazon.it": 3
  },
- "runno": 8967
+ "runno": 8968
 }
