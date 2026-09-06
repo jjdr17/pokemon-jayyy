@@ -707,7 +707,7 @@
    "Storm Emerald (ME06)": "non listato",
    "Chaos Rising (ME04)": "non listato",
    "Phantasmal Flames (ME02)": "non listato",
-   "Pokémon 151": "listato",
+   "Pokémon 151": "non listato",
    "Prismatic Evolutions": "non listato",
    "Crown Zenith": "non listato",
    "Destined Rivals": "non listato",
@@ -991,7 +991,7 @@
    "listato",
    1
   ],
-  "Pokeseller14|Pokémon 151": [
+  "PokeCardShop|Phantasmal Flames (ME02)": [
    "non listato",
    1
   ]
@@ -1191,8 +1191,7 @@
   "tradingcard.fi": 20,
   "crispycards.de": 18,
   "www.blackfire.eu": 5,
-  "www.amazon.it": 2,
-  "pokeboxstore.pt": 1
+  "www.amazon.it": 2
  },
  "runno": 8965
 }
