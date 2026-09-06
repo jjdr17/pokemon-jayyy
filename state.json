@@ -71,10 +71,10 @@
    "Storm Emerald (ME06)": "non listato",
    "Chaos Rising (ME04)": "non listato",
    "Phantasmal Flames (ME02)": "non listato",
-   "Pokémon 151": "non listato",
+   "Pokémon 151": "irraggiungibile",
    "Prismatic Evolutions": "non listato",
    "Crown Zenith": "non listato",
-   "Destined Rivals": "irraggiungibile",
+   "Destined Rivals": "non listato",
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "Poke-Power": {
@@ -983,8 +983,8 @@
    "listato",
    1
   ],
-  "PokeCardShop|30th Celebration": [
-   "non listato",
+  "MagicBazar|Pokémon 151": [
+   "listato",
    1
   ]
  },
@@ -1185,7 +1185,7 @@
   "www.amazon.it": 6,
   "www.blackfire.eu": 6,
   "pokebank.es": 4,
-  "pokeboxstore.pt": 1
+  "pokeboxstore.pt": 3
  },
  "runno": 8923
 }
