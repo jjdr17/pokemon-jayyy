@@ -982,6 +982,10 @@
   "LetsGoTry|Storm Emerald (ME06)": [
    "listato",
    1
+  ],
+  "Pokeseller14|Pokémon 151": [
+   "non listato",
+   1
   ]
  },
  "urls": {
@@ -1015,7 +1019,7 @@
   "Pikashop|Storm Emerald (ME06)": "https://pikashop.pl/?s=storm+emerald&post_type=product",
   "Pokecollect|30th Celebration": "https://pokecollect.pl/?s=30th+celebration&post_type=product"
  },
- "digest_slot": "2026-09-05-22",
+ "digest_slot": "2026-09-06-10",
  "log": [
   {
    "ts": "05/07 19:55",
@@ -1181,8 +1185,7 @@
   "www.amazon.it": 6,
   "www.blackfire.eu": 5,
   "pokebank.es": 4,
-  "tcg-trade.de": 1,
-  "tcgdistribution.fr": 1
+  "www.lotticards.de": 1
  },
  "runno": 8917
 }
