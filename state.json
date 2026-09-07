@@ -707,7 +707,7 @@
    "Storm Emerald (ME06)": "non listato",
    "Chaos Rising (ME04)": "non listato",
    "Phantasmal Flames (ME02)": "non listato",
-   "Pokémon 151": "non listato",
+   "Pokémon 151": "listato",
    "Prismatic Evolutions": "non listato",
    "Crown Zenith": "non listato",
    "Destined Rivals": "non listato",
@@ -994,12 +994,8 @@
    "non listato",
    1
   ],
-  "Pokipair|30th Celebration": [
+  "Pokemons.dk|Crown Zenith": [
    "disponibile",
-   1
-  ],
-  "MagicBazar|Pokémon 151": [
-   "listato",
    1
   ]
  },
@@ -1035,7 +1031,7 @@
   "Pokecollect|30th Celebration": "https://pokecollect.pl/?s=30th+celebration&post_type=product",
   "PokeCardShop|Pitch Black (ME05)": "https://www.pokecardshop.be/search?q=pitch+black"
  },
- "digest_slot": "2026-09-07-18",
+ "digest_slot": "2026-09-07-22",
  "log": [
   {
    "ts": "05/07 19:55",
@@ -1178,7 +1174,7 @@
   "www.firestormgames.co.uk": 764,
   "hobbykort.se": 764,
   "tcgcompany.nl": 764,
-  "www.nerdom.gr": 763,
+  "www.nerdom.gr": 764,
   "www.pokekarty.pl": 764,
   "www.wakuwaku.cz": 764,
   "www.pokemonia.ro": 764,
@@ -1196,8 +1192,8 @@
   "letsgotry.pl": 155,
   "www.pokemillon.com": 128,
   "www.deckshop.de": 112,
-  "rarecards.nl": 80,
-  "pokevend.at": 80,
+  "rarecards.nl": 81,
+  "pokevend.at": 81,
   "tcgfanshop.nl": 55,
   "pokeka.hu": 52,
   "tcgstore.se": 42,
@@ -1205,8 +1201,7 @@
   "crispycards.de": 32,
   "www.blackfire.eu": 8,
   "pokeboxstore.pt": 4,
-  "www.amazon.it": 3,
-  "games-island.eu": 1
+  "www.amazon.it": 3
  },
- "runno": 9134
+ "runno": 9135
 }
