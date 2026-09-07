@@ -535,7 +535,7 @@
   },
   "Pokipair": {
    "Pitch Black (ME05)": "listato",
-   "30th Celebration": "listato",
+   "30th Celebration": "esaurito",
    "Storm Emerald (ME06)": "esaurito",
    "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "listato",
@@ -1001,10 +1001,6 @@
   "Pokemons.dk|Crown Zenith": [
    "disponibile",
    1
-  ],
-  "Pokipair|30th Celebration": [
-   "disponibile",
-   1
   ]
  },
  "urls": {
@@ -1208,8 +1204,8 @@
   "tradingcard.fi": 34,
   "crispycards.de": 31,
   "www.blackfire.eu": 7,
-  "pokeboxstore.pt": 3,
+  "pokeboxstore.pt": 4,
   "www.amazon.it": 3
  },
- "runno": 9126
+ "runno": 9127
 }
