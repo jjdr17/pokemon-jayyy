@@ -577,7 +577,7 @@
    "Phantasmal Flames (ME02)": "esaurito",
    "Pokémon 151": "listato",
    "Prismatic Evolutions": "listato",
-   "Crown Zenith": "listato",
+   "Crown Zenith": "non listato",
    "Destined Rivals": "esaurito",
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
@@ -987,8 +987,8 @@
    "esaurito",
    1
   ],
-  "Pokemons.dk|Crown Zenith": [
-   "disponibile",
+  "PokeCardShop|Premium Deck Espeon & Umbreon (30th)": [
+   "listato",
    1
   ]
  },
@@ -1159,7 +1159,7 @@
   "www.chaoscards.co.uk": 756,
   "www.waylandgames.co.uk": 756,
   "www.firestormgames.co.uk": 757,
-  "hobbykort.se": 756,
+  "hobbykort.se": 757,
   "tcgcompany.nl": 756,
   "www.nerdom.gr": 756,
   "www.pokekarty.pl": 756,
@@ -1187,7 +1187,9 @@
   "tradingcard.fi": 27,
   "crispycards.de": 24,
   "www.amazon.it": 6,
-  "pokeboxstore.pt": 5
+  "pokeboxstore.pt": 5,
+  "www.blackfire.eu": 1,
+  "games-island.eu": 1
  },
- "runno": 9041
+ "runno": 9042
 }
