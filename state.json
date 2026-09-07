@@ -570,7 +570,7 @@
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "PokeCardShop": {
-   "Pitch Black (ME05)": "esaurito",
+   "Pitch Black (ME05)": "disponibile",
    "30th Celebration": "esaurito",
    "Storm Emerald (ME06)": "non listato",
    "Chaos Rising (ME04)": "esaurito",
@@ -958,7 +958,9 @@
   "papelinho.pt": "https://papelinho.pt/?s={q}&post_type=product",
   "pokeseller14.com": "https://pokeseller14.com/search?q={q}"
  },
- "alerts": {},
+ "alerts": {
+  "PokeCardShop|Pitch Black (ME05)": 1788770459.8961263
+ },
  "prices": {
   "Packratt (UK)|Chaos Rising (ME04)": "£10.01",
   "Packratt (UK)|Pokémon 151": "£29.99",
@@ -968,7 +970,8 @@
   "Total Cards (UK)|Pitch Black (ME05)": "£4.79",
   "Stoyanov Games|Pitch Black (ME05)": "8.00€",
   "PokeCardShop|30th Celebration": "€8.95",
-  "Pokebank|Destined Rivals": "129,99€"
+  "Pokebank|Destined Rivals": "129,99€",
+  "PokeCardShop|Pitch Black (ME05)": "€6.95"
  },
  "pending": {
   "BESCARDS|Pitch Black (ME05)": [
@@ -987,12 +990,8 @@
    "esaurito",
    1
   ],
-  "PokeCardShop|Pitch Black (ME05)": [
-   "disponibile",
-   1
-  ],
-  "Pokemons.dk|Crown Zenith": [
-   "disponibile",
+  "PokeCardShop|30th Celebration": [
+   "non listato",
    1
   ]
  },
@@ -1025,7 +1024,8 @@
   "Pokebank|Destined Rivals": "https://pokebank.es/producto/precio-pro-12999e1-etb-destined-rivals-reserva-ingles/",
   "Pokecollect|Destined Rivals": "https://pokecollect.pl/?s=destined+rivals&post_type=product",
   "Pikashop|Storm Emerald (ME06)": "https://pikashop.pl/?s=storm+emerald&post_type=product",
-  "Pokecollect|30th Celebration": "https://pokecollect.pl/?s=30th+celebration&post_type=product"
+  "Pokecollect|30th Celebration": "https://pokecollect.pl/?s=30th+celebration&post_type=product",
+  "PokeCardShop|Pitch Black (ME05)": "https://www.pokecardshop.be/search?q=pitch+black"
  },
  "digest_slot": "2026-09-07-10",
  "log": [
@@ -1153,6 +1153,11 @@
    "ts": "12/08 23:55",
    "title": "🚨 DISPONIBILE/PREORDER: Destined Rivals — Pokebank",
    "url": "https://pokebank.es/producto/precio-pro-12999e1-etb-destined-rivals-reserva-ingles/"
+  },
+  {
+   "ts": "07/09 10:41",
+   "title": "🚨 RESTOCK: Pitch Black (ME05) — PokeCardShop",
+   "url": "https://www.pokecardshop.be/search?q=pitch+black"
   }
  ],
  "down": {
@@ -1166,7 +1171,7 @@
   "hobbykort.se": 758,
   "tcgcompany.nl": 758,
   "www.nerdom.gr": 757,
-  "www.pokekarty.pl": 757,
+  "www.pokekarty.pl": 758,
   "www.wakuwaku.cz": 757,
   "www.pokemonia.ro": 758,
   "en.tcg-shop.at": 757,
@@ -1175,14 +1180,14 @@
   "bescards.com": 351,
   "cardcorner.at": 290,
   "www.poketalk.se": 274,
-  "pokectcg.cz": 202,
+  "pokectcg.cz": 203,
   "lorenzone.fr": 187,
   "misticards.com": 167,
   "vinticards.com": 152,
   "pokechest.at": 148,
-  "letsgotry.pl": 148,
+  "letsgotry.pl": 149,
   "www.pokemillon.com": 121,
-  "www.deckshop.de": 105,
+  "www.deckshop.de": 106,
   "rarecards.nl": 74,
   "pokevend.at": 74,
   "tcgfanshop.nl": 48,
@@ -1190,8 +1195,9 @@
   "tcgstore.se": 36,
   "tradingcard.fi": 28,
   "crispycards.de": 26,
-  "www.amazon.it": 2,
-  "pokewoke.store": 2
+  "www.amazon.it": 3,
+  "pokewoke.store": 3,
+  "www.blackfire.eu": 1
  },
- "runno": 9058
+ "runno": 9059
 }
