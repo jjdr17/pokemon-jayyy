@@ -989,6 +989,14 @@
   "AllDayTCG|Destined Rivals": [
    "esaurito",
    1
+  ],
+  "Pokemons.dk|Crown Zenith": [
+   "disponibile",
+   1
+  ],
+  "MagicBazar|Pokémon 151": [
+   "non listato",
+   1
   ]
  },
  "urls": {
@@ -1163,13 +1171,13 @@
   "geco-shop.de": 759,
   "www.chaoscards.co.uk": 759,
   "www.waylandgames.co.uk": 759,
-  "www.firestormgames.co.uk": 759,
+  "www.firestormgames.co.uk": 760,
   "hobbykort.se": 759,
   "tcgcompany.nl": 759,
   "www.nerdom.gr": 759,
   "www.pokekarty.pl": 759,
   "www.wakuwaku.cz": 759,
-  "www.pokemonia.ro": 759,
+  "www.pokemonia.ro": 760,
   "en.tcg-shop.at": 759,
   "kaissagames.com": 556,
   "itcg.bg": 391,
@@ -1194,8 +1202,9 @@
   "www.amazon.it": 4,
   "pokeboxstore.pt": 3,
   "pokewoke.store": 3,
-  "www.blackfire.eu": 2,
-  "tcgpikas.lt": 1
+  "www.blackfire.eu": 3,
+  "tcgdistribution.fr": 1,
+  "games-island.eu": 1
  },
- "runno": 9076
+ "runno": 9077
 }
