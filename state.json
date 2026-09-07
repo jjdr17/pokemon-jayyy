@@ -989,6 +989,18 @@
   "AllDayTCG|Destined Rivals": [
    "esaurito",
    1
+  ],
+  "Pokemons.dk|Crown Zenith": [
+   "disponibile",
+   1
+  ],
+  "PokeCardShop|Pitch Black (ME05)": [
+   "listato",
+   1
+  ],
+  "PokeCardShop|Prismatic Evolutions": [
+   "non listato",
+   1
   ]
  },
  "urls": {
@@ -1163,13 +1175,13 @@
   "geco-shop.de": 761,
   "www.chaoscards.co.uk": 761,
   "www.waylandgames.co.uk": 761,
-  "www.firestormgames.co.uk": 761,
+  "www.firestormgames.co.uk": 762,
   "hobbykort.se": 761,
   "tcgcompany.nl": 761,
   "www.nerdom.gr": 761,
   "www.pokekarty.pl": 761,
   "www.wakuwaku.cz": 761,
-  "www.pokemonia.ro": 761,
+  "www.pokemonia.ro": 762,
   "en.tcg-shop.at": 761,
   "kaissagames.com": 558,
   "itcg.bg": 393,
@@ -1194,7 +1206,7 @@
   "www.blackfire.eu": 5,
   "www.amazon.it": 4,
   "pokewoke.store": 4,
-  "pokeboxstore.pt": 1
+  "pokeboxstore.pt": 2
  },
- "runno": 9100
+ "runno": 9101
 }
