@@ -579,7 +579,7 @@
    "Prismatic Evolutions": "listato",
    "Crown Zenith": "listato",
    "Destined Rivals": "esaurito",
-   "Premium Deck Espeon & Umbreon (30th)": "listato"
+   "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "Kaissa Games": {
    "Pitch Black (ME05)": "listato",
@@ -991,8 +991,8 @@
    "listato",
    1
   ],
-  "PokeCardShop|Premium Deck Espeon & Umbreon (30th)": [
-   "non listato",
+  "Pokemons.dk|Crown Zenith": [
+   "disponibile",
    1
   ]
  },
@@ -1164,7 +1164,7 @@
   "www.waylandgames.co.uk": 756,
   "www.firestormgames.co.uk": 757,
   "hobbykort.se": 757,
-  "tcgcompany.nl": 756,
+  "tcgcompany.nl": 757,
   "www.nerdom.gr": 756,
   "www.pokekarty.pl": 756,
   "www.wakuwaku.cz": 756,
@@ -1187,10 +1187,13 @@
   "pokevend.at": 73,
   "tcgfanshop.nl": 47,
   "pokeka.hu": 44,
-  "tcgstore.se": 34,
+  "tcgstore.se": 35,
   "tradingcard.fi": 27,
   "crispycards.de": 24,
-  "pokeboxstore.pt": 6
+  "pokeboxstore.pt": 6,
+  "www.amazon.it": 1,
+  "www.blackfire.eu": 1,
+  "games-island.eu": 1
  },
- "runno": 9044
+ "runno": 9045
 }
