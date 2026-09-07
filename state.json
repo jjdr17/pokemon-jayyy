@@ -686,7 +686,7 @@
    "Pokémon 151": "non listato",
    "Prismatic Evolutions": "non listato",
    "Crown Zenith": "non listato",
-   "Destined Rivals": "disponibile",
+   "Destined Rivals": "listato",
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "TCGPikas": {
@@ -990,8 +990,16 @@
    "esaurito",
    1
   ],
-  "Pokecollect|Destined Rivals": [
+  "Pokebox|Pitch Black (ME05)": [
    "listato",
+   1
+  ],
+  "Pokebox|30th Celebration": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Crown Zenith": [
+   "disponibile",
    1
   ]
  },
@@ -1196,9 +1204,8 @@
   "tradingcard.fi": 30,
   "crispycards.de": 27,
   "www.amazon.it": 4,
-  "pokeboxstore.pt": 3,
   "pokewoke.store": 3,
   "www.blackfire.eu": 3
  },
- "runno": 9078
+ "runno": 9079
 }
