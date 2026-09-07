@@ -990,6 +990,10 @@
   "Pokemons.dk|Crown Zenith": [
    "disponibile",
    1
+  ],
+  "MagicBazar|Pokémon 151": [
+   "listato",
+   1
   ]
  },
  "urls": {
@@ -1023,7 +1027,7 @@
   "Pikashop|Storm Emerald (ME06)": "https://pikashop.pl/?s=storm+emerald&post_type=product",
   "Pokecollect|30th Celebration": "https://pokecollect.pl/?s=30th+celebration&post_type=product"
  },
- "digest_slot": "2026-09-06-22",
+ "digest_slot": "2026-09-07-10",
  "log": [
   {
    "ts": "05/07 19:55",
@@ -1187,7 +1191,10 @@
   "tradingcard.fi": 28,
   "crispycards.de": 25,
   "pokeboxstore.pt": 6,
-  "www.amazon.it": 3
+  "www.blackfire.eu": 3,
+  "www.amazon.it": 2,
+  "pokebank.es": 1,
+  "tcgdistribution.fr": 1
  },
  "runno": 9053
 }
