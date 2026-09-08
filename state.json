@@ -990,7 +990,35 @@
    "esaurito",
    1
   ],
-  "Pokipair|30th Celebration": [
+  "PokeCardShop|Pitch Black (ME05)": [
+   "listato",
+   1
+  ],
+  "PokeCardShop|30th Celebration": [
+   "non listato",
+   1
+  ],
+  "PokeCardShop|Chaos Rising (ME04)": [
+   "non listato",
+   1
+  ],
+  "PokeCardShop|Phantasmal Flames (ME02)": [
+   "non listato",
+   1
+  ],
+  "PokeCardShop|Pokémon 151": [
+   "non listato",
+   1
+  ],
+  "PokeCardShop|Prismatic Evolutions": [
+   "non listato",
+   1
+  ],
+  "PokeCardShop|Destined Rivals": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Crown Zenith": [
    "disponibile",
    1
   ]
@@ -1174,7 +1202,7 @@
   "www.pokekarty.pl": 773,
   "www.wakuwaku.cz": 772,
   "www.pokemonia.ro": 773,
-  "en.tcg-shop.at": 772,
+  "en.tcg-shop.at": 773,
   "kaissagames.com": 569,
   "itcg.bg": 405,
   "bescards.com": 366,
@@ -1184,19 +1212,21 @@
   "lorenzone.fr": 202,
   "misticards.com": 183,
   "vinticards.com": 167,
-  "pokechest.at": 163,
+  "pokechest.at": 164,
   "letsgotry.pl": 164,
   "www.pokemillon.com": 136,
   "rarecards.nl": 89,
   "pokevend.at": 89,
-  "tcgfanshop.nl": 63,
+  "tcgfanshop.nl": 64,
   "pokeka.hu": 60,
   "tcgstore.se": 51,
   "tradingcard.fi": 43,
   "crispycards.de": 41,
   "www.amazon.it": 9,
   "www.deckshop.de": 8,
-  "pokeboxstore.pt": 1
+  "pokeboxstore.pt": 2,
+  "www.blackfire.eu": 1,
+  "tcgdistribution.fr": 1
  },
- "runno": 9240
+ "runno": 9241
 }
