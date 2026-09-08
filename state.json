@@ -990,8 +990,16 @@
    "esaurito",
    1
   ],
-  "Pokemons.dk|Crown Zenith": [
+  "Pokipair|30th Celebration": [
    "disponibile",
+   1
+  ],
+  "PokeCardShop|Chaos Rising (ME04)": [
+   "non listato",
+   1
+  ],
+  "PokeCardShop|Prismatic Evolutions": [
+   "non listato",
    1
   ]
  },
@@ -1027,7 +1035,7 @@
   "Pokecollect|30th Celebration": "https://pokecollect.pl/?s=30th+celebration&post_type=product",
   "PokeCardShop|Pitch Black (ME05)": "https://www.pokecardshop.be/search?q=pitch+black"
  },
- "digest_slot": "2026-09-08-10",
+ "digest_slot": "2026-09-08-15",
  "log": [
   {
    "ts": "05/07 19:55",
@@ -1163,8 +1171,8 @@
  "down": {
   "www.cardmarket.com": 772,
   "www.gamestop.com": 84,
-  "www.gamelife.it": 772,
-  "geco-shop.de": 772,
+  "www.gamelife.it": 773,
+  "geco-shop.de": 773,
   "www.chaoscards.co.uk": 772,
   "www.waylandgames.co.uk": 772,
   "www.firestormgames.co.uk": 773,
@@ -1194,8 +1202,9 @@
   "tcgstore.se": 50,
   "tradingcard.fi": 43,
   "crispycards.de": 40,
-  "www.amazon.it": 8,
-  "www.deckshop.de": 7
+  "www.amazon.it": 9,
+  "www.deckshop.de": 7,
+  "pokeboxstore.pt": 1
  },
- "runno": 9235
+ "runno": 9236
 }
