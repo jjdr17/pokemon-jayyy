@@ -824,7 +824,7 @@
   "Pikashop": {
    "Pitch Black (ME05)": "listato",
    "30th Celebration": "esaurito",
-   "Storm Emerald (ME06)": "disponibile",
+   "Storm Emerald (ME06)": "listato",
    "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "listato",
    "Pokémon 151": "listato",
@@ -989,14 +989,6 @@
   "AllDayTCG|Destined Rivals": [
    "esaurito",
    1
-  ],
-  "Pokipair|30th Celebration": [
-   "disponibile",
-   1
-  ],
-  "Pokemons.dk|Crown Zenith": [
-   "disponibile",
-   1
   ]
  },
  "urls": {
@@ -1031,7 +1023,7 @@
   "Pokecollect|30th Celebration": "https://pokecollect.pl/?s=30th+celebration&post_type=product",
   "PokeCardShop|Pitch Black (ME05)": "https://www.pokecardshop.be/search?q=pitch+black"
  },
- "digest_slot": "2026-09-09-18",
+ "digest_slot": "2026-09-09-22",
  "log": [
   {
    "ts": "05/07 19:55",
@@ -1175,7 +1167,7 @@
   "hobbykort.se": 788,
   "tcgcompany.nl": 788,
   "www.nerdom.gr": 787,
-  "www.pokekarty.pl": 787,
+  "www.pokekarty.pl": 788,
   "www.wakuwaku.cz": 787,
   "www.pokemonia.ro": 788,
   "en.tcg-shop.at": 787,
@@ -1184,12 +1176,12 @@
   "bescards.com": 381,
   "cardcorner.at": 320,
   "www.poketalk.se": 304,
-  "pokectcg.cz": 232,
+  "pokectcg.cz": 233,
   "lorenzone.fr": 217,
   "misticards.com": 197,
   "vinticards.com": 182,
   "pokechest.at": 178,
-  "letsgotry.pl": 178,
+  "letsgotry.pl": 179,
   "www.pokemillon.com": 151,
   "rarecards.nl": 104,
   "pokevend.at": 104,
@@ -1197,10 +1189,10 @@
   "pokeka.hu": 75,
   "tcgstore.se": 66,
   "crispycards.de": 56,
-  "www.deckshop.de": 22,
+  "www.deckshop.de": 23,
   "tradingcard.fi": 14,
   "www.blackfire.eu": 6,
   "www.amazon.it": 6
  },
- "runno": 9418
+ "runno": 9419
 }
