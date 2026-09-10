@@ -211,7 +211,7 @@
   },
   "Total Cards (UK)": {
    "Pitch Black (ME05)": "esaurito",
-   "30th Celebration": "esaurito",
+   "30th Celebration": "listato",
    "Storm Emerald (ME06)": "listato",
    "Chaos Rising (ME04)": "esaurito",
    "Phantasmal Flames (ME02)": "esaurito",
@@ -986,12 +986,12 @@
    "listato",
    1
   ],
-  "Total Cards (UK)|30th Celebration": [
-   "listato",
-   1
-  ],
   "Pokipair|30th Celebration": [
    "disponibile",
+   1
+  ],
+  "PokeCardShop|Premium Deck Espeon & Umbreon (30th)": [
+   "listato",
    1
   ]
  },
@@ -1201,12 +1201,9 @@
   "tradingcard.fi": 28,
   "www.deckshop.de": 11,
   "papelinho.pt": 10,
+  "www.blackfire.eu": 5,
   "pokebank.es": 4,
-  "www.amazon.it": 3,
-  "www.blackfire.eu": 1,
-  "pokewoke.store": 1,
-  "tcgpikas.lt": 1,
-  "pokemonworld.lt": 1
+  "www.amazon.it": 3
  },
  "runno": 9591
 }
