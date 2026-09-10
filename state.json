@@ -25,8 +25,8 @@
    "Premium Deck Espeon & Umbreon (30th)": "irraggiungibile"
   },
   "Amazon.it": {
-   "30th Celebration": "non listato",
-   "Storm Emerald (ME06)": "non listato",
+   "30th Celebration": "listato",
+   "Storm Emerald (ME06)": "listato",
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "TCGplayer": {
@@ -986,16 +986,60 @@
    "listato",
    1
   ],
+  "Amazon.it|30th Celebration": [
+   "non listato",
+   1
+  ],
+  "Amazon.it|Storm Emerald (ME06)": [
+   "non listato",
+   1
+  ],
   "CardZone|Pokémon 151": [
    "esaurito",
    1
   ],
-  "Pokipair|30th Celebration": [
-   "disponibile",
+  "Pokemons.dk|Crown Zenith": [
+   "non listato",
    1
   ],
-  "PokeCardShop|Crown Zenith": [
+  "Pokemons.dk|Pitch Black (ME05)": [
    "non listato",
+   1
+  ],
+  "Pokemons.dk|30th Celebration": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Premium Deck Espeon & Umbreon (30th)": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Storm Emerald (ME06)": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Chaos Rising (ME04)": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Phantasmal Flames (ME02)": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Pokémon 151": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Prismatic Evolutions": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Destined Rivals": [
+   "non listato",
+   1
+  ],
+  "PokeCardShop|Premium Deck Espeon & Umbreon (30th)": [
+   "listato",
    1
   ]
  },
@@ -1173,7 +1217,7 @@
   "www.waylandgames.co.uk": 791,
   "www.firestormgames.co.uk": 792,
   "hobbykort.se": 792,
-  "tcgcompany.nl": 791,
+  "tcgcompany.nl": 792,
   "www.nerdom.gr": 791,
   "www.pokekarty.pl": 791,
   "www.wakuwaku.cz": 791,
@@ -1195,13 +1239,14 @@
   "pokevend.at": 108,
   "tcgfanshop.nl": 82,
   "pokeka.hu": 79,
-  "tcgstore.se": 69,
+  "tcgstore.se": 70,
   "crispycards.de": 59,
   "www.deckshop.de": 26,
   "tradingcard.fi": 18,
-  "www.blackfire.eu": 4,
-  "games-island.eu": 1,
-  "pokemania.ro": 1
+  "www.amazon.it": 5,
+  "www.blackfire.eu": 3,
+  "pokemania.ro": 2,
+  "pokeboxstore.pt": 1
  },
- "runno": 9464
+ "runno": 9465
 }
