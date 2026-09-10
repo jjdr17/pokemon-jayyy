@@ -619,7 +619,7 @@
   },
   "OppaCards": {
    "Pitch Black (ME05)": "listato",
-   "30th Celebration": "non listato",
+   "30th Celebration": "listato",
    "Storm Emerald (ME06)": "listato",
    "Chaos Rising (ME04)": "listato",
    "Phantasmal Flames (ME02)": "listato",
@@ -993,18 +993,6 @@
   "Amazon.it|Storm Emerald (ME06)": [
    "non listato",
    1
-  ],
-  "Pokipair|30th Celebration": [
-   "disponibile",
-   1
-  ],
-  "Pokemons.dk|Crown Zenith": [
-   "disponibile",
-   1
-  ],
-  "OppaCards|30th Celebration": [
-   "listato",
-   1
   ]
  },
  "urls": {
@@ -1182,7 +1170,7 @@
   "www.firestormgames.co.uk": 795,
   "hobbykort.se": 795,
   "tcgcompany.nl": 795,
-  "www.nerdom.gr": 794,
+  "www.nerdom.gr": 795,
   "www.pokekarty.pl": 795,
   "www.wakuwaku.cz": 795,
   "www.pokemonia.ro": 795,
@@ -1199,8 +1187,8 @@
   "pokechest.at": 186,
   "letsgotry.pl": 186,
   "www.pokemillon.com": 159,
-  "rarecards.nl": 111,
-  "pokevend.at": 111,
+  "rarecards.nl": 112,
+  "pokevend.at": 112,
   "tcgfanshop.nl": 86,
   "pokeka.hu": 83,
   "tcgstore.se": 73,
@@ -1208,7 +1196,7 @@
   "tradingcard.fi": 21,
   "www.amazon.it": 8,
   "www.deckshop.de": 4,
-  "papelinho.pt": 2
+  "papelinho.pt": 3
  },
- "runno": 9506
+ "runno": 9507
 }
