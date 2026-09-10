@@ -990,12 +990,8 @@
    "listato",
    1
   ],
-  "Pokipair|30th Celebration": [
-   "disponibile",
-   1
-  ],
-  "Pokemons.dk|Crown Zenith": [
-   "disponibile",
+  "PokeCardShop|Prismatic Evolutions": [
+   "listato",
    1
   ]
  },
@@ -1031,7 +1027,7 @@
   "Pokecollect|30th Celebration": "https://pokecollect.pl/?s=30th+celebration&post_type=product",
   "PokeCardShop|Pitch Black (ME05)": "https://www.pokecardshop.be/search?q=pitch+black"
  },
- "digest_slot": "2026-09-10-15",
+ "digest_slot": "2026-09-10-18",
  "log": [
   {
    "ts": "05/07 19:55",
@@ -1176,13 +1172,13 @@
   "geco-shop.de": 798,
   "www.chaoscards.co.uk": 798,
   "www.waylandgames.co.uk": 798,
-  "www.firestormgames.co.uk": 798,
+  "www.firestormgames.co.uk": 799,
   "hobbykort.se": 798,
   "tcgcompany.nl": 798,
   "www.nerdom.gr": 798,
   "www.pokekarty.pl": 798,
   "www.wakuwaku.cz": 798,
-  "www.pokemonia.ro": 798,
+  "www.pokemonia.ro": 799,
   "en.tcg-shop.at": 798,
   "kaissagames.com": 595,
   "itcg.bg": 430,
@@ -1206,8 +1202,8 @@
   "www.deckshop.de": 7,
   "papelinho.pt": 6,
   "pokeboxstore.pt": 3,
-  "www.amazon.it": 1,
-  "tcgdistribution.fr": 1
+  "www.amazon.it": 2,
+  "www.blackfire.eu": 1
  },
- "runno": 9544
+ "runno": 9545
 }
