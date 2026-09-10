@@ -993,6 +993,14 @@
   "Amazon.it|Storm Emerald (ME06)": [
    "non listato",
    1
+  ],
+  "Pokipair|30th Celebration": [
+   "disponibile",
+   1
+  ],
+  "Pokemons.dk|Crown Zenith": [
+   "disponibile",
+   1
   ]
  },
  "urls": {
@@ -1027,7 +1035,7 @@
   "Pokecollect|30th Celebration": "https://pokecollect.pl/?s=30th+celebration&post_type=product",
   "PokeCardShop|Pitch Black (ME05)": "https://www.pokecardshop.be/search?q=pitch+black"
  },
- "digest_slot": "2026-09-09-22",
+ "digest_slot": "2026-09-10-10",
  "log": [
   {
    "ts": "05/07 19:55",
@@ -1177,13 +1185,13 @@
   "en.tcg-shop.at": 794,
   "kaissagames.com": 591,
   "itcg.bg": 426,
-  "bescards.com": 387,
+  "bescards.com": 388,
   "cardcorner.at": 326,
   "www.poketalk.se": 311,
   "pokectcg.cz": 239,
   "lorenzone.fr": 224,
   "misticards.com": 204,
-  "vinticards.com": 188,
+  "vinticards.com": 189,
   "pokechest.at": 185,
   "letsgotry.pl": 185,
   "www.pokemillon.com": 158,
@@ -1193,12 +1201,16 @@
   "pokeka.hu": 82,
   "tcgstore.se": 72,
   "crispycards.de": 62,
-  "tradingcard.fi": 20,
+  "tradingcard.fi": 21,
   "www.amazon.it": 7,
   "www.deckshop.de": 3,
-  "www.lotticards.de": 2,
-  "www.blackfire.eu": 1,
-  "pokebank.es": 1
+  "www.blackfire.eu": 2,
+  "pokebank.es": 2,
+  "extremepokecorner.com": 1,
+  "pokeboxstore.pt": 1,
+  "pokewoke.store": 1,
+  "tcgpikas.lt": 1,
+  "pokemonworld.lt": 1
  },
- "runno": 9495
+ "runno": 9496
 }
