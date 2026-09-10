@@ -578,7 +578,7 @@
    "Pokémon 151": "listato",
    "Prismatic Evolutions": "listato",
    "Crown Zenith": "listato",
-   "Destined Rivals": "esaurito",
+   "Destined Rivals": "non listato",
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "Kaissa Games": {
@@ -990,8 +990,12 @@
    "listato",
    1
   ],
-  "PokeCardShop|Destined Rivals": [
-   "non listato",
+  "Pokipair|30th Celebration": [
+   "disponibile",
+   1
+  ],
+  "Pokemons.dk|Crown Zenith": [
+   "disponibile",
    1
   ]
  },
@@ -1166,12 +1170,12 @@
   }
  ],
  "down": {
-  "www.cardmarket.com": 798,
+  "www.cardmarket.com": 799,
   "www.gamestop.com": 84,
   "www.gamelife.it": 799,
   "geco-shop.de": 799,
   "www.chaoscards.co.uk": 798,
-  "www.waylandgames.co.uk": 798,
+  "www.waylandgames.co.uk": 799,
   "www.firestormgames.co.uk": 799,
   "hobbykort.se": 799,
   "tcgcompany.nl": 799,
@@ -1181,9 +1185,9 @@
   "www.pokemonia.ro": 799,
   "en.tcg-shop.at": 798,
   "kaissagames.com": 595,
-  "itcg.bg": 430,
+  "itcg.bg": 431,
   "bescards.com": 392,
-  "cardcorner.at": 330,
+  "cardcorner.at": 331,
   "www.poketalk.se": 315,
   "pokectcg.cz": 243,
   "lorenzone.fr": 228,
@@ -1197,13 +1201,13 @@
   "tcgfanshop.nl": 89,
   "pokeka.hu": 86,
   "tcgstore.se": 77,
-  "crispycards.de": 66,
+  "crispycards.de": 67,
   "tradingcard.fi": 25,
   "www.deckshop.de": 7,
-  "papelinho.pt": 6,
+  "papelinho.pt": 7,
   "pokeboxstore.pt": 4,
   "www.amazon.it": 4,
   "www.blackfire.eu": 3
  },
- "runno": 9549
+ "runno": 9550
 }
