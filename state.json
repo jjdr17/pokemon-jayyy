@@ -25,8 +25,8 @@
    "Premium Deck Espeon & Umbreon (30th)": "irraggiungibile"
   },
   "Amazon.it": {
-   "30th Celebration": "non listato",
-   "Storm Emerald (ME06)": "non listato",
+   "30th Celebration": "listato",
+   "Storm Emerald (ME06)": "listato",
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "TCGplayer": {
@@ -986,12 +986,16 @@
    "listato",
    1
   ],
-  "CardZone|Pokémon 151": [
-   "esaurito",
+  "Amazon.it|30th Celebration": [
+   "non listato",
    1
   ],
-  "Pokipair|30th Celebration": [
-   "disponibile",
+  "Amazon.it|Storm Emerald (ME06)": [
+   "non listato",
+   1
+  ],
+  "CardZone|Pokémon 151": [
+   "esaurito",
    1
   ]
  },
@@ -1171,7 +1175,7 @@
   "hobbykort.se": 792,
   "tcgcompany.nl": 792,
   "www.nerdom.gr": 791,
-  "www.pokekarty.pl": 791,
+  "www.pokekarty.pl": 792,
   "www.wakuwaku.cz": 791,
   "www.pokemonia.ro": 792,
   "en.tcg-shop.at": 791,
@@ -1180,12 +1184,12 @@
   "bescards.com": 385,
   "cardcorner.at": 324,
   "www.poketalk.se": 308,
-  "pokectcg.cz": 236,
+  "pokectcg.cz": 237,
   "lorenzone.fr": 221,
   "misticards.com": 201,
   "vinticards.com": 186,
   "pokechest.at": 182,
-  "letsgotry.pl": 182,
+  "letsgotry.pl": 183,
   "www.pokemillon.com": 155,
   "rarecards.nl": 108,
   "pokevend.at": 108,
@@ -1193,12 +1197,12 @@
   "pokeka.hu": 79,
   "tcgstore.se": 70,
   "crispycards.de": 60,
-  "www.deckshop.de": 26,
+  "www.deckshop.de": 27,
   "tradingcard.fi": 18,
-  "www.blackfire.eu": 4,
+  "www.amazon.it": 5,
+  "www.blackfire.eu": 3,
   "pokemania.ro": 3,
-  "www.amazon.it": 2,
-  "tcgdistribution.fr": 1
+  "tcg-trade.de": 1
  },
- "runno": 9466
+ "runno": 9467
 }
