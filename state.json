@@ -574,7 +574,7 @@
    "30th Celebration": "esaurito",
    "Storm Emerald (ME06)": "non listato",
    "Chaos Rising (ME04)": "esaurito",
-   "Phantasmal Flames (ME02)": "non listato",
+   "Phantasmal Flames (ME02)": "esaurito",
    "Pokémon 151": "listato",
    "Prismatic Evolutions": "listato",
    "Crown Zenith": "listato",
@@ -993,6 +993,14 @@
   "Butticards|Phantasmal Flames (ME02)": [
    "esaurito",
    1
+  ],
+  "Pokipair|30th Celebration": [
+   "disponibile",
+   1
+  ],
+  "Pokemons.dk|Crown Zenith": [
+   "disponibile",
+   1
   ]
  },
  "urls": {
@@ -1173,7 +1181,7 @@
   "www.chaoscards.co.uk": 806,
   "www.waylandgames.co.uk": 806,
   "www.firestormgames.co.uk": 807,
-  "hobbykort.se": 806,
+  "hobbykort.se": 807,
   "tcgcompany.nl": 806,
   "www.nerdom.gr": 806,
   "www.pokekarty.pl": 806,
@@ -1203,10 +1211,9 @@
   "papelinho.pt": 14,
   "www.blackfire.eu": 4,
   "pokebank.es": 4,
-  "pokewoke.store": 1,
+  "www.amazon.it": 2,
   "pokeboxstore.pt": 1,
-  "tcgpikas.lt": 1,
-  "pokemonworld.lt": 1
+  "tcgdistribution.fr": 1
  },
- "runno": 9641
+ "runno": 9642
 }
