@@ -993,6 +993,22 @@
   "Pokemons.dk|Crown Zenith": [
    "disponibile",
    1
+  ],
+  "Amazon.it|Storm Emerald (ME06)": [
+   "listato",
+   1
+  ],
+  "Pokipair|30th Celebration": [
+   "disponibile",
+   1
+  ],
+  "PokeCardShop|Pitch Black (ME05)": [
+   "non listato",
+   1
+  ],
+  "PokeCardShop|Crown Zenith": [
+   "non listato",
+   1
   ]
  },
  "urls": {
@@ -1168,8 +1184,8 @@
  "down": {
   "www.cardmarket.com": 819,
   "www.gamestop.com": 84,
-  "www.gamelife.it": 819,
-  "geco-shop.de": 819,
+  "www.gamelife.it": 820,
+  "geco-shop.de": 820,
   "www.chaoscards.co.uk": 819,
   "www.waylandgames.co.uk": 819,
   "www.firestormgames.co.uk": 820,
@@ -1200,8 +1216,9 @@
   "crispycards.de": 87,
   "tradingcard.fi": 46,
   "www.deckshop.de": 28,
-  "www.amazon.it": 7,
-  "www.blackfire.eu": 4
+  "www.blackfire.eu": 4,
+  "pokeboxstore.pt": 1,
+  "tcgdistribution.fr": 1
  },
- "runno": 9799
+ "runno": 9800
 }
