@@ -26,7 +26,7 @@
   },
   "Amazon.it": {
    "30th Celebration": "non listato",
-   "Storm Emerald (ME06)": "listato",
+   "Storm Emerald (ME06)": "non listato",
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "TCGplayer": {
@@ -990,7 +990,11 @@
    "esaurito",
    1
   ],
-  "Amazon.it|30th Celebration": [
+  "Pokemons.dk|Crown Zenith": [
+   "disponibile",
+   1
+  ],
+  "PokeCardShop|Premium Deck Espeon & Umbreon (30th)": [
    "listato",
    1
   ]
@@ -1200,12 +1204,8 @@
   "crispycards.de": 87,
   "tradingcard.fi": 46,
   "www.deckshop.de": 28,
-  "www.blackfire.eu": 4,
-  "games-island.eu": 1,
-  "extremepokecorner.com": 1,
-  "pokewoke.store": 1,
-  "pokemonworld.lt": 1,
-  "tcgpikas.lt": 1
+  "www.amazon.it": 8,
+  "www.blackfire.eu": 4
  },
  "runno": 9801
 }
