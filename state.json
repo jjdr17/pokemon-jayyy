@@ -26,7 +26,7 @@
   },
   "Amazon.it": {
    "30th Celebration": "non listato",
-   "Storm Emerald (ME06)": "non listato",
+   "Storm Emerald (ME06)": "listato",
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "TCGplayer": {
@@ -990,8 +990,8 @@
    "esaurito",
    1
   ],
-  "Pokipair|30th Celebration": [
-   "disponibile",
+  "Amazon.it|30th Celebration": [
+   "listato",
    1
   ]
  },
@@ -1027,7 +1027,7 @@
   "Pokecollect|30th Celebration": "https://pokecollect.pl/?s=30th+celebration&post_type=product",
   "PokeCardShop|Pitch Black (ME05)": "https://www.pokecardshop.be/search?q=pitch+black"
  },
- "digest_slot": "2026-09-12-10",
+ "digest_slot": "2026-09-12-15",
  "log": [
   {
    "ts": "05/07 19:55",
@@ -1174,7 +1174,7 @@
   "www.waylandgames.co.uk": 819,
   "www.firestormgames.co.uk": 820,
   "hobbykort.se": 820,
-  "tcgcompany.nl": 819,
+  "tcgcompany.nl": 820,
   "www.nerdom.gr": 819,
   "www.pokekarty.pl": 819,
   "www.wakuwaku.cz": 819,
@@ -1196,13 +1196,16 @@
   "pokevend.at": 136,
   "tcgfanshop.nl": 110,
   "pokeka.hu": 107,
-  "tcgstore.se": 97,
+  "tcgstore.se": 98,
   "crispycards.de": 87,
   "tradingcard.fi": 46,
   "www.deckshop.de": 28,
-  "www.amazon.it": 8,
   "www.blackfire.eu": 4,
-  "pokeboxstore.pt": 1
+  "games-island.eu": 1,
+  "extremepokecorner.com": 1,
+  "pokewoke.store": 1,
+  "pokemonworld.lt": 1,
+  "tcgpikas.lt": 1
  },
- "runno": 9800
+ "runno": 9801
 }
