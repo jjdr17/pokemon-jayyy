@@ -1002,8 +1002,12 @@
    "non listato",
    1
   ],
-  "PokeCardShop|30th Celebration": [
-   "non listato",
+  "Pokipair|30th Celebration": [
+   "disponibile",
+   1
+  ],
+  "Pokemons.dk|Crown Zenith": [
+   "disponibile",
    1
   ]
  },
@@ -1180,8 +1184,8 @@
  "down": {
   "www.cardmarket.com": 836,
   "www.gamestop.com": 84,
-  "www.gamelife.it": 836,
-  "geco-shop.de": 836,
+  "www.gamelife.it": 837,
+  "geco-shop.de": 837,
   "www.chaoscards.co.uk": 836,
   "www.waylandgames.co.uk": 836,
   "www.firestormgames.co.uk": 837,
@@ -1213,8 +1217,10 @@
   "tcg-trade.de": 10,
   "tradingcard.fi": 7,
   "tcgstore.se": 6,
-  "www.amazon.it": 4,
-  "pokeboxstore.pt": 2
+  "www.amazon.it": 5,
+  "www.blackfire.eu": 3,
+  "pokeboxstore.pt": 1,
+  "www.lotticards.de": 1
  },
- "runno": 10003
+ "runno": 10004
 }
