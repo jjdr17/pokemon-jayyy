@@ -570,11 +570,11 @@
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "PokeCardShop": {
-   "Pitch Black (ME05)": "esaurito",
+   "Pitch Black (ME05)": "disponibile",
    "30th Celebration": "esaurito",
    "Storm Emerald (ME06)": "non listato",
    "Chaos Rising (ME04)": "esaurito",
-   "Phantasmal Flames (ME02)": "non listato",
+   "Phantasmal Flames (ME02)": "esaurito",
    "Pokémon 151": "listato",
    "Prismatic Evolutions": "listato",
    "Crown Zenith": "listato",
@@ -959,7 +959,7 @@
   "pokeseller14.com": "https://pokeseller14.com/search?q={q}"
  },
  "alerts": {
-  "PokeCardShop|Pitch Black (ME05)": 1789050549.6032314
+  "PokeCardShop|Pitch Black (ME05)": 1789476978.187466
  },
  "prices": {
   "Packratt (UK)|Chaos Rising (ME04)": "£10.01",
@@ -1002,16 +1002,40 @@
    "non listato",
    1
   ],
-  "Pokemons.dk|Crown Zenith": [
+  "Pokipair|30th Celebration": [
    "disponibile",
    1
   ],
   "PokeCardShop|Pitch Black (ME05)": [
-   "disponibile",
+   "non listato",
+   1
+  ],
+  "PokeCardShop|30th Celebration": [
+   "non listato",
+   1
+  ],
+  "PokeCardShop|Chaos Rising (ME04)": [
+   "non listato",
    1
   ],
   "PokeCardShop|Phantasmal Flames (ME02)": [
-   "esaurito",
+   "non listato",
+   1
+  ],
+  "PokeCardShop|Pokémon 151": [
+   "non listato",
+   1
+  ],
+  "PokeCardShop|Prismatic Evolutions": [
+   "non listato",
+   1
+  ],
+  "PokeCardShop|Crown Zenith": [
+   "non listato",
+   1
+  ],
+  "PokeCardShop|Destined Rivals": [
+   "non listato",
    1
   ]
  },
@@ -1183,13 +1207,18 @@
    "ts": "10/09 16:29",
    "title": "🚨 RESTOCK: Pitch Black (ME05) — PokeCardShop",
    "url": "https://www.pokecardshop.be/search?q=pitch+black"
+  },
+  {
+   "ts": "15/09 14:56",
+   "title": "🚨 DISPONIBILE/PREORDER: Pitch Black (ME05) — PokeCardShop",
+   "url": "https://www.pokecardshop.be/search?q=pitch+black"
   }
  ],
  "down": {
   "www.cardmarket.com": 843,
   "www.gamestop.com": 84,
-  "www.gamelife.it": 843,
-  "geco-shop.de": 843,
+  "www.gamelife.it": 844,
+  "geco-shop.de": 844,
   "www.chaoscards.co.uk": 843,
   "www.waylandgames.co.uk": 843,
   "www.firestormgames.co.uk": 844,
@@ -1220,13 +1249,12 @@
   "tradingcard.fi": 14,
   "tcgstore.se": 13,
   "crispycards.de": 9,
-  "www.amazon.it": 6,
   "www.blackfire.eu": 3,
-  "pokewoke.store": 1,
   "pokeboxstore.pt": 1,
-  "outpostbrussels.be": 1,
+  "extremepokecorner.com": 1,
+  "pokewoke.store": 1,
   "tcgpikas.lt": 1,
   "pokemonworld.lt": 1
  },
- "runno": 10087
+ "runno": 10088
 }
