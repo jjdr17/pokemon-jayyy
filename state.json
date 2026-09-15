@@ -570,14 +570,14 @@
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "PokeCardShop": {
-   "Pitch Black (ME05)": "disponibile",
-   "30th Celebration": "esaurito",
+   "Pitch Black (ME05)": "non listato",
+   "30th Celebration": "non listato",
    "Storm Emerald (ME06)": "non listato",
-   "Chaos Rising (ME04)": "esaurito",
-   "Phantasmal Flames (ME02)": "esaurito",
-   "Pokémon 151": "listato",
-   "Prismatic Evolutions": "listato",
-   "Crown Zenith": "listato",
+   "Chaos Rising (ME04)": "non listato",
+   "Phantasmal Flames (ME02)": "non listato",
+   "Pokémon 151": "non listato",
+   "Prismatic Evolutions": "non listato",
+   "Crown Zenith": "non listato",
    "Destined Rivals": "non listato",
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
@@ -1002,35 +1002,7 @@
    "non listato",
    1
   ],
-  "PokeCardShop|Pitch Black (ME05)": [
-   "non listato",
-   1
-  ],
-  "PokeCardShop|30th Celebration": [
-   "non listato",
-   1
-  ],
-  "PokeCardShop|Chaos Rising (ME04)": [
-   "non listato",
-   1
-  ],
-  "PokeCardShop|Phantasmal Flames (ME02)": [
-   "non listato",
-   1
-  ],
-  "PokeCardShop|Pokémon 151": [
-   "non listato",
-   1
-  ],
-  "PokeCardShop|Prismatic Evolutions": [
-   "non listato",
-   1
-  ],
-  "PokeCardShop|Crown Zenith": [
-   "non listato",
-   1
-  ],
-  "Pokemons.dk|Crown Zenith": [
+  "Pokipair|30th Celebration": [
    "disponibile",
    1
   ]
@@ -1222,12 +1194,12 @@
   "en.tcg-shop.at": 843,
   "kaissagames.com": 640,
   "itcg.bg": 475,
-  "bescards.com": 436,
+  "bescards.com": 437,
   "cardcorner.at": 375,
   "www.poketalk.se": 360,
   "pokectcg.cz": 288,
   "lorenzone.fr": 273,
-  "vinticards.com": 237,
+  "vinticards.com": 238,
   "letsgotry.pl": 234,
   "www.pokemillon.com": 207,
   "rarecards.nl": 160,
@@ -1237,13 +1209,20 @@
   "www.deckshop.de": 52,
   "pokechest.at": 22,
   "misticards.com": 20,
-  "tradingcard.fi": 13,
+  "tradingcard.fi": 14,
   "tcgstore.se": 13,
   "crispycards.de": 9,
   "www.amazon.it": 6,
-  "www.blackfire.eu": 1,
-  "pokeboxstore.pt": 1,
-  "www.magicbazar.fr": 1
+  "www.blackfire.eu": 2,
+  "pokeboxstore.pt": 2,
+  "poke-power.eu": 1,
+  "outpostbrussels.be": 1,
+  "alldaytcg.com": 1,
+  "sunnystore.es": 1,
+  "godofcards.com": 1,
+  "totalcards.net": 1,
+  "cardzone.es": 1,
+  "rogerz.dk": 1
  },
- "runno": 10083
+ "runno": 10084
 }
