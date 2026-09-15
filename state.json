@@ -570,7 +570,7 @@
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "PokeCardShop": {
-   "Pitch Black (ME05)": "non listato",
+   "Pitch Black (ME05)": "disponibile",
    "30th Celebration": "esaurito",
    "Storm Emerald (ME06)": "non listato",
    "Chaos Rising (ME04)": "esaurito",
@@ -578,7 +578,7 @@
    "Pokémon 151": "listato",
    "Prismatic Evolutions": "listato",
    "Crown Zenith": "listato",
-   "Destined Rivals": "esaurito",
+   "Destined Rivals": "non listato",
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "Kaissa Games": {
@@ -1002,11 +1002,35 @@
    "non listato",
    1
   ],
-  "Pokipair|30th Celebration": [
-   "disponibile",
+  "PokeCardShop|Pitch Black (ME05)": [
+   "non listato",
    1
   ],
-  "PokeCardShop|Pitch Black (ME05)": [
+  "PokeCardShop|30th Celebration": [
+   "non listato",
+   1
+  ],
+  "PokeCardShop|Chaos Rising (ME04)": [
+   "non listato",
+   1
+  ],
+  "PokeCardShop|Phantasmal Flames (ME02)": [
+   "non listato",
+   1
+  ],
+  "PokeCardShop|Pokémon 151": [
+   "non listato",
+   1
+  ],
+  "PokeCardShop|Prismatic Evolutions": [
+   "non listato",
+   1
+  ],
+  "PokeCardShop|Crown Zenith": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Crown Zenith": [
    "disponibile",
    1
   ]
@@ -1191,7 +1215,7 @@
   "www.firestormgames.co.uk": 843,
   "hobbykort.se": 843,
   "tcgcompany.nl": 843,
-  "www.nerdom.gr": 842,
+  "www.nerdom.gr": 843,
   "www.pokekarty.pl": 843,
   "www.wakuwaku.cz": 843,
   "www.pokemonia.ro": 843,
@@ -1206,8 +1230,8 @@
   "vinticards.com": 237,
   "letsgotry.pl": 234,
   "www.pokemillon.com": 207,
-  "rarecards.nl": 159,
-  "pokevend.at": 159,
+  "rarecards.nl": 160,
+  "pokevend.at": 160,
   "tcgfanshop.nl": 134,
   "pokeka.hu": 131,
   "www.deckshop.de": 52,
@@ -1217,8 +1241,9 @@
   "tcgstore.se": 13,
   "crispycards.de": 9,
   "www.amazon.it": 6,
-  "www.blackfire.eu": 4,
-  "tcgdistribution.fr": 1
+  "www.blackfire.eu": 1,
+  "pokeboxstore.pt": 1,
+  "www.magicbazar.fr": 1
  },
- "runno": 10082
+ "runno": 10083
 }
