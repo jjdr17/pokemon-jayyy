@@ -570,11 +570,11 @@
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "PokeCardShop": {
-   "Pitch Black (ME05)": "disponibile",
+   "Pitch Black (ME05)": "esaurito",
    "30th Celebration": "esaurito",
    "Storm Emerald (ME06)": "non listato",
    "Chaos Rising (ME04)": "esaurito",
-   "Phantasmal Flames (ME02)": "esaurito",
+   "Phantasmal Flames (ME02)": "non listato",
    "Pokémon 151": "listato",
    "Prismatic Evolutions": "listato",
    "Crown Zenith": "listato",
@@ -959,7 +959,7 @@
   "pokeseller14.com": "https://pokeseller14.com/search?q={q}"
  },
  "alerts": {
-  "PokeCardShop|Pitch Black (ME05)": 1789476978.187466
+  "PokeCardShop|Pitch Black (ME05)": 1789050549.6032314
  },
  "prices": {
   "Packratt (UK)|Chaos Rising (ME04)": "£10.01",
@@ -1002,10 +1002,6 @@
    "non listato",
    1
   ],
-  "Pokipair|30th Celebration": [
-   "disponibile",
-   1
-  ],
   "PokeCardShop|Pitch Black (ME05)": [
    "non listato",
    1
@@ -1015,10 +1011,6 @@
    1
   ],
   "PokeCardShop|Chaos Rising (ME04)": [
-   "non listato",
-   1
-  ],
-  "PokeCardShop|Phantasmal Flames (ME02)": [
    "non listato",
    1
   ],
@@ -1036,6 +1028,10 @@
   ],
   "PokeCardShop|Destined Rivals": [
    "non listato",
+   1
+  ],
+  "Pokipair|30th Celebration": [
+   "disponibile",
    1
   ]
  },
@@ -1207,11 +1203,6 @@
    "ts": "10/09 16:29",
    "title": "🚨 RESTOCK: Pitch Black (ME05) — PokeCardShop",
    "url": "https://www.pokecardshop.be/search?q=pitch+black"
-  },
-  {
-   "ts": "15/09 14:56",
-   "title": "🚨 DISPONIBILE/PREORDER: Pitch Black (ME05) — PokeCardShop",
-   "url": "https://www.pokecardshop.be/search?q=pitch+black"
   }
  ],
  "down": {
@@ -1250,11 +1241,7 @@
   "tcgstore.se": 13,
   "crispycards.de": 9,
   "www.blackfire.eu": 3,
-  "pokeboxstore.pt": 1,
-  "extremepokecorner.com": 1,
-  "pokewoke.store": 1,
-  "tcgpikas.lt": 1,
-  "pokemonworld.lt": 1
+  "tcgdistribution.fr": 1
  },
  "runno": 10088
 }
