@@ -62,7 +62,7 @@
    "Pokémon 151": "non listato",
    "Prismatic Evolutions": "non listato",
    "Crown Zenith": "non listato",
-   "Destined Rivals": "listato",
+   "Destined Rivals": "non listato",
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "Pokeseller14": {
@@ -1001,10 +1001,6 @@
   "TCGStore.se|Destined Rivals": [
    "non listato",
    1
-  ],
-  "PokeCardShop|Pitch Black (ME05)": [
-   "non listato",
-   1
   ]
  },
  "urls": {
@@ -1218,7 +1214,8 @@
   "tcgstore.se": 16,
   "crispycards.de": 12,
   "www.amazon.it": 5,
-  "www.blackfire.eu": 3
+  "www.blackfire.eu": 3,
+  "pokeboxstore.pt": 1
  },
  "runno": 10115
 }
