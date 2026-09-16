@@ -959,7 +959,7 @@
   "pokeseller14.com": "https://pokeseller14.com/search?q={q}"
  },
  "alerts": {
-  "PokeCardShop|Pitch Black (ME05)": 1789590498.844964
+  "PokeCardShop|Pitch Black (ME05)": 1789476978.187466
  },
  "prices": {
   "Packratt (UK)|Chaos Rising (ME04)": "£10.01",
@@ -996,10 +996,6 @@
   ],
   "Pokipair|30th Celebration": [
    "disponibile",
-   1
-  ],
-  "PokeCardShop|Pokémon 151": [
-   "non listato",
    1
   ]
  },
@@ -1176,11 +1172,6 @@
    "ts": "15/09 14:56",
    "title": "🚨 DISPONIBILE/PREORDER: Pitch Black (ME05) — PokeCardShop",
    "url": "https://www.pokecardshop.be/search?q=pitch+black"
-  },
-  {
-   "ts": "16/09 22:28",
-   "title": "🚨 DISPONIBILE/PREORDER: Pitch Black (ME05) — PokeCardShop",
-   "url": "https://www.pokecardshop.be/search?q=pitch+black"
   }
  ],
  "down": {
@@ -1218,8 +1209,8 @@
   "pokevend.at": 10,
   "tradingcard.fi": 10,
   "www.blackfire.eu": 9,
-  "tcgstore.se": 7,
-  "pokeboxstore.pt": 1
+  "www.amazon.it": 9,
+  "tcgstore.se": 7
  },
  "runno": 10280
 }
