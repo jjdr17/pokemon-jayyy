@@ -959,7 +959,7 @@
   "pokeseller14.com": "https://pokeseller14.com/search?q={q}"
  },
  "alerts": {
-  "PokeCardShop|Pitch Black (ME05)": 1789476978.187466
+  "PokeCardShop|Pitch Black (ME05)": 1789590498.844964
  },
  "prices": {
   "Packratt (UK)|Chaos Rising (ME04)": "£10.01",
@@ -994,8 +994,12 @@
    "non listato",
    1
   ],
-  "Pokemons.dk|Crown Zenith": [
+  "Pokipair|30th Celebration": [
    "disponibile",
+   1
+  ],
+  "PokeCardShop|Pokémon 151": [
+   "non listato",
    1
   ]
  },
@@ -1172,13 +1176,18 @@
    "ts": "15/09 14:56",
    "title": "🚨 DISPONIBILE/PREORDER: Pitch Black (ME05) — PokeCardShop",
    "url": "https://www.pokecardshop.be/search?q=pitch+black"
+  },
+  {
+   "ts": "16/09 22:28",
+   "title": "🚨 DISPONIBILE/PREORDER: Pitch Black (ME05) — PokeCardShop",
+   "url": "https://www.pokecardshop.be/search?q=pitch+black"
   }
  ],
  "down": {
   "www.cardmarket.com": 859,
   "www.gamestop.com": 84,
-  "www.gamelife.it": 859,
-  "geco-shop.de": 859,
+  "www.gamelife.it": 860,
+  "geco-shop.de": 860,
   "www.chaoscards.co.uk": 859,
   "www.waylandgames.co.uk": 859,
   "www.firestormgames.co.uk": 860,
@@ -1209,8 +1218,8 @@
   "pokevend.at": 10,
   "tradingcard.fi": 10,
   "www.blackfire.eu": 9,
-  "www.amazon.it": 8,
-  "tcgstore.se": 7
+  "tcgstore.se": 7,
+  "pokeboxstore.pt": 1
  },
- "runno": 10279
+ "runno": 10280
 }
