@@ -993,14 +993,6 @@
   "TCGStore.se|Destined Rivals": [
    "non listato",
    1
-  ],
-  "Pokipair|30th Celebration": [
-   "disponibile",
-   1
-  ],
-  "Pokemons.dk|Crown Zenith": [
-   "disponibile",
-   1
   ]
  },
  "urls": {
@@ -1187,7 +1179,7 @@
   "www.waylandgames.co.uk": 862,
   "www.firestormgames.co.uk": 863,
   "hobbykort.se": 863,
-  "tcgcompany.nl": 862,
+  "tcgcompany.nl": 863,
   "www.nerdom.gr": 862,
   "www.pokekarty.pl": 862,
   "www.wakuwaku.cz": 862,
@@ -1213,9 +1205,11 @@
   "pokevend.at": 13,
   "tradingcard.fi": 13,
   "www.amazon.it": 12,
-  "tcgstore.se": 10,
+  "tcgstore.se": 11,
   "pokeboxstore.pt": 5,
-  "www.blackfire.eu": 4
+  "www.blackfire.eu": 4,
+  "www.butticards.at": 1,
+  "oppacards.com": 1
  },
- "runno": 10316
+ "runno": 10317
 }
