@@ -575,7 +575,7 @@
    "Storm Emerald (ME06)": "non listato",
    "Chaos Rising (ME04)": "esaurito",
    "Phantasmal Flames (ME02)": "esaurito",
-   "Pokémon 151": "listato",
+   "Pokémon 151": "non listato",
    "Prismatic Evolutions": "listato",
    "Crown Zenith": "listato",
    "Destined Rivals": "esaurito",
@@ -1002,6 +1002,10 @@
    "listato",
    1
   ],
+  "Poketalk|30th Celebration": [
+   "listato",
+   1
+  ],
   "Pokipair|30th Celebration": [
    "disponibile",
    1
@@ -1205,7 +1209,6 @@
   "itcg.bg": 497,
   "bescards.com": 458,
   "cardcorner.at": 397,
-  "www.poketalk.se": 382,
   "pokectcg.cz": 310,
   "vinticards.com": 259,
   "letsgotry.pl": 256,
@@ -1222,7 +1225,8 @@
   "tradingcard.fi": 15,
   "tcgstore.se": 13,
   "www.blackfire.eu": 6,
-  "www.amazon.it": 4
+  "www.amazon.it": 4,
+  "pokeboxstore.pt": 1
  },
  "runno": 10344
 }
