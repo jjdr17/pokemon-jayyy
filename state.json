@@ -1006,8 +1006,12 @@
    "listato",
    1
   ],
-  "Pokemons.dk|Crown Zenith": [
+  "Pokipair|30th Celebration": [
    "disponibile",
+   1
+  ],
+  "PokeCardShop|Premium Deck Espeon & Umbreon (30th)": [
+   "listato",
    1
   ]
  },
@@ -1043,7 +1047,7 @@
   "Pokecollect|30th Celebration": "https://pokecollect.pl/?s=30th+celebration&post_type=product",
   "PokeCardShop|Pitch Black (ME05)": "https://www.pokecardshop.be/search?q=pitch+black"
  },
- "digest_slot": "2026-09-17-15",
+ "digest_slot": "2026-09-17-18",
  "log": [
   {
    "ts": "05/07 19:55",
@@ -1194,7 +1198,7 @@
   "www.chaoscards.co.uk": 870,
   "www.waylandgames.co.uk": 870,
   "www.firestormgames.co.uk": 871,
-  "hobbykort.se": 870,
+  "hobbykort.se": 871,
   "tcgcompany.nl": 870,
   "www.nerdom.gr": 870,
   "www.pokekarty.pl": 870,
@@ -1224,5 +1228,5 @@
   "www.blackfire.eu": 4,
   "tradingcard.fi": 4
  },
- "runno": 10409
+ "runno": 10410
 }
