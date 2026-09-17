@@ -993,14 +993,6 @@
   "TCGStore.se|Destined Rivals": [
    "non listato",
    1
-  ],
-  "Pokipair|30th Celebration": [
-   "disponibile",
-   1
-  ],
-  "Pokemons.dk|Crown Zenith": [
-   "disponibile",
-   1
   ]
  },
  "urls": {
@@ -1035,7 +1027,7 @@
   "Pokecollect|30th Celebration": "https://pokecollect.pl/?s=30th+celebration&post_type=product",
   "PokeCardShop|Pitch Black (ME05)": "https://www.pokecardshop.be/search?q=pitch+black"
  },
- "digest_slot": "2026-09-17-18",
+ "digest_slot": "2026-09-17-22",
  "log": [
   {
    "ts": "05/07 19:55",
@@ -1187,7 +1179,7 @@
   "www.waylandgames.co.uk": 872,
   "www.firestormgames.co.uk": 873,
   "hobbykort.se": 873,
-  "tcgcompany.nl": 872,
+  "tcgcompany.nl": 873,
   "www.nerdom.gr": 872,
   "www.pokekarty.pl": 872,
   "www.wakuwaku.cz": 872,
@@ -1210,12 +1202,11 @@
   "crispycards.de": 26,
   "rarecards.nl": 26,
   "pokevend.at": 23,
-  "tcgstore.se": 20,
+  "tcgstore.se": 21,
   "www.poketalk.se": 10,
   "www.blackfire.eu": 6,
   "tradingcard.fi": 6,
-  "www.amazon.it": 4,
-  "games-island.eu": 2
+  "www.amazon.it": 4
  },
- "runno": 10436
+ "runno": 10437
 }
