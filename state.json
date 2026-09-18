@@ -547,7 +547,7 @@
   },
   "Pokebox": {
    "Pitch Black (ME05)": "esaurito",
-   "30th Celebration": "non listato",
+   "30th Celebration": "listato",
    "Storm Emerald (ME06)": "non listato",
    "Chaos Rising (ME04)": "non listato",
    "Phantasmal Flames (ME02)": "non listato",
@@ -993,6 +993,14 @@
   "TCGStore.se|Destined Rivals": [
    "non listato",
    1
+  ],
+  "Pokipair|30th Celebration": [
+   "disponibile",
+   1
+  ],
+  "PokeCardShop|Premium Deck Espeon & Umbreon (30th)": [
+   "listato",
+   1
   ]
  },
  "urls": {
@@ -1173,8 +1181,8 @@
  "down": {
   "www.cardmarket.com": 877,
   "www.gamestop.com": 84,
-  "www.gamelife.it": 877,
-  "geco-shop.de": 877,
+  "www.gamelife.it": 878,
+  "geco-shop.de": 878,
   "www.chaoscards.co.uk": 877,
   "www.waylandgames.co.uk": 877,
   "www.firestormgames.co.uk": 878,
@@ -1203,10 +1211,12 @@
   "pokevend.at": 28,
   "tcgstore.se": 25,
   "www.poketalk.se": 15,
-  "tradingcard.fi": 11,
-  "www.amazon.it": 8,
+  "www.amazon.it": 9,
   "www.blackfire.eu": 6,
-  "vinticards.com": 4
+  "vinticards.com": 4,
+  "tradingcard.fi": 3,
+  "pokeboxstore.pt": 3,
+  "games-island.eu": 1
  },
- "runno": 10495
+ "runno": 10496
 }
