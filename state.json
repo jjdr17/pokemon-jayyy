@@ -571,7 +571,7 @@
   },
   "PokeCardShop": {
    "Pitch Black (ME05)": "disponibile",
-   "30th Celebration": "non listato",
+   "30th Celebration": "esaurito",
    "Storm Emerald (ME06)": "non listato",
    "Chaos Rising (ME04)": "esaurito",
    "Phantasmal Flames (ME02)": "esaurito",
@@ -994,8 +994,16 @@
    "non listato",
    1
   ],
-  "PokeCardShop|30th Celebration": [
-   "esaurito",
+  "Pokipair|30th Celebration": [
+   "disponibile",
+   1
+  ],
+  "Pokemons.dk|Crown Zenith": [
+   "disponibile",
+   1
+  ],
+  "PokeCardShop|Premium Deck Espeon & Umbreon (30th)": [
+   "non listato",
    1
   ]
  },
@@ -1182,7 +1190,7 @@
   "www.chaoscards.co.uk": 878,
   "www.waylandgames.co.uk": 878,
   "www.firestormgames.co.uk": 879,
-  "hobbykort.se": 878,
+  "hobbykort.se": 879,
   "tcgcompany.nl": 878,
   "www.nerdom.gr": 878,
   "www.pokekarty.pl": 878,
@@ -1212,7 +1220,8 @@
   "vinticards.com": 5,
   "tradingcard.fi": 4,
   "pokeboxstore.pt": 3,
-  "tcgdistribution.fr": 3
+  "tcgdistribution.fr": 3,
+  "papelinho.pt": 1
  },
- "runno": 10505
+ "runno": 10506
 }
