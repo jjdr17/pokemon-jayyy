@@ -547,7 +547,7 @@
   },
   "Pokebox": {
    "Pitch Black (ME05)": "esaurito",
-   "30th Celebration": "non listato",
+   "30th Celebration": "listato",
    "Storm Emerald (ME06)": "non listato",
    "Chaos Rising (ME04)": "non listato",
    "Phantasmal Flames (ME02)": "non listato",
@@ -579,7 +579,7 @@
    "Prismatic Evolutions": "listato",
    "Crown Zenith": "listato",
    "Destined Rivals": "esaurito",
-   "Premium Deck Espeon & Umbreon (30th)": "non listato"
+   "Premium Deck Espeon & Umbreon (30th)": "listato"
   },
   "Kaissa Games": {
    "Pitch Black (ME05)": "listato",
@@ -993,6 +993,18 @@
   "TCGStore.se|Destined Rivals": [
    "non listato",
    1
+  ],
+  "Pokemons.dk|Crown Zenith": [
+   "disponibile",
+   1
+  ],
+  "Pokipair|30th Celebration": [
+   "disponibile",
+   1
+  ],
+  "PokeCardShop|Premium Deck Espeon & Umbreon (30th)": [
+   "non listato",
+   1
   ]
  },
  "urls": {
@@ -1171,12 +1183,12 @@
   }
  ],
  "down": {
-  "www.cardmarket.com": 877,
+  "www.cardmarket.com": 878,
   "www.gamestop.com": 84,
   "www.gamelife.it": 878,
   "geco-shop.de": 878,
   "www.chaoscards.co.uk": 877,
-  "www.waylandgames.co.uk": 877,
+  "www.waylandgames.co.uk": 878,
   "www.firestormgames.co.uk": 878,
   "hobbykort.se": 878,
   "tcgcompany.nl": 878,
@@ -1186,9 +1198,9 @@
   "www.pokemonia.ro": 878,
   "en.tcg-shop.at": 877,
   "kaissagames.com": 674,
-  "itcg.bg": 509,
+  "itcg.bg": 510,
   "bescards.com": 471,
-  "cardcorner.at": 409,
+  "cardcorner.at": 410,
   "pokectcg.cz": 322,
   "letsgotry.pl": 268,
   "www.pokemillon.com": 241,
@@ -1198,17 +1210,18 @@
   "misticards.com": 54,
   "lorenzone.fr": 31,
   "tcgfanshop.nl": 31,
-  "crispycards.de": 31,
+  "crispycards.de": 32,
   "rarecards.nl": 31,
   "pokevend.at": 28,
   "tcgstore.se": 26,
   "www.poketalk.se": 15,
-  "tradingcard.fi": 11,
   "www.amazon.it": 9,
   "www.blackfire.eu": 6,
   "vinticards.com": 4,
-  "pokeboxstore.pt": 2,
+  "tradingcard.fi": 3,
+  "pokeboxstore.pt": 3,
+  "tcgdistribution.fr": 2,
   "pokebank.es": 1
  },
- "runno": 10497
+ "runno": 10498
 }
