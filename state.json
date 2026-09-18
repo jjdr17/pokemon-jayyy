@@ -131,7 +131,7 @@
    "Storm Emerald (ME06)": "listato",
    "Chaos Rising (ME04)": "esaurito",
    "Phantasmal Flames (ME02)": "esaurito",
-   "Pokémon 151": "esaurito",
+   "Pokémon 151": "listato",
    "Prismatic Evolutions": "esaurito",
    "Crown Zenith": "listato",
    "Destined Rivals": "esaurito",
@@ -993,6 +993,14 @@
   "TCGStore.se|Destined Rivals": [
    "non listato",
    1
+  ],
+  "SunnyStore|Pokémon 151": [
+   "esaurito",
+   1
+  ],
+  "PokeCardShop|Premium Deck Espeon & Umbreon (30th)": [
+   "non listato",
+   1
   ]
  },
  "urls": {
@@ -1206,12 +1214,7 @@
   "tradingcard.fi": 8,
   "www.amazon.it": 6,
   "www.blackfire.eu": 3,
-  "vinticards.com": 3,
-  "pokeboxstore.pt": 1,
-  "extremepokecorner.com": 1,
-  "pokewoke.store": 1,
-  "tcgpikas.lt": 1,
-  "pokemonworld.lt": 1
+  "vinticards.com": 3
  },
  "runno": 10465
 }
