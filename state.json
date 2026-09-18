@@ -994,15 +994,7 @@
    "non listato",
    1
   ],
-  "Pokipair|30th Celebration": [
-   "disponibile",
-   1
-  ],
-  "Pokemons.dk|Crown Zenith": [
-   "disponibile",
-   1
-  ],
-  "PokeCardShop|Premium Deck Espeon & Umbreon (30th)": [
+  "Pokebox|30th Celebration": [
    "non listato",
    1
   ]
@@ -1037,7 +1029,8 @@
   "Pokecollect|Destined Rivals": "https://pokecollect.pl/?s=destined+rivals&post_type=product",
   "Pikashop|Storm Emerald (ME06)": "https://pikashop.pl/?s=storm+emerald&post_type=product",
   "Pokecollect|30th Celebration": "https://pokecollect.pl/?s=30th+celebration&post_type=product",
-  "PokeCardShop|Pitch Black (ME05)": "https://www.pokecardshop.be/search?q=pitch+black"
+  "PokeCardShop|Pitch Black (ME05)": "https://www.pokecardshop.be/search?q=pitch+black",
+  "Pokecollect|Storm Emerald (ME06)": "https://pokecollect.pl/?s=storm+emerald&post_type=product"
  },
  "digest_slot": "2026-09-18-10",
  "log": [
@@ -1218,9 +1211,7 @@
   "www.blackfire.eu": 8,
   "vinticards.com": 6,
   "tradingcard.fi": 5,
-  "pokeboxstore.pt": 4,
-  "www.amazon.it": 3,
-  "www.lotticards.de": 1
+  "www.amazon.it": 3
  },
- "runno": 10518
+ "runno": 10519
 }
