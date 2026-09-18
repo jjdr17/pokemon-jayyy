@@ -993,6 +993,18 @@
   "TCGStore.se|Destined Rivals": [
    "non listato",
    1
+  ],
+  "Pokipair|30th Celebration": [
+   "disponibile",
+   1
+  ],
+  "Pokemons.dk|Crown Zenith": [
+   "disponibile",
+   1
+  ],
+  "PokeCardShop|Premium Deck Espeon & Umbreon (30th)": [
+   "non listato",
+   1
   ]
  },
  "urls": {
@@ -1173,8 +1185,8 @@
  "down": {
   "www.cardmarket.com": 876,
   "www.gamestop.com": 84,
-  "www.gamelife.it": 876,
-  "geco-shop.de": 876,
+  "www.gamelife.it": 877,
+  "geco-shop.de": 877,
   "www.chaoscards.co.uk": 876,
   "www.waylandgames.co.uk": 876,
   "www.firestormgames.co.uk": 877,
@@ -1204,9 +1216,12 @@
   "tcgstore.se": 24,
   "www.poketalk.se": 14,
   "tradingcard.fi": 10,
-  "www.amazon.it": 7,
+  "www.amazon.it": 8,
   "www.blackfire.eu": 5,
-  "vinticards.com": 3
+  "vinticards.com": 3,
+  "pokeboxstore.pt": 1,
+  "tcgdistribution.fr": 1,
+  "games-island.eu": 1
  },
- "runno": 10483
+ "runno": 10484
 }
