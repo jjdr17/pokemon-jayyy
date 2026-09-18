@@ -547,7 +547,7 @@
   },
   "Pokebox": {
    "Pitch Black (ME05)": "esaurito",
-   "30th Celebration": "listato",
+   "30th Celebration": "non listato",
    "Storm Emerald (ME06)": "non listato",
    "Chaos Rising (ME04)": "non listato",
    "Phantasmal Flames (ME02)": "non listato",
@@ -993,10 +993,6 @@
   "TCGStore.se|Destined Rivals": [
    "non listato",
    1
-  ],
-  "Pokemons.dk|Crown Zenith": [
-   "disponibile",
-   1
   ]
  },
  "urls": {
@@ -1207,12 +1203,10 @@
   "pokevend.at": 28,
   "tcgstore.se": 25,
   "www.poketalk.se": 15,
+  "tradingcard.fi": 11,
   "www.amazon.it": 8,
   "www.blackfire.eu": 6,
-  "vinticards.com": 4,
-  "tradingcard.fi": 3,
-  "pokeboxstore.pt": 2,
-  "www.lotticards.de": 1
+  "vinticards.com": 4
  },
  "runno": 10495
 }
