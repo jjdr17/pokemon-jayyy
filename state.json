@@ -993,6 +993,14 @@
   "TCGStore.se|Destined Rivals": [
    "non listato",
    1
+  ],
+  "Pokipair|30th Celebration": [
+   "disponibile",
+   1
+  ],
+  "Pokemons.dk|Crown Zenith": [
+   "disponibile",
+   1
   ]
  },
  "urls": {
@@ -1029,7 +1037,7 @@
   "Pokecollect|Storm Emerald (ME06)": "https://pokecollect.pl/?s=storm+emerald&post_type=product",
   "Pikashop|30th Celebration": "https://pikashop.pl/?s=30th+celebration&post_type=product"
  },
- "digest_slot": "2026-09-18-22",
+ "digest_slot": "2026-09-19-10",
  "log": [
   {
    "ts": "05/07 19:55",
@@ -1180,7 +1188,7 @@
   "www.chaoscards.co.uk": 890,
   "www.waylandgames.co.uk": 890,
   "www.firestormgames.co.uk": 891,
-  "hobbykort.se": 890,
+  "hobbykort.se": 891,
   "tcgcompany.nl": 890,
   "www.nerdom.gr": 890,
   "www.pokekarty.pl": 890,
@@ -1211,5 +1219,5 @@
   "www.blackfire.eu": 5,
   "pokeboxstore.pt": 3
  },
- "runno": 10649
+ "runno": 10650
 }
