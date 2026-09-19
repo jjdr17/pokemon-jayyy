@@ -993,6 +993,18 @@
   "TCGStore.se|Destined Rivals": [
    "non listato",
    1
+  ],
+  "Pokipair|30th Celebration": [
+   "disponibile",
+   1
+  ],
+  "Pokemons.dk|Crown Zenith": [
+   "disponibile",
+   1
+  ],
+  "PokeCardShop|Destined Rivals": [
+   "non listato",
+   1
   ]
  },
  "urls": {
@@ -1173,12 +1185,12 @@
   }
  ],
  "down": {
-  "www.cardmarket.com": 889,
+  "www.cardmarket.com": 890,
   "www.gamestop.com": 84,
   "www.gamelife.it": 890,
   "geco-shop.de": 890,
   "www.chaoscards.co.uk": 889,
-  "www.waylandgames.co.uk": 889,
+  "www.waylandgames.co.uk": 890,
   "www.firestormgames.co.uk": 890,
   "hobbykort.se": 890,
   "tcgcompany.nl": 890,
@@ -1188,9 +1200,9 @@
   "www.pokemonia.ro": 890,
   "en.tcg-shop.at": 889,
   "kaissagames.com": 686,
-  "itcg.bg": 521,
+  "itcg.bg": 522,
   "bescards.com": 483,
-  "cardcorner.at": 421,
+  "cardcorner.at": 422,
   "pokectcg.cz": 334,
   "letsgotry.pl": 280,
   "www.pokemillon.com": 253,
@@ -1200,7 +1212,7 @@
   "misticards.com": 66,
   "lorenzone.fr": 43,
   "tcgfanshop.nl": 43,
-  "crispycards.de": 43,
+  "crispycards.de": 44,
   "rarecards.nl": 43,
   "pokevend.at": 40,
   "tcgstore.se": 38,
@@ -1209,7 +1221,8 @@
   "tradingcard.fi": 15,
   "www.amazon.it": 5,
   "www.blackfire.eu": 4,
-  "pokeboxstore.pt": 2
+  "pokeboxstore.pt": 3,
+  "tcgdistribution.fr": 1
  },
- "runno": 10641
+ "runno": 10642
 }
