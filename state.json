@@ -570,7 +570,7 @@
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "PokeCardShop": {
-   "Pitch Black (ME05)": "disponibile",
+   "Pitch Black (ME05)": "listato",
    "30th Celebration": "esaurito",
    "Storm Emerald (ME06)": "non listato",
    "Chaos Rising (ME04)": "esaurito",
@@ -998,6 +998,14 @@
    "non listato",
    1
   ],
+  "Pokipair|30th Celebration": [
+   "disponibile",
+   1
+  ],
+  "Pokemons.dk|Crown Zenith": [
+   "disponibile",
+   1
+  ],
   "PokeCardShop|Premium Deck Espeon & Umbreon (30th)": [
    "non listato",
    1
@@ -1037,7 +1045,7 @@
   "Pokecollect|Storm Emerald (ME06)": "https://pokecollect.pl/?s=storm+emerald&post_type=product",
   "Pikashop|30th Celebration": "https://pikashop.pl/?s=30th+celebration&post_type=product"
  },
- "digest_slot": "2026-09-19-18",
+ "digest_slot": "2026-09-19-22",
  "log": [
   {
    "ts": "05/07 19:55",
@@ -1188,7 +1196,7 @@
   "www.chaoscards.co.uk": 896,
   "www.waylandgames.co.uk": 896,
   "www.firestormgames.co.uk": 897,
-  "hobbykort.se": 896,
+  "hobbykort.se": 897,
   "tcgcompany.nl": 896,
   "www.nerdom.gr": 896,
   "www.pokekarty.pl": 896,
@@ -1217,12 +1225,8 @@
   "tradingcard.fi": 5,
   "www.blackfire.eu": 5,
   "www.amazon.it": 3,
-  "pokewoke.store": 1,
-  "vinticards.com": 1,
-  "pokeboxstore.pt": 1,
-  "tcgpikas.lt": 1,
-  "pokemonworld.lt": 1,
-  "games-island.eu": 1
+  "vinticards.com": 2,
+  "pokeboxstore.pt": 2
  },
- "runno": 10721
+ "runno": 10722
 }
