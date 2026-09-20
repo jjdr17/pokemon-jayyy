@@ -570,7 +570,7 @@
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "PokeCardShop": {
-   "Pitch Black (ME05)": "non listato",
+   "Pitch Black (ME05)": "disponibile",
    "30th Celebration": "esaurito",
    "Storm Emerald (ME06)": "non listato",
    "Chaos Rising (ME04)": "esaurito",
@@ -959,7 +959,7 @@
   "pokeseller14.com": "https://pokeseller14.com/search?q={q}"
  },
  "alerts": {
-  "PokeCardShop|Pitch Black (ME05)": 1789476978.187466
+  "PokeCardShop|Pitch Black (ME05)": 1789884671.6957607
  },
  "prices": {
   "Packratt (UK)|Chaos Rising (ME04)": "£10.01",
@@ -994,20 +994,8 @@
    "non listato",
    1
   ],
-  "Pokemons.dk|Crown Zenith": [
+  "Pokipair|30th Celebration": [
    "disponibile",
-   1
-  ],
-  "PokeCardShop|Pitch Black (ME05)": [
-   "disponibile",
-   1
-  ],
-  "PokeCardShop|Premium Deck Espeon & Umbreon (30th)": [
-   "non listato",
-   1
-  ],
-  "PokeCardShop|Pokémon 151": [
-   "listato",
    1
   ]
  },
@@ -1186,6 +1174,11 @@
    "ts": "15/09 14:56",
    "title": "🚨 DISPONIBILE/PREORDER: Pitch Black (ME05) — PokeCardShop",
    "url": "https://www.pokecardshop.be/search?q=pitch+black"
+  },
+  {
+   "ts": "20/09 08:11",
+   "title": "🚨 DISPONIBILE/PREORDER: Pitch Black (ME05) — PokeCardShop",
+   "url": "https://www.pokecardshop.be/search?q=pitch+black"
   }
  ],
  "down": {
@@ -1200,21 +1193,21 @@
   "tcgcompany.nl": 902,
   "www.nerdom.gr": 901,
   "www.pokekarty.pl": 902,
-  "www.wakuwaku.cz": 901,
+  "www.wakuwaku.cz": 902,
   "www.pokemonia.ro": 902,
   "en.tcg-shop.at": 902,
-  "kaissagames.com": 698,
+  "kaissagames.com": 699,
   "itcg.bg": 534,
   "bescards.com": 495,
   "cardcorner.at": 434,
   "pokectcg.cz": 347,
   "letsgotry.pl": 293,
-  "www.pokemillon.com": 265,
-  "pokeka.hu": 189,
+  "www.pokemillon.com": 266,
+  "pokeka.hu": 190,
   "www.deckshop.de": 111,
   "pokechest.at": 81,
   "misticards.com": 79,
-  "lorenzone.fr": 55,
+  "lorenzone.fr": 56,
   "crispycards.de": 56,
   "rarecards.nl": 55,
   "pokevend.at": 52,
@@ -1223,11 +1216,10 @@
   "fuji-store.fr": 12,
   "vinticards.com": 8,
   "www.amazon.it": 7,
-  "www.blackfire.eu": 6,
+  "www.blackfire.eu": 7,
   "tradingcard.fi": 4,
   "tcgfanshop.nl": 4,
-  "pokeboxstore.pt": 1,
-  "www.lotticards.de": 1
+  "tcgdistribution.fr": 1
  },
- "runno": 10789
+ "runno": 10790
 }
