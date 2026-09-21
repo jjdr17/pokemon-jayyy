@@ -579,7 +579,7 @@
    "Prismatic Evolutions": "listato",
    "Crown Zenith": "listato",
    "Destined Rivals": "esaurito",
-   "Premium Deck Espeon & Umbreon (30th)": "listato"
+   "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "Kaissa Games": {
    "Pitch Black (ME05)": "listato",
@@ -998,12 +998,8 @@
    "disponibile",
    1
   ],
-  "Pokemons.dk|Crown Zenith": [
-   "disponibile",
-   1
-  ],
-  "PokeCardShop|Phantasmal Flames (ME02)": [
-   "non listato",
+  "PokeCardShop|Premium Deck Espeon & Umbreon (30th)": [
+   "listato",
    1
   ]
  },
@@ -1039,7 +1035,8 @@
   "Pokecollect|30th Celebration": "https://pokecollect.pl/?s=30th+celebration&post_type=product",
   "PokeCardShop|Pitch Black (ME05)": "https://www.pokecardshop.be/search?q=pitch+black",
   "Pokecollect|Storm Emerald (ME06)": "https://pokecollect.pl/?s=storm+emerald&post_type=product",
-  "Pikashop|30th Celebration": "https://pikashop.pl/?s=30th+celebration&post_type=product"
+  "Pikashop|30th Celebration": "https://pikashop.pl/?s=30th+celebration&post_type=product",
+  "Sapphire-Cards|30th Celebration": "https://sapphire-cards.de/?s=30th+celebration&post_type=product"
  },
  "digest_slot": "2026-09-21-15",
  "log": [
@@ -1227,11 +1224,8 @@
   "www.pokipair.com": 6,
   "www.amazon.it": 5,
   "www.blackfire.eu": 4,
-  "pokewoke.store": 1,
-  "tcgpikas.lt": 1,
-  "papelinho.pt": 1,
-  "pokemonworld.lt": 1,
-  "sapphire-cards.de": 1
+  "papelinho.pt": 2,
+  "pokeboxstore.pt": 1
  },
- "runno": 10974
+ "runno": 10975
 }
