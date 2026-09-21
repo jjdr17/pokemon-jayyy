@@ -571,7 +571,7 @@
   },
   "PokeCardShop": {
    "Pitch Black (ME05)": "disponibile",
-   "30th Celebration": "non listato",
+   "30th Celebration": "esaurito",
    "Storm Emerald (ME06)": "non listato",
    "Chaos Rising (ME04)": "esaurito",
    "Phantasmal Flames (ME02)": "non listato",
@@ -1004,6 +1004,10 @@
   ],
   "PokeCardShop|Premium Deck Espeon & Umbreon (30th)": [
    "listato",
+   1
+  ],
+  "PokeCardShop|Chaos Rising (ME04)": [
+   "non listato",
    1
   ],
   "PokeCardShop|Phantasmal Flames (ME02)": [
