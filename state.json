@@ -570,7 +570,7 @@
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "PokeCardShop": {
-   "Pitch Black (ME05)": "non listato",
+   "Pitch Black (ME05)": "disponibile",
    "30th Celebration": "esaurito",
    "Storm Emerald (ME06)": "non listato",
    "Chaos Rising (ME04)": "esaurito",
@@ -959,7 +959,7 @@
   "pokeseller14.com": "https://pokeseller14.com/search?q={q}"
  },
  "alerts": {
-  "PokeCardShop|Pitch Black (ME05)": 1789884671.6957607
+  "PokeCardShop|Pitch Black (ME05)": 1790032560.8002572
  },
  "prices": {
   "Packratt (UK)|Chaos Rising (ME04)": "£10.01",
@@ -995,14 +995,6 @@
    1
   ],
   "Pokipair|30th Celebration": [
-   "disponibile",
-   1
-  ],
-  "Pokemons.dk|Crown Zenith": [
-   "disponibile",
-   1
-  ],
-  "PokeCardShop|Pitch Black (ME05)": [
    "disponibile",
    1
   ]
@@ -1188,6 +1180,11 @@
    "ts": "20/09 08:11",
    "title": "🚨 DISPONIBILE/PREORDER: Pitch Black (ME05) — PokeCardShop",
    "url": "https://www.pokecardshop.be/search?q=pitch+black"
+  },
+  {
+   "ts": "22/09 01:16",
+   "title": "🚨 DISPONIBILE/PREORDER: Pitch Black (ME05) — PokeCardShop",
+   "url": "https://www.pokecardshop.be/search?q=pitch+black"
   }
  ],
  "down": {
@@ -1200,7 +1197,7 @@
   "www.firestormgames.co.uk": 922,
   "hobbykort.se": 922,
   "tcgcompany.nl": 922,
-  "www.nerdom.gr": 921,
+  "www.nerdom.gr": 922,
   "www.pokekarty.pl": 922,
   "www.wakuwaku.cz": 922,
   "www.pokemonia.ro": 922,
@@ -1218,8 +1215,8 @@
   "misticards.com": 99,
   "lorenzone.fr": 76,
   "crispycards.de": 76,
-  "rarecards.nl": 75,
-  "pokevend.at": 72,
+  "rarecards.nl": 76,
+  "pokevend.at": 73,
   "tcgstore.se": 70,
   "www.poketalk.se": 60,
   "vinticards.com": 28,
@@ -1229,7 +1226,8 @@
   "papelinho.pt": 8,
   "www.blackfire.eu": 4,
   "pokebank.es": 4,
-  "www.amazon.it": 1
+  "www.amazon.it": 2,
+  "pokeboxstore.pt": 1
  },
- "runno": 11030
+ "runno": 11031
 }
