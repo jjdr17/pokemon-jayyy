@@ -998,7 +998,15 @@
    "disponibile",
    1
   ],
-  "PokeCardShop|Premium Deck Espeon & Umbreon (30th)": [
+  "Pokemons.dk|Crown Zenith": [
+   "disponibile",
+   1
+  ],
+  "Pokebox|30th Celebration": [
+   "non listato",
+   1
+  ],
+  "PokeCardShop|Pokémon 151": [
    "non listato",
    1
   ]
@@ -1038,7 +1046,7 @@
   "Pikashop|30th Celebration": "https://pikashop.pl/?s=30th+celebration&post_type=product",
   "Sapphire-Cards|30th Celebration": "https://sapphire-cards.de/?s=30th+celebration&post_type=product"
  },
- "digest_slot": "2026-09-21-15",
+ "digest_slot": "2026-09-21-18",
  "log": [
   {
    "ts": "05/07 19:55",
@@ -1187,12 +1195,12 @@
   }
  ],
  "down": {
-  "www.cardmarket.com": 918,
+  "www.cardmarket.com": 919,
   "www.gamestop.com": 84,
   "www.gamelife.it": 919,
   "geco-shop.de": 919,
   "www.chaoscards.co.uk": 918,
-  "www.waylandgames.co.uk": 918,
+  "www.waylandgames.co.uk": 919,
   "www.firestormgames.co.uk": 919,
   "hobbykort.se": 919,
   "tcgcompany.nl": 919,
@@ -1202,9 +1210,9 @@
   "www.pokemonia.ro": 919,
   "en.tcg-shop.at": 918,
   "kaissagames.com": 715,
-  "itcg.bg": 550,
+  "itcg.bg": 551,
   "bescards.com": 512,
-  "cardcorner.at": 450,
+  "cardcorner.at": 451,
   "pokectcg.cz": 363,
   "letsgotry.pl": 309,
   "www.pokemillon.com": 282,
@@ -1213,7 +1221,7 @@
   "pokechest.at": 97,
   "misticards.com": 95,
   "lorenzone.fr": 72,
-  "crispycards.de": 72,
+  "crispycards.de": 73,
   "rarecards.nl": 72,
   "pokevend.at": 69,
   "tcgstore.se": 67,
@@ -1223,10 +1231,8 @@
   "tradingcard.fi": 10,
   "www.pokipair.com": 7,
   "www.blackfire.eu": 5,
-  "papelinho.pt": 4,
-  "www.amazon.it": 2,
-  "games-island.eu": 2,
-  "pokeboxstore.pt": 1
+  "papelinho.pt": 5,
+  "www.amazon.it": 3
  },
- "runno": 10989
+ "runno": 10990
 }
