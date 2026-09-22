@@ -319,7 +319,7 @@
   },
   "Butticards": {
    "Pitch Black (ME05)": "non listato",
-   "30th Celebration": "esaurito",
+   "30th Celebration": "listato",
    "Storm Emerald (ME06)": "listato",
    "Chaos Rising (ME04)": "esaurito",
    "Phantasmal Flames (ME02)": "esaurito",
@@ -1006,10 +1006,6 @@
    "listato",
    1
   ],
-  "Butticards|30th Celebration": [
-   "listato",
-   1
-  ],
   "Pokemons.dk|Crown Zenith": [
    "disponibile",
    1
@@ -1050,7 +1046,7 @@
   "Pikashop|30th Celebration": "https://pikashop.pl/?s=30th+celebration&post_type=product",
   "Sapphire-Cards|30th Celebration": "https://sapphire-cards.de/?s=30th+celebration&post_type=product"
  },
- "digest_slot": "2026-09-22-15",
+ "digest_slot": "2026-09-22-18",
  "log": [
   {
    "ts": "05/07 19:55",
@@ -1211,7 +1207,7 @@
   "www.chaoscards.co.uk": 930,
   "www.waylandgames.co.uk": 930,
   "www.firestormgames.co.uk": 931,
-  "hobbykort.se": 930,
+  "hobbykort.se": 931,
   "tcgcompany.nl": 930,
   "www.nerdom.gr": 930,
   "www.pokekarty.pl": 930,
@@ -1240,8 +1236,7 @@
   "tradingcard.fi": 22,
   "www.pokipair.com": 19,
   "www.amazon.it": 3,
-  "www.blackfire.eu": 3,
-  "pokeboxstore.pt": 3
+  "www.blackfire.eu": 3
  },
- "runno": 11129
+ "runno": 11130
 }
