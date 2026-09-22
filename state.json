@@ -1001,10 +1001,6 @@
   "Amazon.it|Storm Emerald (ME06)": [
    "listato",
    1
-  ],
-  "Pokemons.dk|Crown Zenith": [
-   "disponibile",
-   1
   ]
  },
  "urls": {
@@ -1042,7 +1038,7 @@
   "Pikashop|30th Celebration": "https://pikashop.pl/?s=30th+celebration&post_type=product",
   "Sapphire-Cards|30th Celebration": "https://sapphire-cards.de/?s=30th+celebration&post_type=product"
  },
- "digest_slot": "2026-09-22-10",
+ "digest_slot": "2026-09-22-15",
  "log": [
   {
    "ts": "05/07 19:55",
@@ -1207,21 +1203,21 @@
   "tcgcompany.nl": 929,
   "www.nerdom.gr": 928,
   "www.pokekarty.pl": 929,
-  "www.wakuwaku.cz": 928,
+  "www.wakuwaku.cz": 929,
   "www.pokemonia.ro": 929,
   "en.tcg-shop.at": 929,
-  "kaissagames.com": 725,
+  "kaissagames.com": 726,
   "itcg.bg": 561,
   "bescards.com": 522,
   "cardcorner.at": 461,
   "pokectcg.cz": 374,
   "letsgotry.pl": 320,
-  "www.pokemillon.com": 292,
-  "pokeka.hu": 216,
+  "www.pokemillon.com": 293,
+  "pokeka.hu": 217,
   "www.deckshop.de": 138,
   "pokechest.at": 108,
   "misticards.com": 106,
-  "lorenzone.fr": 82,
+  "lorenzone.fr": 83,
   "crispycards.de": 83,
   "rarecards.nl": 82,
   "pokevend.at": 79,
@@ -1232,8 +1228,9 @@
   "tradingcard.fi": 20,
   "www.pokipair.com": 18,
   "papelinho.pt": 15,
-  "www.blackfire.eu": 10,
-  "www.amazon.it": 2
+  "games-island.eu": 3,
+  "www.amazon.it": 3,
+  "pokeseller14.com": 1
  },
- "runno": 11113
+ "runno": 11114
 }
