@@ -570,7 +570,7 @@
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "PokeCardShop": {
-   "Pitch Black (ME05)": "esaurito",
+   "Pitch Black (ME05)": "disponibile",
    "30th Celebration": "esaurito",
    "Storm Emerald (ME06)": "non listato",
    "Chaos Rising (ME04)": "esaurito",
@@ -959,7 +959,7 @@
   "pokeseller14.com": "https://pokeseller14.com/search?q={q}"
  },
  "alerts": {
-  "PokeCardShop|Pitch Black (ME05)": 1790032560.8002572
+  "PokeCardShop|Pitch Black (ME05)": 1790180462.8702874
  },
  "prices": {
   "Packratt (UK)|Chaos Rising (ME04)": "£10.01",
@@ -1001,14 +1001,6 @@
   "SunnyStore|Pokémon 151": [
    "listato",
    1
-  ],
-  "Pokemons.dk|Crown Zenith": [
-   "disponibile",
-   1
-  ],
-  "PokeCardShop|Pitch Black (ME05)": [
-   "disponibile",
-   1
   ]
  },
  "urls": {
@@ -1048,11 +1040,6 @@
  },
  "digest_slot": "2026-09-23-18",
  "log": [
-  {
-   "ts": "05/07 19:55",
-   "title": "📉 Prezzo giù: Pitch Black (ME05) — MagicBazar",
-   "url": "https://www.magicbazar.fr/en/produit/647162/gift-bundle-marvel-super-heroes-magic-en"
-  },
   {
    "ts": "05/07 20:41",
    "title": "🚨 DISPONIBILE/PREORDER: 30th Celebration — LetsGoTry",
@@ -1197,6 +1184,11 @@
    "ts": "22/09 01:16",
    "title": "🚨 DISPONIBILE/PREORDER: Pitch Black (ME05) — PokeCardShop",
    "url": "https://www.pokecardshop.be/search?q=pitch+black"
+  },
+  {
+   "ts": "23/09 18:21",
+   "title": "🚨 RESTOCK: Pitch Black (ME05) — PokeCardShop",
+   "url": "https://www.pokecardshop.be/search?q=pitch+black"
   }
  ],
  "down": {
@@ -1204,7 +1196,7 @@
   "www.gamestop.com": 84,
   "www.gamelife.it": 943,
   "geco-shop.de": 943,
-  "www.chaoscards.co.uk": 942,
+  "www.chaoscards.co.uk": 943,
   "www.waylandgames.co.uk": 943,
   "www.firestormgames.co.uk": 943,
   "hobbykort.se": 943,
@@ -1224,19 +1216,20 @@
   "pokeka.hu": 230,
   "www.deckshop.de": 152,
   "pokechest.at": 121,
-  "misticards.com": 119,
+  "misticards.com": 120,
   "lorenzone.fr": 96,
   "crispycards.de": 97,
   "rarecards.nl": 96,
   "pokevend.at": 93,
   "tcgstore.se": 91,
-  "www.poketalk.se": 80,
+  "www.poketalk.se": 81,
   "vinticards.com": 49,
   "tcgfanshop.nl": 44,
   "www.pokipair.com": 32,
   "tradingcard.fi": 12,
   "pokewoke.store": 7,
-  "www.blackfire.eu": 3
+  "www.blackfire.eu": 3,
+  "pokeboxstore.pt": 1
  },
- "runno": 11279
+ "runno": 11280
 }
