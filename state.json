@@ -997,10 +997,6 @@
   "Pokipair|30th Celebration": [
    "disponibile",
    1
-  ],
-  "Pokemons.dk|Crown Zenith": [
-   "disponibile",
-   1
   ]
  },
  "urls": {
@@ -1038,7 +1034,7 @@
   "Pikashop|30th Celebration": "https://pikashop.pl/?s=30th+celebration&post_type=product",
   "Sapphire-Cards|30th Celebration": "https://sapphire-cards.de/?s=30th+celebration&post_type=product"
  },
- "digest_slot": "2026-09-24-15",
+ "digest_slot": "2026-09-24-18",
  "log": [
   {
    "ts": "05/07 20:41",
@@ -1202,7 +1198,7 @@
   "hobbykort.se": 957,
   "tcgcompany.nl": 957,
   "www.nerdom.gr": 956,
-  "www.pokekarty.pl": 956,
+  "www.pokekarty.pl": 957,
   "www.wakuwaku.cz": 956,
   "www.pokemonia.ro": 957,
   "en.tcg-shop.at": 956,
@@ -1210,11 +1206,11 @@
   "itcg.bg": 589,
   "bescards.com": 550,
   "cardcorner.at": 489,
-  "pokectcg.cz": 401,
-  "letsgotry.pl": 347,
+  "pokectcg.cz": 402,
+  "letsgotry.pl": 348,
   "www.pokemillon.com": 320,
   "pokeka.hu": 244,
-  "www.deckshop.de": 165,
+  "www.deckshop.de": 166,
   "pokechest.at": 135,
   "misticards.com": 133,
   "lorenzone.fr": 110,
@@ -1224,11 +1220,12 @@
   "www.poketalk.se": 94,
   "vinticards.com": 63,
   "tcgfanshop.nl": 58,
-  "www.pokipair.com": 45,
+  "www.pokipair.com": 46,
   "pokewoke.store": 21,
   "tradingcard.fi": 11,
   "www.blackfire.eu": 9,
-  "crispycards.de": 7
+  "crispycards.de": 7,
+  "tcgdistribution.fr": 1
  },
- "runno": 11446
+ "runno": 11447
 }
