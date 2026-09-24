@@ -679,7 +679,7 @@
   },
   "Pokecollect": {
    "Pitch Black (ME05)": "disponibile",
-   "30th Celebration": "disponibile",
+   "30th Celebration": "listato",
    "Storm Emerald (ME06)": "disponibile",
    "Chaos Rising (ME04)": "disponibile",
    "Phantasmal Flames (ME02)": "non listato",
@@ -998,6 +998,10 @@
    "disponibile",
    1
   ],
+  "Pokecollect|30th Celebration": [
+   "listato",
+   1
+  ],
   "Pokemons.dk|Crown Zenith": [
    "disponibile",
    1
@@ -1042,7 +1046,7 @@
   "Pikashop|30th Celebration": "https://pikashop.pl/?s=30th+celebration&post_type=product",
   "Sapphire-Cards|30th Celebration": "https://sapphire-cards.de/?s=30th+celebration&post_type=product"
  },
- "digest_slot": "2026-09-24-10",
+ "digest_slot": "2026-09-24-15",
  "log": [
   {
    "ts": "05/07 20:41",
