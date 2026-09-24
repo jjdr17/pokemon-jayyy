@@ -679,7 +679,7 @@
   },
   "Pokecollect": {
    "Pitch Black (ME05)": "disponibile",
-   "30th Celebration": "listato",
+   "30th Celebration": "disponibile",
    "Storm Emerald (ME06)": "disponibile",
    "Chaos Rising (ME04)": "disponibile",
    "Phantasmal Flames (ME02)": "non listato",
@@ -997,10 +997,6 @@
   "Pokipair|30th Celebration": [
    "disponibile",
    1
-  ],
-  "Pokecollect|30th Celebration": [
-   "disponibile",
-   1
   ]
  },
  "urls": {
@@ -1228,12 +1224,8 @@
   "pokewoke.store": 21,
   "tradingcard.fi": 12,
   "crispycards.de": 7,
-  "www.blackfire.eu": 2,
-  "pokeboxstore.pt": 1,
-  "tcgpikas.lt": 1,
-  "pokemonworld.lt": 1,
-  "tcgdistribution.fr": 1,
-  "games-island.eu": 1
+  "www.blackfire.eu": 3,
+  "godofcards.com": 1
  },
  "runno": 11455
 }
