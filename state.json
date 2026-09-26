@@ -26,7 +26,7 @@
   },
   "Amazon.it": {
    "30th Celebration": "non listato",
-   "Storm Emerald (ME06)": "listato",
+   "Storm Emerald (ME06)": "non listato",
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "TCGplayer": {
@@ -822,15 +822,15 @@
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "Pikashop": {
-   "Pitch Black (ME05)": "listato",
-   "30th Celebration": "disponibile",
-   "Storm Emerald (ME06)": "disponibile",
-   "Chaos Rising (ME04)": "listato",
-   "Phantasmal Flames (ME02)": "listato",
-   "Pokémon 151": "listato",
-   "Prismatic Evolutions": "listato",
-   "Crown Zenith": "listato",
-   "Destined Rivals": "listato",
+   "Pitch Black (ME05)": "non listato",
+   "30th Celebration": "non listato",
+   "Storm Emerald (ME06)": "non listato",
+   "Chaos Rising (ME04)": "non listato",
+   "Phantasmal Flames (ME02)": "non listato",
+   "Pokémon 151": "non listato",
+   "Prismatic Evolutions": "non listato",
+   "Crown Zenith": "non listato",
+   "Destined Rivals": "non listato",
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "ExtremePokeCorner": {
@@ -1002,44 +1002,8 @@
    "listato",
    1
   ],
-  "Amazon.it|Storm Emerald (ME06)": [
-   "non listato",
-   1
-  ],
-  "Pikashop|Pitch Black (ME05)": [
-   "non listato",
-   1
-  ],
-  "Pikashop|30th Celebration": [
-   "non listato",
-   1
-  ],
-  "Pikashop|Storm Emerald (ME06)": [
-   "non listato",
-   1
-  ],
-  "Pikashop|Chaos Rising (ME04)": [
-   "non listato",
-   1
-  ],
-  "Pikashop|Phantasmal Flames (ME02)": [
-   "non listato",
-   1
-  ],
-  "Pikashop|Pokémon 151": [
-   "non listato",
-   1
-  ],
-  "Pikashop|Prismatic Evolutions": [
-   "non listato",
-   1
-  ],
-  "Pikashop|Crown Zenith": [
-   "non listato",
-   1
-  ],
-  "Pikashop|Destined Rivals": [
-   "non listato",
+  "Pokemons.dk|Crown Zenith": [
+   "disponibile",
    1
   ]
  },
@@ -1234,8 +1198,8 @@
  "down": {
   "www.cardmarket.com": 979,
   "www.gamestop.com": 84,
-  "www.gamelife.it": 979,
-  "geco-shop.de": 979,
+  "www.gamelife.it": 980,
+  "geco-shop.de": 980,
   "www.chaoscards.co.uk": 979,
   "www.waylandgames.co.uk": 979,
   "www.firestormgames.co.uk": 980,
@@ -1261,7 +1225,7 @@
   "www.poketalk.se": 117,
   "vinticards.com": 86,
   "www.pokipair.com": 68,
-  "pokewoke.store": 43,
+  "pokewoke.store": 44,
   "tradingcard.fi": 34,
   "tcgfanshop.nl": 20,
   "tcgstore.se": 15,
@@ -1270,9 +1234,9 @@
   "crispycards.de": 8,
   "www.blackfire.eu": 7,
   "pokeboxstore.pt": 5,
-  "www.amazon.it": 3,
-  "games-island.eu": 2,
-  "oppacards.com": 1
+  "tcgpikas.lt": 1,
+  "pokemonworld.lt": 1,
+  "extremepokecorner.com": 1
  },
- "runno": 11719
+ "runno": 11720
 }
