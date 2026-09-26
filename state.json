@@ -1001,6 +1001,18 @@
   "Amazon.it|30th Celebration": [
    "listato",
    1
+  ],
+  "Pokemons.dk|Crown Zenith": [
+   "disponibile",
+   1
+  ],
+  "PokeCardShop|Prismatic Evolutions": [
+   "listato",
+   1
+  ],
+  "PokeCardShop|Crown Zenith": [
+   "non listato",
+   1
   ]
  },
  "urls": {
@@ -1205,7 +1217,7 @@
   "www.pokekarty.pl": 974,
   "www.wakuwaku.cz": 973,
   "www.pokemonia.ro": 974,
-  "en.tcg-shop.at": 973,
+  "en.tcg-shop.at": 974,
   "kaissagames.com": 770,
   "bescards.com": 567,
   "cardcorner.at": 506,
@@ -1223,13 +1235,14 @@
   "www.pokipair.com": 63,
   "pokewoke.store": 38,
   "tradingcard.fi": 28,
-  "tcgfanshop.nl": 14,
+  "tcgfanshop.nl": 15,
   "tcgstore.se": 10,
   "itcg.bg": 9,
-  "pokechest.at": 8,
+  "pokechest.at": 9,
   "www.blackfire.eu": 4,
-  "www.amazon.it": 1,
-  "crispycards.de": 1
+  "www.amazon.it": 2,
+  "crispycards.de": 2,
+  "pokeboxstore.pt": 1
  },
- "runno": 11652
+ "runno": 11653
 }
