@@ -571,7 +571,7 @@
   },
   "PokeCardShop": {
    "Pitch Black (ME05)": "disponibile",
-   "30th Celebration": "non listato",
+   "30th Celebration": "esaurito",
    "Storm Emerald (ME06)": "non listato",
    "Chaos Rising (ME04)": "esaurito",
    "Phantasmal Flames (ME02)": "esaurito",
@@ -1001,6 +1001,10 @@
   "Pokemons.dk|Crown Zenith": [
    "disponibile",
    1
+  ],
+  "PokeCardShop|Chaos Rising (ME04)": [
+   "non listato",
+   1
   ]
  },
  "urls": {
@@ -1228,6 +1232,8 @@
   "tcgstore.se": 8,
   "itcg.bg": 7,
   "pokechest.at": 7,
+  "games-island.eu": 2,
+  "www.blackfire.eu": 1,
   "pokeboxstore.pt": 1
  },
  "runno": 11633
