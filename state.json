@@ -150,7 +150,7 @@
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "God of Cards": {
-   "Pitch Black (ME05)": "non listato",
+   "Pitch Black (ME05)": "listato",
    "30th Celebration": "listato",
    "Storm Emerald (ME06)": "non listato",
    "Chaos Rising (ME04)": "listato",
@@ -1006,16 +1006,8 @@
    "non listato",
    1
   ],
-  "AllDayTCG|30th Celebration": [
-   "non listato",
-   1
-  ],
-  "God of Cards|Pitch Black (ME05)": [
-   "listato",
-   1
-  ],
-  "Pokemons.dk|Crown Zenith": [
-   "disponibile",
+  "AllDayTCG|Pitch Black (ME05)": [
+   "esaurito",
    1
   ]
  },
@@ -1217,7 +1209,7 @@
   "www.firestormgames.co.uk": 993,
   "hobbykort.se": 993,
   "tcgcompany.nl": 993,
-  "www.nerdom.gr": 992,
+  "www.nerdom.gr": 993,
   "www.pokekarty.pl": 993,
   "www.wakuwaku.cz": 993,
   "www.pokemonia.ro": 993,
@@ -1232,8 +1224,8 @@
   "www.deckshop.de": 202,
   "misticards.com": 170,
   "lorenzone.fr": 147,
-  "rarecards.nl": 146,
-  "pokevend.at": 143,
+  "rarecards.nl": 147,
+  "pokevend.at": 144,
   "www.poketalk.se": 131,
   "vinticards.com": 99,
   "www.pokipair.com": 82,
@@ -1246,9 +1238,7 @@
   "www.blackfire.eu": 8,
   "crispycards.de": 7,
   "www.amazon.it": 4,
-  "games-island.eu": 4,
-  "pokeboxstore.pt": 2,
-  "oppacards.com": 1
+  "games-island.eu": 4
  },
- "runno": 11882
+ "runno": 11883
 }
