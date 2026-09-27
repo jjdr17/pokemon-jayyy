@@ -576,7 +576,7 @@
    "Chaos Rising (ME04)": "esaurito",
    "Phantasmal Flames (ME02)": "esaurito",
    "Pokémon 151": "listato",
-   "Prismatic Evolutions": "listato",
+   "Prismatic Evolutions": "non listato",
    "Crown Zenith": "listato",
    "Destined Rivals": "non listato",
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
@@ -1002,12 +1002,8 @@
    "listato",
    1
   ],
-  "Pokemons.dk|Crown Zenith": [
-   "disponibile",
-   1
-  ],
-  "PokeCardShop|Prismatic Evolutions": [
-   "non listato",
+  "PokeCardShop|Destined Rivals": [
+   "esaurito",
    1
   ]
  },
@@ -1202,8 +1198,8 @@
  "down": {
   "www.cardmarket.com": 987,
   "www.gamestop.com": 84,
-  "www.gamelife.it": 987,
-  "geco-shop.de": 987,
+  "www.gamelife.it": 988,
+  "geco-shop.de": 988,
   "www.chaoscards.co.uk": 987,
   "www.waylandgames.co.uk": 987,
   "www.firestormgames.co.uk": 988,
@@ -1229,17 +1225,14 @@
   "www.poketalk.se": 125,
   "vinticards.com": 94,
   "www.pokipair.com": 76,
-  "pokewoke.store": 51,
+  "pokewoke.store": 52,
   "tradingcard.fi": 42,
   "tcgfanshop.nl": 28,
   "tcgstore.se": 23,
   "itcg.bg": 22,
   "pokechest.at": 16,
   "www.blackfire.eu": 8,
-  "crispycards.de": 4,
-  "www.amazon.it": 4,
-  "pokeboxstore.pt": 2,
-  "oppacards.com": 1
+  "crispycards.de": 4
  },
- "runno": 11815
+ "runno": 11816
 }
