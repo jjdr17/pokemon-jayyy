@@ -959,7 +959,7 @@
   "pokeseller14.com": "https://pokeseller14.com/search?q={q}"
  },
  "alerts": {
-  "PokeCardShop|Pitch Black (ME05)": 1790477826.2996
+  "PokeCardShop|Pitch Black (ME05)": 1790180462.8702874
  },
  "prices": {
   "Packratt (UK)|Chaos Rising (ME04)": "£10.01",
@@ -999,10 +999,6 @@
    1
   ],
   "CrispyCards|Storm Emerald (ME06)": [
-   "listato",
-   1
-  ],
-  "Amazon.it|Storm Emerald (ME06)": [
    "listato",
    1
   ],
@@ -1048,6 +1044,11 @@
  },
  "digest_slot": "2026-09-26-22",
  "log": [
+  {
+   "ts": "05/07 20:41",
+   "title": "🚨 DISPONIBILE/PREORDER: 30th Celebration — LetsGoTry",
+   "url": "https://letsgotry.pl/zestawy-eng/15894--preorder-pokemon-tcg-30th-celebration-tin-greninja-ex.html"
+  },
   {
    "ts": "06/07 02:55",
    "title": "🚨 DISPONIBILE/PREORDER: 30th Celebration — LetsGoTry",
@@ -1192,11 +1193,6 @@
    "ts": "23/09 18:21",
    "title": "🚨 RESTOCK: Pitch Black (ME05) — PokeCardShop",
    "url": "https://www.pokecardshop.be/search?q=pitch+black"
-  },
-  {
-   "ts": "27/09 04:57",
-   "title": "🚨 DISPONIBILE/PREORDER: Pitch Black (ME05) — PokeCardShop",
-   "url": "https://www.pokecardshop.be/search?q=pitch+black"
   }
  ],
  "down": {
@@ -1237,7 +1233,7 @@
   "pokechest.at": 15,
   "www.blackfire.eu": 7,
   "crispycards.de": 3,
-  "games-island.eu": 2
+  "www.amazon.it": 3
  },
  "runno": 11801
 }
