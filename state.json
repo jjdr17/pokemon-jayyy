@@ -822,15 +822,15 @@
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "Pikashop": {
-   "Pitch Black (ME05)": "listato",
-   "30th Celebration": "disponibile",
-   "Storm Emerald (ME06)": "disponibile",
-   "Chaos Rising (ME04)": "listato",
-   "Phantasmal Flames (ME02)": "listato",
-   "Pokémon 151": "listato",
-   "Prismatic Evolutions": "listato",
-   "Crown Zenith": "listato",
-   "Destined Rivals": "listato",
+   "Pitch Black (ME05)": "non listato",
+   "30th Celebration": "non listato",
+   "Storm Emerald (ME06)": "non listato",
+   "Chaos Rising (ME04)": "non listato",
+   "Phantasmal Flames (ME02)": "non listato",
+   "Pokémon 151": "non listato",
+   "Prismatic Evolutions": "non listato",
+   "Crown Zenith": "non listato",
+   "Destined Rivals": "non listato",
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "ExtremePokeCorner": {
@@ -1004,40 +1004,8 @@
    "listato",
    1
   ],
-  "Pikashop|Pitch Black (ME05)": [
-   "non listato",
-   1
-  ],
-  "Pikashop|30th Celebration": [
-   "non listato",
-   1
-  ],
-  "Pikashop|Storm Emerald (ME06)": [
-   "non listato",
-   1
-  ],
-  "Pikashop|Chaos Rising (ME04)": [
-   "non listato",
-   1
-  ],
-  "Pikashop|Phantasmal Flames (ME02)": [
-   "non listato",
-   1
-  ],
-  "Pikashop|Pokémon 151": [
-   "non listato",
-   1
-  ],
-  "Pikashop|Prismatic Evolutions": [
-   "non listato",
-   1
-  ],
-  "Pikashop|Crown Zenith": [
-   "non listato",
-   1
-  ],
-  "Pikashop|Destined Rivals": [
-   "non listato",
+  "Pokemons.dk|Crown Zenith": [
+   "disponibile",
    1
   ]
  },
@@ -1244,7 +1212,7 @@
   "www.pokekarty.pl": 1009,
   "www.wakuwaku.cz": 1008,
   "www.pokemonia.ro": 1009,
-  "en.tcg-shop.at": 1008,
+  "en.tcg-shop.at": 1009,
   "kaissagames.com": 805,
   "bescards.com": 602,
   "cardcorner.at": 541,
@@ -1261,15 +1229,14 @@
   "pokewoke.store": 73,
   "tcgstore.se": 45,
   "itcg.bg": 44,
-  "pokechest.at": 37,
+  "pokechest.at": 38,
   "crispycards.de": 18,
   "tradingcard.fi": 7,
   "www.blackfire.eu": 6,
   "www.deckshop.de": 6,
   "www.amazon.it": 5,
-  "tcgfanshop.nl": 4,
-  "pokebank.es": 3,
-  "oppacards.com": 1
+  "tcgfanshop.nl": 5,
+  "pokebank.es": 4
  },
- "runno": 12072
+ "runno": 12073
 }
