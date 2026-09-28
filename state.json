@@ -679,7 +679,7 @@
   },
   "Pokecollect": {
    "Pitch Black (ME05)": "disponibile",
-   "30th Celebration": "disponibile",
+   "30th Celebration": "listato",
    "Storm Emerald (ME06)": "disponibile",
    "Chaos Rising (ME04)": "disponibile",
    "Phantasmal Flames (ME02)": "non listato",
@@ -1004,8 +1004,12 @@
    "listato",
    1
   ],
-  "Pokecollect|30th Celebration": [
-   "listato",
+  "Pokemons.dk|Crown Zenith": [
+   "disponibile",
+   1
+  ],
+  "PokeCardShop|Phantasmal Flames (ME02)": [
+   "non listato",
    1
   ]
  },
@@ -1237,5 +1241,5 @@
   "www.amazon.it": 3,
   "tcgfanshop.nl": 3
  },
- "runno": 12054
+ "runno": 12055
 }
