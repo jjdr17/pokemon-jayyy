@@ -1004,6 +1004,10 @@
    "listato",
    1
   ],
+  "Pokemons.dk|Crown Zenith": [
+   "disponibile",
+   1
+  ],
   "Pikashop|Pitch Black (ME05)": [
    "listato",
    1
@@ -1038,10 +1042,6 @@
   ],
   "Pikashop|Destined Rivals": [
    "listato",
-   1
-  ],
-  "PokeCardShop|Crown Zenith": [
-   "non listato",
    1
   ]
  },
@@ -1244,7 +1244,7 @@
   "www.firestormgames.co.uk": 1008,
   "hobbykort.se": 1008,
   "tcgcompany.nl": 1008,
-  "www.nerdom.gr": 1007,
+  "www.nerdom.gr": 1008,
   "www.pokekarty.pl": 1008,
   "www.wakuwaku.cz": 1008,
   "www.pokemonia.ro": 1008,
@@ -1258,8 +1258,8 @@
   "pokeka.hu": 296,
   "misticards.com": 185,
   "lorenzone.fr": 162,
-  "rarecards.nl": 161,
-  "pokevend.at": 158,
+  "rarecards.nl": 162,
+  "pokevend.at": 159,
   "www.poketalk.se": 146,
   "vinticards.com": 114,
   "pokewoke.store": 72,
@@ -1273,5 +1273,5 @@
   "www.amazon.it": 4,
   "tcgfanshop.nl": 4
  },
- "runno": 12062
+ "runno": 12063
 }
