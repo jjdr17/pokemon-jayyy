@@ -1001,10 +1001,6 @@
   "CrispyCards|Storm Emerald (ME06)": [
    "listato",
    1
-  ],
-  "Pokemons.dk|Crown Zenith": [
-   "disponibile",
-   1
   ]
  },
  "urls": {
@@ -1198,8 +1194,8 @@
  "down": {
   "www.cardmarket.com": 1000,
   "www.gamestop.com": 84,
-  "www.gamelife.it": 1000,
-  "geco-shop.de": 1000,
+  "www.gamelife.it": 1001,
+  "geco-shop.de": 1001,
   "www.chaoscards.co.uk": 1000,
   "www.waylandgames.co.uk": 1000,
   "www.firestormgames.co.uk": 1001,
@@ -1224,7 +1220,7 @@
   "www.poketalk.se": 138,
   "vinticards.com": 107,
   "www.pokipair.com": 89,
-  "pokewoke.store": 64,
+  "pokewoke.store": 65,
   "tcgfanshop.nl": 41,
   "tcgstore.se": 36,
   "itcg.bg": 35,
@@ -1232,7 +1228,11 @@
   "crispycards.de": 9,
   "tradingcard.fi": 9,
   "www.blackfire.eu": 8,
-  "www.deckshop.de": 5
+  "www.deckshop.de": 5,
+  "www.amazon.it": 1,
+  "tcgpikas.lt": 1,
+  "pokemonworld.lt": 1,
+  "www.lotticards.de": 1
  },
- "runno": 11971
+ "runno": 11972
 }
