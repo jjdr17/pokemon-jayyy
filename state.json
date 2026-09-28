@@ -570,7 +570,7 @@
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "PokeCardShop": {
-   "Pitch Black (ME05)": "esaurito",
+   "Pitch Black (ME05)": "disponibile",
    "30th Celebration": "esaurito",
    "Storm Emerald (ME06)": "non listato",
    "Chaos Rising (ME04)": "esaurito",
@@ -959,7 +959,7 @@
   "pokeseller14.com": "https://pokeseller14.com/search?q={q}"
  },
  "alerts": {
-  "PokeCardShop|Pitch Black (ME05)": 1790180462.8702874
+  "PokeCardShop|Pitch Black (ME05)": 1790558158.9204955
  },
  "prices": {
   "Packratt (UK)|Chaos Rising (ME04)": "£10.01",
@@ -1001,14 +1001,6 @@
   "CrispyCards|Storm Emerald (ME06)": [
    "listato",
    1
-  ],
-  "Pokemons.dk|Crown Zenith": [
-   "disponibile",
-   1
-  ],
-  "PokeCardShop|Pitch Black (ME05)": [
-   "disponibile",
-   1
   ]
  },
  "urls": {
@@ -1048,11 +1040,6 @@
  },
  "digest_slot": "2026-09-27-22",
  "log": [
-  {
-   "ts": "05/07 20:41",
-   "title": "🚨 DISPONIBILE/PREORDER: 30th Celebration — LetsGoTry",
-   "url": "https://letsgotry.pl/zestawy-eng/15894--preorder-pokemon-tcg-30th-celebration-tin-greninja-ex.html"
-  },
   {
    "ts": "06/07 02:55",
    "title": "🚨 DISPONIBILE/PREORDER: 30th Celebration — LetsGoTry",
@@ -1197,15 +1184,20 @@
    "ts": "23/09 18:21",
    "title": "🚨 RESTOCK: Pitch Black (ME05) — PokeCardShop",
    "url": "https://www.pokecardshop.be/search?q=pitch+black"
+  },
+  {
+   "ts": "28/09 03:16",
+   "title": "🚨 RESTOCK: Pitch Black (ME05) — PokeCardShop",
+   "url": "https://www.pokecardshop.be/search?q=pitch+black"
   }
  ],
  "down": {
-  "www.cardmarket.com": 997,
+  "www.cardmarket.com": 998,
   "www.gamestop.com": 84,
   "www.gamelife.it": 998,
   "geco-shop.de": 998,
   "www.chaoscards.co.uk": 997,
-  "www.waylandgames.co.uk": 997,
+  "www.waylandgames.co.uk": 998,
   "www.firestormgames.co.uk": 998,
   "hobbykort.se": 998,
   "tcgcompany.nl": 998,
@@ -1216,7 +1208,7 @@
   "en.tcg-shop.at": 997,
   "kaissagames.com": 794,
   "bescards.com": 591,
-  "cardcorner.at": 529,
+  "cardcorner.at": 530,
   "pokectcg.cz": 442,
   "letsgotry.pl": 388,
   "www.pokemillon.com": 361,
@@ -1232,11 +1224,13 @@
   "pokewoke.store": 62,
   "tcgfanshop.nl": 38,
   "tcgstore.se": 34,
-  "itcg.bg": 32,
+  "itcg.bg": 33,
   "pokechest.at": 26,
-  "crispycards.de": 6,
+  "crispycards.de": 7,
   "tradingcard.fi": 6,
-  "www.blackfire.eu": 5
+  "www.blackfire.eu": 5,
+  "tcgdistribution.fr": 1,
+  "games-island.eu": 1
  },
- "runno": 11937
+ "runno": 11938
 }
