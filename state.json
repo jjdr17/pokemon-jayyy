@@ -703,7 +703,7 @@
   },
   "MagicBazar": {
    "Pitch Black (ME05)": "non listato",
-   "30th Celebration": "non listato",
+   "30th Celebration": "disponibile",
    "Storm Emerald (ME06)": "non listato",
    "Chaos Rising (ME04)": "non listato",
    "Phantasmal Flames (ME02)": "non listato",
@@ -959,7 +959,8 @@
   "pokeseller14.com": "https://pokeseller14.com/search?q={q}"
  },
  "alerts": {
-  "PokeCardShop|Pitch Black (ME05)": 1790558158.9204955
+  "PokeCardShop|Pitch Black (ME05)": 1790558158.9204955,
+  "MagicBazar|30th Celebration": 1790612742.3273463
  },
  "prices": {
   "Packratt (UK)|Chaos Rising (ME04)": "£10.01",
@@ -971,7 +972,8 @@
   "Stoyanov Games|Pitch Black (ME05)": "8.00€",
   "PokeCardShop|30th Celebration": "€8.95",
   "Pokebank|Destined Rivals": "129,99€",
-  "PokeCardShop|Pitch Black (ME05)": "€6.95"
+  "PokeCardShop|Pitch Black (ME05)": "€6.95",
+  "MagicBazar|30th Celebration": "4,90 €"
  },
  "pending": {
   "BESCARDS|Pitch Black (ME05)": [
@@ -996,14 +998,6 @@
   ],
   "CrispyCards|Storm Emerald (ME06)": [
    "listato",
-   1
-  ],
-  "MagicBazar|30th Celebration": [
-   "disponibile",
-   1
-  ],
-  "Pokemons.dk|Crown Zenith": [
-   "disponibile",
    1
   ]
  },
@@ -1040,15 +1034,11 @@
   "PokeCardShop|Pitch Black (ME05)": "https://www.pokecardshop.be/search?q=pitch+black",
   "Pokecollect|Storm Emerald (ME06)": "https://pokecollect.pl/?s=storm+emerald&post_type=product",
   "Pikashop|30th Celebration": "https://pikashop.pl/?s=30th+celebration&post_type=product",
-  "Sapphire-Cards|30th Celebration": "https://sapphire-cards.de/?s=30th+celebration&post_type=product"
+  "Sapphire-Cards|30th Celebration": "https://sapphire-cards.de/?s=30th+celebration&post_type=product",
+  "MagicBazar|30th Celebration": "https://www.magicbazar.fr/?s=30th+celebration&post_type=product"
  },
  "digest_slot": "2026-09-28-18",
  "log": [
-  {
-   "ts": "06/07 02:55",
-   "title": "🚨 DISPONIBILE/PREORDER: 30th Celebration — LetsGoTry",
-   "url": "https://letsgotry.pl/zestawy-eng/15894--preorder-pokemon-tcg-30th-celebration-tin-greninja-ex.html"
-  },
   {
    "ts": "06/07 10:21",
    "title": "🚨 DISPONIBILE/PREORDER: 30th Celebration — LetsGoTry",
@@ -1193,6 +1183,11 @@
    "ts": "28/09 03:16",
    "title": "🚨 RESTOCK: Pitch Black (ME05) — PokeCardShop",
    "url": "https://www.pokecardshop.be/search?q=pitch+black"
+  },
+  {
+   "ts": "28/09 18:25",
+   "title": "🚨 DISPONIBILE/PREORDER: 30th Celebration — MagicBazar",
+   "url": "https://www.magicbazar.fr/?s=30th+celebration&post_type=product"
   }
  ],
  "down": {
@@ -1200,7 +1195,7 @@
   "www.gamestop.com": 84,
   "www.gamelife.it": 1006,
   "geco-shop.de": 1006,
-  "www.chaoscards.co.uk": 1005,
+  "www.chaoscards.co.uk": 1006,
   "www.waylandgames.co.uk": 1006,
   "www.firestormgames.co.uk": 1006,
   "hobbykort.se": 1006,
@@ -1217,11 +1212,11 @@
   "letsgotry.pl": 397,
   "www.pokemillon.com": 369,
   "pokeka.hu": 293,
-  "misticards.com": 182,
+  "misticards.com": 183,
   "lorenzone.fr": 159,
   "rarecards.nl": 159,
   "pokevend.at": 156,
-  "www.poketalk.se": 143,
+  "www.poketalk.se": 144,
   "vinticards.com": 112,
   "pokewoke.store": 70,
   "tcgfanshop.nl": 46,
@@ -1232,7 +1227,10 @@
   "tradingcard.fi": 4,
   "www.blackfire.eu": 3,
   "www.amazon.it": 3,
-  "pokeboxstore.pt": 1
+  "www.deckshop.de": 1,
+  "tcgpikas.lt": 1,
+  "pokemonworld.lt": 1,
+  "games-island.eu": 1
  },
- "runno": 12035
+ "runno": 12036
 }
