@@ -1003,6 +1003,18 @@
   "Amazon.it|Storm Emerald (ME06)": [
    "non listato",
    1
+  ],
+  "Pokebox|Pitch Black (ME05)": [
+   "non listato",
+   1
+  ],
+  "Pokebox|30th Celebration": [
+   "listato",
+   1
+  ],
+  "Pokemons.dk|Crown Zenith": [
+   "disponibile",
+   1
   ]
  },
  "urls": {
@@ -1041,7 +1053,7 @@
   "Sapphire-Cards|30th Celebration": "https://sapphire-cards.de/?s=30th+celebration&post_type=product",
   "MagicBazar|30th Celebration": "https://www.magicbazar.fr/?s=30th+celebration&post_type=product"
  },
- "digest_slot": "2026-09-28-22",
+ "digest_slot": "2026-09-29-10",
  "log": [
   {
    "ts": "06/07 10:21",
@@ -1231,8 +1243,8 @@
   "www.deckshop.de": 10,
   "tcgfanshop.nl": 9,
   "www.amazon.it": 3,
-  "pokeboxstore.pt": 3,
-  "games-island.eu": 1
+  "www.blackfire.eu": 1,
+  "www.lotticards.de": 1
  },
- "runno": 12126
+ "runno": 12127
 }
