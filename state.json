@@ -703,7 +703,7 @@
   },
   "MagicBazar": {
    "Pitch Black (ME05)": "non listato",
-   "30th Celebration": "disponibile",
+   "30th Celebration": "listato",
    "Storm Emerald (ME06)": "non listato",
    "Chaos Rising (ME04)": "non listato",
    "Phantasmal Flames (ME02)": "non listato",
@@ -999,10 +999,6 @@
   "CrispyCards|Storm Emerald (ME06)": [
    "listato",
    1
-  ],
-  "Pokemons.dk|Crown Zenith": [
-   "disponibile",
-   1
   ]
  },
  "urls": {
@@ -1041,7 +1037,7 @@
   "Sapphire-Cards|30th Celebration": "https://sapphire-cards.de/?s=30th+celebration&post_type=product",
   "MagicBazar|30th Celebration": "https://www.magicbazar.fr/en/produit/670423/booster-pokemon-30-ans-30th-celebration-m6a-cn"
  },
- "digest_slot": "2026-09-29-10",
+ "digest_slot": "2026-09-29-15",
  "log": [
   {
    "ts": "06/07 10:21",
@@ -1206,18 +1202,18 @@
   "tcgcompany.nl": 1016,
   "www.nerdom.gr": 1015,
   "www.pokekarty.pl": 1016,
-  "www.wakuwaku.cz": 1015,
+  "www.wakuwaku.cz": 1016,
   "www.pokemonia.ro": 1016,
   "en.tcg-shop.at": 1016,
-  "kaissagames.com": 812,
+  "kaissagames.com": 813,
   "bescards.com": 609,
   "cardcorner.at": 548,
   "pokectcg.cz": 461,
   "letsgotry.pl": 407,
-  "www.pokemillon.com": 379,
-  "pokeka.hu": 303,
+  "www.pokemillon.com": 380,
+  "pokeka.hu": 304,
   "misticards.com": 193,
-  "lorenzone.fr": 169,
+  "lorenzone.fr": 170,
   "rarecards.nl": 169,
   "pokevend.at": 166,
   "www.poketalk.se": 154,
@@ -1229,9 +1225,9 @@
   "crispycards.de": 25,
   "www.deckshop.de": 13,
   "tcgfanshop.nl": 12,
-  "www.blackfire.eu": 5,
+  "www.blackfire.eu": 6,
   "www.amazon.it": 4,
   "tradingcard.fi": 3
  },
- "runno": 12157
+ "runno": 12158
 }
