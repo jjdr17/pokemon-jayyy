@@ -1000,8 +1000,16 @@
    "listato",
    1
   ],
-  "Pokemons.dk|Crown Zenith": [
-   "disponibile",
+  "PokeCardShop|Pokémon 151": [
+   "non listato",
+   1
+  ],
+  "PokeCardShop|Crown Zenith": [
+   "non listato",
+   1
+  ],
+  "PokeCardShop|Destined Rivals": [
+   "non listato",
    1
   ]
  },
@@ -1199,7 +1207,7 @@
   "www.gamestop.com": 84,
   "www.gamelife.it": 1015,
   "geco-shop.de": 1015,
-  "www.chaoscards.co.uk": 1014,
+  "www.chaoscards.co.uk": 1015,
   "www.waylandgames.co.uk": 1015,
   "www.firestormgames.co.uk": 1015,
   "hobbykort.se": 1015,
@@ -1216,11 +1224,11 @@
   "letsgotry.pl": 406,
   "www.pokemillon.com": 378,
   "pokeka.hu": 302,
-  "misticards.com": 191,
+  "misticards.com": 192,
   "lorenzone.fr": 168,
   "rarecards.nl": 168,
   "pokevend.at": 165,
-  "www.poketalk.se": 152,
+  "www.poketalk.se": 153,
   "vinticards.com": 121,
   "pokewoke.store": 79,
   "tcgstore.se": 51,
@@ -1231,9 +1239,8 @@
   "www.deckshop.de": 12,
   "tcgfanshop.nl": 10,
   "www.blackfire.eu": 4,
-  "www.amazon.it": 1,
-  "oppacards.com": 1,
-  "tcgdistribution.fr": 1
+  "www.amazon.it": 2,
+  "tcgdistribution.fr": 2
  },
- "runno": 12143
+ "runno": 12144
 }
