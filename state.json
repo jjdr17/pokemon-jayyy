@@ -25,7 +25,7 @@
    "Premium Deck Espeon & Umbreon (30th)": "irraggiungibile"
   },
   "Amazon.it": {
-   "30th Celebration": "non listato",
+   "30th Celebration": "listato",
    "Storm Emerald (ME06)": "listato",
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
@@ -1000,7 +1000,7 @@
    "listato",
    1
   ],
-  "Amazon.it|Storm Emerald (ME06)": [
+  "Amazon.it|30th Celebration": [
    "non listato",
    1
   ]
@@ -1230,7 +1230,8 @@
   "tradingcard.fi": 11,
   "www.blackfire.eu": 10,
   "www.deckshop.de": 9,
-  "tcgfanshop.nl": 8
+  "tcgfanshop.nl": 8,
+  "www.amazon.it": 2
  },
  "runno": 12114
 }
