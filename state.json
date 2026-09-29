@@ -999,14 +999,6 @@
   "CrispyCards|Storm Emerald (ME06)": [
    "listato",
    1
-  ],
-  "MagicBazar|30th Celebration": [
-   "disponibile",
-   1
-  ],
-  "Pokemons.dk|Crown Zenith": [
-   "disponibile",
-   1
   ]
  },
  "urls": {
@@ -1045,7 +1037,7 @@
   "Sapphire-Cards|30th Celebration": "https://sapphire-cards.de/?s=30th+celebration&post_type=product",
   "MagicBazar|30th Celebration": "https://www.magicbazar.fr/en/produit/670423/booster-pokemon-30-ans-30th-celebration-m6a-cn"
  },
- "digest_slot": "2026-09-29-15",
+ "digest_slot": "2026-09-29-18",
  "log": [
   {
    "ts": "06/07 10:21",
@@ -1201,8 +1193,8 @@
  "down": {
   "www.cardmarket.com": 1017,
   "www.gamestop.com": 84,
-  "www.gamelife.it": 1017,
-  "geco-shop.de": 1017,
+  "www.gamelife.it": 1018,
+  "geco-shop.de": 1018,
   "www.chaoscards.co.uk": 1017,
   "www.waylandgames.co.uk": 1017,
   "www.firestormgames.co.uk": 1018,
@@ -1226,7 +1218,7 @@
   "pokevend.at": 168,
   "www.poketalk.se": 155,
   "vinticards.com": 124,
-  "pokewoke.store": 81,
+  "pokewoke.store": 82,
   "tcgstore.se": 53,
   "itcg.bg": 52,
   "pokechest.at": 46,
@@ -1234,10 +1226,8 @@
   "www.deckshop.de": 14,
   "tcgfanshop.nl": 13,
   "www.blackfire.eu": 7,
-  "www.amazon.it": 5,
   "tradingcard.fi": 5,
-  "tcgdistribution.fr": 2,
-  "pokeboxstore.pt": 1
+  "oppacards.com": 1
  },
- "runno": 12175
+ "runno": 12176
 }
