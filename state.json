@@ -570,7 +570,7 @@
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "PokeCardShop": {
-   "Pitch Black (ME05)": "non listato",
+   "Pitch Black (ME05)": "disponibile",
    "30th Celebration": "esaurito",
    "Storm Emerald (ME06)": "non listato",
    "Chaos Rising (ME04)": "esaurito",
@@ -959,7 +959,7 @@
   "pokeseller14.com": "https://pokeseller14.com/search?q={q}"
  },
  "alerts": {
-  "PokeCardShop|Pitch Black (ME05)": 1790558158.9204955,
+  "PokeCardShop|Pitch Black (ME05)": 1790742664.6923764,
   "MagicBazar|30th Celebration": 1790612742.3273463
  },
  "prices": {
@@ -1000,11 +1000,7 @@
    "listato",
    1
   ],
-  "Pokemons.dk|Crown Zenith": [
-   "disponibile",
-   1
-  ],
-  "PokeCardShop|Pitch Black (ME05)": [
+  "MagicBazar|30th Celebration": [
    "disponibile",
    1
   ]
@@ -1047,11 +1043,6 @@
  },
  "digest_slot": "2026-09-29-22",
  "log": [
-  {
-   "ts": "06/07 10:21",
-   "title": "🚨 DISPONIBILE/PREORDER: 30th Celebration — LetsGoTry",
-   "url": "https://letsgotry.pl/zestawy-eng/15895--preorder-pokemon-tcg-30th-celebration-binder-collection.html"
-  },
   {
    "ts": "06/07 16:28",
    "title": "🚨 DISPONIBILE/PREORDER: 30th Celebration — LetsGoTry",
@@ -1196,6 +1187,11 @@
    "ts": "28/09 18:25",
    "title": "🚨 DISPONIBILE/PREORDER: 30th Celebration — MagicBazar",
    "url": "https://www.magicbazar.fr/?s=30th+celebration&post_type=product"
+  },
+  {
+   "ts": "30/09 06:31",
+   "title": "🚨 DISPONIBILE/PREORDER: Pitch Black (ME05) — PokeCardShop",
+   "url": "https://www.pokecardshop.be/search?q=pitch+black"
   }
  ],
  "down": {
@@ -1205,13 +1201,13 @@
   "geco-shop.de": 1024,
   "www.chaoscards.co.uk": 1024,
   "www.waylandgames.co.uk": 1024,
-  "www.firestormgames.co.uk": 1024,
+  "www.firestormgames.co.uk": 1025,
   "hobbykort.se": 1024,
   "tcgcompany.nl": 1024,
   "www.nerdom.gr": 1024,
   "www.pokekarty.pl": 1024,
   "www.wakuwaku.cz": 1024,
-  "www.pokemonia.ro": 1024,
+  "www.pokemonia.ro": 1025,
   "en.tcg-shop.at": 1024,
   "kaissagames.com": 821,
   "bescards.com": 618,
@@ -1235,7 +1231,8 @@
   "tradingcard.fi": 12,
   "www.blackfire.eu": 8,
   "www.poketalk.se": 7,
-  "pokeboxstore.pt": 3
+  "pokeboxstore.pt": 3,
+  "oppacards.com": 1
  },
- "runno": 12256
+ "runno": 12257
 }
