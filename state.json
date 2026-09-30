@@ -959,7 +959,7 @@
   "pokeseller14.com": "https://pokeseller14.com/search?q={q}"
  },
  "alerts": {
-  "PokeCardShop|Pitch Black (ME05)": 1790742664.6923764,
+  "PokeCardShop|Pitch Black (ME05)": 1790743448.9985752,
   "MagicBazar|30th Celebration": 1790612742.3273463
  },
  "prices": {
@@ -1000,16 +1000,48 @@
    "listato",
    1
   ],
-  "Amazon.it|30th Celebration": [
-   "non listato",
-   1
-  ],
-  "Amazon.it|Storm Emerald (ME06)": [
-   "non listato",
+  "Amazon.it|Premium Deck Espeon & Umbreon (30th)": [
+   "listato",
    1
   ],
   "Pokemons.dk|Crown Zenith": [
    "disponibile",
+   1
+  ],
+  "Pikashop|Pitch Black (ME05)": [
+   "listato",
+   1
+  ],
+  "Pikashop|30th Celebration": [
+   "disponibile",
+   1
+  ],
+  "Pikashop|Storm Emerald (ME06)": [
+   "disponibile",
+   1
+  ],
+  "Pikashop|Chaos Rising (ME04)": [
+   "listato",
+   1
+  ],
+  "Pikashop|Phantasmal Flames (ME02)": [
+   "listato",
+   1
+  ],
+  "Pikashop|Pokémon 151": [
+   "listato",
+   1
+  ],
+  "Pikashop|Prismatic Evolutions": [
+   "listato",
+   1
+  ],
+  "Pikashop|Crown Zenith": [
+   "listato",
+   1
+  ],
+  "Pikashop|Destined Rivals": [
+   "listato",
    1
   ]
  },
@@ -1197,7 +1229,7 @@
    "url": "https://www.magicbazar.fr/?s=30th+celebration&post_type=product"
   },
   {
-   "ts": "30/09 06:31",
+   "ts": "30/09 06:44",
    "title": "🚨 DISPONIBILE/PREORDER: Pitch Black (ME05) — PokeCardShop",
    "url": "https://www.pokecardshop.be/search?q=pitch+black"
   }
