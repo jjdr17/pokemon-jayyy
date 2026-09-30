@@ -1000,44 +1000,16 @@
    "listato",
    1
   ],
-  "Pokemons.dk|Pitch Black (ME05)": [
-   "non listato",
-   1
-  ],
-  "Pokemons.dk|30th Celebration": [
-   "non listato",
-   1
-  ],
-  "Pokemons.dk|Premium Deck Espeon & Umbreon (30th)": [
-   "non listato",
-   1
-  ],
-  "Pokemons.dk|Storm Emerald (ME06)": [
-   "non listato",
-   1
-  ],
-  "Pokemons.dk|Chaos Rising (ME04)": [
-   "non listato",
-   1
-  ],
-  "Pokemons.dk|Phantasmal Flames (ME02)": [
-   "non listato",
-   1
-  ],
-  "Pokemons.dk|Pokémon 151": [
-   "non listato",
-   1
-  ],
-  "Pokemons.dk|Prismatic Evolutions": [
-   "non listato",
-   1
-  ],
   "Pokemons.dk|Crown Zenith": [
-   "non listato",
+   "disponibile",
    1
   ],
-  "Pokemons.dk|Destined Rivals": [
-   "non listato",
+  "Butticards|30th Celebration": [
+   "esaurito",
+   1
+  ],
+  "MagicBazar|30th Celebration": [
+   "disponibile",
    1
   ]
  },
@@ -1077,7 +1049,7 @@
   "Sapphire-Cards|30th Celebration": "https://sapphire-cards.de/?s=30th+celebration&post_type=product",
   "MagicBazar|30th Celebration": "https://www.magicbazar.fr/en/produit/670423/booster-pokemon-30-ans-30th-celebration-m6a-cn"
  },
- "digest_slot": "2026-09-30-10",
+ "digest_slot": "2026-09-30-15",
  "log": [
   {
    "ts": "06/07 16:28",
@@ -1267,7 +1239,9 @@
   "tradingcard.fi": 16,
   "www.poketalk.se": 11,
   "www.blackfire.eu": 6,
-  "www.amazon.it": 5
+  "www.amazon.it": 5,
+  "cardmex-shop.de": 1,
+  "games-island.eu": 1
  },
- "runno": 12306
+ "runno": 12307
 }
