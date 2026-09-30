@@ -822,15 +822,15 @@
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "Pikashop": {
-   "Pitch Black (ME05)": "listato",
-   "30th Celebration": "disponibile",
-   "Storm Emerald (ME06)": "disponibile",
-   "Chaos Rising (ME04)": "listato",
-   "Phantasmal Flames (ME02)": "listato",
-   "Pokémon 151": "listato",
-   "Prismatic Evolutions": "listato",
-   "Crown Zenith": "listato",
-   "Destined Rivals": "listato",
+   "Pitch Black (ME05)": "non listato",
+   "30th Celebration": "non listato",
+   "Storm Emerald (ME06)": "non listato",
+   "Chaos Rising (ME04)": "non listato",
+   "Phantasmal Flames (ME02)": "non listato",
+   "Pokémon 151": "non listato",
+   "Prismatic Evolutions": "non listato",
+   "Crown Zenith": "non listato",
+   "Destined Rivals": "non listato",
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "ExtremePokeCorner": {
@@ -1000,43 +1000,7 @@
    "listato",
    1
   ],
-  "Pikashop|Pitch Black (ME05)": [
-   "non listato",
-   1
-  ],
-  "Pikashop|30th Celebration": [
-   "non listato",
-   1
-  ],
-  "Pikashop|Storm Emerald (ME06)": [
-   "non listato",
-   1
-  ],
-  "Pikashop|Chaos Rising (ME04)": [
-   "non listato",
-   1
-  ],
-  "Pikashop|Phantasmal Flames (ME02)": [
-   "non listato",
-   1
-  ],
-  "Pikashop|Pokémon 151": [
-   "non listato",
-   1
-  ],
-  "Pikashop|Prismatic Evolutions": [
-   "non listato",
-   1
-  ],
-  "Pikashop|Crown Zenith": [
-   "non listato",
-   1
-  ],
-  "Pikashop|Destined Rivals": [
-   "non listato",
-   1
-  ],
-  "Pokemons.dk|Crown Zenith": [
+  "MagicBazar|30th Celebration": [
    "disponibile",
    1
   ]
@@ -1237,13 +1201,13 @@
   "geco-shop.de": 1025,
   "www.chaoscards.co.uk": 1025,
   "www.waylandgames.co.uk": 1025,
-  "www.firestormgames.co.uk": 1025,
+  "www.firestormgames.co.uk": 1026,
   "hobbykort.se": 1025,
   "tcgcompany.nl": 1025,
   "www.nerdom.gr": 1025,
   "www.pokekarty.pl": 1025,
   "www.wakuwaku.cz": 1025,
-  "www.pokemonia.ro": 1025,
+  "www.pokemonia.ro": 1026,
   "en.tcg-shop.at": 1025,
   "kaissagames.com": 822,
   "bescards.com": 619,
@@ -1266,10 +1230,8 @@
   "tcgfanshop.nl": 21,
   "tradingcard.fi": 13,
   "www.poketalk.se": 8,
-  "games-island.eu": 2,
-  "www.blackfire.eu": 1,
-  "pokeboxstore.pt": 1,
-  "tcgdistribution.fr": 1
+  "games-island.eu": 3,
+  "oppacards.com": 1
  },
- "runno": 12268
+ "runno": 12269
 }
