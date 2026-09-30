@@ -703,7 +703,7 @@
   },
   "MagicBazar": {
    "Pitch Black (ME05)": "non listato",
-   "30th Celebration": "esaurito",
+   "30th Celebration": "disponibile",
    "Storm Emerald (ME06)": "non listato",
    "Chaos Rising (ME04)": "non listato",
    "Phantasmal Flames (ME02)": "non listato",
@@ -960,7 +960,7 @@
  },
  "alerts": {
   "PokeCardShop|Pitch Black (ME05)": 1790742664.6923764,
-  "MagicBazar|30th Celebration": 1790612742.3273463
+  "MagicBazar|30th Celebration": 1790797246.6574266
  },
  "prices": {
   "Packratt (UK)|Chaos Rising (ME04)": "£10.01",
@@ -1004,7 +1004,7 @@
    "non listato",
    1
   ],
-  "MagicBazar|30th Celebration": [
+  "Pokemons.dk|Crown Zenith": [
    "disponibile",
    1
   ]
@@ -1043,15 +1043,10 @@
   "Pokecollect|Storm Emerald (ME06)": "https://pokecollect.pl/?s=storm+emerald&post_type=product",
   "Pikashop|30th Celebration": "https://pikashop.pl/?s=30th+celebration&post_type=product",
   "Sapphire-Cards|30th Celebration": "https://sapphire-cards.de/?s=30th+celebration&post_type=product",
-  "MagicBazar|30th Celebration": "https://www.magicbazar.fr/en/produit/670423/booster-pokemon-30-ans-30th-celebration-m6a-cn"
+  "MagicBazar|30th Celebration": "https://www.magicbazar.fr/?s=30th+celebration&post_type=product"
  },
  "digest_slot": "2026-09-30-18",
  "log": [
-  {
-   "ts": "06/07 16:28",
-   "title": "🚨 DISPONIBILE/PREORDER: 30th Celebration — LetsGoTry",
-   "url": "https://letsgotry.pl/zestawy-eng/15892--preorder-pokemon-tcg-30th-celebration-elite-trainer-box.html"
-  },
   {
    "ts": "07/07 00:51",
    "title": "🚨 DISPONIBILE/PREORDER: 30th Celebration — LetsGoTry",
@@ -1196,15 +1191,20 @@
    "ts": "30/09 06:31",
    "title": "🚨 DISPONIBILE/PREORDER: Pitch Black (ME05) — PokeCardShop",
    "url": "https://www.pokecardshop.be/search?q=pitch+black"
+  },
+  {
+   "ts": "30/09 21:40",
+   "title": "🚨 RESTOCK: 30th Celebration — MagicBazar",
+   "url": "https://www.magicbazar.fr/?s=30th+celebration&post_type=product"
   }
  ],
  "down": {
-  "www.cardmarket.com": 1031,
+  "www.cardmarket.com": 1032,
   "www.gamestop.com": 84,
   "www.gamelife.it": 1032,
   "geco-shop.de": 1032,
   "www.chaoscards.co.uk": 1031,
-  "www.waylandgames.co.uk": 1031,
+  "www.waylandgames.co.uk": 1032,
   "www.firestormgames.co.uk": 1032,
   "hobbykort.se": 1032,
   "tcgcompany.nl": 1032,
@@ -1215,7 +1215,7 @@
   "en.tcg-shop.at": 1031,
   "kaissagames.com": 828,
   "bescards.com": 625,
-  "cardcorner.at": 563,
+  "cardcorner.at": 564,
   "pokectcg.cz": 476,
   "letsgotry.pl": 422,
   "www.pokemillon.com": 395,
@@ -1227,14 +1227,15 @@
   "vinticards.com": 138,
   "pokewoke.store": 96,
   "tcgstore.se": 68,
-  "itcg.bg": 66,
+  "itcg.bg": 67,
   "pokechest.at": 60,
-  "crispycards.de": 40,
+  "crispycards.de": 41,
   "www.deckshop.de": 28,
   "tcgfanshop.nl": 27,
   "tradingcard.fi": 19,
   "www.poketalk.se": 14,
-  "www.blackfire.eu": 9
+  "www.blackfire.eu": 9,
+  "www.amazon.it": 1
  },
- "runno": 12345
+ "runno": 12346
 }
