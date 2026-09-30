@@ -26,7 +26,7 @@
   },
   "Amazon.it": {
    "30th Celebration": "non listato",
-   "Storm Emerald (ME06)": "listato",
+   "Storm Emerald (ME06)": "non listato",
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "TCGplayer": {
@@ -999,78 +999,6 @@
   "CrispyCards|Storm Emerald (ME06)": [
    "listato",
    1
-  ],
-  "RareCards.nl|Pitch Black (ME05)": [
-   "non listato",
-   1
-  ],
-  "RareCards.nl|30th Celebration": [
-   "non listato",
-   1
-  ],
-  "RareCards.nl|Premium Deck Espeon & Umbreon (30th)": [
-   "non listato",
-   1
-  ],
-  "RareCards.nl|Storm Emerald (ME06)": [
-   "non listato",
-   1
-  ],
-  "RareCards.nl|Chaos Rising (ME04)": [
-   "non listato",
-   1
-  ],
-  "RareCards.nl|Phantasmal Flames (ME02)": [
-   "non listato",
-   1
-  ],
-  "RareCards.nl|Pokémon 151": [
-   "non listato",
-   1
-  ],
-  "RareCards.nl|Prismatic Evolutions": [
-   "non listato",
-   1
-  ],
-  "RareCards.nl|Crown Zenith": [
-   "non listato",
-   1
-  ],
-  "Pokevend|30th Celebration": [
-   "listato",
-   1
-  ],
-  "Pokevend|Premium Deck Espeon & Umbreon (30th)": [
-   "non listato",
-   1
-  ],
-  "Pokevend|Storm Emerald (ME06)": [
-   "non listato",
-   1
-  ],
-  "Pokevend|Chaos Rising (ME04)": [
-   "non listato",
-   1
-  ],
-  "Pokevend|Pokémon 151": [
-   "esaurito",
-   1
-  ],
-  "Pokevend|Prismatic Evolutions": [
-   "non listato",
-   1
-  ],
-  "Pokevend|Crown Zenith": [
-   "non listato",
-   1
-  ],
-  "Pokevend|Destined Rivals": [
-   "non listato",
-   1
-  ],
-  "Total Cards (UK)|Prismatic Evolutions": [
-   "esaurito",
-   1
   ]
  },
  "urls": {
@@ -1286,6 +1214,8 @@
   "pokeka.hu": 320,
   "misticards.com": 209,
   "lorenzone.fr": 186,
+  "rarecards.nl": 186,
+  "pokevend.at": 183,
   "vinticards.com": 138,
   "pokewoke.store": 96,
   "tcgstore.se": 68,
@@ -1295,7 +1225,9 @@
   "www.deckshop.de": 29,
   "tcgfanshop.nl": 28,
   "tradingcard.fi": 19,
-  "www.poketalk.se": 15
+  "www.poketalk.se": 15,
+  "www.blackfire.eu": 10,
+  "www.amazon.it": 2
  },
  "runno": 12351
 }
