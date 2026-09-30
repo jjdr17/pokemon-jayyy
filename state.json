@@ -959,7 +959,7 @@
   "pokeseller14.com": "https://pokeseller14.com/search?q={q}"
  },
  "alerts": {
-  "PokeCardShop|Pitch Black (ME05)": 1790743448.9985752,
+  "PokeCardShop|Pitch Black (ME05)": 1790742664.6923764,
   "MagicBazar|30th Celebration": 1790612742.3273463
  },
  "prices": {
@@ -1000,7 +1000,15 @@
    "listato",
    1
   ],
-  "MagicBazar|30th Celebration": [
+  "Amazon.it|30th Celebration": [
+   "non listato",
+   1
+  ],
+  "Amazon.it|Storm Emerald (ME06)": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Crown Zenith": [
    "disponibile",
    1
   ]
@@ -1189,7 +1197,7 @@
    "url": "https://www.magicbazar.fr/?s=30th+celebration&post_type=product"
   },
   {
-   "ts": "30/09 06:44",
+   "ts": "30/09 06:31",
    "title": "🚨 DISPONIBILE/PREORDER: Pitch Black (ME05) — PokeCardShop",
    "url": "https://www.pokecardshop.be/search?q=pitch+black"
   }
@@ -1202,7 +1210,7 @@
   "www.chaoscards.co.uk": 1024,
   "www.waylandgames.co.uk": 1024,
   "www.firestormgames.co.uk": 1025,
-  "hobbykort.se": 1024,
+  "hobbykort.se": 1025,
   "tcgcompany.nl": 1024,
   "www.nerdom.gr": 1024,
   "www.pokekarty.pl": 1024,
@@ -1233,5 +1241,5 @@
   "www.poketalk.se": 7,
   "pokeboxstore.pt": 3
  },
- "runno": 12257
+ "runno": 12258
 }
