@@ -999,14 +999,6 @@
   "CrispyCards|Storm Emerald (ME06)": [
    "listato",
    1
-  ],
-  "MagicBazar|30th Celebration": [
-   "disponibile",
-   1
-  ],
-  "Pokemons.dk|Crown Zenith": [
-   "disponibile",
-   1
   ]
  },
  "urls": {
@@ -1206,7 +1198,7 @@
   "www.chaoscards.co.uk": 1021,
   "www.waylandgames.co.uk": 1021,
   "www.firestormgames.co.uk": 1022,
-  "hobbykort.se": 1021,
+  "hobbykort.se": 1022,
   "tcgcompany.nl": 1021,
   "www.nerdom.gr": 1021,
   "www.pokekarty.pl": 1021,
@@ -1236,7 +1228,8 @@
   "www.blackfire.eu": 5,
   "www.poketalk.se": 4,
   "pokebank.es": 4,
-  "www.amazon.it": 1
+  "www.amazon.it": 2,
+  "pokeboxstore.pt": 1
  },
- "runno": 12221
+ "runno": 12222
 }
