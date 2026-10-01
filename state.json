@@ -999,6 +999,14 @@
   "CrispyCards|Storm Emerald (ME06)": [
    "listato",
    1
+  ],
+  "Pokemons.dk|Crown Zenith": [
+   "disponibile",
+   1
+  ],
+  "PokeCardShop|Phantasmal Flames (ME02)": [
+   "non listato",
+   1
   ]
  },
  "urls": {
@@ -1193,8 +1201,8 @@
  "down": {
   "www.cardmarket.com": 1034,
   "www.gamestop.com": 84,
-  "www.gamelife.it": 1034,
-  "geco-shop.de": 1034,
+  "www.gamelife.it": 1035,
+  "geco-shop.de": 1035,
   "www.chaoscards.co.uk": 1034,
   "www.waylandgames.co.uk": 1034,
   "www.firestormgames.co.uk": 1035,
@@ -1215,7 +1223,7 @@
   "misticards.com": 211,
   "lorenzone.fr": 188,
   "vinticards.com": 141,
-  "pokewoke.store": 98,
+  "pokewoke.store": 99,
   "tcgstore.se": 70,
   "itcg.bg": 69,
   "pokechest.at": 63,
@@ -1226,9 +1234,10 @@
   "www.poketalk.se": 17,
   "rarecards.nl": 5,
   "pokevend.at": 5,
-  "www.amazon.it": 3,
+  "www.amazon.it": 4,
   "www.blackfire.eu": 3,
-  "games-island.eu": 1
+  "pokeboxstore.pt": 1,
+  "tcgdistribution.fr": 1
  },
- "runno": 12379
+ "runno": 12380
 }
