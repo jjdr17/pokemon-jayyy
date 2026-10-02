@@ -322,7 +322,7 @@
    "30th Celebration": "esaurito",
    "Storm Emerald (ME06)": "listato",
    "Chaos Rising (ME04)": "esaurito",
-   "Phantasmal Flames (ME02)": "esaurito",
+   "Phantasmal Flames (ME02)": "listato",
    "Pokémon 151": "non listato",
    "Prismatic Evolutions": "non listato",
    "Crown Zenith": "non listato",
@@ -1000,12 +1000,12 @@
    "listato",
    1
   ],
-  "Butticards|Phantasmal Flames (ME02)": [
-   "listato",
-   1
-  ],
   "Pokemons.dk|Crown Zenith": [
    "disponibile",
+   1
+  ],
+  "PokeCardShop|Premium Deck Espeon & Umbreon (30th)": [
+   "non listato",
    1
   ]
  },
@@ -1045,7 +1045,7 @@
   "Sapphire-Cards|30th Celebration": "https://sapphire-cards.de/?s=30th+celebration&post_type=product",
   "MagicBazar|30th Celebration": "https://www.magicbazar.fr/?s=30th+celebration&post_type=product"
  },
- "digest_slot": "2026-10-01-22",
+ "digest_slot": "2026-10-02-10",
  "log": [
   {
    "ts": "07/07 00:51",
@@ -1235,7 +1235,8 @@
   "pokevend.at": 7,
   "tcgfanshop.nl": 7,
   "www.amazon.it": 6,
-  "www.blackfire.eu": 6
+  "www.blackfire.eu": 6,
+  "tcgdistribution.fr": 1
  },
  "runno": 12566
 }
