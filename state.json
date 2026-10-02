@@ -25,8 +25,8 @@
    "Premium Deck Espeon & Umbreon (30th)": "irraggiungibile"
   },
   "Amazon.it": {
-   "30th Celebration": "listato",
-   "Storm Emerald (ME06)": "listato",
+   "30th Celebration": "non listato",
+   "Storm Emerald (ME06)": "non listato",
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "TCGplayer": {
@@ -579,7 +579,7 @@
    "Prismatic Evolutions": "listato",
    "Crown Zenith": "listato",
    "Destined Rivals": "esaurito",
-   "Premium Deck Espeon & Umbreon (30th)": "non listato"
+   "Premium Deck Espeon & Umbreon (30th)": "listato"
   },
   "Kaissa Games": {
    "Pitch Black (ME05)": "listato",
@@ -1000,20 +1000,8 @@
    "listato",
    1
   ],
-  "Amazon.it|30th Celebration": [
-   "non listato",
-   1
-  ],
-  "Amazon.it|Storm Emerald (ME06)": [
-   "non listato",
-   1
-  ],
-  "Pokemons.dk|Crown Zenith": [
-   "disponibile",
-   1
-  ],
   "PokeCardShop|Premium Deck Espeon & Umbreon (30th)": [
-   "listato",
+   "non listato",
    1
   ]
  },
@@ -1207,12 +1195,12 @@
   }
  ],
  "down": {
-  "www.cardmarket.com": 1052,
+  "www.cardmarket.com": 1053,
   "www.gamestop.com": 84,
   "www.gamelife.it": 1053,
   "geco-shop.de": 1053,
   "www.chaoscards.co.uk": 1052,
-  "www.waylandgames.co.uk": 1052,
+  "www.waylandgames.co.uk": 1053,
   "www.firestormgames.co.uk": 1053,
   "hobbykort.se": 1053,
   "tcgcompany.nl": 1053,
@@ -1223,7 +1211,7 @@
   "en.tcg-shop.at": 1052,
   "kaissagames.com": 849,
   "bescards.com": 646,
-  "cardcorner.at": 584,
+  "cardcorner.at": 585,
   "pokectcg.cz": 497,
   "letsgotry.pl": 443,
   "www.pokemillon.com": 416,
@@ -1233,8 +1221,8 @@
   "vinticards.com": 159,
   "pokewoke.store": 117,
   "tcgstore.se": 89,
-  "itcg.bg": 87,
-  "crispycards.de": 61,
+  "itcg.bg": 88,
+  "crispycards.de": 62,
   "www.deckshop.de": 49,
   "www.poketalk.se": 35,
   "rarecards.nl": 23,
@@ -1243,8 +1231,7 @@
   "pokevend.at": 10,
   "tcgfanshop.nl": 9,
   "www.blackfire.eu": 4,
-  "pokeboxstore.pt": 3,
-  "www.amazon.it": 1
+  "pokeboxstore.pt": 1
  },
- "runno": 12597
+ "runno": 12598
 }
