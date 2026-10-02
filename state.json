@@ -1003,14 +1003,6 @@
   "Amazon.it|30th Celebration": [
    "non listato",
    1
-  ],
-  "Pokemons.dk|Crown Zenith": [
-   "disponibile",
-   1
-  ],
-  "PokeCardShop|Premium Deck Espeon & Umbreon (30th)": [
-   "listato",
-   1
   ]
  },
  "urls": {
@@ -1212,7 +1204,7 @@
   "www.firestormgames.co.uk": 1051,
   "hobbykort.se": 1051,
   "tcgcompany.nl": 1051,
-  "www.nerdom.gr": 1050,
+  "www.nerdom.gr": 1051,
   "www.pokekarty.pl": 1051,
   "www.wakuwaku.cz": 1051,
   "www.pokemonia.ro": 1051,
@@ -1233,13 +1225,15 @@
   "crispycards.de": 60,
   "www.deckshop.de": 48,
   "www.poketalk.se": 34,
-  "rarecards.nl": 21,
+  "rarecards.nl": 22,
   "pokechest.at": 12,
   "tradingcard.fi": 11,
-  "pokevend.at": 8,
+  "pokevend.at": 9,
   "tcgfanshop.nl": 8,
-  "www.blackfire.eu": 7,
-  "www.amazon.it": 3
+  "www.amazon.it": 3,
+  "www.blackfire.eu": 1,
+  "tcgpikas.lt": 1,
+  "pokemonworld.lt": 1
  },
- "runno": 12578
+ "runno": 12579
 }
