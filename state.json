@@ -999,6 +999,14 @@
   "CrispyCards|Storm Emerald (ME06)": [
    "listato",
    1
+  ],
+  "Pokemons.dk|Crown Zenith": [
+   "disponibile",
+   1
+  ],
+  "PokeCardShop|Premium Deck Espeon & Umbreon (30th)": [
+   "non listato",
+   1
   ]
  },
  "urls": {
@@ -1037,7 +1045,7 @@
   "Sapphire-Cards|30th Celebration": "https://sapphire-cards.de/?s=30th+celebration&post_type=product",
   "MagicBazar|30th Celebration": "https://www.magicbazar.fr/?s=30th+celebration&post_type=product"
  },
- "digest_slot": "2026-10-02-18",
+ "digest_slot": "2026-10-02-22",
  "log": [
   {
    "ts": "07/07 00:51",
@@ -1197,13 +1205,13 @@
   "geco-shop.de": 1057,
   "www.chaoscards.co.uk": 1057,
   "www.waylandgames.co.uk": 1057,
-  "www.firestormgames.co.uk": 1057,
+  "www.firestormgames.co.uk": 1058,
   "hobbykort.se": 1057,
   "tcgcompany.nl": 1057,
   "www.nerdom.gr": 1057,
   "www.pokekarty.pl": 1057,
   "www.wakuwaku.cz": 1057,
-  "www.pokemonia.ro": 1057,
+  "www.pokemonia.ro": 1058,
   "en.tcg-shop.at": 1057,
   "kaissagames.com": 854,
   "bescards.com": 651,
@@ -1226,7 +1234,9 @@
   "pokevend.at": 15,
   "tcgfanshop.nl": 14,
   "itcg.bg": 6,
-  "www.blackfire.eu": 5
+  "www.blackfire.eu": 5,
+  "www.amazon.it": 1,
+  "pokeboxstore.pt": 1
  },
- "runno": 12652
+ "runno": 12653
 }
