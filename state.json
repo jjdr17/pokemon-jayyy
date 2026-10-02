@@ -999,6 +999,18 @@
   "CrispyCards|Storm Emerald (ME06)": [
    "listato",
    1
+  ],
+  "Amazon.it|Storm Emerald (ME06)": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Crown Zenith": [
+   "disponibile",
+   1
+  ],
+  "PokeCardShop|Premium Deck Espeon & Umbreon (30th)": [
+   "listato",
+   1
   ]
  },
  "urls": {
@@ -1201,15 +1213,15 @@
   "hobbykort.se": 1057,
   "tcgcompany.nl": 1057,
   "www.nerdom.gr": 1056,
-  "www.pokekarty.pl": 1056,
+  "www.pokekarty.pl": 1057,
   "www.wakuwaku.cz": 1056,
   "www.pokemonia.ro": 1057,
   "en.tcg-shop.at": 1056,
   "kaissagames.com": 853,
   "bescards.com": 650,
   "cardcorner.at": 589,
-  "pokectcg.cz": 501,
-  "letsgotry.pl": 447,
+  "pokectcg.cz": 502,
+  "letsgotry.pl": 448,
   "www.pokemillon.com": 420,
   "pokeka.hu": 344,
   "misticards.com": 233,
@@ -1218,7 +1230,7 @@
   "pokewoke.store": 121,
   "tcgstore.se": 93,
   "crispycards.de": 66,
-  "www.deckshop.de": 53,
+  "www.deckshop.de": 54,
   "www.poketalk.se": 39,
   "rarecards.nl": 27,
   "pokechest.at": 17,
@@ -1228,5 +1240,5 @@
   "itcg.bg": 6,
   "www.blackfire.eu": 4
  },
- "runno": 12646
+ "runno": 12647
 }
