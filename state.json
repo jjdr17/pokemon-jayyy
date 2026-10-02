@@ -26,7 +26,7 @@
   },
   "Amazon.it": {
    "30th Celebration": "non listato",
-   "Storm Emerald (ME06)": "listato",
+   "Storm Emerald (ME06)": "non listato",
    "Premium Deck Espeon & Umbreon (30th)": "non listato"
   },
   "TCGplayer": {
@@ -999,10 +999,6 @@
   "CrispyCards|Storm Emerald (ME06)": [
    "listato",
    1
-  ],
-  "Amazon.it|30th Celebration": [
-   "listato",
-   1
   ]
  },
  "urls": {
@@ -1230,8 +1226,7 @@
   "pokevend.at": 15,
   "tcgfanshop.nl": 14,
   "itcg.bg": 7,
-  "www.blackfire.eu": 5,
-  "www.lotticards.de": 1
+  "www.blackfire.eu": 5
  },
  "runno": 12658
 }
