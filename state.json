@@ -1007,6 +1007,14 @@
   "Amazon.it|Storm Emerald (ME06)": [
    "listato",
    1
+  ],
+  "Pokemons.dk|Crown Zenith": [
+   "disponibile",
+   1
+  ],
+  "PokeCardShop|Premium Deck Espeon & Umbreon (30th)": [
+   "listato",
+   1
   ]
  },
  "urls": {
@@ -1205,13 +1213,13 @@
   "geco-shop.de": 1060,
   "www.chaoscards.co.uk": 1060,
   "www.waylandgames.co.uk": 1060,
-  "www.firestormgames.co.uk": 1060,
+  "www.firestormgames.co.uk": 1061,
   "hobbykort.se": 1060,
   "tcgcompany.nl": 1060,
   "www.nerdom.gr": 1060,
   "www.pokekarty.pl": 1060,
   "www.wakuwaku.cz": 1060,
-  "www.pokemonia.ro": 1060,
+  "www.pokemonia.ro": 1061,
   "en.tcg-shop.at": 1060,
   "kaissagames.com": 857,
   "bescards.com": 654,
@@ -1235,8 +1243,9 @@
   "tcgfanshop.nl": 17,
   "itcg.bg": 9,
   "pokebank.es": 4,
-  "www.blackfire.eu": 1,
-  "www.amazon.it": 1
+  "www.blackfire.eu": 2,
+  "www.amazon.it": 2,
+  "pokeboxstore.pt": 1
  },
- "runno": 12688
+ "runno": 12689
 }
