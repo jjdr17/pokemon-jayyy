@@ -995,6 +995,10 @@
   "TCGStore.se|Destined Rivals": [
    "non listato",
    1
+  ],
+  "Pokemons.dk|Crown Zenith": [
+   "disponibile",
+   1
   ]
  },
  "urls": {
@@ -1189,8 +1193,8 @@
  "down": {
   "www.cardmarket.com": 1074,
   "www.gamestop.com": 84,
-  "www.gamelife.it": 1074,
-  "geco-shop.de": 1074,
+  "www.gamelife.it": 1075,
+  "geco-shop.de": 1075,
   "www.chaoscards.co.uk": 1074,
   "www.waylandgames.co.uk": 1074,
   "www.firestormgames.co.uk": 1075,
@@ -1211,7 +1215,7 @@
   "misticards.com": 251,
   "lorenzone.fr": 228,
   "vinticards.com": 181,
-  "pokewoke.store": 138,
+  "pokewoke.store": 139,
   "tcgstore.se": 110,
   "www.deckshop.de": 71,
   "www.poketalk.se": 57,
@@ -1223,7 +1227,9 @@
   "itcg.bg": 23,
   "crispycards.de": 11,
   "www.blackfire.eu": 4,
-  "www.amazon.it": 3
+  "www.amazon.it": 4,
+  "pokeboxstore.pt": 1,
+  "games-island.eu": 1
  },
- "runno": 12859
+ "runno": 12860
 }
