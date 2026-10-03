@@ -1007,10 +1007,6 @@
   "Amazon.it|Storm Emerald (ME06)": [
    "listato",
    1
-  ],
-  "Pokemons.dk|Crown Zenith": [
-   "disponibile",
-   1
   ]
  },
  "urls": {
@@ -1203,12 +1199,12 @@
   }
  ],
  "down": {
-  "www.cardmarket.com": 1065,
+  "www.cardmarket.com": 1066,
   "www.gamestop.com": 84,
   "www.gamelife.it": 1066,
   "geco-shop.de": 1066,
   "www.chaoscards.co.uk": 1065,
-  "www.waylandgames.co.uk": 1065,
+  "www.waylandgames.co.uk": 1066,
   "www.firestormgames.co.uk": 1066,
   "hobbykort.se": 1066,
   "tcgcompany.nl": 1066,
@@ -1219,7 +1215,7 @@
   "en.tcg-shop.at": 1065,
   "kaissagames.com": 862,
   "bescards.com": 659,
-  "cardcorner.at": 597,
+  "cardcorner.at": 598,
   "pokectcg.cz": 510,
   "letsgotry.pl": 456,
   "www.pokemillon.com": 429,
@@ -1229,7 +1225,6 @@
   "vinticards.com": 172,
   "pokewoke.store": 130,
   "tcgstore.se": 102,
-  "crispycards.de": 74,
   "www.deckshop.de": 62,
   "www.poketalk.se": 48,
   "rarecards.nl": 36,
@@ -1237,9 +1232,10 @@
   "tradingcard.fi": 26,
   "pokevend.at": 23,
   "tcgfanshop.nl": 22,
-  "itcg.bg": 14,
+  "itcg.bg": 15,
   "pokebank.es": 5,
-  "pokeboxstore.pt": 1
+  "www.amazon.it": 1,
+  "www.blackfire.eu": 1
  },
- "runno": 12753
+ "runno": 12754
 }
