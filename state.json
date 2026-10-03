@@ -1003,6 +1003,10 @@
   "Amazon.it|30th Celebration": [
    "non listato",
    1
+  ],
+  "Pokemons.dk|Crown Zenith": [
+   "disponibile",
+   1
   ]
  },
  "urls": {
@@ -1203,7 +1207,7 @@
   "www.waylandgames.co.uk": 1063,
   "www.firestormgames.co.uk": 1064,
   "hobbykort.se": 1064,
-  "tcgcompany.nl": 1063,
+  "tcgcompany.nl": 1064,
   "www.nerdom.gr": 1063,
   "www.pokekarty.pl": 1063,
   "www.wakuwaku.cz": 1063,
@@ -1220,7 +1224,7 @@
   "lorenzone.fr": 217,
   "vinticards.com": 170,
   "pokewoke.store": 128,
-  "tcgstore.se": 99,
+  "tcgstore.se": 100,
   "crispycards.de": 72,
   "www.deckshop.de": 60,
   "www.poketalk.se": 46,
@@ -1230,8 +1234,9 @@
   "pokevend.at": 21,
   "tcgfanshop.nl": 20,
   "itcg.bg": 12,
-  "www.blackfire.eu": 1,
-  "pokebank.es": 1
+  "www.blackfire.eu": 2,
+  "pokebank.es": 2,
+  "www.amazon.it": 1
  },
- "runno": 12728
+ "runno": 12729
 }
