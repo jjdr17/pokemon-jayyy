@@ -1007,6 +1007,18 @@
   "Amazon.it|Storm Emerald (ME06)": [
    "listato",
    1
+  ],
+  "Butticards|Phantasmal Flames (ME02)": [
+   "esaurito",
+   1
+  ],
+  "Pokecollect|Chaos Rising (ME04)": [
+   "non listato",
+   1
+  ],
+  "Pokemons.dk|Crown Zenith": [
+   "disponibile",
+   1
   ]
  },
  "urls": {
@@ -1209,15 +1221,15 @@
   "hobbykort.se": 1066,
   "tcgcompany.nl": 1066,
   "www.nerdom.gr": 1065,
-  "www.pokekarty.pl": 1065,
+  "www.pokekarty.pl": 1066,
   "www.wakuwaku.cz": 1065,
   "www.pokemonia.ro": 1066,
   "en.tcg-shop.at": 1065,
   "kaissagames.com": 862,
   "bescards.com": 659,
   "cardcorner.at": 598,
-  "pokectcg.cz": 510,
-  "letsgotry.pl": 456,
+  "pokectcg.cz": 511,
+  "letsgotry.pl": 457,
   "www.pokemillon.com": 429,
   "pokeka.hu": 353,
   "misticards.com": 242,
@@ -1225,7 +1237,7 @@
   "vinticards.com": 172,
   "pokewoke.store": 130,
   "tcgstore.se": 102,
-  "www.deckshop.de": 62,
+  "www.deckshop.de": 63,
   "www.poketalk.se": 48,
   "rarecards.nl": 36,
   "pokechest.at": 26,
@@ -1234,8 +1246,9 @@
   "tcgfanshop.nl": 22,
   "itcg.bg": 15,
   "pokebank.es": 5,
-  "www.amazon.it": 1,
-  "www.blackfire.eu": 1
+  "www.amazon.it": 2,
+  "www.blackfire.eu": 2,
+  "pokeboxstore.pt": 1
  },
- "runno": 12754
+ "runno": 12755
 }
