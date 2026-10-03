@@ -995,6 +995,10 @@
   "TCGStore.se|Destined Rivals": [
    "non listato",
    1
+  ],
+  "Pokemons.dk|Crown Zenith": [
+   "disponibile",
+   1
   ]
  },
  "urls": {
@@ -1187,12 +1191,12 @@
   }
  ],
  "down": {
-  "www.cardmarket.com": 1074,
+  "www.cardmarket.com": 1075,
   "www.gamestop.com": 84,
   "www.gamelife.it": 1075,
   "geco-shop.de": 1075,
   "www.chaoscards.co.uk": 1074,
-  "www.waylandgames.co.uk": 1074,
+  "www.waylandgames.co.uk": 1075,
   "www.firestormgames.co.uk": 1075,
   "hobbykort.se": 1075,
   "tcgcompany.nl": 1075,
@@ -1203,7 +1207,7 @@
   "en.tcg-shop.at": 1074,
   "kaissagames.com": 871,
   "bescards.com": 668,
-  "cardcorner.at": 606,
+  "cardcorner.at": 607,
   "pokectcg.cz": 519,
   "letsgotry.pl": 465,
   "www.pokemillon.com": 438,
@@ -1220,13 +1224,14 @@
   "tradingcard.fi": 35,
   "pokevend.at": 32,
   "tcgfanshop.nl": 31,
-  "itcg.bg": 23,
-  "crispycards.de": 11,
+  "itcg.bg": 24,
+  "crispycards.de": 12,
   "www.blackfire.eu": 4,
   "www.amazon.it": 4,
-  "pokeboxstore.pt": 2,
-  "tcgpikas.lt": 1,
-  "pokemonworld.lt": 1
+  "pokeboxstore.pt": 3,
+  "tcgpikas.lt": 2,
+  "pokemonworld.lt": 2,
+  "tcgdistribution.fr": 1
  },
- "runno": 12861
+ "runno": 12862
 }
