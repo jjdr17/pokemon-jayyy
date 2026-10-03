@@ -999,14 +999,6 @@
   "CrispyCards|Storm Emerald (ME06)": [
    "listato",
    1
-  ],
-  "Pokemons.dk|Crown Zenith": [
-   "disponibile",
-   1
-  ],
-  "PokeCardShop|Premium Deck Espeon & Umbreon (30th)": [
-   "listato",
-   1
   ]
  },
  "urls": {
@@ -1199,12 +1191,12 @@
   }
  ],
  "down": {
-  "www.cardmarket.com": 1059,
+  "www.cardmarket.com": 1060,
   "www.gamestop.com": 84,
   "www.gamelife.it": 1060,
   "geco-shop.de": 1060,
   "www.chaoscards.co.uk": 1059,
-  "www.waylandgames.co.uk": 1059,
+  "www.waylandgames.co.uk": 1060,
   "www.firestormgames.co.uk": 1060,
   "hobbykort.se": 1060,
   "tcgcompany.nl": 1060,
@@ -1215,7 +1207,7 @@
   "en.tcg-shop.at": 1059,
   "kaissagames.com": 856,
   "bescards.com": 653,
-  "cardcorner.at": 591,
+  "cardcorner.at": 592,
   "pokectcg.cz": 504,
   "letsgotry.pl": 450,
   "www.pokemillon.com": 423,
@@ -1225,7 +1217,7 @@
   "vinticards.com": 166,
   "pokewoke.store": 124,
   "tcgstore.se": 96,
-  "crispycards.de": 68,
+  "crispycards.de": 69,
   "www.deckshop.de": 56,
   "www.poketalk.se": 42,
   "rarecards.nl": 30,
@@ -1233,9 +1225,12 @@
   "tradingcard.fi": 20,
   "pokevend.at": 17,
   "tcgfanshop.nl": 16,
-  "itcg.bg": 8,
+  "itcg.bg": 9,
   "www.blackfire.eu": 7,
-  "pokebank.es": 3
+  "pokebank.es": 3,
+  "pokeboxstore.pt": 1,
+  "www.lotticards.de": 1,
+  "games-island.eu": 1
  },
- "runno": 12681
+ "runno": 12682
 }
