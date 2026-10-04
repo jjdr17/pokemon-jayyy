@@ -995,6 +995,18 @@
   "TCGStore.se|Destined Rivals": [
    "non listato",
    1
+  ],
+  "Amazon.it|30th Celebration": [
+   "listato",
+   1
+  ],
+  "Amazon.it|Storm Emerald (ME06)": [
+   "listato",
+   1
+  ],
+  "Pokemons.dk|Crown Zenith": [
+   "disponibile",
+   1
   ]
  },
  "urls": {
@@ -1187,12 +1199,12 @@
   }
  ],
  "down": {
-  "www.cardmarket.com": 1076,
+  "www.cardmarket.com": 1077,
   "www.gamestop.com": 84,
   "www.gamelife.it": 1077,
   "geco-shop.de": 1077,
   "www.chaoscards.co.uk": 1076,
-  "www.waylandgames.co.uk": 1076,
+  "www.waylandgames.co.uk": 1077,
   "www.firestormgames.co.uk": 1077,
   "hobbykort.se": 1077,
   "tcgcompany.nl": 1077,
@@ -1203,7 +1215,7 @@
   "en.tcg-shop.at": 1076,
   "kaissagames.com": 873,
   "bescards.com": 670,
-  "cardcorner.at": 608,
+  "cardcorner.at": 609,
   "pokectcg.cz": 521,
   "letsgotry.pl": 467,
   "www.pokemillon.com": 440,
@@ -1220,9 +1232,13 @@
   "tradingcard.fi": 37,
   "pokevend.at": 34,
   "tcgfanshop.nl": 33,
-  "itcg.bg": 25,
-  "crispycards.de": 13,
-  "www.blackfire.eu": 6
+  "itcg.bg": 26,
+  "crispycards.de": 14,
+  "www.blackfire.eu": 6,
+  "pokeboxstore.pt": 1,
+  "extremepokecorner.com": 1,
+  "tcgpikas.lt": 1,
+  "pokemonworld.lt": 1
  },
- "runno": 12885
+ "runno": 12886
 }
